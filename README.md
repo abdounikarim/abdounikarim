@@ -1,16 +1,41 @@
-### Hi there 👋
+# ABDOUNI Abdelkarim    
+  
+## Stack Technique  
+  
+|Intégration  |Frontend  |Backend  |Serveur  |Cloud                |Déploiement   |  
+|--           |--        |--       |--       |--                   |--            |  
+|HTML         |JavaScript|PHP      |Debian   |Amazon Web Services  |Ansistrano    |  
+|CSS          |jQuery    |MySQL    |Ubuntu   |Google Cloud Platform|Github Actions|  
+|Bootstrap    |Yarn      |Composer |Ansible  |Symfony Cloud        |CircleCI      |  
+|Sass         |Webpack   |Symfony  |Nginx    |Heroku               |GitlabCI      |  
+|Twig         |React.js  |Doctrine |Apache   |                     |TravisCI      |  
+  
+## Missions courantes  
+  
+- **[CodeDeDev][1]** - _Mai 2020 - Aujourd'hui_ - Fondateur  
+  Objectif : Création d'une plateforme de formation pour les développeurs web  
+  Description : en cours  
+    
+  Compétences : en cours  
+  
+## Autres Missions
+   
+- *Nom* - _Date_ - Poste  
+  Objectif : en cours  
+  Description en cours  
+    
+  Compétences : en cours  
+  
+## Formation  
 
-<!--
-**abdounikarim/abdounikarim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+en cours
+  
+## Certifications
 
-Here are some ideas to get you started:
+en cours
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact
+
+en cours  
+
+[1]: https://codededev.com
