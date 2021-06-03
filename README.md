@@ -1,44 +1,72 @@
-# ABDOUNI Abdelkarim    
+### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdounikarim&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdounikarim&langs_count=8&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-  
-## Stack Technique  
-  
-|Intégration  |Frontend  |Backend  |Serveur  |Cloud                |Déploiement   |  
-|--           |--        |--       |--       |--                   |--            |  
-|HTML         |JavaScript|PHP      |Debian   |Amazon Web Services  |Ansistrano    |  
-|CSS          |jQuery    |MySQL    |Ubuntu   |Google Cloud Platform|Github Actions|  
-|Bootstrap    |Yarn      |Composer |Ansible  |Symfony Cloud        |CircleCI      |  
-|Sass         |Webpack   |Symfony  |Nginx    |Heroku               |GitlabCI      |  
-|Twig         |React.js  |Doctrine |Apache   |                     |TravisCI      |  
-  
-## Missions courantes  
-  
-- **[CodeDeDev][1]** - _Mai 2020 - Aujourd'hui_ - Fondateur  
-  Objectif : Création d'une plateforme de formation pour les développeurs web  
-  Description : en cours  
-    
-  Compétences : en cours  
-  
-## Autres Missions
-   
-- *Nom* - _Date_ - Poste  
-  Objectif : en cours  
-  Description en cours  
-    
-  Compétences : en cours  
-  
-## Formation  
+#### 👷 Check out what I'm currently working on
 
-en cours
-  
-## Certifications
+- [Casrime/bilemo](https://github.com/Casrime/bilemo) - OpenClassrooms - Projet 7 du parcours Développeur d&#39;Applications PHP / Symfony (1 week ago)
+- [abdounikarim/guestbook](https://github.com/abdounikarim/guestbook) -  (1 month ago)
+- [abdounikarim/symfonycasts-vue-js](https://github.com/abdounikarim/symfonycasts-vue-js) -  (1 month ago)
+- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (3 months ago)
+- [abdounikarim/alban](https://github.com/abdounikarim/alban) -  (4 months ago)
+- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (4 months ago)
+- [twigphp/Twig](https://github.com/twigphp/Twig) - Twig, the flexible, fast, and secure template language for PHP (5 months ago)
+- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (5 months ago)
+- [swiftmailer/swiftmailer](https://github.com/swiftmailer/swiftmailer) - Comprehensive mailing tools for PHP (5 months ago)
+- [Sylius/Sylius](https://github.com/Sylius/Sylius) - Open Source eCommerce Platform on Symfony (5 months ago)
 
-en cours
+#### 🌱 My latest projects
 
-## Contact
+- [abdounikarim/alban](https://github.com/abdounikarim/alban) - 
+- [abdounikarim/apprentissage-git](https://github.com/abdounikarim/apprentissage-git) - 
+- [abdounikarim/bruno](https://github.com/abdounikarim/bruno) - 
+- [abdounikarim/vue](https://github.com/abdounikarim/vue) - 
+- [abdounikarim/ponka-fy_me](https://github.com/abdounikarim/ponka-fy_me) - 
+- [abdounikarim/cauldron_overflow](https://github.com/abdounikarim/cauldron_overflow) - 
+- [abdounikarim/web-and-mobile-app](https://github.com/abdounikarim/web-and-mobile-app) - 
+- [abdounikarim/symfonycasts-vue-js](https://github.com/abdounikarim/symfonycasts-vue-js) - 
+- [abdounikarim/bilemo-vue-js](https://github.com/abdounikarim/bilemo-vue-js) - 
+- [abdounikarim/team-project](https://github.com/abdounikarim/team-project) - 
 
-en cours  
+#### 🔭 Latest releases I've contributed to
 
-[1]: https://codededev.com
+- [symfony/symfony](https://github.com/symfony/symfony) ([v5.3.1](https://github.com/symfony/symfony/releases/tag/v5.3.1), 1 day ago) - The Symfony PHP framework
+- [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v1.10.0-BETA.1](https://github.com/Sylius/Sylius/releases/tag/v1.10.0-BETA.1), 1 week ago) - Open Source eCommerce Platform on Symfony
+- [api-platform/core](https://github.com/api-platform/core) ([v2.6.4](https://github.com/api-platform/core/releases/tag/v2.6.4), 1 month ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+
+#### 🔨 My recent Pull Requests
+
+
+#### 📓 Gists I wrote
+
+- [](https://gist.github.com/b237278802559acb0bcf1e2516ba718e) (1 week ago)
+
+#### ⭐ Recent Stars
+
+- [doctrine/DoctrineBundle](https://github.com/doctrine/DoctrineBundle) - Symfony Bundle for Doctrine ORM and DBAL (1 month ago)
+- [abdounikarim/codededev](https://github.com/abdounikarim/codededev) -  (3 months ago)
+- [primer/github-syntax-dark](https://github.com/primer/github-syntax-dark) - The CSS dark syntax theme for GitHub (4 months ago)
+- [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker-compose up`. (4 months ago)
+- [ThomasBerends/symfony-certification-preparation-list](https://github.com/ThomasBerends/symfony-certification-preparation-list) - List of topic-specific resources to help you prepare for Symfony certification (6 months ago)
+- [certificationy/certificationy-cli](https://github.com/certificationy/certificationy-cli) - The CLI tool to train certifications (6 months ago)
+- [ish-app/ish](https://github.com/ish-app/ish) - Linux shell for iOS (6 months ago)
+- [yanchokraev/grayshift](https://github.com/yanchokraev/grayshift) - A lightweight front-end component library for developing fast and powerful web interfaces. (11 months ago)
+- [symfony/symfony-docs](https://github.com/symfony/symfony-docs) - The Symfony documentation (11 months ago)
+- [symfony/maker-bundle](https://github.com/symfony/maker-bundle) - Symfony Maker Bundle (2 years ago)
+
+#### 👯 Check out some of my recent followers
+
+- [Aminejohda](https://github.com/Aminejohda)
+- [damienmillet](https://github.com/damienmillet)
+- [flaajimi](https://github.com/flaajimi)
+- [ArtGM](https://github.com/ArtGM)
+- [becaye-sys](https://github.com/becaye-sys)
+
+#### 💬 Feedback
+
+Say Hello, I don't bite!
+
+#### 📫 How to reach me
+
+- Twitter: https://twitter.com/abdounikarim
+- Blog: https://codededev.com
+
+Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
