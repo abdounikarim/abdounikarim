@@ -1,7 +1,7 @@
 # ABDOUNI Abdelkarim    
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdounikarim&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=abdounikarim)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdounikarim&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   
 ## Stack Technique  
   
