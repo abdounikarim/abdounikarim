@@ -6,28 +6,28 @@
 #### 👷 Check out what I'm currently working on
 
 - [Casrime/bilemo](https://github.com/Casrime/bilemo) - OpenClassrooms - Projet 7 du parcours Développeur d&#39;Applications PHP / Symfony (1 week ago)
-- [abdounikarim/guestbook](https://github.com/abdounikarim/guestbook) -  (1 month ago)
-- [abdounikarim/symfonycasts-vue-js](https://github.com/abdounikarim/symfonycasts-vue-js) -  (1 month ago)
+- [abdounikarim/guestbook](https://github.com/abdounikarim/guestbook) - Symfony 5 - The fast track (1 month ago)
+- [abdounikarim/symfonycasts-vue-js](https://github.com/abdounikarim/symfonycasts-vue-js) - SymfonyCasts - Vue.js courses (1 month ago)
 - [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (3 months ago)
-- [abdounikarim/alban](https://github.com/abdounikarim/alban) -  (4 months ago)
 - [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (4 months ago)
 - [twigphp/Twig](https://github.com/twigphp/Twig) - Twig, the flexible, fast, and secure template language for PHP (5 months ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (5 months ago)
 - [swiftmailer/swiftmailer](https://github.com/swiftmailer/swiftmailer) - Comprehensive mailing tools for PHP (5 months ago)
 - [Sylius/Sylius](https://github.com/Sylius/Sylius) - Open Source eCommerce Platform on Symfony (5 months ago)
+- [symfony-cmf/symfony-cmf-docs](https://github.com/symfony-cmf/symfony-cmf-docs) - The documentation for the symfony content management framework (5 months ago)
 
 #### 🌱 My latest projects
 
-- [abdounikarim/alban](https://github.com/abdounikarim/alban) - 
 - [abdounikarim/apprentissage-git](https://github.com/abdounikarim/apprentissage-git) - 
 - [abdounikarim/bruno](https://github.com/abdounikarim/bruno) - 
 - [abdounikarim/vue](https://github.com/abdounikarim/vue) - 
 - [abdounikarim/ponka-fy_me](https://github.com/abdounikarim/ponka-fy_me) - 
 - [abdounikarim/cauldron_overflow](https://github.com/abdounikarim/cauldron_overflow) - 
 - [abdounikarim/web-and-mobile-app](https://github.com/abdounikarim/web-and-mobile-app) - 
-- [abdounikarim/symfonycasts-vue-js](https://github.com/abdounikarim/symfonycasts-vue-js) - 
+- [abdounikarim/symfonycasts-vue-js](https://github.com/abdounikarim/symfonycasts-vue-js) - SymfonyCasts - Vue.js courses
 - [abdounikarim/bilemo-vue-js](https://github.com/abdounikarim/bilemo-vue-js) - 
 - [abdounikarim/team-project](https://github.com/abdounikarim/team-project) - 
+- [abdounikarim/symfony-docker-kubernetes](https://github.com/abdounikarim/symfony-docker-kubernetes) - 
 
 #### 🔭 Latest releases I've contributed to
 
