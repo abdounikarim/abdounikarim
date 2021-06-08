@@ -5,7 +5,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Casrime/chalets-et-caviar](https://github.com/Casrime/chalets-et-caviar) - OpenClassrooms - Projet 2 du parcours Développeur d&#39;Applications PHP / Symfony (2 days ago)
+- [Casrime/chalets-et-caviar](https://github.com/Casrime/chalets-et-caviar) - OpenClassrooms - Projet 2 du parcours Développeur d&#39;Applications PHP / Symfony (3 days ago)
 - [Casrime/bilemo](https://github.com/Casrime/bilemo) - OpenClassrooms - Projet 7 du parcours Développeur d&#39;Applications PHP / Symfony (2 weeks ago)
 - [abdounikarim/guestbook](https://github.com/abdounikarim/guestbook) - Symfony 5 - The fast track (1 month ago)
 - [abdounikarim/symfonycasts-vue-js](https://github.com/abdounikarim/symfonycasts-vue-js) - SymfonyCasts - Vue.js courses (1 month ago)
@@ -31,7 +31,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v5.3.1](https://github.com/symfony/symfony/releases/tag/v5.3.1), 5 days ago) - The Symfony PHP framework
+- [symfony/symfony](https://github.com/symfony/symfony) ([v5.3.1](https://github.com/symfony/symfony/releases/tag/v5.3.1), 6 days ago) - The Symfony PHP framework
 - [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v1.10.0-BETA.1](https://github.com/Sylius/Sylius/releases/tag/v1.10.0-BETA.1), 1 week ago) - Open Source eCommerce Platform on Symfony
 - [api-platform/core](https://github.com/api-platform/core) ([v2.6.4](https://github.com/api-platform/core/releases/tag/v2.6.4), 1 month ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 
@@ -40,7 +40,7 @@
 
 #### 📓 Gists I wrote
 
-- [](https://gist.github.com/b237278802559acb0bcf1e2516ba718e) (1 week ago)
+- [](https://gist.github.com/b237278802559acb0bcf1e2516ba718e) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
