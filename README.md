@@ -47,7 +47,7 @@
 - [doctrine/DoctrineBundle](https://github.com/doctrine/DoctrineBundle) - Symfony Bundle for Doctrine ORM and DBAL (1 month ago)
 - [abdounikarim/codededev](https://github.com/abdounikarim/codededev) -  (3 months ago)
 - [primer/github-syntax-dark](https://github.com/primer/github-syntax-dark) - The CSS dark syntax theme for GitHub (5 months ago)
-- [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker compose up`. (5 months ago)
+- [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker-compose up`. (5 months ago)
 - [ThomasBerends/symfony-certification-preparation-list](https://github.com/ThomasBerends/symfony-certification-preparation-list) - List of topic-specific resources to help you prepare for Symfony certification (7 months ago)
 - [certificationy/certificationy-cli](https://github.com/certificationy/certificationy-cli) - The CLI tool to train certifications (7 months ago)
 - [ish-app/ish](https://github.com/ish-app/ish) - Linux shell for iOS (7 months ago)
