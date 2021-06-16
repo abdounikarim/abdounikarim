@@ -31,8 +31,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [api-platform/core](https://github.com/api-platform/core) ([v2.6.5](https://github.com/api-platform/core/releases/tag/v2.6.5), today) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
-- [symfony/symfony](https://github.com/symfony/symfony) ([v5.3.1](https://github.com/symfony/symfony/releases/tag/v5.3.1), 1 week ago) - The Symfony PHP framework
+- [api-platform/core](https://github.com/api-platform/core) ([v2.6.5](https://github.com/api-platform/core/releases/tag/v2.6.5), 1 day ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [symfony/symfony](https://github.com/symfony/symfony) ([v5.3.1](https://github.com/symfony/symfony/releases/tag/v5.3.1), 2 weeks ago) - The Symfony PHP framework
 - [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v1.10.0-BETA.1](https://github.com/Sylius/Sylius/releases/tag/v1.10.0-BETA.1), 2 weeks ago) - Open Source eCommerce Platform on Symfony
 
 #### 🔨 My recent Pull Requests
@@ -44,7 +44,7 @@
 
 #### ⭐ Recent Stars
 
-- [doctrine/DoctrineBundle](https://github.com/doctrine/DoctrineBundle) - Symfony Bundle for Doctrine ORM and DBAL (1 month ago)
+- [doctrine/DoctrineBundle](https://github.com/doctrine/DoctrineBundle) - Symfony Bundle for Doctrine ORM and DBAL (2 months ago)
 - [abdounikarim/codededev](https://github.com/abdounikarim/codededev) -  (3 months ago)
 - [primer/github-syntax-dark](https://github.com/primer/github-syntax-dark) - The CSS dark syntax theme for GitHub (5 months ago)
 - [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker-compose up`. (5 months ago)
