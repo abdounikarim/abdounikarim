@@ -31,8 +31,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [symfony/symfony](https://github.com/symfony/symfony) ([v5.3.2](https://github.com/symfony/symfony/releases/tag/v5.3.2), today) - The Symfony PHP framework
 - [api-platform/core](https://github.com/api-platform/core) ([v2.6.5](https://github.com/api-platform/core/releases/tag/v2.6.5), 2 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
-- [symfony/symfony](https://github.com/symfony/symfony) ([v5.3.1](https://github.com/symfony/symfony/releases/tag/v5.3.1), 2 weeks ago) - The Symfony PHP framework
 - [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v1.10.0-BETA.1](https://github.com/Sylius/Sylius/releases/tag/v1.10.0-BETA.1), 3 weeks ago) - Open Source eCommerce Platform on Symfony
 
 #### 🔨 My recent Pull Requests
