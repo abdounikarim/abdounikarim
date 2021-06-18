@@ -5,6 +5,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker-compose up`. (today)
 - [Casrime/chalets-et-caviar](https://github.com/Casrime/chalets-et-caviar) - OpenClassrooms - Projet 2 du parcours Développeur d&#39;Applications PHP / Symfony (1 week ago)
 - [Casrime/bilemo](https://github.com/Casrime/bilemo) - OpenClassrooms - Projet 7 du parcours Développeur d&#39;Applications PHP / Symfony (3 weeks ago)
 - [abdounikarim/guestbook](https://github.com/abdounikarim/guestbook) - Symfony 5 - The fast track (1 month ago)
@@ -14,7 +15,6 @@
 - [twigphp/Twig](https://github.com/twigphp/Twig) - Twig, the flexible, fast, and secure template language for PHP (5 months ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (5 months ago)
 - [swiftmailer/swiftmailer](https://github.com/swiftmailer/swiftmailer) - Comprehensive mailing tools for PHP (5 months ago)
-- [Sylius/Sylius](https://github.com/Sylius/Sylius) - Open Source eCommerce Platform on Symfony (6 months ago)
 
 #### 🌱 My latest projects
 
@@ -37,6 +37,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [docs: add a section for xdebug in PHPStorm](https://github.com/dunglas/symfony-docker/pull/160) on [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) (today)
 - [docs: fix typo in xdebug.md docs](https://github.com/dunglas/symfony-docker/pull/159) on [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) (today)
 
 #### 📓 Gists I wrote
