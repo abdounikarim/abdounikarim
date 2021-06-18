@@ -37,6 +37,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [docs: fix typo in xdebug.md docs](https://github.com/dunglas/symfony-docker/pull/159) on [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) (today)
 
 #### 📓 Gists I wrote
 
