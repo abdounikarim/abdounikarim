@@ -5,13 +5,13 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker-compose up`. (today)
-- [Casrime/chalets-et-caviar](https://github.com/Casrime/chalets-et-caviar) - OpenClassrooms - Projet 2 du parcours Développeur d&#39;Applications PHP / Symfony (1 week ago)
+- [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker-compose up`. (1 day ago)
+- [Casrime/chalets-et-caviar](https://github.com/Casrime/chalets-et-caviar) - OpenClassrooms - Projet 2 du parcours Développeur d&#39;Applications PHP / Symfony (2 weeks ago)
 - [Casrime/bilemo](https://github.com/Casrime/bilemo) - OpenClassrooms - Projet 7 du parcours Développeur d&#39;Applications PHP / Symfony (3 weeks ago)
 - [abdounikarim/guestbook](https://github.com/abdounikarim/guestbook) - Symfony 5 - The fast track (1 month ago)
 - [abdounikarim/symfonycasts-vue-js](https://github.com/abdounikarim/symfonycasts-vue-js) - SymfonyCasts - Vue.js courses (1 month ago)
 - [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (3 months ago)
-- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (4 months ago)
+- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (5 months ago)
 - [twigphp/Twig](https://github.com/twigphp/Twig) - Twig, the flexible, fast, and secure template language for PHP (5 months ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (5 months ago)
 - [swiftmailer/swiftmailer](https://github.com/swiftmailer/swiftmailer) - Comprehensive mailing tools for PHP (5 months ago)
@@ -31,14 +31,14 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v5.3.2](https://github.com/symfony/symfony/releases/tag/v5.3.2), 1 day ago) - The Symfony PHP framework
-- [api-platform/core](https://github.com/api-platform/core) ([v2.6.5](https://github.com/api-platform/core/releases/tag/v2.6.5), 3 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [symfony/symfony](https://github.com/symfony/symfony) ([v5.3.2](https://github.com/symfony/symfony/releases/tag/v5.3.2), 2 days ago) - The Symfony PHP framework
+- [api-platform/core](https://github.com/api-platform/core) ([v2.6.5](https://github.com/api-platform/core/releases/tag/v2.6.5), 4 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v1.10.0-BETA.1](https://github.com/Sylius/Sylius/releases/tag/v1.10.0-BETA.1), 3 weeks ago) - Open Source eCommerce Platform on Symfony
 
 #### 🔨 My recent Pull Requests
 
-- [docs: add a section for xdebug in PHPStorm](https://github.com/dunglas/symfony-docker/pull/160) on [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) (today)
-- [docs: fix typo in xdebug.md docs](https://github.com/dunglas/symfony-docker/pull/159) on [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) (today)
+- [docs: add a section for xdebug in PHPStorm](https://github.com/dunglas/symfony-docker/pull/160) on [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) (1 day ago)
+- [docs: fix typo in xdebug.md docs](https://github.com/dunglas/symfony-docker/pull/159) on [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) (1 day ago)
 
 #### 📓 Gists I wrote
 
