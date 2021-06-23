@@ -37,6 +37,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix: add postgres deps](https://github.com/dunglas/symfony-docker/pull/164) on [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) (today)
 - [docs: add a section for xdebug in PHPStorm](https://github.com/dunglas/symfony-docker/pull/160) on [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) (5 days ago)
 - [docs: fix typo in xdebug.md docs](https://github.com/dunglas/symfony-docker/pull/159) on [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) (5 days ago)
 
