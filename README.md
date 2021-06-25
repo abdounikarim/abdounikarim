@@ -37,10 +37,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [update javascript dependencies](https://github.com/abdounikarim/portfolio/pull/54) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (today)
+- [prefix tables names and regenerate migrations file](https://github.com/abdounikarim/portfolio/pull/52) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (today)
+- [remove doctrine deprecations](https://github.com/abdounikarim/portfolio/pull/51) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (today)
 - [Upgrade docker configuration](https://github.com/abdounikarim/portfolio/pull/40) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (2 days ago)
 - [fix: add postgres deps](https://github.com/dunglas/symfony-docker/pull/164) on [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) (2 days ago)
-- [docs: add a section for xdebug in PHPStorm](https://github.com/dunglas/symfony-docker/pull/160) on [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) (1 week ago)
-- [docs: fix typo in xdebug.md docs](https://github.com/dunglas/symfony-docker/pull/159) on [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) (1 week ago)
 
 #### 📓 Gists I wrote
 
