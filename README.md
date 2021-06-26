@@ -5,9 +5,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) -  (today)
+- [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) -  (1 day ago)
 - [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker-compose up`. (1 week ago)
-- [Casrime/chalets-et-caviar](https://github.com/Casrime/chalets-et-caviar) - OpenClassrooms - Projet 2 du parcours Développeur d&#39;Applications PHP / Symfony (2 weeks ago)
+- [Casrime/chalets-et-caviar](https://github.com/Casrime/chalets-et-caviar) - OpenClassrooms - Projet 2 du parcours Développeur d&#39;Applications PHP / Symfony (3 weeks ago)
 - [Casrime/bilemo](https://github.com/Casrime/bilemo) - OpenClassrooms - Projet 7 du parcours Développeur d&#39;Applications PHP / Symfony (1 month ago)
 - [abdounikarim/guestbook](https://github.com/abdounikarim/guestbook) - Symfony 5 - The fast track (1 month ago)
 - [abdounikarim/symfonycasts-vue-js](https://github.com/abdounikarim/symfonycasts-vue-js) - SymfonyCasts - Vue.js courses (1 month ago)
@@ -33,15 +33,15 @@
 
 - [symfony/symfony](https://github.com/symfony/symfony) ([v5.3.2](https://github.com/symfony/symfony/releases/tag/v5.3.2), 1 week ago) - The Symfony PHP framework
 - [api-platform/core](https://github.com/api-platform/core) ([v2.6.5](https://github.com/api-platform/core/releases/tag/v2.6.5), 1 week ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
-- [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v1.10.0-BETA.1](https://github.com/Sylius/Sylius/releases/tag/v1.10.0-BETA.1), 4 weeks ago) - Open Source eCommerce Platform on Symfony
+- [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v1.10.0-BETA.1](https://github.com/Sylius/Sylius/releases/tag/v1.10.0-BETA.1), 1 month ago) - Open Source eCommerce Platform on Symfony
 
 #### 🔨 My recent Pull Requests
 
-- [update javascript dependencies](https://github.com/abdounikarim/portfolio/pull/54) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (today)
-- [prefix tables names and regenerate migrations file](https://github.com/abdounikarim/portfolio/pull/52) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (today)
-- [remove doctrine deprecations](https://github.com/abdounikarim/portfolio/pull/51) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (today)
-- [Upgrade docker configuration](https://github.com/abdounikarim/portfolio/pull/40) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (2 days ago)
-- [fix: add postgres deps](https://github.com/dunglas/symfony-docker/pull/164) on [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) (2 days ago)
+- [update javascript dependencies](https://github.com/abdounikarim/portfolio/pull/54) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (1 day ago)
+- [prefix tables names and regenerate migrations file](https://github.com/abdounikarim/portfolio/pull/52) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (1 day ago)
+- [remove doctrine deprecations](https://github.com/abdounikarim/portfolio/pull/51) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (1 day ago)
+- [Upgrade docker configuration](https://github.com/abdounikarim/portfolio/pull/40) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (3 days ago)
+- [fix: add postgres deps](https://github.com/dunglas/symfony-docker/pull/164) on [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) (3 days ago)
 
 #### 📓 Gists I wrote
 
