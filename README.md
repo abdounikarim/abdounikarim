@@ -5,7 +5,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) -  (2 days ago)
+- [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) -  (today)
 - [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker-compose up`. (1 week ago)
 - [Casrime/chalets-et-caviar](https://github.com/Casrime/chalets-et-caviar) - OpenClassrooms - Projet 2 du parcours Développeur d&#39;Applications PHP / Symfony (3 weeks ago)
 - [Casrime/bilemo](https://github.com/Casrime/bilemo) - OpenClassrooms - Projet 7 du parcours Développeur d&#39;Applications PHP / Symfony (1 month ago)
@@ -37,6 +37,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [add @fortawesome/fontawesome-free library and use it in project](https://github.com/abdounikarim/portfolio/pull/56) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (today)
 - [update javascript dependencies](https://github.com/abdounikarim/portfolio/pull/54) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (2 days ago)
 - [prefix tables names and regenerate migrations file](https://github.com/abdounikarim/portfolio/pull/52) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (2 days ago)
 - [remove doctrine deprecations](https://github.com/abdounikarim/portfolio/pull/51) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (2 days ago)
