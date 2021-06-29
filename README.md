@@ -42,7 +42,6 @@
 - [prefix tables names and regenerate migrations file](https://github.com/abdounikarim/portfolio/pull/52) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (4 days ago)
 - [remove doctrine deprecations](https://github.com/abdounikarim/portfolio/pull/51) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (4 days ago)
 - [Upgrade docker configuration](https://github.com/abdounikarim/portfolio/pull/40) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (6 days ago)
-- [fix: add postgres deps](https://github.com/dunglas/symfony-docker/pull/164) on [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) (6 days ago)
 
 #### 📓 Gists I wrote
 
