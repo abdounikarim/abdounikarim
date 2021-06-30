@@ -41,7 +41,6 @@
 - [update javascript dependencies](https://github.com/abdounikarim/portfolio/pull/54) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (5 days ago)
 - [prefix tables names and regenerate migrations file](https://github.com/abdounikarim/portfolio/pull/52) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (5 days ago)
 - [remove doctrine deprecations](https://github.com/abdounikarim/portfolio/pull/51) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (5 days ago)
-- [Upgrade docker configuration](https://github.com/abdounikarim/portfolio/pull/40) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (1 week ago)
 
 #### 📓 Gists I wrote
 
