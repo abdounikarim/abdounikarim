@@ -39,8 +39,6 @@
 
 - [add @fortawesome/fontawesome-free library and use it in project](https://github.com/abdounikarim/portfolio/pull/56) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (1 week ago)
 - [update javascript dependencies](https://github.com/abdounikarim/portfolio/pull/54) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (1 week ago)
-- [prefix tables names and regenerate migrations file](https://github.com/abdounikarim/portfolio/pull/52) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (1 week ago)
-- [remove doctrine deprecations](https://github.com/abdounikarim/portfolio/pull/51) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (1 week ago)
 
 #### 📓 Gists I wrote
 
