@@ -18,6 +18,7 @@
 
 #### 🌱 My latest projects
 
+- [abdounikarim/create-your-own-framework](https://github.com/abdounikarim/create-your-own-framework) - 
 - [abdounikarim/apprentissage-git](https://github.com/abdounikarim/apprentissage-git) - 
 - [abdounikarim/bruno](https://github.com/abdounikarim/bruno) - 
 - [abdounikarim/vue](https://github.com/abdounikarim/vue) - 
@@ -27,7 +28,6 @@
 - [abdounikarim/symfonycasts-vue-js](https://github.com/abdounikarim/symfonycasts-vue-js) - SymfonyCasts - Vue.js courses
 - [abdounikarim/bilemo-vue-js](https://github.com/abdounikarim/bilemo-vue-js) - 
 - [abdounikarim/team-project](https://github.com/abdounikarim/team-project) - 
-- [abdounikarim/symfony-docker-kubernetes](https://github.com/abdounikarim/symfony-docker-kubernetes) - 
 
 #### 🔭 Latest releases I've contributed to
 
@@ -37,8 +37,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Add vue js](https://github.com/Casrime/bilemo/pull/18) on [Casrime/bilemo](https://github.com/Casrime/bilemo) (today)
 - [add @fortawesome/fontawesome-free library and use it in project](https://github.com/abdounikarim/portfolio/pull/56) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (1 week ago)
-- [update javascript dependencies](https://github.com/abdounikarim/portfolio/pull/54) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (1 week ago)
 
 #### 📓 Gists I wrote
 
