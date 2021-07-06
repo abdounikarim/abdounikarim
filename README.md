@@ -31,13 +31,13 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v5.3.3](https://github.com/symfony/symfony/releases/tag/v5.3.3), 5 days ago) - The Symfony PHP framework
-- [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v1.10.0](https://github.com/Sylius/Sylius/releases/tag/v1.10.0), 6 days ago) - Open Source eCommerce Platform on Symfony
-- [api-platform/core](https://github.com/api-platform/core) ([v2.6.5](https://github.com/api-platform/core/releases/tag/v2.6.5), 2 weeks ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [symfony/symfony](https://github.com/symfony/symfony) ([v5.3.3](https://github.com/symfony/symfony/releases/tag/v5.3.3), 6 days ago) - The Symfony PHP framework
+- [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v1.10.0](https://github.com/Sylius/Sylius/releases/tag/v1.10.0), 1 week ago) - Open Source eCommerce Platform on Symfony
+- [api-platform/core](https://github.com/api-platform/core) ([v2.6.5](https://github.com/api-platform/core/releases/tag/v2.6.5), 3 weeks ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 
 #### 🔨 My recent Pull Requests
 
-- [Add vue js](https://github.com/Casrime/bilemo/pull/18) on [Casrime/bilemo](https://github.com/Casrime/bilemo) (today)
+- [Add vue js](https://github.com/Casrime/bilemo/pull/18) on [Casrime/bilemo](https://github.com/Casrime/bilemo) (1 day ago)
 - [add @fortawesome/fontawesome-free library and use it in project](https://github.com/abdounikarim/portfolio/pull/56) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (1 week ago)
 
 #### 📓 Gists I wrote
@@ -46,7 +46,7 @@
 
 #### ⭐ Recent Stars
 
-- [appuio/ansible-ini2yaml](https://github.com/appuio/ansible-ini2yaml) - Ansible INI to YAML inventory converter (6 days ago)
+- [appuio/ansible-ini2yaml](https://github.com/appuio/ansible-ini2yaml) - Ansible INI to YAML inventory converter (1 week ago)
 - [doctrine/DoctrineBundle](https://github.com/doctrine/DoctrineBundle) - Symfony Bundle for Doctrine ORM and DBAL (2 months ago)
 - [abdounikarim/codededev](https://github.com/abdounikarim/codededev) -  (4 months ago)
 - [primer/github-syntax-dark](https://github.com/primer/github-syntax-dark) - The CSS dark syntax theme for GitHub (5 months ago)
