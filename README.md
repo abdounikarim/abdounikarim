@@ -37,8 +37,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Update composer.json](https://github.com/doctrine/migrations/pull/1180) on [doctrine/migrations](https://github.com/doctrine/migrations) (today)
 - [Add vue js](https://github.com/Casrime/bilemo/pull/18) on [Casrime/bilemo](https://github.com/Casrime/bilemo) (1 day ago)
-- [add @fortawesome/fontawesome-free library and use it in project](https://github.com/abdounikarim/portfolio/pull/56) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (1 week ago)
 
 #### 📓 Gists I wrote
 
