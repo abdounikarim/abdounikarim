@@ -5,7 +5,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Casrime/bilemo](https://github.com/Casrime/bilemo) - OpenClassrooms - Projet 7 du parcours Développeur d&#39;Applications PHP / Symfony (today)
+- [Casrime/bilemo](https://github.com/Casrime/bilemo) - OpenClassrooms - Projet 7 du parcours Développeur d&#39;Applications PHP / Symfony (1 day ago)
 - [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) -  (1 week ago)
 - [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker-compose up`. (2 weeks ago)
 - [Casrime/chalets-et-caviar](https://github.com/Casrime/chalets-et-caviar) - OpenClassrooms - Projet 2 du parcours Développeur d&#39;Applications PHP / Symfony (1 month ago)
@@ -31,15 +31,15 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v5.3.3](https://github.com/symfony/symfony/releases/tag/v5.3.3), 6 days ago) - The Symfony PHP framework
+- [symfony/symfony](https://github.com/symfony/symfony) ([v5.3.3](https://github.com/symfony/symfony/releases/tag/v5.3.3), 1 week ago) - The Symfony PHP framework
 - [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v1.10.0](https://github.com/Sylius/Sylius/releases/tag/v1.10.0), 1 week ago) - Open Source eCommerce Platform on Symfony
 - [api-platform/core](https://github.com/api-platform/core) ([v2.6.5](https://github.com/api-platform/core/releases/tag/v2.6.5), 3 weeks ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 
 #### 🔨 My recent Pull Requests
 
-- [Update dependencies](https://github.com/Casrime/bilemo/pull/20) on [Casrime/bilemo](https://github.com/Casrime/bilemo) (today)
-- [Update composer.json](https://github.com/doctrine/migrations/pull/1180) on [doctrine/migrations](https://github.com/doctrine/migrations) (today)
-- [Add vue js](https://github.com/Casrime/bilemo/pull/18) on [Casrime/bilemo](https://github.com/Casrime/bilemo) (1 day ago)
+- [Update dependencies](https://github.com/Casrime/bilemo/pull/20) on [Casrime/bilemo](https://github.com/Casrime/bilemo) (1 day ago)
+- [Update composer.json](https://github.com/doctrine/migrations/pull/1180) on [doctrine/migrations](https://github.com/doctrine/migrations) (1 day ago)
+- [Add vue js](https://github.com/Casrime/bilemo/pull/18) on [Casrime/bilemo](https://github.com/Casrime/bilemo) (2 days ago)
 
 #### 📓 Gists I wrote
 
