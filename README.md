@@ -37,11 +37,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Database table add prefix](https://github.com/Casrime/bilemo/pull/25) on [Casrime/bilemo](https://github.com/Casrime/bilemo) (today)
 - [generate migrations file for postgresql](https://github.com/Casrime/bilemo/pull/23) on [Casrime/bilemo](https://github.com/Casrime/bilemo) (today)
 - [add Docker configuration](https://github.com/Casrime/bilemo/pull/22) on [Casrime/bilemo](https://github.com/Casrime/bilemo) (today)
 - [Update dependencies](https://github.com/Casrime/bilemo/pull/20) on [Casrime/bilemo](https://github.com/Casrime/bilemo) (1 day ago)
 - [Update composer.json](https://github.com/doctrine/migrations/pull/1180) on [doctrine/migrations](https://github.com/doctrine/migrations) (1 day ago)
-- [Add vue js](https://github.com/Casrime/bilemo/pull/18) on [Casrime/bilemo](https://github.com/Casrime/bilemo) (2 days ago)
 
 #### 📓 Gists I wrote
 
