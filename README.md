@@ -47,6 +47,7 @@
 
 #### ⭐ Recent Stars
 
+- [MA3STR0/kimsufi-crawler](https://github.com/MA3STR0/kimsufi-crawler) - Crawler that will send you an email alert as soon as servers on OVH/Kimsufi become available for purchase (today)
 - [appuio/ansible-ini2yaml](https://github.com/appuio/ansible-ini2yaml) - Ansible INI to YAML inventory converter (1 week ago)
 - [doctrine/DoctrineBundle](https://github.com/doctrine/DoctrineBundle) - Symfony Bundle for Doctrine ORM and DBAL (2 months ago)
 - [abdounikarim/codededev](https://github.com/abdounikarim/codededev) -  (4 months ago)
@@ -56,7 +57,6 @@
 - [certificationy/certificationy-cli](https://github.com/certificationy/certificationy-cli) - The CLI tool to train certifications (7 months ago)
 - [ish-app/ish](https://github.com/ish-app/ish) - Linux shell for iOS (7 months ago)
 - [yanchokraev/grayshift](https://github.com/yanchokraev/grayshift) - A lightweight front-end component library for developing fast and powerful web interfaces. (1 year ago)
-- [symfony/symfony-docs](https://github.com/symfony/symfony-docs) - The Symfony documentation (1 year ago)
 
 #### 👯 Check out some of my recent followers
 
