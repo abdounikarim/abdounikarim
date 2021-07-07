@@ -5,7 +5,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Casrime/bilemo](https://github.com/Casrime/bilemo) - OpenClassrooms - Projet 7 du parcours Développeur d&#39;Applications PHP / Symfony (1 day ago)
+- [Casrime/bilemo](https://github.com/Casrime/bilemo) - OpenClassrooms - Projet 7 du parcours Développeur d&#39;Applications PHP / Symfony (today)
 - [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) -  (1 week ago)
 - [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker-compose up`. (2 weeks ago)
 - [Casrime/chalets-et-caviar](https://github.com/Casrime/chalets-et-caviar) - OpenClassrooms - Projet 2 du parcours Développeur d&#39;Applications PHP / Symfony (1 month ago)
@@ -37,6 +37,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [generate migrations file for postgresql](https://github.com/Casrime/bilemo/pull/23) on [Casrime/bilemo](https://github.com/Casrime/bilemo) (today)
+- [add Docker configuration](https://github.com/Casrime/bilemo/pull/22) on [Casrime/bilemo](https://github.com/Casrime/bilemo) (today)
 - [Update dependencies](https://github.com/Casrime/bilemo/pull/20) on [Casrime/bilemo](https://github.com/Casrime/bilemo) (1 day ago)
 - [Update composer.json](https://github.com/doctrine/migrations/pull/1180) on [doctrine/migrations](https://github.com/doctrine/migrations) (1 day ago)
 - [Add vue js](https://github.com/Casrime/bilemo/pull/18) on [Casrime/bilemo](https://github.com/Casrime/bilemo) (2 days ago)
