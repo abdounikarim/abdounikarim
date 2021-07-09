@@ -5,9 +5,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Casrime/bilemo](https://github.com/Casrime/bilemo) - OpenClassrooms - Projet 7 du parcours Développeur d&#39;Applications PHP / Symfony (1 day ago)
+- [Casrime/bilemo](https://github.com/Casrime/bilemo) - OpenClassrooms - Projet 7 du parcours Développeur d&#39;Applications PHP / Symfony (2 days ago)
 - [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) -  (1 week ago)
-- [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker-compose up`. (2 weeks ago)
+- [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker-compose up`. (3 weeks ago)
 - [Casrime/chalets-et-caviar](https://github.com/Casrime/chalets-et-caviar) - OpenClassrooms - Projet 2 du parcours Développeur d&#39;Applications PHP / Symfony (1 month ago)
 - [abdounikarim/guestbook](https://github.com/abdounikarim/guestbook) - Symfony 5 - The fast track (2 months ago)
 - [abdounikarim/symfonycasts-vue-js](https://github.com/abdounikarim/symfonycasts-vue-js) - SymfonyCasts - Vue.js courses (2 months ago)
@@ -37,11 +37,11 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Database table add prefix](https://github.com/Casrime/bilemo/pull/25) on [Casrime/bilemo](https://github.com/Casrime/bilemo) (1 day ago)
-- [generate migrations file for postgresql](https://github.com/Casrime/bilemo/pull/23) on [Casrime/bilemo](https://github.com/Casrime/bilemo) (1 day ago)
-- [add Docker configuration](https://github.com/Casrime/bilemo/pull/22) on [Casrime/bilemo](https://github.com/Casrime/bilemo) (1 day ago)
-- [Update dependencies](https://github.com/Casrime/bilemo/pull/20) on [Casrime/bilemo](https://github.com/Casrime/bilemo) (2 days ago)
-- [Update composer.json](https://github.com/doctrine/migrations/pull/1180) on [doctrine/migrations](https://github.com/doctrine/migrations) (2 days ago)
+- [Database table add prefix](https://github.com/Casrime/bilemo/pull/25) on [Casrime/bilemo](https://github.com/Casrime/bilemo) (2 days ago)
+- [generate migrations file for postgresql](https://github.com/Casrime/bilemo/pull/23) on [Casrime/bilemo](https://github.com/Casrime/bilemo) (2 days ago)
+- [add Docker configuration](https://github.com/Casrime/bilemo/pull/22) on [Casrime/bilemo](https://github.com/Casrime/bilemo) (2 days ago)
+- [Update dependencies](https://github.com/Casrime/bilemo/pull/20) on [Casrime/bilemo](https://github.com/Casrime/bilemo) (3 days ago)
+- [Update composer.json](https://github.com/doctrine/migrations/pull/1180) on [doctrine/migrations](https://github.com/doctrine/migrations) (3 days ago)
 
 #### 📓 Gists I wrote
 
@@ -49,7 +49,7 @@
 
 #### ⭐ Recent Stars
 
-- [MA3STR0/kimsufi-crawler](https://github.com/MA3STR0/kimsufi-crawler) - Crawler that will send you an email alert as soon as servers on OVH/Kimsufi become available for purchase (1 day ago)
+- [MA3STR0/kimsufi-crawler](https://github.com/MA3STR0/kimsufi-crawler) - Crawler that will send you an email alert as soon as servers on OVH/Kimsufi become available for purchase (2 days ago)
 - [appuio/ansible-ini2yaml](https://github.com/appuio/ansible-ini2yaml) - Ansible INI to YAML inventory converter (1 week ago)
 - [doctrine/DoctrineBundle](https://github.com/doctrine/DoctrineBundle) - Symfony Bundle for Doctrine ORM and DBAL (2 months ago)
 - [abdounikarim/codededev](https://github.com/abdounikarim/codededev) -  (4 months ago)
