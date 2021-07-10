@@ -62,11 +62,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [Novusvetus](https://github.com/Novusvetus)
 - [Aminejohda](https://github.com/Aminejohda)
 - [damienmillet](https://github.com/damienmillet)
 - [flaajimi](https://github.com/flaajimi)
 - [ArtGM](https://github.com/ArtGM)
-- [becaye-sys](https://github.com/becaye-sys)
 
 #### 💬 Feedback
 
