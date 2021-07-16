@@ -50,6 +50,7 @@
 
 #### ⭐ Recent Stars
 
+- [nunomaduro/phpinsights](https://github.com/nunomaduro/phpinsights) - 🔰 Instant PHP quality checks from your console (today)
 - [MA3STR0/kimsufi-crawler](https://github.com/MA3STR0/kimsufi-crawler) - Crawler that will send you an email alert as soon as servers on OVH/Kimsufi become available for purchase (1 week ago)
 - [appuio/ansible-ini2yaml](https://github.com/appuio/ansible-ini2yaml) - Ansible INI to YAML inventory converter (2 weeks ago)
 - [doctrine/DoctrineBundle](https://github.com/doctrine/DoctrineBundle) - Symfony Bundle for Doctrine ORM and DBAL (3 months ago)
@@ -59,7 +60,6 @@
 - [ThomasBerends/symfony-certification-preparation-list](https://github.com/ThomasBerends/symfony-certification-preparation-list) - List of topic-specific resources to help you prepare for Symfony certification (8 months ago)
 - [certificationy/certificationy-cli](https://github.com/certificationy/certificationy-cli) - The CLI tool to train certifications (8 months ago)
 - [ish-app/ish](https://github.com/ish-app/ish) - Linux shell for iOS (8 months ago)
-- [yanchokraev/grayshift](https://github.com/yanchokraev/grayshift) - A lightweight front-end component library for developing fast and powerful web interfaces. (1 year ago)
 
 #### 👯 Check out some of my recent followers
 
