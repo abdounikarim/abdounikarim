@@ -42,7 +42,6 @@
 - [generate migrations file for postgresql](https://github.com/Casrime/bilemo/pull/23) on [Casrime/bilemo](https://github.com/Casrime/bilemo) (2 weeks ago)
 - [add Docker configuration](https://github.com/Casrime/bilemo/pull/22) on [Casrime/bilemo](https://github.com/Casrime/bilemo) (2 weeks ago)
 - [Update dependencies](https://github.com/Casrime/bilemo/pull/20) on [Casrime/bilemo](https://github.com/Casrime/bilemo) (2 weeks ago)
-- [Update composer.json](https://github.com/doctrine/migrations/pull/1180) on [doctrine/migrations](https://github.com/doctrine/migrations) (2 weeks ago)
 
 #### 📓 Gists I wrote
 
