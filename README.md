@@ -31,9 +31,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v5.3.5](https://github.com/symfony/symfony/releases/tag/v5.3.5), 1 day ago) - The Symfony PHP framework
+- [symfony/symfony](https://github.com/symfony/symfony) ([v5.3.5](https://github.com/symfony/symfony/releases/tag/v5.3.5), 2 days ago) - The Symfony PHP framework
 - [doctrine/migrations](https://github.com/doctrine/migrations) ([2.3.4](https://github.com/doctrine/migrations/releases/tag/2.3.4), 3 weeks ago) - Doctrine Database Migrations Library
-- [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v1.10.0](https://github.com/Sylius/Sylius/releases/tag/v1.10.0), 4 weeks ago) - Open Source eCommerce Platform on Symfony
+- [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v1.10.0](https://github.com/Sylius/Sylius/releases/tag/v1.10.0), 1 month ago) - Open Source eCommerce Platform on Symfony
 - [api-platform/core](https://github.com/api-platform/core) ([v2.6.5](https://github.com/api-platform/core/releases/tag/v2.6.5), 1 month ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 
 #### 🔨 My recent Pull Requests
@@ -51,7 +51,7 @@
 
 - [nunomaduro/phpinsights](https://github.com/nunomaduro/phpinsights) - 🔰 Instant PHP quality checks from your console (1 week ago)
 - [MA3STR0/kimsufi-crawler](https://github.com/MA3STR0/kimsufi-crawler) - Crawler that will send you an email alert as soon as servers on OVH/Kimsufi become available for purchase (3 weeks ago)
-- [appuio/ansible-ini2yaml](https://github.com/appuio/ansible-ini2yaml) - Ansible INI to YAML inventory converter (4 weeks ago)
+- [appuio/ansible-ini2yaml](https://github.com/appuio/ansible-ini2yaml) - Ansible INI to YAML inventory converter (1 month ago)
 - [doctrine/DoctrineBundle](https://github.com/doctrine/DoctrineBundle) - Symfony Bundle for Doctrine ORM and DBAL (3 months ago)
 - [abdounikarim/codededev](https://github.com/abdounikarim/codededev) -  (4 months ago)
 - [primer/github-syntax-dark](https://github.com/primer/github-syntax-dark) - The CSS dark syntax theme for GitHub (6 months ago)
