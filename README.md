@@ -40,7 +40,6 @@
 
 - [Database table add prefix](https://github.com/Casrime/bilemo/pull/25) on [Casrime/bilemo](https://github.com/Casrime/bilemo) (3 weeks ago)
 - [generate migrations file for postgresql](https://github.com/Casrime/bilemo/pull/23) on [Casrime/bilemo](https://github.com/Casrime/bilemo) (3 weeks ago)
-- [add Docker configuration](https://github.com/Casrime/bilemo/pull/22) on [Casrime/bilemo](https://github.com/Casrime/bilemo) (3 weeks ago)
 
 #### 📓 Gists I wrote
 
