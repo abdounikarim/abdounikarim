@@ -39,7 +39,6 @@
 #### 🔨 My recent Pull Requests
 
 - [Database table add prefix](https://github.com/Casrime/bilemo/pull/25) on [Casrime/bilemo](https://github.com/Casrime/bilemo) (4 weeks ago)
-- [generate migrations file for postgresql](https://github.com/Casrime/bilemo/pull/23) on [Casrime/bilemo](https://github.com/Casrime/bilemo) (4 weeks ago)
 
 #### 📓 Gists I wrote
 
