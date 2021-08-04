@@ -5,6 +5,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [abdounikarim/symfonycasts-javascript-es2015](https://github.com/abdounikarim/symfonycasts-javascript-es2015) -  (today)
 - [Casrime/bilemo](https://github.com/Casrime/bilemo) - OpenClassrooms - Projet 7 du parcours Développeur d&#39;Applications PHP / Symfony (4 weeks ago)
 - [doctrine/migrations](https://github.com/doctrine/migrations) - Doctrine Database Migrations Library (4 weeks ago)
 - [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) -  (1 month ago)
@@ -14,7 +15,6 @@
 - [abdounikarim/symfonycasts-vue-js](https://github.com/abdounikarim/symfonycasts-vue-js) - SymfonyCasts - Vue.js courses (3 months ago)
 - [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (5 months ago)
 - [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (6 months ago)
-- [twigphp/Twig](https://github.com/twigphp/Twig) - Twig, the flexible, fast, and secure template language for PHP (7 months ago)
 
 #### 🌱 My latest projects
 
