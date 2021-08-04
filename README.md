@@ -5,11 +5,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Casrime/bilemo](https://github.com/Casrime/bilemo) - OpenClassrooms - Projet 7 du parcours Développeur d&#39;Applications PHP / Symfony (3 weeks ago)
+- [Casrime/bilemo](https://github.com/Casrime/bilemo) - OpenClassrooms - Projet 7 du parcours Développeur d&#39;Applications PHP / Symfony (4 weeks ago)
 - [doctrine/migrations](https://github.com/doctrine/migrations) - Doctrine Database Migrations Library (4 weeks ago)
 - [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) -  (1 month ago)
 - [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker-compose up`. (1 month ago)
-- [Casrime/chalets-et-caviar](https://github.com/Casrime/chalets-et-caviar) - OpenClassrooms - Projet 2 du parcours Développeur d&#39;Applications PHP / Symfony (1 month ago)
+- [Casrime/chalets-et-caviar](https://github.com/Casrime/chalets-et-caviar) - OpenClassrooms - Projet 2 du parcours Développeur d&#39;Applications PHP / Symfony (2 months ago)
 - [abdounikarim/guestbook](https://github.com/abdounikarim/guestbook) - Symfony 5 - The fast track (3 months ago)
 - [abdounikarim/symfonycasts-vue-js](https://github.com/abdounikarim/symfonycasts-vue-js) - SymfonyCasts - Vue.js courses (3 months ago)
 - [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (5 months ago)
@@ -31,15 +31,15 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [doctrine/migrations](https://github.com/doctrine/migrations) ([3.2.1](https://github.com/doctrine/migrations/releases/tag/3.2.1), today) - Doctrine Database Migrations Library
-- [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v1.10.1](https://github.com/Sylius/Sylius/releases/tag/v1.10.1), 4 days ago) - Open Source eCommerce Platform on Symfony
-- [symfony/symfony](https://github.com/symfony/symfony) ([v5.3.6](https://github.com/symfony/symfony/releases/tag/v5.3.6), 5 days ago) - The Symfony PHP framework
+- [doctrine/migrations](https://github.com/doctrine/migrations) ([3.2.1](https://github.com/doctrine/migrations/releases/tag/3.2.1), 1 day ago) - Doctrine Database Migrations Library
+- [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v1.10.1](https://github.com/Sylius/Sylius/releases/tag/v1.10.1), 5 days ago) - Open Source eCommerce Platform on Symfony
+- [symfony/symfony](https://github.com/symfony/symfony) ([v5.3.6](https://github.com/symfony/symfony/releases/tag/v5.3.6), 6 days ago) - The Symfony PHP framework
 - [api-platform/core](https://github.com/api-platform/core) ([v2.6.5](https://github.com/api-platform/core/releases/tag/v2.6.5), 1 month ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 
 #### 🔨 My recent Pull Requests
 
-- [Database table add prefix](https://github.com/Casrime/bilemo/pull/25) on [Casrime/bilemo](https://github.com/Casrime/bilemo) (3 weeks ago)
-- [generate migrations file for postgresql](https://github.com/Casrime/bilemo/pull/23) on [Casrime/bilemo](https://github.com/Casrime/bilemo) (3 weeks ago)
+- [Database table add prefix](https://github.com/Casrime/bilemo/pull/25) on [Casrime/bilemo](https://github.com/Casrime/bilemo) (4 weeks ago)
+- [generate migrations file for postgresql](https://github.com/Casrime/bilemo/pull/23) on [Casrime/bilemo](https://github.com/Casrime/bilemo) (4 weeks ago)
 
 #### 📓 Gists I wrote
 
@@ -47,15 +47,15 @@
 
 #### ⭐ Recent Stars
 
-- [andreia/symfony-cheat-sheets](https://github.com/andreia/symfony-cheat-sheets) - Symfony Cheat Sheets (2 days ago)
-- [Timherlaud/Symfony-training](https://github.com/Timherlaud/Symfony-training) - cheat sheet for symfony certification (2 days ago)
+- [andreia/symfony-cheat-sheets](https://github.com/andreia/symfony-cheat-sheets) - Symfony Cheat Sheets (3 days ago)
+- [Timherlaud/Symfony-training](https://github.com/Timherlaud/Symfony-training) - cheat sheet for symfony certification (3 days ago)
 - [nunomaduro/phpinsights](https://github.com/nunomaduro/phpinsights) - 🔰 Instant PHP quality checks from your console (2 weeks ago)
-- [MA3STR0/kimsufi-crawler](https://github.com/MA3STR0/kimsufi-crawler) - Crawler that will send you an email alert as soon as servers on OVH/Kimsufi become available for purchase (3 weeks ago)
+- [MA3STR0/kimsufi-crawler](https://github.com/MA3STR0/kimsufi-crawler) - Crawler that will send you an email alert as soon as servers on OVH/Kimsufi become available for purchase (4 weeks ago)
 - [appuio/ansible-ini2yaml](https://github.com/appuio/ansible-ini2yaml) - Ansible INI to YAML inventory converter (1 month ago)
 - [doctrine/DoctrineBundle](https://github.com/doctrine/DoctrineBundle) - Symfony Bundle for Doctrine ORM and DBAL (3 months ago)
 - [abdounikarim/codededev](https://github.com/abdounikarim/codededev) -  (5 months ago)
 - [primer/github-syntax-dark](https://github.com/primer/github-syntax-dark) - The CSS dark syntax theme for GitHub (6 months ago)
-- [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker-compose up`. (6 months ago)
+- [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker-compose up`. (7 months ago)
 - [ThomasBerends/symfony-certification-preparation-list](https://github.com/ThomasBerends/symfony-certification-preparation-list) - List of topic-specific resources to help you prepare for Symfony certification (8 months ago)
 
 #### 👯 Check out some of my recent followers
