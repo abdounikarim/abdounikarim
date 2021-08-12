@@ -5,16 +5,16 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [abdounikarim/guestbook](https://github.com/abdounikarim/guestbook) - Symfony 5 - The fast track (today)
-- [abdounikarim/symfonycasts-mailer](https://github.com/abdounikarim/symfonycasts-mailer) -  (today)
-- [abdounikarim/symfony4.4-contributing](https://github.com/abdounikarim/symfony4.4-contributing) -  (today)
+- [abdounikarim/symfonycasts-api-platform](https://github.com/abdounikarim/symfonycasts-api-platform) -  (today)
+- [abdounikarim/documentation-checker](https://github.com/abdounikarim/documentation-checker) -  (today)
+- [abdounikarim/symfonycasts-api-platform-security](https://github.com/abdounikarim/symfonycasts-api-platform-security) -  (today)
 - [abdounikarim/symfonycasts-vue-js](https://github.com/abdounikarim/symfonycasts-vue-js) - SymfonyCasts - Vue.js courses (today)
 - [abdounikarim/the_spacebar](https://github.com/abdounikarim/the_spacebar) -  (today)
+- [abdounikarim/guestbook](https://github.com/abdounikarim/guestbook) - Symfony 5 - The fast track (today)
 - [abdounikarim/symfonycasts-react](https://github.com/abdounikarim/symfonycasts-react) -  (today)
 - [abdounikarim/symfonycasts-webpack](https://github.com/abdounikarim/symfonycasts-webpack) -  (today)
-- [abdounikarim/symfonycasts-javascript-es2015](https://github.com/abdounikarim/symfonycasts-javascript-es2015) -  (today)
-- [abdounikarim/symfonycasts-api-platform-security](https://github.com/abdounikarim/symfonycasts-api-platform-security) -  (today)
-- [Casrime/bilemo](https://github.com/Casrime/bilemo) - OpenClassrooms - Projet 7 du parcours Développeur d&#39;Applications PHP / Symfony (1 month ago)
+- [abdounikarim/symfonycasts-mailer](https://github.com/abdounikarim/symfonycasts-mailer) -  (today)
+- [abdounikarim/symfony4.4-contributing](https://github.com/abdounikarim/symfony4.4-contributing) -  (today)
 
 #### 🌱 My latest projects
 
