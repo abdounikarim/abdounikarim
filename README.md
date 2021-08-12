@@ -5,16 +5,16 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [abdounikarim/symfonycasts-javascript-es2015](https://github.com/abdounikarim/symfonycasts-javascript-es2015) -  (1 week ago)
+- [abdounikarim/symfonycasts-javascript-es2015](https://github.com/abdounikarim/symfonycasts-javascript-es2015) -  (today)
+- [abdounikarim/symfonycasts-mailer](https://github.com/abdounikarim/symfonycasts-mailer) -  (today)
+- [abdounikarim/the_spacebar](https://github.com/abdounikarim/the_spacebar) -  (today)
+- [abdounikarim/symfonycasts-webpack](https://github.com/abdounikarim/symfonycasts-webpack) -  (today)
+- [abdounikarim/symfonycasts-react](https://github.com/abdounikarim/symfonycasts-react) -  (today)
+- [abdounikarim/symfonycasts-api-platform-security](https://github.com/abdounikarim/symfonycasts-api-platform-security) -  (today)
+- [abdounikarim/guestbook](https://github.com/abdounikarim/guestbook) - Symfony 5 - The fast track (today)
 - [Casrime/bilemo](https://github.com/Casrime/bilemo) - OpenClassrooms - Projet 7 du parcours Développeur d&#39;Applications PHP / Symfony (1 month ago)
 - [doctrine/migrations](https://github.com/doctrine/migrations) - Doctrine Database Migrations Library (1 month ago)
 - [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) -  (1 month ago)
-- [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker-compose up`. (1 month ago)
-- [Casrime/chalets-et-caviar](https://github.com/Casrime/chalets-et-caviar) - OpenClassrooms - Projet 2 du parcours Développeur d&#39;Applications PHP / Symfony (2 months ago)
-- [abdounikarim/guestbook](https://github.com/abdounikarim/guestbook) - Symfony 5 - The fast track (3 months ago)
-- [abdounikarim/symfonycasts-vue-js](https://github.com/abdounikarim/symfonycasts-vue-js) - SymfonyCasts - Vue.js courses (3 months ago)
-- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (5 months ago)
-- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (6 months ago)
 
 #### 🌱 My latest projects
 
