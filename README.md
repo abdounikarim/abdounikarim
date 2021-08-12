@@ -6,15 +6,15 @@
 #### 👷 Check out what I'm currently working on
 
 - [abdounikarim/bilemo-vue-js](https://github.com/abdounikarim/bilemo-vue-js) -  (today)
-- [abdounikarim/documentation-checker](https://github.com/abdounikarim/documentation-checker) -  (today)
 - [abdounikarim/symfonycasts-javascript-es2015](https://github.com/abdounikarim/symfonycasts-javascript-es2015) -  (today)
+- [abdounikarim/documentation-checker](https://github.com/abdounikarim/documentation-checker) -  (today)
 - [abdounikarim/symfonycasts-vue-js](https://github.com/abdounikarim/symfonycasts-vue-js) - SymfonyCasts - Vue.js courses (today)
 - [abdounikarim/the_spacebar](https://github.com/abdounikarim/the_spacebar) -  (today)
+- [abdounikarim/symfonycasts-mailer](https://github.com/abdounikarim/symfonycasts-mailer) -  (today)
 - [abdounikarim/symfonycasts-api-platform-security](https://github.com/abdounikarim/symfonycasts-api-platform-security) -  (today)
+- [abdounikarim/symfonycasts-webpack](https://github.com/abdounikarim/symfonycasts-webpack) -  (today)
 - [abdounikarim/guestbook](https://github.com/abdounikarim/guestbook) - Symfony 5 - The fast track (today)
 - [abdounikarim/symfonycasts-react](https://github.com/abdounikarim/symfonycasts-react) -  (today)
-- [abdounikarim/symfonycasts-mailer](https://github.com/abdounikarim/symfonycasts-mailer) -  (today)
-- [abdounikarim/symfonycasts-webpack](https://github.com/abdounikarim/symfonycasts-webpack) -  (today)
 
 #### 🌱 My latest projects
 
