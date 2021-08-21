@@ -38,7 +38,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Update index.rst](https://github.com/doctrine/DoctrineMigrationsBundle/pull/439) on [doctrine/DoctrineMigrationsBundle](https://github.com/doctrine/DoctrineMigrationsBundle) (1 day ago)
+- [Update index.rst](https://github.com/doctrine/DoctrineMigrationsBundle/pull/439) on [doctrine/DoctrineMigrationsBundle](https://github.com/doctrine/DoctrineMigrationsBundle) (2 days ago)
 
 #### 📓 Gists I wrote
 
