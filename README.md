@@ -6,10 +6,10 @@
 #### 👷 Check out what I'm currently working on
 
 - [abdounikarim/bilemo-vue-js](https://github.com/abdounikarim/bilemo-vue-js) -  (1 week ago)
-- [abdounikarim/symfonycasts-javascript-es2015](https://github.com/abdounikarim/symfonycasts-javascript-es2015) -  (1 week ago)
 - [abdounikarim/documentation-checker](https://github.com/abdounikarim/documentation-checker) -  (1 week ago)
-- [abdounikarim/symfonycasts-vue-js](https://github.com/abdounikarim/symfonycasts-vue-js) - SymfonyCasts - Vue.js courses (1 week ago)
+- [abdounikarim/symfonycasts-javascript-es2015](https://github.com/abdounikarim/symfonycasts-javascript-es2015) -  (1 week ago)
 - [abdounikarim/the_spacebar](https://github.com/abdounikarim/the_spacebar) -  (1 week ago)
+- [abdounikarim/symfonycasts-vue-js](https://github.com/abdounikarim/symfonycasts-vue-js) - SymfonyCasts - Vue.js courses (1 week ago)
 - [abdounikarim/symfonycasts-mailer](https://github.com/abdounikarim/symfonycasts-mailer) -  (1 week ago)
 - [abdounikarim/symfonycasts-api-platform-security](https://github.com/abdounikarim/symfonycasts-api-platform-security) -  (1 week ago)
 - [abdounikarim/symfonycasts-webpack](https://github.com/abdounikarim/symfonycasts-webpack) -  (1 week ago)
