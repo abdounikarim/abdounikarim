@@ -1,7 +1,7 @@
 ### Hi there 👋
-[![trophy](https://github-profile-trophy.vercel.app/?username=abdounikarim&theme=onestar&row=1&column=7&no-frame=true&margin-w=13)](https://github.com/ryo-ma/github-profile-trophy)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdounikarim&show_icons=true&theme=dark&count_private=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdounikarim&langs_count=8&layout=compact&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdounikarim&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdounikarim&langs_count=8&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 #### 👷 Check out what I'm currently working on
 
