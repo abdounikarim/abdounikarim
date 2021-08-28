@@ -33,7 +33,7 @@
 
 - [doctrine/migrations](https://github.com/doctrine/migrations) ([3.2.1](https://github.com/doctrine/migrations/releases/tag/3.2.1), 3 weeks ago) - Doctrine Database Migrations Library
 - [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v1.10.1](https://github.com/Sylius/Sylius/releases/tag/v1.10.1), 4 weeks ago) - Open Source eCommerce Platform on Symfony
-- [symfony/symfony](https://github.com/symfony/symfony) ([v5.3.6](https://github.com/symfony/symfony/releases/tag/v5.3.6), 4 weeks ago) - The Symfony PHP framework
+- [symfony/symfony](https://github.com/symfony/symfony) ([v5.3.6](https://github.com/symfony/symfony/releases/tag/v5.3.6), 1 month ago) - The Symfony PHP framework
 - [api-platform/core](https://github.com/api-platform/core) ([v2.6.5](https://github.com/api-platform/core/releases/tag/v2.6.5), 2 months ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 
 #### 🔨 My recent Pull Requests
@@ -45,12 +45,12 @@
 
 #### ⭐ Recent Stars
 
-- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books (today)
+- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books (1 day ago)
 - [andreia/symfony-cheat-sheets](https://github.com/andreia/symfony-cheat-sheets) - Symfony Cheat Sheets (3 weeks ago)
 - [Timherlaud/Symfony-training](https://github.com/Timherlaud/Symfony-training) - cheat sheet for symfony certification (3 weeks ago)
 - [nunomaduro/phpinsights](https://github.com/nunomaduro/phpinsights) - 🔰 Instant PHP quality checks from your console (1 month ago)
 - [MA3STR0/kimsufi-crawler](https://github.com/MA3STR0/kimsufi-crawler) - Crawler that will send you an email alert as soon as servers on OVH/Kimsufi become available for purchase (1 month ago)
-- [appuio/ansible-ini2yaml](https://github.com/appuio/ansible-ini2yaml) - Ansible INI to YAML inventory converter (1 month ago)
+- [appuio/ansible-ini2yaml](https://github.com/appuio/ansible-ini2yaml) - Ansible INI to YAML inventory converter (2 months ago)
 - [doctrine/DoctrineBundle](https://github.com/doctrine/DoctrineBundle) - Symfony Bundle for Doctrine ORM and DBAL (4 months ago)
 - [abdounikarim/codededev](https://github.com/abdounikarim/codededev) -  (5 months ago)
 - [primer/github-syntax-dark](https://github.com/primer/github-syntax-dark) - The CSS dark syntax theme for GitHub (7 months ago)
