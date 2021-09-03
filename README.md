@@ -32,8 +32,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v1.10.2](https://github.com/Sylius/Sylius/releases/tag/v1.10.2), today) - Open Source eCommerce Platform on Symfony
-- [symfony/symfony](https://github.com/symfony/symfony) ([v5.3.7](https://github.com/symfony/symfony/releases/tag/v5.3.7), 3 days ago) - The Symfony PHP framework
+- [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v1.10.2](https://github.com/Sylius/Sylius/releases/tag/v1.10.2), 1 day ago) - Open Source eCommerce Platform on Symfony
+- [symfony/symfony](https://github.com/symfony/symfony) ([v5.3.7](https://github.com/symfony/symfony/releases/tag/v5.3.7), 4 days ago) - The Symfony PHP framework
 - [doctrine/migrations](https://github.com/doctrine/migrations) ([3.2.1](https://github.com/doctrine/migrations/releases/tag/3.2.1), 1 month ago) - Doctrine Database Migrations Library
 - [api-platform/core](https://github.com/api-platform/core) ([v2.6.5](https://github.com/api-platform/core/releases/tag/v2.6.5), 2 months ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 
@@ -46,7 +46,7 @@
 
 #### ⭐ Recent Stars
 
-- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books (6 days ago)
+- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books (1 week ago)
 - [andreia/symfony-cheat-sheets](https://github.com/andreia/symfony-cheat-sheets) - Symfony Cheat Sheets (1 month ago)
 - [Timherlaud/Symfony-training](https://github.com/Timherlaud/Symfony-training) - cheat sheet for symfony certification (1 month ago)
 - [nunomaduro/phpinsights](https://github.com/nunomaduro/phpinsights) - 🔰 Instant PHP quality checks from your console (1 month ago)
@@ -55,7 +55,7 @@
 - [doctrine/DoctrineBundle](https://github.com/doctrine/DoctrineBundle) - Symfony Bundle for Doctrine ORM and DBAL (4 months ago)
 - [abdounikarim/codededev](https://github.com/abdounikarim/codededev) -  (6 months ago)
 - [primer/github-syntax-dark](https://github.com/primer/github-syntax-dark) - The CSS dark syntax theme for GitHub (7 months ago)
-- [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker-compose up`. (7 months ago)
+- [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker-compose up`. (8 months ago)
 
 #### 👯 Check out some of my recent followers
 
