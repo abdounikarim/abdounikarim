@@ -6,16 +6,16 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [abdounikarim/bilemo-vue-js](https://github.com/abdounikarim/bilemo-vue-js) -  (3 weeks ago)
-- [abdounikarim/documentation-checker](https://github.com/abdounikarim/documentation-checker) -  (3 weeks ago)
-- [abdounikarim/the_spacebar](https://github.com/abdounikarim/the_spacebar) -  (3 weeks ago)
-- [abdounikarim/symfonycasts-mailer](https://github.com/abdounikarim/symfonycasts-mailer) -  (3 weeks ago)
-- [abdounikarim/symfonycasts-api-platform-security](https://github.com/abdounikarim/symfonycasts-api-platform-security) -  (3 weeks ago)
-- [abdounikarim/symfonycasts-vue-js](https://github.com/abdounikarim/symfonycasts-vue-js) - SymfonyCasts - Vue.js courses (3 weeks ago)
-- [abdounikarim/symfonycasts-webpack](https://github.com/abdounikarim/symfonycasts-webpack) -  (3 weeks ago)
-- [abdounikarim/guestbook](https://github.com/abdounikarim/guestbook) - Symfony 5 - The fast track (3 weeks ago)
-- [abdounikarim/symfonycasts-react](https://github.com/abdounikarim/symfonycasts-react) -  (3 weeks ago)
-- [abdounikarim/symfony-docker-kubernetes](https://github.com/abdounikarim/symfony-docker-kubernetes) -  (3 weeks ago)
+- [abdounikarim/bilemo-vue-js](https://github.com/abdounikarim/bilemo-vue-js) -  (4 weeks ago)
+- [abdounikarim/documentation-checker](https://github.com/abdounikarim/documentation-checker) -  (4 weeks ago)
+- [abdounikarim/the_spacebar](https://github.com/abdounikarim/the_spacebar) -  (4 weeks ago)
+- [abdounikarim/symfonycasts-mailer](https://github.com/abdounikarim/symfonycasts-mailer) -  (4 weeks ago)
+- [abdounikarim/symfonycasts-api-platform-security](https://github.com/abdounikarim/symfonycasts-api-platform-security) -  (4 weeks ago)
+- [abdounikarim/symfonycasts-vue-js](https://github.com/abdounikarim/symfonycasts-vue-js) - SymfonyCasts - Vue.js courses (4 weeks ago)
+- [abdounikarim/symfonycasts-webpack](https://github.com/abdounikarim/symfonycasts-webpack) -  (4 weeks ago)
+- [abdounikarim/guestbook](https://github.com/abdounikarim/guestbook) - Symfony 5 - The fast track (4 weeks ago)
+- [abdounikarim/symfonycasts-react](https://github.com/abdounikarim/symfonycasts-react) -  (4 weeks ago)
+- [abdounikarim/symfony-docker-kubernetes](https://github.com/abdounikarim/symfony-docker-kubernetes) -  (4 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -32,7 +32,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v1.10.2](https://github.com/Sylius/Sylius/releases/tag/v1.10.2), 6 days ago) - Open Source eCommerce Platform on Symfony
+- [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v1.10.2](https://github.com/Sylius/Sylius/releases/tag/v1.10.2), 1 week ago) - Open Source eCommerce Platform on Symfony
 - [symfony/symfony](https://github.com/symfony/symfony) ([v5.3.7](https://github.com/symfony/symfony/releases/tag/v5.3.7), 1 week ago) - The Symfony PHP framework
 - [doctrine/migrations](https://github.com/doctrine/migrations) ([3.2.1](https://github.com/doctrine/migrations/releases/tag/3.2.1), 1 month ago) - Doctrine Database Migrations Library
 - [api-platform/core](https://github.com/api-platform/core) ([v2.6.5](https://github.com/api-platform/core/releases/tag/v2.6.5), 2 months ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
