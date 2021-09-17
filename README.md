@@ -46,7 +46,7 @@
 
 #### ⭐ Recent Stars
 
-- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books (2 weeks ago)
+- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books (3 weeks ago)
 - [andreia/symfony-cheat-sheets](https://github.com/andreia/symfony-cheat-sheets) - Symfony Cheat Sheets (1 month ago)
 - [Timherlaud/Symfony-training](https://github.com/Timherlaud/Symfony-training) - cheat sheet for symfony certification (1 month ago)
 - [nunomaduro/phpinsights](https://github.com/nunomaduro/phpinsights) - 🔰 Instant PHP quality checks from your console (2 months ago)
