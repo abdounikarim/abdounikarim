@@ -6,7 +6,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [abdounikarim/test_lfz](https://github.com/abdounikarim/test_lfz) -  (1 day ago)
+- [abdounikarim/test_lfz](https://github.com/abdounikarim/test_lfz) -  (2 days ago)
 - [abdounikarim/symfonycasts-api-platform](https://github.com/abdounikarim/symfonycasts-api-platform) -  (1 month ago)
 - [abdounikarim/symfonycasts-mailer](https://github.com/abdounikarim/symfonycasts-mailer) -  (1 month ago)
 - [abdounikarim/symfonycasts-api-platform-security](https://github.com/abdounikarim/symfonycasts-api-platform-security) -  (1 month ago)
@@ -46,7 +46,7 @@
 
 #### ⭐ Recent Stars
 
-- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books (3 weeks ago)
+- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books (4 weeks ago)
 - [andreia/symfony-cheat-sheets](https://github.com/andreia/symfony-cheat-sheets) - Symfony Cheat Sheets (1 month ago)
 - [Timherlaud/Symfony-training](https://github.com/Timherlaud/Symfony-training) - cheat sheet for symfony certification (1 month ago)
 - [nunomaduro/phpinsights](https://github.com/nunomaduro/phpinsights) - 🔰 Instant PHP quality checks from your console (2 months ago)
