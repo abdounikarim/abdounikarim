@@ -6,7 +6,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [abdounikarim/test_lfz](https://github.com/abdounikarim/test_lfz) -  (5 days ago)
+- [abdounikarim/test_lfz](https://github.com/abdounikarim/test_lfz) -  (6 days ago)
 - [abdounikarim/symfonycasts-api-platform](https://github.com/abdounikarim/symfonycasts-api-platform) -  (1 month ago)
 - [abdounikarim/symfonycasts-mailer](https://github.com/abdounikarim/symfonycasts-mailer) -  (1 month ago)
 - [abdounikarim/symfonycasts-api-platform-security](https://github.com/abdounikarim/symfonycasts-api-platform-security) -  (1 month ago)
@@ -46,7 +46,7 @@
 
 #### ⭐ Recent Stars
 
-- [sebastianbergmann/phploc](https://github.com/sebastianbergmann/phploc) - A tool for quickly measuring the size of a PHP project. (3 days ago)
+- [sebastianbergmann/phploc](https://github.com/sebastianbergmann/phploc) - A tool for quickly measuring the size of a PHP project. (4 days ago)
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books (1 month ago)
 - [andreia/symfony-cheat-sheets](https://github.com/andreia/symfony-cheat-sheets) - Symfony Cheat Sheets (1 month ago)
 - [Timherlaud/Symfony-training](https://github.com/Timherlaud/Symfony-training) - cheat sheet for symfony certification (1 month ago)
