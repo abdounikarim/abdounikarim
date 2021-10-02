@@ -32,10 +32,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v1.10.3](https://github.com/Sylius/Sylius/releases/tag/v1.10.3), 1 day ago) - Open Source eCommerce Platform on Symfony
-- [api-platform/core](https://github.com/api-platform/core) ([v2.6.6](https://github.com/api-platform/core/releases/tag/v2.6.6), 1 day ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
-- [symfony/symfony](https://github.com/symfony/symfony) ([v5.3.9](https://github.com/symfony/symfony/releases/tag/v5.3.9), 3 days ago) - The Symfony PHP framework
-- [doctrine/migrations](https://github.com/doctrine/migrations) ([3.2.1](https://github.com/doctrine/migrations/releases/tag/3.2.1), 1 month ago) - Doctrine Database Migrations Library
+- [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v1.10.3](https://github.com/Sylius/Sylius/releases/tag/v1.10.3), 2 days ago) - Open Source eCommerce Platform on Symfony
+- [api-platform/core](https://github.com/api-platform/core) ([v2.6.6](https://github.com/api-platform/core/releases/tag/v2.6.6), 2 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [symfony/symfony](https://github.com/symfony/symfony) ([v5.3.9](https://github.com/symfony/symfony/releases/tag/v5.3.9), 4 days ago) - The Symfony PHP framework
+- [doctrine/migrations](https://github.com/doctrine/migrations) ([3.2.1](https://github.com/doctrine/migrations/releases/tag/3.2.1), 2 months ago) - Doctrine Database Migrations Library
 
 #### 🔨 My recent Pull Requests
 
