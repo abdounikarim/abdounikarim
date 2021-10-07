@@ -32,8 +32,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v1.10.3](https://github.com/Sylius/Sylius/releases/tag/v1.10.3), 6 days ago) - Open Source eCommerce Platform on Symfony
-- [api-platform/core](https://github.com/api-platform/core) ([v2.6.6](https://github.com/api-platform/core/releases/tag/v2.6.6), 6 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v1.10.3](https://github.com/Sylius/Sylius/releases/tag/v1.10.3), 1 week ago) - Open Source eCommerce Platform on Symfony
+- [api-platform/core](https://github.com/api-platform/core) ([v2.6.6](https://github.com/api-platform/core/releases/tag/v2.6.6), 1 week ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [symfony/symfony](https://github.com/symfony/symfony) ([v5.3.9](https://github.com/symfony/symfony/releases/tag/v5.3.9), 1 week ago) - The Symfony PHP framework
 - [doctrine/migrations](https://github.com/doctrine/migrations) ([3.2.1](https://github.com/doctrine/migrations/releases/tag/3.2.1), 2 months ago) - Doctrine Database Migrations Library
 
@@ -46,7 +46,7 @@
 
 #### ⭐ Recent Stars
 
-- [AmmeySaini/Edu-Mail-Generator](https://github.com/AmmeySaini/Edu-Mail-Generator) - Generate Free Edu Mail(s) within minutes (1 day ago)
+- [AmmeySaini/Edu-Mail-Generator](https://github.com/AmmeySaini/Edu-Mail-Generator) - Generate Free Edu Mail(s) within minutes (2 days ago)
 - [sebastianbergmann/phploc](https://github.com/sebastianbergmann/phploc) - A tool for quickly measuring the size of a PHP project. (1 week ago)
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books (1 month ago)
 - [andreia/symfony-cheat-sheets](https://github.com/andreia/symfony-cheat-sheets) - Symfony Cheat Sheets (2 months ago)
