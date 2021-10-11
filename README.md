@@ -7,15 +7,15 @@
 #### 👷 Check out what I'm currently working on
 
 - [abdounikarim/test_lfz](https://github.com/abdounikarim/test_lfz) -  (2 weeks ago)
-- [abdounikarim/symfonycasts-api-platform](https://github.com/abdounikarim/symfonycasts-api-platform) -  (1 month ago)
-- [abdounikarim/symfonycasts-mailer](https://github.com/abdounikarim/symfonycasts-mailer) -  (1 month ago)
-- [abdounikarim/symfonycasts-api-platform-security](https://github.com/abdounikarim/symfonycasts-api-platform-security) -  (1 month ago)
-- [abdounikarim/symfonycasts-vue-js](https://github.com/abdounikarim/symfonycasts-vue-js) - SymfonyCasts - Vue.js courses (1 month ago)
-- [abdounikarim/symfonycasts-webpack](https://github.com/abdounikarim/symfonycasts-webpack) -  (1 month ago)
-- [abdounikarim/guestbook](https://github.com/abdounikarim/guestbook) - Symfony 5 - The fast track (1 month ago)
-- [abdounikarim/symfonycasts-react](https://github.com/abdounikarim/symfonycasts-react) -  (1 month ago)
-- [abdounikarim/bilemo-vue-js](https://github.com/abdounikarim/bilemo-vue-js) -  (1 month ago)
-- [abdounikarim/symfonycasts-javascript-es2015](https://github.com/abdounikarim/symfonycasts-javascript-es2015) -  (1 month ago)
+- [abdounikarim/symfonycasts-api-platform](https://github.com/abdounikarim/symfonycasts-api-platform) -  (2 months ago)
+- [abdounikarim/symfonycasts-mailer](https://github.com/abdounikarim/symfonycasts-mailer) -  (2 months ago)
+- [abdounikarim/symfonycasts-api-platform-security](https://github.com/abdounikarim/symfonycasts-api-platform-security) -  (2 months ago)
+- [abdounikarim/symfonycasts-vue-js](https://github.com/abdounikarim/symfonycasts-vue-js) - SymfonyCasts - Vue.js courses (2 months ago)
+- [abdounikarim/symfonycasts-webpack](https://github.com/abdounikarim/symfonycasts-webpack) -  (2 months ago)
+- [abdounikarim/guestbook](https://github.com/abdounikarim/guestbook) - Symfony 5 - The fast track (2 months ago)
+- [abdounikarim/symfonycasts-react](https://github.com/abdounikarim/symfonycasts-react) -  (2 months ago)
+- [abdounikarim/bilemo-vue-js](https://github.com/abdounikarim/bilemo-vue-js) -  (2 months ago)
+- [abdounikarim/symfonycasts-javascript-es2015](https://github.com/abdounikarim/symfonycasts-javascript-es2015) -  (2 months ago)
 
 #### 🌱 My latest projects
 
@@ -46,7 +46,7 @@
 
 #### ⭐ Recent Stars
 
-- [AmmeySaini/Edu-Mail-Generator](https://github.com/AmmeySaini/Edu-Mail-Generator) - Generate Free Edu Mail(s) within minutes (5 days ago)
+- [AmmeySaini/Edu-Mail-Generator](https://github.com/AmmeySaini/Edu-Mail-Generator) - Generate Free Edu Mail(s) within minutes (6 days ago)
 - [sebastianbergmann/phploc](https://github.com/sebastianbergmann/phploc) - A tool for quickly measuring the size of a PHP project. (2 weeks ago)
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books (1 month ago)
 - [andreia/symfony-cheat-sheets](https://github.com/andreia/symfony-cheat-sheets) - Symfony Cheat Sheets (2 months ago)
