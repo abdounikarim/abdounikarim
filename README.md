@@ -6,16 +6,16 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [symfony/symfony-docs](https://github.com/symfony/symfony-docs) - The Symfony documentation (1 day ago)
 - [Casrime/bilemo](https://github.com/Casrime/bilemo) - OpenClassrooms - Projet 7 du parcours Développeur d&#39;Applications PHP / Symfony (1 day ago)
 - [abdounikarim/test_lfz](https://github.com/abdounikarim/test_lfz) -  (4 weeks ago)
-- [abdounikarim/symfonycasts-api-platform](https://github.com/abdounikarim/symfonycasts-api-platform) -  (2 months ago)
 - [abdounikarim/symfonycasts-api-platform-security](https://github.com/abdounikarim/symfonycasts-api-platform-security) -  (2 months ago)
 - [abdounikarim/symfonycasts-vue-js](https://github.com/abdounikarim/symfonycasts-vue-js) - SymfonyCasts - Vue.js courses (2 months ago)
 - [abdounikarim/symfonycasts-webpack](https://github.com/abdounikarim/symfonycasts-webpack) -  (2 months ago)
 - [abdounikarim/guestbook](https://github.com/abdounikarim/guestbook) - Symfony 5 - The fast track (2 months ago)
 - [abdounikarim/symfonycasts-react](https://github.com/abdounikarim/symfonycasts-react) -  (2 months ago)
 - [abdounikarim/symfonycasts-mailer](https://github.com/abdounikarim/symfonycasts-mailer) -  (2 months ago)
-- [abdounikarim/symfonycasts-javascript-es2015](https://github.com/abdounikarim/symfonycasts-javascript-es2015) -  (2 months ago)
+- [abdounikarim/symfonycasts-api-platform](https://github.com/abdounikarim/symfonycasts-api-platform) -  (2 months ago)
 
 #### 🌱 My latest projects
 
@@ -40,7 +40,7 @@
 #### 🔨 My recent Pull Requests
 
 - [Upgrade symfony authentication](https://github.com/Casrime/bilemo/pull/35) on [Casrime/bilemo](https://github.com/Casrime/bilemo) (1 day ago)
-- [Update security.rst](https://github.com/symfony/symfony-docs/pull/15954) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 day ago)
+- [[Security] Update security.rst](https://github.com/symfony/symfony-docs/pull/15954) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 day ago)
 - [Update security.rst](https://github.com/symfony/symfony-docs/pull/15953) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 day ago)
 - [delete mysql migrations and generate postgresql migrations](https://github.com/Casrime/bilemo/pull/33) on [Casrime/bilemo](https://github.com/Casrime/bilemo) (1 day ago)
 - [Update to symfony 5](https://github.com/Casrime/bilemo/pull/32) on [Casrime/bilemo](https://github.com/Casrime/bilemo) (1 day ago)
