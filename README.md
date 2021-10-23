@@ -6,8 +6,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Casrime/bilemo](https://github.com/Casrime/bilemo) - OpenClassrooms - Projet 7 du parcours Développeur d&#39;Applications PHP / Symfony (today)
-- [symfony/symfony-docs](https://github.com/symfony/symfony-docs) - The Symfony documentation (3 days ago)
+- [Casrime/bilemo](https://github.com/Casrime/bilemo) - OpenClassrooms - Projet 7 du parcours Développeur d&#39;Applications PHP / Symfony (1 day ago)
+- [symfony/symfony-docs](https://github.com/symfony/symfony-docs) - The Symfony documentation (4 days ago)
 - [abdounikarim/test_lfz](https://github.com/abdounikarim/test_lfz) -  (1 month ago)
 - [abdounikarim/symfonycasts-api-platform-security](https://github.com/abdounikarim/symfonycasts-api-platform-security) -  (2 months ago)
 - [abdounikarim/symfonycasts-vue-js](https://github.com/abdounikarim/symfonycasts-vue-js) - SymfonyCasts - Vue.js courses (2 months ago)
@@ -39,12 +39,12 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Tests](https://github.com/Casrime/bilemo/pull/36) on [Casrime/bilemo](https://github.com/Casrime/bilemo) (1 day ago)
-- [Upgrade symfony authentication](https://github.com/Casrime/bilemo/pull/35) on [Casrime/bilemo](https://github.com/Casrime/bilemo) (3 days ago)
-- [[Security] Update security.rst](https://github.com/symfony/symfony-docs/pull/15954) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (3 days ago)
-- [Update security.rst](https://github.com/symfony/symfony-docs/pull/15953) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (3 days ago)
-- [delete mysql migrations and generate postgresql migrations](https://github.com/Casrime/bilemo/pull/33) on [Casrime/bilemo](https://github.com/Casrime/bilemo) (3 days ago)
-- [Update to symfony 5](https://github.com/Casrime/bilemo/pull/32) on [Casrime/bilemo](https://github.com/Casrime/bilemo) (3 days ago)
+- [Tests](https://github.com/Casrime/bilemo/pull/36) on [Casrime/bilemo](https://github.com/Casrime/bilemo) (2 days ago)
+- [Upgrade symfony authentication](https://github.com/Casrime/bilemo/pull/35) on [Casrime/bilemo](https://github.com/Casrime/bilemo) (4 days ago)
+- [[Security] Update security.rst](https://github.com/symfony/symfony-docs/pull/15954) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (4 days ago)
+- [Update security.rst](https://github.com/symfony/symfony-docs/pull/15953) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (4 days ago)
+- [delete mysql migrations and generate postgresql migrations](https://github.com/Casrime/bilemo/pull/33) on [Casrime/bilemo](https://github.com/Casrime/bilemo) (4 days ago)
+- [Update to symfony 5](https://github.com/Casrime/bilemo/pull/32) on [Casrime/bilemo](https://github.com/Casrime/bilemo) (4 days ago)
 
 #### 📓 Gists I wrote
 
