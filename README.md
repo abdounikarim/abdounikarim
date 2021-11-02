@@ -7,7 +7,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [Casrime/bilemo](https://github.com/Casrime/bilemo) - OpenClassrooms - Projet 7 du parcours Développeur d&#39;Applications PHP / Symfony (1 week ago)
-- [symfony/symfony-docs](https://github.com/symfony/symfony-docs) - The Symfony documentation (1 week ago)
+- [symfony/symfony-docs](https://github.com/symfony/symfony-docs) - The Symfony documentation (2 weeks ago)
 - [abdounikarim/test_lfz](https://github.com/abdounikarim/test_lfz) -  (1 month ago)
 - [abdounikarim/symfonycasts-api-platform-security](https://github.com/abdounikarim/symfonycasts-api-platform-security) -  (2 months ago)
 - [abdounikarim/symfonycasts-vue-js](https://github.com/abdounikarim/symfonycasts-vue-js) - SymfonyCasts - Vue.js courses (2 months ago)
@@ -32,20 +32,20 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v5.3.10](https://github.com/symfony/symfony/releases/tag/v5.3.10), 3 days ago) - The Symfony PHP framework
+- [symfony/symfony](https://github.com/symfony/symfony) ([v5.3.10](https://github.com/symfony/symfony/releases/tag/v5.3.10), 4 days ago) - The Symfony PHP framework
 - [doctrine/migrations](https://github.com/doctrine/migrations) ([3.3.0](https://github.com/doctrine/migrations/releases/tag/3.3.0), 2 weeks ago) - Doctrine Database Migrations Library
 - [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v1.10.3](https://github.com/Sylius/Sylius/releases/tag/v1.10.3), 1 month ago) - Open Source eCommerce Platform on Symfony
 - [api-platform/core](https://github.com/api-platform/core) ([v2.6.6](https://github.com/api-platform/core/releases/tag/v2.6.6), 1 month ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 
 #### 🔨 My recent Pull Requests
 
-- [add blackfire configuration](https://github.com/Casrime/bilemo/pull/38) on [Casrime/bilemo](https://github.com/Casrime/bilemo) (3 days ago)
+- [add blackfire configuration](https://github.com/Casrime/bilemo/pull/38) on [Casrime/bilemo](https://github.com/Casrime/bilemo) (4 days ago)
 - [Tests](https://github.com/Casrime/bilemo/pull/36) on [Casrime/bilemo](https://github.com/Casrime/bilemo) (1 week ago)
-- [Upgrade symfony authentication](https://github.com/Casrime/bilemo/pull/35) on [Casrime/bilemo](https://github.com/Casrime/bilemo) (1 week ago)
-- [[Security] Update security.rst](https://github.com/symfony/symfony-docs/pull/15954) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 week ago)
-- [Update security.rst](https://github.com/symfony/symfony-docs/pull/15953) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 week ago)
-- [delete mysql migrations and generate postgresql migrations](https://github.com/Casrime/bilemo/pull/33) on [Casrime/bilemo](https://github.com/Casrime/bilemo) (1 week ago)
-- [Update to symfony 5](https://github.com/Casrime/bilemo/pull/32) on [Casrime/bilemo](https://github.com/Casrime/bilemo) (1 week ago)
+- [Upgrade symfony authentication](https://github.com/Casrime/bilemo/pull/35) on [Casrime/bilemo](https://github.com/Casrime/bilemo) (2 weeks ago)
+- [[Security] Update security.rst](https://github.com/symfony/symfony-docs/pull/15954) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 weeks ago)
+- [Update security.rst](https://github.com/symfony/symfony-docs/pull/15953) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 weeks ago)
+- [delete mysql migrations and generate postgresql migrations](https://github.com/Casrime/bilemo/pull/33) on [Casrime/bilemo](https://github.com/Casrime/bilemo) (2 weeks ago)
+- [Update to symfony 5](https://github.com/Casrime/bilemo/pull/32) on [Casrime/bilemo](https://github.com/Casrime/bilemo) (2 weeks ago)
 
 #### 📓 Gists I wrote
 
@@ -53,9 +53,9 @@
 
 #### ⭐ Recent Stars
 
-- [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age (formerly Terminus) (3 days ago)
-- [DEAKSoftware/Synergy-Binaries](https://github.com/DEAKSoftware/Synergy-Binaries) - Download the latest stable Synergy binaries. (3 days ago)
-- [AmmeySaini/Edu-Mail-Generator](https://github.com/AmmeySaini/Edu-Mail-Generator) - Generate Free Edu Mail(s) within minutes (3 weeks ago)
+- [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age (formerly Terminus) (4 days ago)
+- [DEAKSoftware/Synergy-Binaries](https://github.com/DEAKSoftware/Synergy-Binaries) - Download the latest stable Synergy binaries. (4 days ago)
+- [AmmeySaini/Edu-Mail-Generator](https://github.com/AmmeySaini/Edu-Mail-Generator) - Generate Free Edu Mail(s) within minutes (4 weeks ago)
 - [sebastianbergmann/phploc](https://github.com/sebastianbergmann/phploc) - A tool for quickly measuring the size of a PHP project. (1 month ago)
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books (2 months ago)
 - [andreia/symfony-cheat-sheets](https://github.com/andreia/symfony-cheat-sheets) - Symfony Cheat Sheets (3 months ago)
