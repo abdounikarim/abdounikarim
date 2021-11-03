@@ -8,7 +8,7 @@
 |-----------------|------|
 | Site            | Lien |
 | LinkedIn        | Lien |
-| GitHub          | Lien |
+| GitHub          | :octocat: |
 | Symfony Connect | Lien |
 
 ### Expériences
