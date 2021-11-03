@@ -8,7 +8,7 @@
 |-----------------|------|
 | Site            | Lien |
 | LinkedIn        | Lien |
-| GitHub          | :octocat: |
+| GitHub          | [:octocat:](https://github.com/abdounikarim) |
 | Symfony Connect | Lien |
 
 ### Expériences
