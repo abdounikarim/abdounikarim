@@ -6,7 +6,7 @@
 
 | Coordonnées     | Lien |
 |-----------------|------|
-| Email           | [:envelope:](abdounikarim@gmail.com) |
+| Email           | [:envelope:](mailto:abdounikarim@gmail.com) |
 | Site            | [:earth_africa:](https://abdounikarim.com) |
 | LinkedIn        | Lien |
 | GitHub          | [:octocat:](https://github.com/abdounikarim) |
