@@ -3,42 +3,45 @@
 .PHONY: install update
 
 install:
-                        ## Install Docker
-						brew install docker
+                      	## Install Docker
+						@brew install docker
 
 						## Install Docker-Compose
-						brew install docker-compose
+						@brew install docker-compose
 
 						## Install Docker Desktop app
-						brew install --cask docker
+						@brew install --cask docker
 
 						## Install PHP 7.4
-						brew install php@7.4
+						@brew install php@7.4
+
+						## Install PHP 8.0
+						@brew install php@8.0
 
 						## Install Symfony CLI
-						curl -sS https://get.symfony.com/cli/installer | bash
+						@curl -sS https://get.symfony.com/cli/installer | bash
 
 						## Move Symfony CLI
-						mv /Users/$(USER)/.symfony/bin/symfony /usr/local/bin/symfony
+						@mv /Users/$(USER)/.symfony/bin/symfony /usr/local/bin/symfony
 
 						## Install Ansible
-						brew install ansible
+						@brew install ansible
 
-update:
-                        ## Update brew
-						brew update
+update:					## Update brew and dependencies
+                      	## Update brew
+						@brew update
 
 						## Update brew dependencies
-						brew upgrade
+						@brew upgrade
 
 						## Update Symfony CLI
-						symfony self-update -y
+						@symfony self-update -y
 
 						## Show brew version
-						brew --version
+						@brew --version
 
 						## Show symfony cli version
-						symfony self:version
+						@symfony self:version
 
 # Help
 .PHONY: help
