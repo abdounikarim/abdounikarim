@@ -6,7 +6,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Casrime/bilemo](https://github.com/Casrime/bilemo) - OpenClassrooms - Projet 7 du parcours Développeur d&#39;Applications PHP / Symfony (today)
+- [Casrime/bilemo](https://github.com/Casrime/bilemo) - OpenClassrooms - Projet 7 du parcours Développeur d&#39;Applications PHP / Symfony (2 days ago)
 - [symfony/symfony-docs](https://github.com/symfony/symfony-docs) - The Symfony documentation (2 weeks ago)
 - [abdounikarim/test_lfz](https://github.com/abdounikarim/test_lfz) -  (1 month ago)
 - [abdounikarim/symfonycasts-api-platform-security](https://github.com/abdounikarim/symfonycasts-api-platform-security) -  (2 months ago)
@@ -32,15 +32,15 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v1.10.5](https://github.com/Sylius/Sylius/releases/tag/v1.10.5), today) - Open Source eCommerce Platform on Symfony
-- [symfony/symfony](https://github.com/symfony/symfony) ([v5.3.10](https://github.com/symfony/symfony/releases/tag/v5.3.10), 5 days ago) - The Symfony PHP framework
-- [doctrine/migrations](https://github.com/doctrine/migrations) ([3.3.0](https://github.com/doctrine/migrations/releases/tag/3.3.0), 2 weeks ago) - Doctrine Database Migrations Library
+- [symfony/symfony](https://github.com/symfony/symfony) ([v6.0.0-BETA1](https://github.com/symfony/symfony/releases/tag/v6.0.0-BETA1), today) - The Symfony PHP framework
+- [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v1.10.5](https://github.com/Sylius/Sylius/releases/tag/v1.10.5), 2 days ago) - Open Source eCommerce Platform on Symfony
+- [doctrine/migrations](https://github.com/doctrine/migrations) ([3.3.0](https://github.com/doctrine/migrations/releases/tag/3.3.0), 3 weeks ago) - Doctrine Database Migrations Library
 - [api-platform/core](https://github.com/api-platform/core) ([v2.6.6](https://github.com/api-platform/core/releases/tag/v2.6.6), 1 month ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 
 #### 🔨 My recent Pull Requests
 
-- [add blackfire configuration](https://github.com/Casrime/bilemo/pull/38) on [Casrime/bilemo](https://github.com/Casrime/bilemo) (5 days ago)
-- [Tests](https://github.com/Casrime/bilemo/pull/36) on [Casrime/bilemo](https://github.com/Casrime/bilemo) (1 week ago)
+- [add blackfire configuration](https://github.com/Casrime/bilemo/pull/38) on [Casrime/bilemo](https://github.com/Casrime/bilemo) (1 week ago)
+- [Tests](https://github.com/Casrime/bilemo/pull/36) on [Casrime/bilemo](https://github.com/Casrime/bilemo) (2 weeks ago)
 - [Upgrade symfony authentication](https://github.com/Casrime/bilemo/pull/35) on [Casrime/bilemo](https://github.com/Casrime/bilemo) (2 weeks ago)
 - [[Security] Update security.rst](https://github.com/symfony/symfony-docs/pull/15954) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 weeks ago)
 - [Update security.rst](https://github.com/symfony/symfony-docs/pull/15953) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 weeks ago)
@@ -53,15 +53,15 @@
 
 #### ⭐ Recent Stars
 
-- [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age (formerly Terminus) (5 days ago)
-- [DEAKSoftware/Synergy-Binaries](https://github.com/DEAKSoftware/Synergy-Binaries) - Download the latest stable Synergy binaries. (5 days ago)
-- [AmmeySaini/Edu-Mail-Generator](https://github.com/AmmeySaini/Edu-Mail-Generator) - Generate Free Edu Mail(s) within minutes (4 weeks ago)
+- [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age (formerly Terminus) (1 week ago)
+- [DEAKSoftware/Synergy-Binaries](https://github.com/DEAKSoftware/Synergy-Binaries) - Download the latest stable Synergy binaries. (1 week ago)
+- [AmmeySaini/Edu-Mail-Generator](https://github.com/AmmeySaini/Edu-Mail-Generator) - Generate Free Edu Mail(s) within minutes (1 month ago)
 - [sebastianbergmann/phploc](https://github.com/sebastianbergmann/phploc) - A tool for quickly measuring the size of a PHP project. (1 month ago)
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books (2 months ago)
 - [andreia/symfony-cheat-sheets](https://github.com/andreia/symfony-cheat-sheets) - Symfony Cheat Sheets (3 months ago)
 - [Timherlaud/Symfony-training](https://github.com/Timherlaud/Symfony-training) - cheat sheet for symfony certification (3 months ago)
 - [nunomaduro/phpinsights](https://github.com/nunomaduro/phpinsights) - 🔰 Instant PHP quality checks from your console (3 months ago)
-- [MA3STR0/kimsufi-crawler](https://github.com/MA3STR0/kimsufi-crawler) - Crawler that will send you an email alert as soon as servers on OVH/Kimsufi become available for purchase (3 months ago)
+- [MA3STR0/kimsufi-crawler](https://github.com/MA3STR0/kimsufi-crawler) - Crawler that will send you an email alert as soon as servers on OVH/Kimsufi become available for purchase (4 months ago)
 - [appuio/ansible-ini2yaml](https://github.com/appuio/ansible-ini2yaml) - Ansible INI to YAML inventory converter (4 months ago)
 
 #### 👯 Check out some of my recent followers
