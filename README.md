@@ -6,16 +6,16 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) -  (today)
 - [Casrime/bilemo](https://github.com/Casrime/bilemo) - OpenClassrooms - Projet 7 du parcours Développeur d&#39;Applications PHP / Symfony (2 days ago)
 - [symfony/symfony-docs](https://github.com/symfony/symfony-docs) - The Symfony documentation (2 weeks ago)
 - [abdounikarim/test_lfz](https://github.com/abdounikarim/test_lfz) -  (1 month ago)
-- [abdounikarim/symfonycasts-api-platform-security](https://github.com/abdounikarim/symfonycasts-api-platform-security) -  (2 months ago)
 - [abdounikarim/symfonycasts-vue-js](https://github.com/abdounikarim/symfonycasts-vue-js) - SymfonyCasts - Vue.js courses (2 months ago)
 - [abdounikarim/symfonycasts-webpack](https://github.com/abdounikarim/symfonycasts-webpack) -  (2 months ago)
 - [abdounikarim/guestbook](https://github.com/abdounikarim/guestbook) - Symfony 5 - The fast track (2 months ago)
 - [abdounikarim/symfonycasts-react](https://github.com/abdounikarim/symfonycasts-react) -  (2 months ago)
+- [abdounikarim/symfonycasts-api-platform-security](https://github.com/abdounikarim/symfonycasts-api-platform-security) -  (2 months ago)
 - [abdounikarim/symfonycasts-mailer](https://github.com/abdounikarim/symfonycasts-mailer) -  (2 months ago)
-- [abdounikarim/symfonycasts-api-platform](https://github.com/abdounikarim/symfonycasts-api-platform) -  (2 months ago)
 
 #### 🌱 My latest projects
 
@@ -27,8 +27,8 @@
 - [abdounikarim/cauldron_overflow](https://github.com/abdounikarim/cauldron_overflow) - 
 - [abdounikarim/web-and-mobile-app](https://github.com/abdounikarim/web-and-mobile-app) - 
 - [abdounikarim/symfonycasts-vue-js](https://github.com/abdounikarim/symfonycasts-vue-js) - SymfonyCasts - Vue.js courses
-- [abdounikarim/bilemo-vue-js](https://github.com/abdounikarim/bilemo-vue-js) - 
 - [abdounikarim/team-project](https://github.com/abdounikarim/team-project) - 
+- [abdounikarim/symfony-docker-kubernetes](https://github.com/abdounikarim/symfony-docker-kubernetes) - 
 
 #### 🔭 Latest releases I've contributed to
 
@@ -39,6 +39,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Add rector](https://github.com/abdounikarim/portfolio/pull/58) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (today)
 - [add blackfire configuration](https://github.com/Casrime/bilemo/pull/38) on [Casrime/bilemo](https://github.com/Casrime/bilemo) (1 week ago)
 - [Tests](https://github.com/Casrime/bilemo/pull/36) on [Casrime/bilemo](https://github.com/Casrime/bilemo) (2 weeks ago)
 - [Upgrade symfony authentication](https://github.com/Casrime/bilemo/pull/35) on [Casrime/bilemo](https://github.com/Casrime/bilemo) (2 weeks ago)
