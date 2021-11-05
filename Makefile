@@ -18,11 +18,17 @@ install:
 						## Install PHP 8.0
 						@brew install php@8.0
 
+						## Install Composer
+						@brew install composer
+
 						## Install Symfony CLI
 						@curl -sS https://get.symfony.com/cli/installer | bash
 
 						## Move Symfony CLI
 						@mv /Users/$(USER)/.symfony/bin/symfony /usr/local/bin/symfony
+
+						## Install Yarn
+						@brew install yarn
 
 						## Install Ansible
 						@brew install ansible
