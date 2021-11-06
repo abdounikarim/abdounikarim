@@ -6,8 +6,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) -  (today)
-- [Casrime/bilemo](https://github.com/Casrime/bilemo) - OpenClassrooms - Projet 7 du parcours Développeur d&#39;Applications PHP / Symfony (2 days ago)
+- [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) -  (1 day ago)
+- [Casrime/bilemo](https://github.com/Casrime/bilemo) - OpenClassrooms - Projet 7 du parcours Développeur d&#39;Applications PHP / Symfony (3 days ago)
 - [symfony/symfony-docs](https://github.com/symfony/symfony-docs) - The Symfony documentation (2 weeks ago)
 - [abdounikarim/test_lfz](https://github.com/abdounikarim/test_lfz) -  (1 month ago)
 - [abdounikarim/symfonycasts-vue-js](https://github.com/abdounikarim/symfonycasts-vue-js) - SymfonyCasts - Vue.js courses (2 months ago)
@@ -32,14 +32,14 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v6.0.0-BETA1](https://github.com/symfony/symfony/releases/tag/v6.0.0-BETA1), today) - The Symfony PHP framework
-- [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v1.10.5](https://github.com/Sylius/Sylius/releases/tag/v1.10.5), 2 days ago) - Open Source eCommerce Platform on Symfony
+- [symfony/symfony](https://github.com/symfony/symfony) ([v6.0.0-BETA1](https://github.com/symfony/symfony/releases/tag/v6.0.0-BETA1), 1 day ago) - The Symfony PHP framework
+- [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v1.10.5](https://github.com/Sylius/Sylius/releases/tag/v1.10.5), 3 days ago) - Open Source eCommerce Platform on Symfony
 - [doctrine/migrations](https://github.com/doctrine/migrations) ([3.3.0](https://github.com/doctrine/migrations/releases/tag/3.3.0), 3 weeks ago) - Doctrine Database Migrations Library
 - [api-platform/core](https://github.com/api-platform/core) ([v2.6.6](https://github.com/api-platform/core/releases/tag/v2.6.6), 1 month ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 
 #### 🔨 My recent Pull Requests
 
-- [Add rector](https://github.com/abdounikarim/portfolio/pull/58) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (today)
+- [Add rector](https://github.com/abdounikarim/portfolio/pull/58) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (1 day ago)
 - [add blackfire configuration](https://github.com/Casrime/bilemo/pull/38) on [Casrime/bilemo](https://github.com/Casrime/bilemo) (1 week ago)
 - [Tests](https://github.com/Casrime/bilemo/pull/36) on [Casrime/bilemo](https://github.com/Casrime/bilemo) (2 weeks ago)
 - [Upgrade symfony authentication](https://github.com/Casrime/bilemo/pull/35) on [Casrime/bilemo](https://github.com/Casrime/bilemo) (2 weeks ago)
@@ -54,7 +54,7 @@
 
 #### ⭐ Recent Stars
 
-- [shivammathur/homebrew-php](https://github.com/shivammathur/homebrew-php) - :beer: Homebrew tap for PHP 5.6 to 8.2. PHP 8.1 and 8.2 are nightly builds. (today)
+- [shivammathur/homebrew-php](https://github.com/shivammathur/homebrew-php) - :beer: Homebrew tap for PHP 5.6 to 8.2. PHP 8.1 and 8.2 are nightly builds. (1 day ago)
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age (formerly Terminus) (1 week ago)
 - [DEAKSoftware/Synergy-Binaries](https://github.com/DEAKSoftware/Synergy-Binaries) - Download the latest stable Synergy binaries. (1 week ago)
 - [AmmeySaini/Edu-Mail-Generator](https://github.com/AmmeySaini/Edu-Mail-Generator) - Generate Free Edu Mail(s) within minutes (1 month ago)
