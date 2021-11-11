@@ -32,9 +32,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [doctrine/migrations](https://github.com/doctrine/migrations) ([3.3.1](https://github.com/doctrine/migrations/releases/tag/3.3.1), today) - Doctrine Database Migrations Library
 - [symfony/symfony](https://github.com/symfony/symfony) ([v6.0.0-BETA1](https://github.com/symfony/symfony/releases/tag/v6.0.0-BETA1), 6 days ago) - The Symfony PHP framework
 - [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v1.10.5](https://github.com/Sylius/Sylius/releases/tag/v1.10.5), 1 week ago) - Open Source eCommerce Platform on Symfony
-- [doctrine/migrations](https://github.com/doctrine/migrations) ([3.3.0](https://github.com/doctrine/migrations/releases/tag/3.3.0), 3 weeks ago) - Doctrine Database Migrations Library
 - [api-platform/core](https://github.com/api-platform/core) ([v2.6.6](https://github.com/api-platform/core/releases/tag/v2.6.6), 1 month ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 
 #### 🔨 My recent Pull Requests
