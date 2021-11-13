@@ -32,7 +32,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [doctrine/migrations](https://github.com/doctrine/migrations) ([3.3.2](https://github.com/doctrine/migrations/releases/tag/3.3.2), today) - Doctrine Database Migrations Library
+- [doctrine/migrations](https://github.com/doctrine/migrations) ([3.3.2](https://github.com/doctrine/migrations/releases/tag/3.3.2), 1 day ago) - Doctrine Database Migrations Library
 - [symfony/symfony](https://github.com/symfony/symfony) ([v6.0.0-BETA1](https://github.com/symfony/symfony/releases/tag/v6.0.0-BETA1), 1 week ago) - The Symfony PHP framework
 - [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v1.10.5](https://github.com/Sylius/Sylius/releases/tag/v1.10.5), 1 week ago) - Open Source eCommerce Platform on Symfony
 - [api-platform/core](https://github.com/api-platform/core) ([v2.6.6](https://github.com/api-platform/core/releases/tag/v2.6.6), 1 month ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
@@ -62,7 +62,7 @@
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books (2 months ago)
 - [andreia/symfony-cheat-sheets](https://github.com/andreia/symfony-cheat-sheets) - Symfony Cheat Sheets (3 months ago)
 - [Timherlaud/Symfony-training](https://github.com/Timherlaud/Symfony-training) - cheat sheet for symfony certification (3 months ago)
-- [nunomaduro/phpinsights](https://github.com/nunomaduro/phpinsights) - 🔰 Instant PHP quality checks from your console (3 months ago)
+- [nunomaduro/phpinsights](https://github.com/nunomaduro/phpinsights) - 🔰 Instant PHP quality checks from your console (4 months ago)
 - [MA3STR0/kimsufi-crawler](https://github.com/MA3STR0/kimsufi-crawler) - Crawler that will send you an email alert as soon as servers on OVH/Kimsufi become available for purchase (4 months ago)
 
 #### 👯 Check out some of my recent followers
