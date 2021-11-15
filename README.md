@@ -6,7 +6,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) -  (1 week ago)
+- [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) -  (today)
 - [Casrime/bilemo](https://github.com/Casrime/bilemo) - OpenClassrooms - Projet 7 du parcours Développeur d&#39;Applications PHP / Symfony (1 week ago)
 - [symfony/symfony-docs](https://github.com/symfony/symfony-docs) - The Symfony documentation (3 weeks ago)
 - [abdounikarim/test_lfz](https://github.com/abdounikarim/test_lfz) -  (1 month ago)
@@ -39,6 +39,9 @@
 
 #### 🔨 My recent Pull Requests
 
+- [add infection](https://github.com/abdounikarim/portfolio/pull/62) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (today)
+- [Revert &#34;add infection&#34;](https://github.com/abdounikarim/portfolio/pull/61) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (today)
+- [add infection](https://github.com/abdounikarim/portfolio/pull/60) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (today)
 - [Add rector](https://github.com/abdounikarim/portfolio/pull/58) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (1 week ago)
 - [add blackfire configuration](https://github.com/Casrime/bilemo/pull/38) on [Casrime/bilemo](https://github.com/Casrime/bilemo) (2 weeks ago)
 - [Tests](https://github.com/Casrime/bilemo/pull/36) on [Casrime/bilemo](https://github.com/Casrime/bilemo) (3 weeks ago)
@@ -46,7 +49,6 @@
 - [[Security] Update security.rst](https://github.com/symfony/symfony-docs/pull/15954) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (3 weeks ago)
 - [Update security.rst](https://github.com/symfony/symfony-docs/pull/15953) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (3 weeks ago)
 - [delete mysql migrations and generate postgresql migrations](https://github.com/Casrime/bilemo/pull/33) on [Casrime/bilemo](https://github.com/Casrime/bilemo) (3 weeks ago)
-- [Update to symfony 5](https://github.com/Casrime/bilemo/pull/32) on [Casrime/bilemo](https://github.com/Casrime/bilemo) (3 weeks ago)
 
 #### 📓 Gists I wrote
 
