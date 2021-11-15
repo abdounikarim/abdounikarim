@@ -48,7 +48,6 @@
 - [Upgrade symfony authentication](https://github.com/Casrime/bilemo/pull/35) on [Casrime/bilemo](https://github.com/Casrime/bilemo) (3 weeks ago)
 - [[Security] Update security.rst](https://github.com/symfony/symfony-docs/pull/15954) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (3 weeks ago)
 - [Update security.rst](https://github.com/symfony/symfony-docs/pull/15953) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (3 weeks ago)
-- [delete mysql migrations and generate postgresql migrations](https://github.com/Casrime/bilemo/pull/33) on [Casrime/bilemo](https://github.com/Casrime/bilemo) (3 weeks ago)
 
 #### 📓 Gists I wrote
 
