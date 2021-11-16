@@ -39,6 +39,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Upgrade security system](https://github.com/abdounikarim/portfolio/pull/64) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (today)
 - [Upgrade easy admin bundle](https://github.com/abdounikarim/portfolio/pull/63) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (today)
 - [add infection](https://github.com/abdounikarim/portfolio/pull/62) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (1 day ago)
 - [Revert &#34;add infection&#34;](https://github.com/abdounikarim/portfolio/pull/61) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (1 day ago)
@@ -47,7 +48,6 @@
 - [add blackfire configuration](https://github.com/Casrime/bilemo/pull/38) on [Casrime/bilemo](https://github.com/Casrime/bilemo) (2 weeks ago)
 - [Tests](https://github.com/Casrime/bilemo/pull/36) on [Casrime/bilemo](https://github.com/Casrime/bilemo) (3 weeks ago)
 - [Upgrade symfony authentication](https://github.com/Casrime/bilemo/pull/35) on [Casrime/bilemo](https://github.com/Casrime/bilemo) (4 weeks ago)
-- [[Security] Update security.rst](https://github.com/symfony/symfony-docs/pull/15954) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (4 weeks ago)
 
 #### 📓 Gists I wrote
 
