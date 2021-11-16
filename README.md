@@ -6,7 +6,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) -  (1 day ago)
+- [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) -  (today)
 - [Casrime/bilemo](https://github.com/Casrime/bilemo) - OpenClassrooms - Projet 7 du parcours Développeur d&#39;Applications PHP / Symfony (1 week ago)
 - [symfony/symfony-docs](https://github.com/symfony/symfony-docs) - The Symfony documentation (4 weeks ago)
 - [abdounikarim/test_lfz](https://github.com/abdounikarim/test_lfz) -  (1 month ago)
@@ -39,6 +39,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Upgrade easy admin bundle](https://github.com/abdounikarim/portfolio/pull/63) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (today)
 - [add infection](https://github.com/abdounikarim/portfolio/pull/62) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (1 day ago)
 - [Revert &#34;add infection&#34;](https://github.com/abdounikarim/portfolio/pull/61) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (1 day ago)
 - [add infection](https://github.com/abdounikarim/portfolio/pull/60) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (1 day ago)
@@ -47,7 +48,6 @@
 - [Tests](https://github.com/Casrime/bilemo/pull/36) on [Casrime/bilemo](https://github.com/Casrime/bilemo) (3 weeks ago)
 - [Upgrade symfony authentication](https://github.com/Casrime/bilemo/pull/35) on [Casrime/bilemo](https://github.com/Casrime/bilemo) (4 weeks ago)
 - [[Security] Update security.rst](https://github.com/symfony/symfony-docs/pull/15954) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (4 weeks ago)
-- [Update security.rst](https://github.com/symfony/symfony-docs/pull/15953) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (4 weeks ago)
 
 #### 📓 Gists I wrote
 
