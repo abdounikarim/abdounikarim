@@ -46,7 +46,6 @@
 - [add infection](https://github.com/abdounikarim/portfolio/pull/60) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (2 days ago)
 - [Add rector](https://github.com/abdounikarim/portfolio/pull/58) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (1 week ago)
 - [add blackfire configuration](https://github.com/Casrime/bilemo/pull/38) on [Casrime/bilemo](https://github.com/Casrime/bilemo) (2 weeks ago)
-- [Tests](https://github.com/Casrime/bilemo/pull/36) on [Casrime/bilemo](https://github.com/Casrime/bilemo) (3 weeks ago)
 
 #### 📓 Gists I wrote
 
