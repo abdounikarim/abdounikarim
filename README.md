@@ -41,7 +41,6 @@
 
 - [Upgrade security system](https://github.com/abdounikarim/portfolio/pull/64) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (1 day ago)
 - [Upgrade easy admin bundle](https://github.com/abdounikarim/portfolio/pull/63) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (1 day ago)
-- [add infection](https://github.com/abdounikarim/portfolio/pull/62) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (2 days ago)
 
 #### 📓 Gists I wrote
 
