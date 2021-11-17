@@ -6,8 +6,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) -  (today)
-- [Casrime/bilemo](https://github.com/Casrime/bilemo) - OpenClassrooms - Projet 7 du parcours Développeur d&#39;Applications PHP / Symfony (1 week ago)
+- [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) -  (1 day ago)
+- [Casrime/bilemo](https://github.com/Casrime/bilemo) - OpenClassrooms - Projet 7 du parcours Développeur d&#39;Applications PHP / Symfony (2 weeks ago)
 - [symfony/symfony-docs](https://github.com/symfony/symfony-docs) - The Symfony documentation (4 weeks ago)
 - [abdounikarim/test_lfz](https://github.com/abdounikarim/test_lfz) -  (1 month ago)
 - [abdounikarim/symfonycasts-react](https://github.com/abdounikarim/symfonycasts-react) -  (3 months ago)
@@ -32,18 +32,18 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v6.0.0-BETA2](https://github.com/symfony/symfony/releases/tag/v6.0.0-BETA2), 2 days ago) - The Symfony PHP framework
-- [doctrine/migrations](https://github.com/doctrine/migrations) ([3.3.2](https://github.com/doctrine/migrations/releases/tag/3.3.2), 4 days ago) - Doctrine Database Migrations Library
-- [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v1.10.5](https://github.com/Sylius/Sylius/releases/tag/v1.10.5), 1 week ago) - Open Source eCommerce Platform on Symfony
+- [symfony/symfony](https://github.com/symfony/symfony) ([v6.0.0-BETA2](https://github.com/symfony/symfony/releases/tag/v6.0.0-BETA2), 3 days ago) - The Symfony PHP framework
+- [doctrine/migrations](https://github.com/doctrine/migrations) ([3.3.2](https://github.com/doctrine/migrations/releases/tag/3.3.2), 5 days ago) - Doctrine Database Migrations Library
+- [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v1.10.5](https://github.com/Sylius/Sylius/releases/tag/v1.10.5), 2 weeks ago) - Open Source eCommerce Platform on Symfony
 - [api-platform/core](https://github.com/api-platform/core) ([v2.6.6](https://github.com/api-platform/core/releases/tag/v2.6.6), 1 month ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 
 #### 🔨 My recent Pull Requests
 
-- [Upgrade security system](https://github.com/abdounikarim/portfolio/pull/64) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (today)
-- [Upgrade easy admin bundle](https://github.com/abdounikarim/portfolio/pull/63) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (today)
-- [add infection](https://github.com/abdounikarim/portfolio/pull/62) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (1 day ago)
-- [Revert &#34;add infection&#34;](https://github.com/abdounikarim/portfolio/pull/61) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (1 day ago)
-- [add infection](https://github.com/abdounikarim/portfolio/pull/60) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (1 day ago)
+- [Upgrade security system](https://github.com/abdounikarim/portfolio/pull/64) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (1 day ago)
+- [Upgrade easy admin bundle](https://github.com/abdounikarim/portfolio/pull/63) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (1 day ago)
+- [add infection](https://github.com/abdounikarim/portfolio/pull/62) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (2 days ago)
+- [Revert &#34;add infection&#34;](https://github.com/abdounikarim/portfolio/pull/61) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (2 days ago)
+- [add infection](https://github.com/abdounikarim/portfolio/pull/60) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (2 days ago)
 - [Add rector](https://github.com/abdounikarim/portfolio/pull/58) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (1 week ago)
 - [add blackfire configuration](https://github.com/Casrime/bilemo/pull/38) on [Casrime/bilemo](https://github.com/Casrime/bilemo) (2 weeks ago)
 - [Tests](https://github.com/Casrime/bilemo/pull/36) on [Casrime/bilemo](https://github.com/Casrime/bilemo) (3 weeks ago)
