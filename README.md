@@ -40,7 +40,6 @@
 #### 🔨 My recent Pull Requests
 
 - [Upgrade security system](https://github.com/abdounikarim/portfolio/pull/64) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (6 days ago)
-- [Upgrade easy admin bundle](https://github.com/abdounikarim/portfolio/pull/63) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (6 days ago)
 
 #### 📓 Gists I wrote
 
