@@ -10,12 +10,12 @@
 - [Casrime/bilemo](https://github.com/Casrime/bilemo) - OpenClassrooms - Projet 7 du parcours Développeur d&#39;Applications PHP / Symfony (3 weeks ago)
 - [symfony/symfony-docs](https://github.com/symfony/symfony-docs) - The Symfony documentation (1 month ago)
 - [abdounikarim/test_lfz](https://github.com/abdounikarim/test_lfz) -  (2 months ago)
-- [abdounikarim/the_spacebar](https://github.com/abdounikarim/the_spacebar) -  (3 months ago)
+- [abdounikarim/symfony4.4-contributing](https://github.com/abdounikarim/symfony4.4-contributing) -  (3 months ago)
 - [abdounikarim/symfonycasts-webpack](https://github.com/abdounikarim/symfonycasts-webpack) -  (3 months ago)
 - [abdounikarim/guestbook](https://github.com/abdounikarim/guestbook) - Symfony 5 - The fast track (3 months ago)
 - [abdounikarim/symfonycasts-react](https://github.com/abdounikarim/symfonycasts-react) -  (3 months ago)
 - [abdounikarim/symfonycasts-javascript-es2015](https://github.com/abdounikarim/symfonycasts-javascript-es2015) -  (3 months ago)
-- [abdounikarim/symfonycasts-api-platform-security](https://github.com/abdounikarim/symfonycasts-api-platform-security) -  (3 months ago)
+- [abdounikarim/the_spacebar](https://github.com/abdounikarim/the_spacebar) -  (3 months ago)
 
 #### 🌱 My latest projects
 
