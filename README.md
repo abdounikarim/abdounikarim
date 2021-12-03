@@ -7,7 +7,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) -  (2 weeks ago)
-- [Casrime/bilemo](https://github.com/Casrime/bilemo) - OpenClassrooms - Projet 7 du parcours Développeur d&#39;Applications PHP / Symfony (4 weeks ago)
+- [Casrime/bilemo](https://github.com/Casrime/bilemo) - OpenClassrooms - Projet 7 du parcours Développeur d&#39;Applications PHP / Symfony (1 month ago)
 - [symfony/symfony-docs](https://github.com/symfony/symfony-docs) - The Symfony documentation (1 month ago)
 - [abdounikarim/test_lfz](https://github.com/abdounikarim/test_lfz) -  (2 months ago)
 - [abdounikarim/symfony4.4-contributing](https://github.com/abdounikarim/symfony4.4-contributing) -  (3 months ago)
@@ -32,9 +32,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v6.0.0](https://github.com/symfony/symfony/releases/tag/v6.0.0), 3 days ago) - The Symfony PHP framework
-- [doctrine/migrations](https://github.com/doctrine/migrations) ([3.3.2](https://github.com/doctrine/migrations/releases/tag/3.3.2), 2 weeks ago) - Doctrine Database Migrations Library
-- [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v1.10.5](https://github.com/Sylius/Sylius/releases/tag/v1.10.5), 4 weeks ago) - Open Source eCommerce Platform on Symfony
+- [symfony/symfony](https://github.com/symfony/symfony) ([v6.0.0](https://github.com/symfony/symfony/releases/tag/v6.0.0), 4 days ago) - The Symfony PHP framework
+- [doctrine/migrations](https://github.com/doctrine/migrations) ([3.3.2](https://github.com/doctrine/migrations/releases/tag/3.3.2), 3 weeks ago) - Doctrine Database Migrations Library
+- [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v1.10.5](https://github.com/Sylius/Sylius/releases/tag/v1.10.5), 1 month ago) - Open Source eCommerce Platform on Symfony
 - [api-platform/core](https://github.com/api-platform/core) ([v2.6.6](https://github.com/api-platform/core/releases/tag/v2.6.6), 2 months ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 
 #### 🔨 My recent Pull Requests
@@ -46,7 +46,7 @@
 
 #### ⭐ Recent Stars
 
-- [shivammathur/homebrew-php](https://github.com/shivammathur/homebrew-php) - :beer: Homebrew tap for PHP 5.6 to 8.2. PHP 8.2 is a nightly build. (3 weeks ago)
+- [shivammathur/homebrew-php](https://github.com/shivammathur/homebrew-php) - :beer: Homebrew tap for PHP 5.6 to 8.2. PHP 8.2 is a nightly build. (4 weeks ago)
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age (formerly Terminus) (1 month ago)
 - [DEAKSoftware/Synergy-Binaries](https://github.com/DEAKSoftware/Synergy-Binaries) - Download the latest stable Synergy binaries. (1 month ago)
 - [AmmeySaini/Edu-Mail-Generator](https://github.com/AmmeySaini/Edu-Mail-Generator) - Generate Free Edu Mail(s) within minutes (1 month ago)
