@@ -39,6 +39,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Add article](https://github.com/abdounikarim/portfolio/pull/77) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (today)
 - [Remove spa](https://github.com/abdounikarim/portfolio/pull/75) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (today)
 - [Upgrade to Symfony 5.4](https://github.com/abdounikarim/portfolio/pull/73) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (1 day ago)
 
