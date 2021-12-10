@@ -6,16 +6,16 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) -  (today)
+- [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) -  (1 day ago)
 - [Casrime/bilemo](https://github.com/Casrime/bilemo) - OpenClassrooms - Projet 7 du parcours Développeur d&#39;Applications PHP / Symfony (1 month ago)
 - [symfony/symfony-docs](https://github.com/symfony/symfony-docs) - The Symfony documentation (1 month ago)
 - [abdounikarim/test_lfz](https://github.com/abdounikarim/test_lfz) -  (2 months ago)
-- [abdounikarim/symfony4.4-contributing](https://github.com/abdounikarim/symfony4.4-contributing) -  (3 months ago)
-- [abdounikarim/symfonycasts-webpack](https://github.com/abdounikarim/symfonycasts-webpack) -  (3 months ago)
-- [abdounikarim/guestbook](https://github.com/abdounikarim/guestbook) - Symfony 5 - The fast track (3 months ago)
-- [abdounikarim/symfonycasts-react](https://github.com/abdounikarim/symfonycasts-react) -  (3 months ago)
-- [abdounikarim/symfonycasts-javascript-es2015](https://github.com/abdounikarim/symfonycasts-javascript-es2015) -  (3 months ago)
-- [abdounikarim/the_spacebar](https://github.com/abdounikarim/the_spacebar) -  (3 months ago)
+- [abdounikarim/symfony4.4-contributing](https://github.com/abdounikarim/symfony4.4-contributing) -  (4 months ago)
+- [abdounikarim/symfonycasts-webpack](https://github.com/abdounikarim/symfonycasts-webpack) -  (4 months ago)
+- [abdounikarim/guestbook](https://github.com/abdounikarim/guestbook) - Symfony 5 - The fast track (4 months ago)
+- [abdounikarim/symfonycasts-react](https://github.com/abdounikarim/symfonycasts-react) -  (4 months ago)
+- [abdounikarim/symfonycasts-javascript-es2015](https://github.com/abdounikarim/symfonycasts-javascript-es2015) -  (4 months ago)
+- [abdounikarim/the_spacebar](https://github.com/abdounikarim/the_spacebar) -  (4 months ago)
 
 #### 🌱 My latest projects
 
@@ -32,16 +32,16 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v1.10.7](https://github.com/Sylius/Sylius/releases/tag/v1.10.7), today) - Open Source eCommerce Platform on Symfony
-- [symfony/symfony](https://github.com/symfony/symfony) ([v6.0.1](https://github.com/symfony/symfony/releases/tag/v6.0.1), today) - The Symfony PHP framework
-- [doctrine/migrations](https://github.com/doctrine/migrations) ([3.3.2](https://github.com/doctrine/migrations/releases/tag/3.3.2), 3 weeks ago) - Doctrine Database Migrations Library
+- [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v1.10.7](https://github.com/Sylius/Sylius/releases/tag/v1.10.7), 1 day ago) - Open Source eCommerce Platform on Symfony
+- [symfony/symfony](https://github.com/symfony/symfony) ([v6.0.1](https://github.com/symfony/symfony/releases/tag/v6.0.1), 1 day ago) - The Symfony PHP framework
+- [doctrine/migrations](https://github.com/doctrine/migrations) ([3.3.2](https://github.com/doctrine/migrations/releases/tag/3.3.2), 4 weeks ago) - Doctrine Database Migrations Library
 - [api-platform/core](https://github.com/api-platform/core) ([v2.6.6](https://github.com/api-platform/core/releases/tag/v2.6.6), 2 months ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 
 #### 🔨 My recent Pull Requests
 
-- [Add article](https://github.com/abdounikarim/portfolio/pull/77) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (today)
-- [Remove spa](https://github.com/abdounikarim/portfolio/pull/75) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (today)
-- [Upgrade to Symfony 5.4](https://github.com/abdounikarim/portfolio/pull/73) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (1 day ago)
+- [Add article](https://github.com/abdounikarim/portfolio/pull/77) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (1 day ago)
+- [Remove spa](https://github.com/abdounikarim/portfolio/pull/75) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (1 day ago)
+- [Upgrade to Symfony 5.4](https://github.com/abdounikarim/portfolio/pull/73) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (2 days ago)
 
 #### 📓 Gists I wrote
 
