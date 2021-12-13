@@ -38,6 +38,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Ansible for configuration and deployment](https://github.com/abdounikarim/portfolio/pull/78) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (today)
 - [Add article](https://github.com/abdounikarim/portfolio/pull/77) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (4 days ago)
 - [Remove spa](https://github.com/abdounikarim/portfolio/pull/75) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (4 days ago)
 - [Upgrade to Symfony 5.4](https://github.com/abdounikarim/portfolio/pull/73) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (5 days ago)
