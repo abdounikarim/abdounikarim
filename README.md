@@ -38,6 +38,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Replace grumphp by checks in ci](https://github.com/abdounikarim/portfolio/pull/85) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (today)
 - [remove unused commands](https://github.com/abdounikarim/portfolio/pull/83) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (today)
 - [Add tests](https://github.com/abdounikarim/portfolio/pull/82) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (today)
 - [Deploy to prod](https://github.com/abdounikarim/portfolio/pull/80) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (today)
