@@ -6,7 +6,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) -  (4 days ago)
+- [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) -  (5 days ago)
 - [Casrime/bilemo](https://github.com/Casrime/bilemo) - OpenClassrooms - Projet 7 du parcours Développeur d&#39;Applications PHP / Symfony (1 month ago)
 - [symfony/symfony-docs](https://github.com/symfony/symfony-docs) - The Symfony documentation (1 month ago)
 - [abdounikarim/test_lfz](https://github.com/abdounikarim/test_lfz) -  (2 months ago)
@@ -32,17 +32,17 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v6.0.1](https://github.com/symfony/symfony/releases/tag/v6.0.1), 4 days ago) - The Symfony PHP framework
+- [symfony/symfony](https://github.com/symfony/symfony) ([v6.0.1](https://github.com/symfony/symfony/releases/tag/v6.0.1), 5 days ago) - The Symfony PHP framework
 - [doctrine/migrations](https://github.com/doctrine/migrations) ([3.3.2](https://github.com/doctrine/migrations/releases/tag/3.3.2), 1 month ago) - Doctrine Database Migrations Library
 - [api-platform/core](https://github.com/api-platform/core) ([v2.6.6](https://github.com/api-platform/core/releases/tag/v2.6.6), 2 months ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 
 #### 🔨 My recent Pull Requests
 
-- [Add CI /CD configuration with Github Actions](https://github.com/abdounikarim/portfolio/pull/79) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (today)
-- [Ansible for configuration and deployment](https://github.com/abdounikarim/portfolio/pull/78) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (today)
-- [Add article](https://github.com/abdounikarim/portfolio/pull/77) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (4 days ago)
-- [Remove spa](https://github.com/abdounikarim/portfolio/pull/75) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (4 days ago)
-- [Upgrade to Symfony 5.4](https://github.com/abdounikarim/portfolio/pull/73) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (5 days ago)
+- [Add CI /CD configuration with Github Actions](https://github.com/abdounikarim/portfolio/pull/79) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (1 day ago)
+- [Ansible for configuration and deployment](https://github.com/abdounikarim/portfolio/pull/78) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (1 day ago)
+- [Add article](https://github.com/abdounikarim/portfolio/pull/77) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (5 days ago)
+- [Remove spa](https://github.com/abdounikarim/portfolio/pull/75) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (5 days ago)
+- [Upgrade to Symfony 5.4](https://github.com/abdounikarim/portfolio/pull/73) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (6 days ago)
 
 #### 📓 Gists I wrote
 
@@ -50,7 +50,7 @@
 
 #### ⭐ Recent Stars
 
-- [abdounikarim/codededev](https://github.com/abdounikarim/codededev) -  (today)
+- [abdounikarim/codededev](https://github.com/abdounikarim/codededev) -  (1 day ago)
 - [shivammathur/homebrew-php](https://github.com/shivammathur/homebrew-php) - :beer: Homebrew tap for PHP 5.6 to 8.2. PHP 8.2 is a nightly build. (1 month ago)
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age (formerly Terminus) (1 month ago)
 - [DEAKSoftware/Synergy-Binaries](https://github.com/DEAKSoftware/Synergy-Binaries) - Download the latest stable Synergy binaries. (1 month ago)
