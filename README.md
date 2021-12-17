@@ -38,6 +38,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Docker configuration](https://github.com/Casrime/todolist/pull/2) on [Casrime/todolist](https://github.com/Casrime/todolist) (today)
+- [Migrate to symfony 5 4](https://github.com/Casrime/todolist/pull/1) on [Casrime/todolist](https://github.com/Casrime/todolist) (today)
 - [Github CI](https://github.com/Casrime/bilemo/pull/41) on [Casrime/bilemo](https://github.com/Casrime/bilemo) (today)
 - [Replace grumphp by checks in ci](https://github.com/abdounikarim/portfolio/pull/85) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (3 days ago)
 - [remove unused commands](https://github.com/abdounikarim/portfolio/pull/83) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (3 days ago)
@@ -46,8 +48,6 @@
 - [Add CI /CD configuration with Github Actions](https://github.com/abdounikarim/portfolio/pull/79) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (4 days ago)
 - [Ansible for configuration and deployment](https://github.com/abdounikarim/portfolio/pull/78) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (4 days ago)
 - [Add article](https://github.com/abdounikarim/portfolio/pull/77) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (1 week ago)
-- [Remove spa](https://github.com/abdounikarim/portfolio/pull/75) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (1 week ago)
-- [Upgrade to Symfony 5.4](https://github.com/abdounikarim/portfolio/pull/73) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (1 week ago)
 
 #### 📓 Gists I wrote
 
