@@ -6,10 +6,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) -  (4 days ago)
+- [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) -  (5 days ago)
 - [Casrime/bilemo](https://github.com/Casrime/bilemo) - OpenClassrooms - Projet 7 du parcours Développeur d&#39;Applications PHP / Symfony (1 month ago)
 - [symfony/symfony-docs](https://github.com/symfony/symfony-docs) - The Symfony documentation (2 months ago)
-- [abdounikarim/test_lfz](https://github.com/abdounikarim/test_lfz) -  (2 months ago)
+- [abdounikarim/test_lfz](https://github.com/abdounikarim/test_lfz) -  (3 months ago)
 - [abdounikarim/symfonycasts-vue-js](https://github.com/abdounikarim/symfonycasts-vue-js) - SymfonyCasts - Vue.js courses (4 months ago)
 - [abdounikarim/symfonycasts-webpack](https://github.com/abdounikarim/symfonycasts-webpack) -  (4 months ago)
 - [abdounikarim/guestbook](https://github.com/abdounikarim/guestbook) - Symfony 5 - The fast track (4 months ago)
@@ -38,20 +38,20 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Docker configuration](https://github.com/Casrime/todolist/pull/2) on [Casrime/todolist](https://github.com/Casrime/todolist) (3 days ago)
-- [Migrate to symfony 5 4](https://github.com/Casrime/todolist/pull/1) on [Casrime/todolist](https://github.com/Casrime/todolist) (3 days ago)
-- [Github CI](https://github.com/Casrime/bilemo/pull/41) on [Casrime/bilemo](https://github.com/Casrime/bilemo) (3 days ago)
-- [Replace grumphp by checks in ci](https://github.com/abdounikarim/portfolio/pull/85) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (6 days ago)
-- [remove unused commands](https://github.com/abdounikarim/portfolio/pull/83) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (6 days ago)
-- [Add tests](https://github.com/abdounikarim/portfolio/pull/82) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (6 days ago)
-- [Deploy to prod](https://github.com/abdounikarim/portfolio/pull/80) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (6 days ago)
+- [Docker configuration](https://github.com/Casrime/todolist/pull/2) on [Casrime/todolist](https://github.com/Casrime/todolist) (4 days ago)
+- [Migrate to symfony 5 4](https://github.com/Casrime/todolist/pull/1) on [Casrime/todolist](https://github.com/Casrime/todolist) (4 days ago)
+- [Github CI](https://github.com/Casrime/bilemo/pull/41) on [Casrime/bilemo](https://github.com/Casrime/bilemo) (4 days ago)
+- [Replace grumphp by checks in ci](https://github.com/abdounikarim/portfolio/pull/85) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (1 week ago)
+- [remove unused commands](https://github.com/abdounikarim/portfolio/pull/83) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (1 week ago)
+- [Add tests](https://github.com/abdounikarim/portfolio/pull/82) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (1 week ago)
+- [Deploy to prod](https://github.com/abdounikarim/portfolio/pull/80) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (1 week ago)
 - [Add CI /CD configuration with Github Actions](https://github.com/abdounikarim/portfolio/pull/79) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (1 week ago)
 - [Ansible for configuration and deployment](https://github.com/abdounikarim/portfolio/pull/78) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (1 week ago)
 - [Add article](https://github.com/abdounikarim/portfolio/pull/77) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (1 week ago)
 
 #### 📓 Gists I wrote
 
-- [](https://gist.github.com/b237278802559acb0bcf1e2516ba718e) (6 months ago)
+- [](https://gist.github.com/b237278802559acb0bcf1e2516ba718e) (7 months ago)
 
 #### ⭐ Recent Stars
 
