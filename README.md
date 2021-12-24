@@ -38,9 +38,9 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Docker configuration](https://github.com/Casrime/todolist/pull/2) on [Casrime/todolist](https://github.com/Casrime/todolist) (6 days ago)
-- [Migrate to symfony 5 4](https://github.com/Casrime/todolist/pull/1) on [Casrime/todolist](https://github.com/Casrime/todolist) (6 days ago)
-- [Github CI](https://github.com/Casrime/bilemo/pull/41) on [Casrime/bilemo](https://github.com/Casrime/bilemo) (6 days ago)
+- [Docker configuration](https://github.com/Casrime/todolist/pull/2) on [Casrime/todolist](https://github.com/Casrime/todolist) (1 week ago)
+- [Migrate to symfony 5 4](https://github.com/Casrime/todolist/pull/1) on [Casrime/todolist](https://github.com/Casrime/todolist) (1 week ago)
+- [Github CI](https://github.com/Casrime/bilemo/pull/41) on [Casrime/bilemo](https://github.com/Casrime/bilemo) (1 week ago)
 - [Replace grumphp by checks in ci](https://github.com/abdounikarim/portfolio/pull/85) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (1 week ago)
 - [remove unused commands](https://github.com/abdounikarim/portfolio/pull/83) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (1 week ago)
 - [Add tests](https://github.com/abdounikarim/portfolio/pull/82) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (1 week ago)
