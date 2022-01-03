@@ -6,7 +6,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) -  (2 weeks ago)
+- [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) -  (today)
 - [Casrime/bilemo](https://github.com/Casrime/bilemo) - OpenClassrooms - Projet 7 du parcours Développeur d&#39;Applications PHP / Symfony (2 months ago)
 - [symfony/symfony-docs](https://github.com/symfony/symfony-docs) - The Symfony documentation (2 months ago)
 - [abdounikarim/test_lfz](https://github.com/abdounikarim/test_lfz) -  (3 months ago)
