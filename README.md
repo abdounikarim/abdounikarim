@@ -44,8 +44,8 @@
 - [remove unused commands](https://github.com/abdounikarim/portfolio/pull/83) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (2 weeks ago)
 - [Add tests](https://github.com/abdounikarim/portfolio/pull/82) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (2 weeks ago)
 - [Deploy to prod](https://github.com/abdounikarim/portfolio/pull/80) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (2 weeks ago)
-- [Add CI /CD configuration with Github Actions](https://github.com/abdounikarim/portfolio/pull/79) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (2 weeks ago)
-- [Ansible for configuration and deployment](https://github.com/abdounikarim/portfolio/pull/78) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (2 weeks ago)
+- [Add CI /CD configuration with Github Actions](https://github.com/abdounikarim/portfolio/pull/79) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (3 weeks ago)
+- [Ansible for configuration and deployment](https://github.com/abdounikarim/portfolio/pull/78) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (3 weeks ago)
 - [Add article](https://github.com/abdounikarim/portfolio/pull/77) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (3 weeks ago)
 
 #### 📓 Gists I wrote
@@ -54,11 +54,11 @@
 
 #### ⭐ Recent Stars
 
-- [abdounikarim/codededev](https://github.com/abdounikarim/codededev) -  (2 weeks ago)
+- [abdounikarim/codededev](https://github.com/abdounikarim/codededev) -  (3 weeks ago)
 - [shivammathur/homebrew-php](https://github.com/shivammathur/homebrew-php) - :beer: Homebrew tap for PHP 5.6 to 8.2. PHP 8.2 is a nightly build. (1 month ago)
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age (2 months ago)
 - [DEAKSoftware/Synergy-Binaries](https://github.com/DEAKSoftware/Synergy-Binaries) - Download the latest stable Synergy binaries. (2 months ago)
-- [AmmeySaini/Edu-Mail-Generator](https://github.com/AmmeySaini/Edu-Mail-Generator) - Generate Free Edu Mail(s) within minutes (2 months ago)
+- [AmmeySaini/Edu-Mail-Generator](https://github.com/AmmeySaini/Edu-Mail-Generator) - Generate Free Edu Mail(s) within minutes (3 months ago)
 - [sebastianbergmann/phploc](https://github.com/sebastianbergmann/phploc) - A tool for quickly measuring the size of a PHP project. (3 months ago)
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books (4 months ago)
 - [andreia/symfony-cheat-sheets](https://github.com/andreia/symfony-cheat-sheets) - Symfony Cheat Sheets (5 months ago)
