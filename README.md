@@ -37,6 +37,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [add checks and fix errors](https://github.com/Casrime/todolist/pull/3) on [Casrime/todolist](https://github.com/Casrime/todolist) (today)
 - [Docker configuration](https://github.com/Casrime/todolist/pull/2) on [Casrime/todolist](https://github.com/Casrime/todolist) (2 weeks ago)
 - [Migrate to symfony 5 4](https://github.com/Casrime/todolist/pull/1) on [Casrime/todolist](https://github.com/Casrime/todolist) (2 weeks ago)
 - [Github CI](https://github.com/Casrime/bilemo/pull/41) on [Casrime/bilemo](https://github.com/Casrime/bilemo) (2 weeks ago)
@@ -46,7 +47,6 @@
 - [Deploy to prod](https://github.com/abdounikarim/portfolio/pull/80) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (2 weeks ago)
 - [Add CI /CD configuration with Github Actions](https://github.com/abdounikarim/portfolio/pull/79) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (3 weeks ago)
 - [Ansible for configuration and deployment](https://github.com/abdounikarim/portfolio/pull/78) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (3 weeks ago)
-- [Add article](https://github.com/abdounikarim/portfolio/pull/77) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (3 weeks ago)
 
 #### 📓 Gists I wrote
 
