@@ -6,8 +6,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Casrime/chalets-et-caviar](https://github.com/Casrime/chalets-et-caviar) - OpenClassrooms - Projet 2 du parcours Développeur d&#39;Applications PHP / Symfony (today)
-- [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) -  (2 days ago)
+- [Casrime/chalets-et-caviar](https://github.com/Casrime/chalets-et-caviar) - OpenClassrooms - Projet 2 du parcours Développeur d&#39;Applications PHP / Symfony (1 day ago)
+- [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) -  (3 days ago)
 - [Casrime/bilemo](https://github.com/Casrime/bilemo) - OpenClassrooms - Projet 7 du parcours Développeur d&#39;Applications PHP / Symfony (2 months ago)
 - [symfony/symfony-docs](https://github.com/symfony/symfony-docs) - The Symfony documentation (2 months ago)
 - [abdounikarim/test_lfz](https://github.com/abdounikarim/test_lfz) -  (3 months ago)
@@ -37,7 +37,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [add checks and fix errors](https://github.com/Casrime/todolist/pull/3) on [Casrime/todolist](https://github.com/Casrime/todolist) (2 days ago)
+- [add checks and fix errors](https://github.com/Casrime/todolist/pull/3) on [Casrime/todolist](https://github.com/Casrime/todolist) (3 days ago)
 - [Docker configuration](https://github.com/Casrime/todolist/pull/2) on [Casrime/todolist](https://github.com/Casrime/todolist) (2 weeks ago)
 - [Migrate to symfony 5 4](https://github.com/Casrime/todolist/pull/1) on [Casrime/todolist](https://github.com/Casrime/todolist) (2 weeks ago)
 - [Github CI](https://github.com/Casrime/bilemo/pull/41) on [Casrime/bilemo](https://github.com/Casrime/bilemo) (2 weeks ago)
