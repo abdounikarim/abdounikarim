@@ -20,8 +20,6 @@
 #### 🌱 My latest projects
 
 - [abdounikarim/test_lfz](https://github.com/abdounikarim/test_lfz) - 
-- [abdounikarim/apprentissage-git](https://github.com/abdounikarim/apprentissage-git) - 
-- [abdounikarim/bruno](https://github.com/abdounikarim/bruno) - 
 - [abdounikarim/vue](https://github.com/abdounikarim/vue) - 
 - [abdounikarim/ponka-fy_me](https://github.com/abdounikarim/ponka-fy_me) - 
 - [abdounikarim/cauldron_overflow](https://github.com/abdounikarim/cauldron_overflow) - 
@@ -29,6 +27,8 @@
 - [abdounikarim/symfonycasts-vue-js](https://github.com/abdounikarim/symfonycasts-vue-js) - SymfonyCasts - Vue.js courses
 - [abdounikarim/team-project](https://github.com/abdounikarim/team-project) - 
 - [abdounikarim/symfony-docker-kubernetes](https://github.com/abdounikarim/symfony-docker-kubernetes) - 
+- [abdounikarim/the_spacebar](https://github.com/abdounikarim/the_spacebar) - 
+- [abdounikarim/documentation-checker](https://github.com/abdounikarim/documentation-checker) - 
 
 #### 🔭 Latest releases I've contributed to
 
