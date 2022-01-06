@@ -6,8 +6,8 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) -  (today)
 - [Casrime/chalets-et-caviar](https://github.com/Casrime/chalets-et-caviar) - OpenClassrooms - Projet 2 du parcours Développeur d&#39;Applications PHP / Symfony (1 day ago)
-- [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) -  (3 days ago)
 - [Casrime/bilemo](https://github.com/Casrime/bilemo) - OpenClassrooms - Projet 7 du parcours Développeur d&#39;Applications PHP / Symfony (2 months ago)
 - [symfony/symfony-docs](https://github.com/symfony/symfony-docs) - The Symfony documentation (2 months ago)
 - [abdounikarim/test_lfz](https://github.com/abdounikarim/test_lfz) -  (3 months ago)
@@ -37,6 +37,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Docker configuration](https://github.com/abdounikarim/portfolio/pull/87) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (today)
 - [add checks and fix errors](https://github.com/Casrime/todolist/pull/3) on [Casrime/todolist](https://github.com/Casrime/todolist) (3 days ago)
 - [Docker configuration](https://github.com/Casrime/todolist/pull/2) on [Casrime/todolist](https://github.com/Casrime/todolist) (2 weeks ago)
 - [Migrate to symfony 5 4](https://github.com/Casrime/todolist/pull/1) on [Casrime/todolist](https://github.com/Casrime/todolist) (2 weeks ago)
@@ -46,7 +47,6 @@
 - [Add tests](https://github.com/abdounikarim/portfolio/pull/82) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (3 weeks ago)
 - [Deploy to prod](https://github.com/abdounikarim/portfolio/pull/80) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (3 weeks ago)
 - [Add CI /CD configuration with Github Actions](https://github.com/abdounikarim/portfolio/pull/79) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (3 weeks ago)
-- [Ansible for configuration and deployment](https://github.com/abdounikarim/portfolio/pull/78) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (3 weeks ago)
 
 #### 📓 Gists I wrote
 
