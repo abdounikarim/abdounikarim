@@ -6,7 +6,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) -  (1 day ago)
+- [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) -  (today)
 - [Casrime/chalets-et-caviar](https://github.com/Casrime/chalets-et-caviar) - OpenClassrooms - Projet 2 du parcours Développeur d&#39;Applications PHP / Symfony (2 days ago)
 - [Casrime/bilemo](https://github.com/Casrime/bilemo) - OpenClassrooms - Projet 7 du parcours Développeur d&#39;Applications PHP / Symfony (2 months ago)
 - [symfony/symfony-docs](https://github.com/symfony/symfony-docs) - The Symfony documentation (2 months ago)
@@ -37,6 +37,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Front](https://github.com/abdounikarim/portfolio/pull/93) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (today)
+- [Article entity - add slug field and create article page](https://github.com/abdounikarim/portfolio/pull/91) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (today)
 - [Behat](https://github.com/abdounikarim/portfolio/pull/89) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (today)
 - [Docker configuration](https://github.com/abdounikarim/portfolio/pull/87) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (1 day ago)
 - [add checks and fix errors](https://github.com/Casrime/todolist/pull/3) on [Casrime/todolist](https://github.com/Casrime/todolist) (4 days ago)
@@ -45,8 +47,6 @@
 - [Github CI](https://github.com/Casrime/bilemo/pull/41) on [Casrime/bilemo](https://github.com/Casrime/bilemo) (3 weeks ago)
 - [Replace grumphp by checks in ci](https://github.com/abdounikarim/portfolio/pull/85) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (3 weeks ago)
 - [remove unused commands](https://github.com/abdounikarim/portfolio/pull/83) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (3 weeks ago)
-- [Add tests](https://github.com/abdounikarim/portfolio/pull/82) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (3 weeks ago)
-- [Deploy to prod](https://github.com/abdounikarim/portfolio/pull/80) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (3 weeks ago)
 
 #### 📓 Gists I wrote
 
