@@ -37,6 +37,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Deploy to prod](https://github.com/abdounikarim/portfolio/pull/95) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (today)
+- [feat: update ansible vault](https://github.com/abdounikarim/portfolio/pull/94) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (today)
 - [Front](https://github.com/abdounikarim/portfolio/pull/93) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (today)
 - [Article entity - add slug field and create article page](https://github.com/abdounikarim/portfolio/pull/91) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (today)
 - [Behat](https://github.com/abdounikarim/portfolio/pull/89) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (today)
@@ -45,8 +47,6 @@
 - [Docker configuration](https://github.com/Casrime/todolist/pull/2) on [Casrime/todolist](https://github.com/Casrime/todolist) (3 weeks ago)
 - [Migrate to symfony 5 4](https://github.com/Casrime/todolist/pull/1) on [Casrime/todolist](https://github.com/Casrime/todolist) (3 weeks ago)
 - [Github CI](https://github.com/Casrime/bilemo/pull/41) on [Casrime/bilemo](https://github.com/Casrime/bilemo) (3 weeks ago)
-- [Replace grumphp by checks in ci](https://github.com/abdounikarim/portfolio/pull/85) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (3 weeks ago)
-- [remove unused commands](https://github.com/abdounikarim/portfolio/pull/83) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (3 weeks ago)
 
 #### 📓 Gists I wrote
 
