@@ -6,7 +6,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [abdounikarim/install](https://github.com/abdounikarim/install) -  (4 days ago)
+- [abdounikarim/install](https://github.com/abdounikarim/install) -  (5 days ago)
 - [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) -  (1 week ago)
 - [Casrime/chalets-et-caviar](https://github.com/Casrime/chalets-et-caviar) - OpenClassrooms - Projet 2 du parcours Développeur d&#39;Applications PHP / Symfony (2 weeks ago)
 - [Casrime/bilemo](https://github.com/Casrime/bilemo) - OpenClassrooms - Projet 7 du parcours Développeur d&#39;Applications PHP / Symfony (2 months ago)
@@ -32,13 +32,13 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [doctrine/migrations](https://github.com/doctrine/migrations) ([3.4.0](https://github.com/doctrine/migrations/releases/tag/3.4.0), 5 days ago) - Doctrine Database Migrations Library
+- [doctrine/migrations](https://github.com/doctrine/migrations) ([3.4.0](https://github.com/doctrine/migrations/releases/tag/3.4.0), 6 days ago) - Doctrine Database Migrations Library
 - [api-platform/core](https://github.com/api-platform/core) ([v2.6.8](https://github.com/api-platform/core/releases/tag/v2.6.8), 1 week ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 
 #### 🔨 My recent Pull Requests
 
 - [Highlight code block](https://github.com/abdounikarim/portfolio/pull/99) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (1 week ago)
-- [Deploy to prod](https://github.com/abdounikarim/portfolio/pull/97) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (1 week ago)
+- [Deploy to prod](https://github.com/abdounikarim/portfolio/pull/97) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (2 weeks ago)
 - [Deploy to prod](https://github.com/abdounikarim/portfolio/pull/96) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (2 weeks ago)
 - [Deploy to prod](https://github.com/abdounikarim/portfolio/pull/95) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (2 weeks ago)
 - [feat: update ansible vault](https://github.com/abdounikarim/portfolio/pull/94) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (2 weeks ago)
@@ -59,7 +59,7 @@
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age (2 months ago)
 - [DEAKSoftware/Synergy-Binaries](https://github.com/DEAKSoftware/Synergy-Binaries) - Download the latest stable Synergy binaries. (2 months ago)
 - [AmmeySaini/Edu-Mail-Generator](https://github.com/AmmeySaini/Edu-Mail-Generator) - Generate Free Edu Mail(s) within minutes (3 months ago)
-- [sebastianbergmann/phploc](https://github.com/sebastianbergmann/phploc) - A tool for quickly measuring the size of a PHP project. (3 months ago)
+- [sebastianbergmann/phploc](https://github.com/sebastianbergmann/phploc) - A tool for quickly measuring the size of a PHP project. (4 months ago)
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books (4 months ago)
 - [andreia/symfony-cheat-sheets](https://github.com/andreia/symfony-cheat-sheets) - Symfony Cheat Sheets (5 months ago)
 - [Timherlaud/Symfony-training](https://github.com/Timherlaud/Symfony-training) - cheat sheet for symfony certification (5 months ago)
