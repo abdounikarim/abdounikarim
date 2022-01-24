@@ -6,8 +6,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [abdounikarim/install](https://github.com/abdounikarim/install) -  (6 days ago)
-- [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) -  (1 week ago)
+- [abdounikarim/install](https://github.com/abdounikarim/install) -  (1 week ago)
+- [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) -  (2 weeks ago)
 - [Casrime/chalets-et-caviar](https://github.com/Casrime/chalets-et-caviar) - OpenClassrooms - Projet 2 du parcours Développeur d&#39;Applications PHP / Symfony (2 weeks ago)
 - [Casrime/bilemo](https://github.com/Casrime/bilemo) - OpenClassrooms - Projet 7 du parcours Développeur d&#39;Applications PHP / Symfony (2 months ago)
 - [symfony/symfony-docs](https://github.com/symfony/symfony-docs) - The Symfony documentation (3 months ago)
@@ -37,7 +37,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Highlight code block](https://github.com/abdounikarim/portfolio/pull/99) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (1 week ago)
+- [Highlight code block](https://github.com/abdounikarim/portfolio/pull/99) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (2 weeks ago)
 - [Deploy to prod](https://github.com/abdounikarim/portfolio/pull/97) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (2 weeks ago)
 - [Deploy to prod](https://github.com/abdounikarim/portfolio/pull/96) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (2 weeks ago)
 - [Deploy to prod](https://github.com/abdounikarim/portfolio/pull/95) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (2 weeks ago)
@@ -46,7 +46,7 @@
 - [Article entity - add slug field and create article page](https://github.com/abdounikarim/portfolio/pull/91) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (2 weeks ago)
 - [Behat](https://github.com/abdounikarim/portfolio/pull/89) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (2 weeks ago)
 - [Docker configuration](https://github.com/abdounikarim/portfolio/pull/87) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (2 weeks ago)
-- [add checks and fix errors](https://github.com/Casrime/todolist/pull/3) on [Casrime/todolist](https://github.com/Casrime/todolist) (2 weeks ago)
+- [add checks and fix errors](https://github.com/Casrime/todolist/pull/3) on [Casrime/todolist](https://github.com/Casrime/todolist) (3 weeks ago)
 
 #### 📓 Gists I wrote
 
@@ -60,7 +60,7 @@
 - [DEAKSoftware/Synergy-Binaries](https://github.com/DEAKSoftware/Synergy-Binaries) - Download the latest stable Synergy binaries. (2 months ago)
 - [AmmeySaini/Edu-Mail-Generator](https://github.com/AmmeySaini/Edu-Mail-Generator) - Generate Free Edu Mail(s) within minutes (3 months ago)
 - [sebastianbergmann/phploc](https://github.com/sebastianbergmann/phploc) - A tool for quickly measuring the size of a PHP project. (4 months ago)
-- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books (4 months ago)
+- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books (5 months ago)
 - [andreia/symfony-cheat-sheets](https://github.com/andreia/symfony-cheat-sheets) - Symfony Cheat Sheets (5 months ago)
 - [Timherlaud/Symfony-training](https://github.com/Timherlaud/Symfony-training) - cheat sheet for symfony certification (5 months ago)
 - [nunomaduro/phpinsights](https://github.com/nunomaduro/phpinsights) - 🔰 Instant PHP quality checks from your console (6 months ago)
