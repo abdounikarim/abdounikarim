@@ -45,7 +45,7 @@
 - [Front](https://github.com/abdounikarim/portfolio/pull/93) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (2 weeks ago)
 - [Article entity - add slug field and create article page](https://github.com/abdounikarim/portfolio/pull/91) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (2 weeks ago)
 - [Behat](https://github.com/abdounikarim/portfolio/pull/89) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (2 weeks ago)
-- [Docker configuration](https://github.com/abdounikarim/portfolio/pull/87) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (2 weeks ago)
+- [Docker configuration](https://github.com/abdounikarim/portfolio/pull/87) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (3 weeks ago)
 - [add checks and fix errors](https://github.com/Casrime/todolist/pull/3) on [Casrime/todolist](https://github.com/Casrime/todolist) (3 weeks ago)
 
 #### 📓 Gists I wrote
@@ -56,8 +56,8 @@
 
 - [abdounikarim/codededev](https://github.com/abdounikarim/codededev) -  (1 month ago)
 - [shivammathur/homebrew-php](https://github.com/shivammathur/homebrew-php) - :beer: Homebrew tap for PHP 5.6 to 8.2. PHP 8.2 is a nightly build. (2 months ago)
-- [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age (2 months ago)
-- [DEAKSoftware/Synergy-Binaries](https://github.com/DEAKSoftware/Synergy-Binaries) - Download the latest stable Synergy binaries. (2 months ago)
+- [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age (3 months ago)
+- [DEAKSoftware/Synergy-Binaries](https://github.com/DEAKSoftware/Synergy-Binaries) - Download the latest stable Synergy binaries. (3 months ago)
 - [AmmeySaini/Edu-Mail-Generator](https://github.com/AmmeySaini/Edu-Mail-Generator) - Generate Free Edu Mail(s) within minutes (3 months ago)
 - [sebastianbergmann/phploc](https://github.com/sebastianbergmann/phploc) - A tool for quickly measuring the size of a PHP project. (4 months ago)
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books (5 months ago)
