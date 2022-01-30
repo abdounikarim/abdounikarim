@@ -32,7 +32,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [doctrine/migrations](https://github.com/doctrine/migrations) ([3.4.0](https://github.com/doctrine/migrations/releases/tag/3.4.0), 2 weeks ago) - Doctrine Database Migrations Library
+- [doctrine/migrations](https://github.com/doctrine/migrations) ([3.4.1](https://github.com/doctrine/migrations/releases/tag/3.4.1), today) - Doctrine Database Migrations Library
 - [api-platform/core](https://github.com/api-platform/core) ([v2.6.8](https://github.com/api-platform/core/releases/tag/v2.6.8), 2 weeks ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 
 #### 🔨 My recent Pull Requests
