@@ -6,19 +6,20 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [abdounikarim/cmi](https://github.com/abdounikarim/cmi) -  (today)
 - [abdounikarim/install](https://github.com/abdounikarim/install) -  (6 days ago)
 - [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) -  (3 weeks ago)
 - [Casrime/chalets-et-caviar](https://github.com/Casrime/chalets-et-caviar) - OpenClassrooms - Projet 2 du parcours Développeur d&#39;Applications PHP / Symfony (4 weeks ago)
 - [Casrime/bilemo](https://github.com/Casrime/bilemo) - OpenClassrooms - Projet 7 du parcours Développeur d&#39;Applications PHP / Symfony (3 months ago)
 - [symfony/symfony-docs](https://github.com/symfony/symfony-docs) - The Symfony documentation (3 months ago)
 - [abdounikarim/test_lfz](https://github.com/abdounikarim/test_lfz) -  (4 months ago)
-- [abdounikarim/symfonycasts-mailer](https://github.com/abdounikarim/symfonycasts-mailer) -  (5 months ago)
-- [abdounikarim/symfonycasts-react](https://github.com/abdounikarim/symfonycasts-react) -  (5 months ago)
+- [abdounikarim/symfonycasts-vue-js](https://github.com/abdounikarim/symfonycasts-vue-js) - SymfonyCasts - Vue.js courses (5 months ago)
 - [abdounikarim/symfonycasts-javascript-es2015](https://github.com/abdounikarim/symfonycasts-javascript-es2015) -  (5 months ago)
 - [abdounikarim/the_spacebar](https://github.com/abdounikarim/the_spacebar) -  (5 months ago)
 
 #### 🌱 My latest projects
 
+- [abdounikarim/cmi](https://github.com/abdounikarim/cmi) - 
 - [abdounikarim/install](https://github.com/abdounikarim/install) - 
 - [abdounikarim/test_lfz](https://github.com/abdounikarim/test_lfz) - 
 - [abdounikarim/vue](https://github.com/abdounikarim/vue) - 
@@ -28,7 +29,6 @@
 - [abdounikarim/symfonycasts-vue-js](https://github.com/abdounikarim/symfonycasts-vue-js) - SymfonyCasts - Vue.js courses
 - [abdounikarim/team-project](https://github.com/abdounikarim/team-project) - 
 - [abdounikarim/symfony-docker-kubernetes](https://github.com/abdounikarim/symfony-docker-kubernetes) - 
-- [abdounikarim/the_spacebar](https://github.com/abdounikarim/the_spacebar) - 
 
 #### 🔭 Latest releases I've contributed to
 
