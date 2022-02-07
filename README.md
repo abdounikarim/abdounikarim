@@ -6,9 +6,9 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) -  (today)
 - [abdounikarim/cmi](https://github.com/abdounikarim/cmi) -  (5 days ago)
 - [abdounikarim/install](https://github.com/abdounikarim/install) -  (1 week ago)
-- [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) -  (4 weeks ago)
 - [Casrime/chalets-et-caviar](https://github.com/Casrime/chalets-et-caviar) - OpenClassrooms - Projet 2 du parcours Développeur d&#39;Applications PHP / Symfony (1 month ago)
 - [Casrime/bilemo](https://github.com/Casrime/bilemo) - OpenClassrooms - Projet 7 du parcours Développeur d&#39;Applications PHP / Symfony (3 months ago)
 - [symfony/symfony-docs](https://github.com/symfony/symfony-docs) - The Symfony documentation (3 months ago)
@@ -37,6 +37,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [install yarn from docker and adapt commands](https://github.com/abdounikarim/portfolio/pull/103) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (today)
 - [Correcting missing images](https://github.com/primer/css/pull/1932) on [primer/css](https://github.com/primer/css) (today)
 - [Update translation.rst](https://github.com/symfony/symfony-docs/pull/16461) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (6 days ago)
 - [Update deployment.rst](https://github.com/symfony/symfony-docs/pull/16460) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (6 days ago)
@@ -46,7 +47,6 @@
 - [Deploy to prod](https://github.com/abdounikarim/portfolio/pull/95) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (1 month ago)
 - [feat: update ansible vault](https://github.com/abdounikarim/portfolio/pull/94) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (1 month ago)
 - [Front](https://github.com/abdounikarim/portfolio/pull/93) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (1 month ago)
-- [Article entity - add slug field and create article page](https://github.com/abdounikarim/portfolio/pull/91) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (1 month ago)
 
 #### 📓 Gists I wrote
 
