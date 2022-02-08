@@ -7,15 +7,15 @@
 #### 👷 Check out what I'm currently working on
 
 - [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) -  (today)
-- [abdounikarim/cmi](https://github.com/abdounikarim/cmi) -  (5 days ago)
+- [abdounikarim/cmi](https://github.com/abdounikarim/cmi) -  (6 days ago)
 - [abdounikarim/install](https://github.com/abdounikarim/install) -  (1 week ago)
 - [Casrime/chalets-et-caviar](https://github.com/Casrime/chalets-et-caviar) - OpenClassrooms - Projet 2 du parcours Développeur d&#39;Applications PHP / Symfony (1 month ago)
 - [Casrime/bilemo](https://github.com/Casrime/bilemo) - OpenClassrooms - Projet 7 du parcours Développeur d&#39;Applications PHP / Symfony (3 months ago)
 - [symfony/symfony-docs](https://github.com/symfony/symfony-docs) - The Symfony documentation (3 months ago)
 - [abdounikarim/test_lfz](https://github.com/abdounikarim/test_lfz) -  (4 months ago)
-- [abdounikarim/symfonycasts-api-platform-security](https://github.com/abdounikarim/symfonycasts-api-platform-security) -  (5 months ago)
-- [abdounikarim/symfonycasts-mailer](https://github.com/abdounikarim/symfonycasts-mailer) -  (5 months ago)
-- [abdounikarim/symfonycasts-javascript-es2015](https://github.com/abdounikarim/symfonycasts-javascript-es2015) -  (5 months ago)
+- [abdounikarim/symfonycasts-api-platform-security](https://github.com/abdounikarim/symfonycasts-api-platform-security) -  (6 months ago)
+- [abdounikarim/symfonycasts-mailer](https://github.com/abdounikarim/symfonycasts-mailer) -  (6 months ago)
+- [abdounikarim/symfonycasts-javascript-es2015](https://github.com/abdounikarim/symfonycasts-javascript-es2015) -  (6 months ago)
 
 #### 🌱 My latest projects
 
@@ -33,20 +33,20 @@
 #### 🔭 Latest releases I've contributed to
 
 - [doctrine/migrations](https://github.com/doctrine/migrations) ([3.4.1](https://github.com/doctrine/migrations/releases/tag/3.4.1), 1 week ago) - Doctrine Database Migrations Library
-- [api-platform/core](https://github.com/api-platform/core) ([v2.6.8](https://github.com/api-platform/core/releases/tag/v2.6.8), 3 weeks ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [api-platform/core](https://github.com/api-platform/core) ([v2.6.8](https://github.com/api-platform/core/releases/tag/v2.6.8), 4 weeks ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 
 #### 🔨 My recent Pull Requests
 
-- [install yarn from docker and adapt commands](https://github.com/abdounikarim/portfolio/pull/103) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (today)
-- [Correcting missing images](https://github.com/primer/css/pull/1932) on [primer/css](https://github.com/primer/css) (today)
-- [Update translation.rst](https://github.com/symfony/symfony-docs/pull/16461) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (6 days ago)
-- [Update deployment.rst](https://github.com/symfony/symfony-docs/pull/16460) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (6 days ago)
+- [Correcting frontend](https://github.com/abdounikarim/portfolio/pull/105) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (1 day ago)
+- [install yarn from docker and adapt commands](https://github.com/abdounikarim/portfolio/pull/103) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (1 day ago)
+- [Correcting missing images](https://github.com/primer/css/pull/1932) on [primer/css](https://github.com/primer/css) (1 day ago)
+- [Update translation.rst](https://github.com/symfony/symfony-docs/pull/16461) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 week ago)
+- [Update deployment.rst](https://github.com/symfony/symfony-docs/pull/16460) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 week ago)
 - [Highlight code block](https://github.com/abdounikarim/portfolio/pull/99) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (4 weeks ago)
 - [Deploy to prod](https://github.com/abdounikarim/portfolio/pull/97) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (1 month ago)
 - [Deploy to prod](https://github.com/abdounikarim/portfolio/pull/96) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (1 month ago)
 - [Deploy to prod](https://github.com/abdounikarim/portfolio/pull/95) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (1 month ago)
 - [feat: update ansible vault](https://github.com/abdounikarim/portfolio/pull/94) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (1 month ago)
-- [Front](https://github.com/abdounikarim/portfolio/pull/93) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (1 month ago)
 
 #### 📓 Gists I wrote
 
@@ -54,8 +54,8 @@
 
 #### ⭐ Recent Stars
 
-- [coopTilleuls/workshop-apip-ddd](https://github.com/coopTilleuls/workshop-apip-ddd) - Demo project for the API Platform / DDD Workshop (1 day ago)
-- [mxkh/symfony-api-platform-ddd-cqrs-boilerplate](https://github.com/mxkh/symfony-api-platform-ddd-cqrs-boilerplate) - Symfony API Platform DDD CQRS Boilerplate (1 day ago)
+- [coopTilleuls/workshop-apip-ddd](https://github.com/coopTilleuls/workshop-apip-ddd) - Demo project for the API Platform / DDD Workshop (2 days ago)
+- [mxkh/symfony-api-platform-ddd-cqrs-boilerplate](https://github.com/mxkh/symfony-api-platform-ddd-cqrs-boilerplate) - Symfony API Platform DDD CQRS Boilerplate (2 days ago)
 - [abdounikarim/codededev](https://github.com/abdounikarim/codededev) -  (1 month ago)
 - [shivammathur/homebrew-php](https://github.com/shivammathur/homebrew-php) - :beer: Homebrew tap for PHP 5.6 to 8.2. PHP 8.2 is a nightly build. (3 months ago)
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age (3 months ago)
