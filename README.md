@@ -6,9 +6,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) -  (1 day ago)
+- [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) -  (2 days ago)
 - [abdounikarim/cmi](https://github.com/abdounikarim/cmi) -  (1 week ago)
-- [abdounikarim/install](https://github.com/abdounikarim/install) -  (1 week ago)
+- [abdounikarim/install](https://github.com/abdounikarim/install) -  (2 weeks ago)
 - [Casrime/chalets-et-caviar](https://github.com/Casrime/chalets-et-caviar) - OpenClassrooms - Projet 2 du parcours Développeur d&#39;Applications PHP / Symfony (1 month ago)
 - [Casrime/bilemo](https://github.com/Casrime/bilemo) - OpenClassrooms - Projet 7 du parcours Développeur d&#39;Applications PHP / Symfony (3 months ago)
 - [symfony/symfony-docs](https://github.com/symfony/symfony-docs) - The Symfony documentation (3 months ago)
@@ -33,13 +33,13 @@
 #### 🔭 Latest releases I've contributed to
 
 - [doctrine/migrations](https://github.com/doctrine/migrations) ([3.4.1](https://github.com/doctrine/migrations/releases/tag/3.4.1), 1 week ago) - Doctrine Database Migrations Library
-- [api-platform/core](https://github.com/api-platform/core) ([v2.6.8](https://github.com/api-platform/core/releases/tag/v2.6.8), 4 weeks ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [api-platform/core](https://github.com/api-platform/core) ([v2.6.8](https://github.com/api-platform/core/releases/tag/v2.6.8), 1 month ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 
 #### 🔨 My recent Pull Requests
 
-- [Correcting frontend](https://github.com/abdounikarim/portfolio/pull/105) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (2 days ago)
-- [install yarn from docker and adapt commands](https://github.com/abdounikarim/portfolio/pull/103) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (2 days ago)
-- [Correcting missing images](https://github.com/primer/css/pull/1932) on [primer/css](https://github.com/primer/css) (2 days ago)
+- [Correcting frontend](https://github.com/abdounikarim/portfolio/pull/105) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (3 days ago)
+- [install yarn from docker and adapt commands](https://github.com/abdounikarim/portfolio/pull/103) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (3 days ago)
+- [Correcting missing images](https://github.com/primer/css/pull/1932) on [primer/css](https://github.com/primer/css) (3 days ago)
 - [Update translation.rst](https://github.com/symfony/symfony-docs/pull/16461) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 week ago)
 - [Update deployment.rst](https://github.com/symfony/symfony-docs/pull/16460) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 week ago)
 - [Highlight code block](https://github.com/abdounikarim/portfolio/pull/99) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (1 month ago)
@@ -54,8 +54,8 @@
 
 #### ⭐ Recent Stars
 
-- [coopTilleuls/workshop-apip-ddd](https://github.com/coopTilleuls/workshop-apip-ddd) - Demo project for the API Platform / DDD Workshop (3 days ago)
-- [mxkh/symfony-api-platform-ddd-cqrs-boilerplate](https://github.com/mxkh/symfony-api-platform-ddd-cqrs-boilerplate) - Symfony API Platform DDD CQRS Boilerplate (3 days ago)
+- [coopTilleuls/workshop-apip-ddd](https://github.com/coopTilleuls/workshop-apip-ddd) - Demo project for the API Platform / DDD Workshop (4 days ago)
+- [mxkh/symfony-api-platform-ddd-cqrs-boilerplate](https://github.com/mxkh/symfony-api-platform-ddd-cqrs-boilerplate) - Symfony API Platform DDD CQRS Boilerplate (4 days ago)
 - [abdounikarim/codededev](https://github.com/abdounikarim/codededev) -  (1 month ago)
 - [shivammathur/homebrew-php](https://github.com/shivammathur/homebrew-php) - :beer: Homebrew tap for PHP 5.6 to 8.2. PHP 8.2 is a nightly build. (3 months ago)
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age (3 months ago)
