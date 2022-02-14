@@ -6,7 +6,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) -  (5 days ago)
+- [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) -  (6 days ago)
 - [abdounikarim/cmi](https://github.com/abdounikarim/cmi) -  (1 week ago)
 - [abdounikarim/install](https://github.com/abdounikarim/install) -  (2 weeks ago)
 - [Casrime/chalets-et-caviar](https://github.com/Casrime/chalets-et-caviar) - OpenClassrooms - Projet 2 du parcours Développeur d&#39;Applications PHP / Symfony (1 month ago)
@@ -37,9 +37,9 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Correcting frontend](https://github.com/abdounikarim/portfolio/pull/105) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (6 days ago)
-- [install yarn from docker and adapt commands](https://github.com/abdounikarim/portfolio/pull/103) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (6 days ago)
-- [Correcting missing images](https://github.com/primer/css/pull/1932) on [primer/css](https://github.com/primer/css) (6 days ago)
+- [Correcting frontend](https://github.com/abdounikarim/portfolio/pull/105) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (1 week ago)
+- [install yarn from docker and adapt commands](https://github.com/abdounikarim/portfolio/pull/103) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (1 week ago)
+- [Correcting missing images](https://github.com/primer/css/pull/1932) on [primer/css](https://github.com/primer/css) (1 week ago)
 - [Update translation.rst](https://github.com/symfony/symfony-docs/pull/16461) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 week ago)
 - [Update deployment.rst](https://github.com/symfony/symfony-docs/pull/16460) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 week ago)
 - [Highlight code block](https://github.com/abdounikarim/portfolio/pull/99) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (1 month ago)
