@@ -7,7 +7,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [abdounikarim/install](https://github.com/abdounikarim/install) -  (1 week ago)
-- [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) -  (2 weeks ago)
+- [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) -  (3 weeks ago)
 - [abdounikarim/cmi](https://github.com/abdounikarim/cmi) -  (3 weeks ago)
 - [Casrime/chalets-et-caviar](https://github.com/Casrime/chalets-et-caviar) - OpenClassrooms - Projet 2 du parcours Développeur d&#39;Applications PHP / Symfony (1 month ago)
 - [Casrime/bilemo](https://github.com/Casrime/bilemo) - OpenClassrooms - Projet 7 du parcours Développeur d&#39;Applications PHP / Symfony (3 months ago)
@@ -32,7 +32,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [doctrine/migrations](https://github.com/doctrine/migrations) ([3.4.1](https://github.com/doctrine/migrations/releases/tag/3.4.1), 4 weeks ago) - Doctrine Database Migrations Library
+- [doctrine/migrations](https://github.com/doctrine/migrations) ([3.4.1](https://github.com/doctrine/migrations/releases/tag/3.4.1), 1 month ago) - Doctrine Database Migrations Library
 - [api-platform/core](https://github.com/api-platform/core) ([v2.6.8](https://github.com/api-platform/core/releases/tag/v2.6.8), 1 month ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 
 #### 🔨 My recent Pull Requests
@@ -40,8 +40,8 @@
 - [Correcting frontend](https://github.com/abdounikarim/portfolio/pull/105) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (3 weeks ago)
 - [install yarn from docker and adapt commands](https://github.com/abdounikarim/portfolio/pull/103) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (3 weeks ago)
 - [Correcting missing images](https://github.com/primer/css/pull/1932) on [primer/css](https://github.com/primer/css) (3 weeks ago)
-- [Update translation.rst](https://github.com/symfony/symfony-docs/pull/16461) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (3 weeks ago)
-- [Update deployment.rst](https://github.com/symfony/symfony-docs/pull/16460) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (3 weeks ago)
+- [Update translation.rst](https://github.com/symfony/symfony-docs/pull/16461) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (4 weeks ago)
+- [Update deployment.rst](https://github.com/symfony/symfony-docs/pull/16460) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (4 weeks ago)
 - [Highlight code block](https://github.com/abdounikarim/portfolio/pull/99) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (1 month ago)
 - [Deploy to prod](https://github.com/abdounikarim/portfolio/pull/97) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (1 month ago)
 
