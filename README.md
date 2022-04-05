@@ -9,7 +9,7 @@
 - [abdounikarim/install](https://github.com/abdounikarim/install) -  (3 weeks ago)
 - [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) -  (1 month ago)
 - [abdounikarim/cmi](https://github.com/abdounikarim/cmi) -  (2 months ago)
-- [Casrime/chalets-et-caviar](https://github.com/Casrime/chalets-et-caviar) - OpenClassrooms - Projet 2 du parcours Développeur d&#39;Applications PHP / Symfony (2 months ago)
+- [Casrime/chalets-et-caviar](https://github.com/Casrime/chalets-et-caviar) - OpenClassrooms - Projet 2 du parcours Développeur d&#39;Applications PHP / Symfony (3 months ago)
 - [Casrime/bilemo](https://github.com/Casrime/bilemo) - OpenClassrooms - Projet 7 du parcours Développeur d&#39;Applications PHP / Symfony (5 months ago)
 - [symfony/symfony-docs](https://github.com/symfony/symfony-docs) - The Symfony documentation (5 months ago)
 - [abdounikarim/test_lfz](https://github.com/abdounikarim/test_lfz) -  (6 months ago)
@@ -32,7 +32,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [doctrine/migrations](https://github.com/doctrine/migrations) ([3.5.0](https://github.com/doctrine/migrations/releases/tag/3.5.0), today) - Doctrine Database Migrations Library
+- [doctrine/migrations](https://github.com/doctrine/migrations) ([3.5.0](https://github.com/doctrine/migrations/releases/tag/3.5.0), 1 day ago) - Doctrine Database Migrations Library
 
 #### 🔨 My recent Pull Requests
 
