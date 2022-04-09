@@ -7,15 +7,15 @@
 #### 👷 Check out what I'm currently working on
 
 - [abdounikarim/install](https://github.com/abdounikarim/install) -  (1 month ago)
-- [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) -  (1 month ago)
+- [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) -  (2 months ago)
 - [abdounikarim/cmi](https://github.com/abdounikarim/cmi) -  (2 months ago)
 - [Casrime/chalets-et-caviar](https://github.com/Casrime/chalets-et-caviar) - OpenClassrooms - Projet 2 du parcours Développeur d&#39;Applications PHP / Symfony (3 months ago)
 - [Casrime/bilemo](https://github.com/Casrime/bilemo) - OpenClassrooms - Projet 7 du parcours Développeur d&#39;Applications PHP / Symfony (5 months ago)
 - [symfony/symfony-docs](https://github.com/symfony/symfony-docs) - The Symfony documentation (5 months ago)
 - [abdounikarim/test_lfz](https://github.com/abdounikarim/test_lfz) -  (6 months ago)
-- [abdounikarim/symfonycasts-javascript-es2015](https://github.com/abdounikarim/symfonycasts-javascript-es2015) -  (7 months ago)
-- [abdounikarim/symfonycasts-react](https://github.com/abdounikarim/symfonycasts-react) -  (7 months ago)
-- [abdounikarim/guestbook](https://github.com/abdounikarim/guestbook) - Symfony 5 - The fast track (7 months ago)
+- [abdounikarim/symfonycasts-javascript-es2015](https://github.com/abdounikarim/symfonycasts-javascript-es2015) -  (8 months ago)
+- [abdounikarim/symfonycasts-react](https://github.com/abdounikarim/symfonycasts-react) -  (8 months ago)
+- [abdounikarim/guestbook](https://github.com/abdounikarim/guestbook) - Symfony 5 - The fast track (8 months ago)
 
 #### 🌱 My latest projects
 
@@ -32,7 +32,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [doctrine/migrations](https://github.com/doctrine/migrations) ([3.5.0](https://github.com/doctrine/migrations/releases/tag/3.5.0), 4 days ago) - Doctrine Database Migrations Library
+- [doctrine/migrations](https://github.com/doctrine/migrations) ([3.5.0](https://github.com/doctrine/migrations/releases/tag/3.5.0), 5 days ago) - Doctrine Database Migrations Library
 
 #### 🔨 My recent Pull Requests
 
