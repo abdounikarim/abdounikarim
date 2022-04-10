@@ -32,7 +32,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [doctrine/migrations](https://github.com/doctrine/migrations) ([3.5.0](https://github.com/doctrine/migrations/releases/tag/3.5.0), 5 days ago) - Doctrine Database Migrations Library
+- [doctrine/migrations](https://github.com/doctrine/migrations) ([3.5.0](https://github.com/doctrine/migrations/releases/tag/3.5.0), 6 days ago) - Doctrine Database Migrations Library
 
 #### 🔨 My recent Pull Requests
 
@@ -41,7 +41,7 @@
 - [Correcting missing images](https://github.com/primer/css/pull/1932) on [primer/css](https://github.com/primer/css) (2 months ago)
 - [Update translation.rst](https://github.com/symfony/symfony-docs/pull/16461) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 months ago)
 - [Update deployment.rst](https://github.com/symfony/symfony-docs/pull/16460) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 months ago)
-- [Highlight code block](https://github.com/abdounikarim/portfolio/pull/99) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (2 months ago)
+- [Highlight code block](https://github.com/abdounikarim/portfolio/pull/99) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (3 months ago)
 - [Deploy to prod](https://github.com/abdounikarim/portfolio/pull/97) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (3 months ago)
 
 #### 📓 Gists I wrote
