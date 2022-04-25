@@ -32,7 +32,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [doctrine/migrations](https://github.com/doctrine/migrations) ([3.5.0](https://github.com/doctrine/migrations/releases/tag/3.5.0), 2 weeks ago) - Doctrine Database Migrations Library
+- [doctrine/migrations](https://github.com/doctrine/migrations) ([3.5.0](https://github.com/doctrine/migrations/releases/tag/3.5.0), 3 weeks ago) - Doctrine Database Migrations Library
 
 #### 🔨 My recent Pull Requests
 
