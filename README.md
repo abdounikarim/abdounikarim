@@ -15,7 +15,7 @@
 - [abdounikarim/test_lfz](https://github.com/abdounikarim/test_lfz) -  (7 months ago)
 - [abdounikarim/symfonycasts-javascript-es2015](https://github.com/abdounikarim/symfonycasts-javascript-es2015) -  (8 months ago)
 - [abdounikarim/symfonycasts-react](https://github.com/abdounikarim/symfonycasts-react) -  (8 months ago)
-- [abdounikarim/guestbook](https://github.com/abdounikarim/guestbook) - Symfony 5 - The fast track (8 months ago)
+- [abdounikarim/symfonycasts-vue-js](https://github.com/abdounikarim/symfonycasts-vue-js) - SymfonyCasts - Vue.js courses (8 months ago)
 
 #### 🌱 My latest projects
 
