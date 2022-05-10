@@ -6,6 +6,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [abdounikarim/demo-ansible](https://github.com/abdounikarim/demo-ansible) -  (3 days ago)
 - [abdounikarim/install](https://github.com/abdounikarim/install) -  (2 months ago)
 - [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) -  (3 months ago)
 - [abdounikarim/cmi](https://github.com/abdounikarim/cmi) -  (3 months ago)
@@ -13,12 +14,12 @@
 - [Casrime/bilemo](https://github.com/Casrime/bilemo) - OpenClassrooms - Projet 7 du parcours Développeur d&#39;Applications PHP / Symfony (6 months ago)
 - [symfony/symfony-docs](https://github.com/symfony/symfony-docs) - The Symfony documentation (6 months ago)
 - [abdounikarim/test_lfz](https://github.com/abdounikarim/test_lfz) -  (7 months ago)
-- [abdounikarim/symfonycasts-javascript-es2015](https://github.com/abdounikarim/symfonycasts-javascript-es2015) -  (9 months ago)
-- [abdounikarim/symfonycasts-react](https://github.com/abdounikarim/symfonycasts-react) -  (9 months ago)
+- [abdounikarim/the_spacebar](https://github.com/abdounikarim/the_spacebar) -  (9 months ago)
 - [abdounikarim/symfonycasts-vue-js](https://github.com/abdounikarim/symfonycasts-vue-js) - SymfonyCasts - Vue.js courses (9 months ago)
 
 #### 🌱 My latest projects
 
+- [abdounikarim/demo-ansible](https://github.com/abdounikarim/demo-ansible) - 
 - [abdounikarim/cmi](https://github.com/abdounikarim/cmi) - 
 - [abdounikarim/install](https://github.com/abdounikarim/install) - 
 - [abdounikarim/test_lfz](https://github.com/abdounikarim/test_lfz) - 
@@ -28,7 +29,6 @@
 - [abdounikarim/web-and-mobile-app](https://github.com/abdounikarim/web-and-mobile-app) - 
 - [abdounikarim/symfonycasts-vue-js](https://github.com/abdounikarim/symfonycasts-vue-js) - SymfonyCasts - Vue.js courses
 - [abdounikarim/team-project](https://github.com/abdounikarim/team-project) - 
-- [abdounikarim/symfony-docker-kubernetes](https://github.com/abdounikarim/symfony-docker-kubernetes) - 
 
 #### 🔭 Latest releases I've contributed to
 
