@@ -6,7 +6,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [abdounikarim/demo-ansible](https://github.com/abdounikarim/demo-ansible) -  (3 days ago)
+- [abdounikarim/demo-ansible](https://github.com/abdounikarim/demo-ansible) -  (4 days ago)
 - [abdounikarim/install](https://github.com/abdounikarim/install) -  (2 months ago)
 - [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) -  (3 months ago)
 - [abdounikarim/cmi](https://github.com/abdounikarim/cmi) -  (3 months ago)
@@ -32,7 +32,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [doctrine/migrations](https://github.com/doctrine/migrations) ([3.5.1](https://github.com/doctrine/migrations/releases/tag/3.5.1), 5 days ago) - Doctrine Database Migrations Library
+- [doctrine/migrations](https://github.com/doctrine/migrations) ([3.5.1](https://github.com/doctrine/migrations/releases/tag/3.5.1), 6 days ago) - Doctrine Database Migrations Library
 
 #### 🔨 My recent Pull Requests
 
