@@ -6,9 +6,9 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) -  (today)
 - [abdounikarim/demo-ansible](https://github.com/abdounikarim/demo-ansible) -  (1 week ago)
 - [abdounikarim/install](https://github.com/abdounikarim/install) -  (2 months ago)
-- [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) -  (3 months ago)
 - [abdounikarim/cmi](https://github.com/abdounikarim/cmi) -  (3 months ago)
 - [Casrime/chalets-et-caviar](https://github.com/Casrime/chalets-et-caviar) - OpenClassrooms - Projet 2 du parcours Développeur d&#39;Applications PHP / Symfony (4 months ago)
 - [Casrime/bilemo](https://github.com/Casrime/bilemo) - OpenClassrooms - Projet 7 du parcours Développeur d&#39;Applications PHP / Symfony (6 months ago)
