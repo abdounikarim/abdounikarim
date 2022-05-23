@@ -6,7 +6,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) -  (3 days ago)
+- [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) -  (4 days ago)
 - [abdounikarim/demo-ansible](https://github.com/abdounikarim/demo-ansible) -  (1 week ago)
 - [abdounikarim/install](https://github.com/abdounikarim/install) -  (2 months ago)
 - [abdounikarim/cmi](https://github.com/abdounikarim/cmi) -  (3 months ago)
@@ -32,14 +32,14 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [doctrine/migrations](https://github.com/doctrine/migrations) ([3.5.1](https://github.com/doctrine/migrations/releases/tag/3.5.1), 1 week ago) - Doctrine Database Migrations Library
+- [doctrine/migrations](https://github.com/doctrine/migrations) ([3.5.1](https://github.com/doctrine/migrations/releases/tag/3.5.1), 2 weeks ago) - Doctrine Database Migrations Library
 
 #### 🔨 My recent Pull Requests
 
-- [migrate to PHP 8.1](https://github.com/abdounikarim/portfolio/pull/117) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (4 days ago)
-- [update Makefile](https://github.com/abdounikarim/portfolio/pull/116) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (4 days ago)
-- [Migrate to symfony 6 0](https://github.com/abdounikarim/portfolio/pull/114) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (5 days ago)
-- [use Github packages in Github Actions](https://github.com/abdounikarim/portfolio/pull/113) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (6 days ago)
+- [migrate to PHP 8.1](https://github.com/abdounikarim/portfolio/pull/117) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (5 days ago)
+- [update Makefile](https://github.com/abdounikarim/portfolio/pull/116) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (5 days ago)
+- [Migrate to symfony 6 0](https://github.com/abdounikarim/portfolio/pull/114) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (6 days ago)
+- [use Github packages in Github Actions](https://github.com/abdounikarim/portfolio/pull/113) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (1 week ago)
 - [Correcting frontend](https://github.com/abdounikarim/portfolio/pull/105) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (3 months ago)
 - [install yarn from docker and adapt commands](https://github.com/abdounikarim/portfolio/pull/103) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (3 months ago)
 - [Correcting missing images](https://github.com/primer/css/pull/1932) on [primer/css](https://github.com/primer/css) (3 months ago)
@@ -50,7 +50,7 @@
 
 #### ⭐ Recent Stars
 
-- [igorkulman/ChangeMenuBarColor](https://github.com/igorkulman/ChangeMenuBarColor) - Simple utility to change macOS Big Sur and Monterey menu bar color by appending a solid color or gradient rectangle to a wallpaper image (6 days ago)
+- [igorkulman/ChangeMenuBarColor](https://github.com/igorkulman/ChangeMenuBarColor) - Simple utility to change macOS Big Sur and Monterey menu bar color by appending a solid color or gradient rectangle to a wallpaper image (1 week ago)
 - [coopTilleuls/workshop-apip-ddd](https://github.com/coopTilleuls/workshop-apip-ddd) - Demo project for the API Platform / DDD Workshop (3 months ago)
 - [mxkh/symfony-api-platform-ddd-cqrs-boilerplate](https://github.com/mxkh/symfony-api-platform-ddd-cqrs-boilerplate) - Symfony API Platform DDD CQRS Boilerplate (3 months ago)
 - [abdounikarim/codededev](https://github.com/abdounikarim/codededev) -  (5 months ago)
