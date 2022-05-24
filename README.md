@@ -6,7 +6,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) -  (4 days ago)
+- [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) -  (5 days ago)
 - [abdounikarim/demo-ansible](https://github.com/abdounikarim/demo-ansible) -  (1 week ago)
 - [abdounikarim/install](https://github.com/abdounikarim/install) -  (2 months ago)
 - [abdounikarim/cmi](https://github.com/abdounikarim/cmi) -  (3 months ago)
@@ -36,9 +36,9 @@
 
 #### 🔨 My recent Pull Requests
 
-- [migrate to PHP 8.1](https://github.com/abdounikarim/portfolio/pull/117) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (5 days ago)
-- [update Makefile](https://github.com/abdounikarim/portfolio/pull/116) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (5 days ago)
-- [Migrate to symfony 6 0](https://github.com/abdounikarim/portfolio/pull/114) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (6 days ago)
+- [migrate to PHP 8.1](https://github.com/abdounikarim/portfolio/pull/117) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (6 days ago)
+- [update Makefile](https://github.com/abdounikarim/portfolio/pull/116) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (6 days ago)
+- [Migrate to symfony 6 0](https://github.com/abdounikarim/portfolio/pull/114) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (1 week ago)
 - [use Github packages in Github Actions](https://github.com/abdounikarim/portfolio/pull/113) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (1 week ago)
 - [Correcting frontend](https://github.com/abdounikarim/portfolio/pull/105) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (3 months ago)
 - [install yarn from docker and adapt commands](https://github.com/abdounikarim/portfolio/pull/103) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (3 months ago)
@@ -59,7 +59,7 @@
 - [DEAKSoftware/Synergy-Binaries](https://github.com/DEAKSoftware/Synergy-Binaries) - Download the latest stable Synergy binaries. (6 months ago)
 - [AmmeySaini/Edu-Mail-Generator](https://github.com/AmmeySaini/Edu-Mail-Generator) - Generate Free Edu Mail(s) within minutes (7 months ago)
 - [sebastianbergmann/phploc](https://github.com/sebastianbergmann/phploc) - A tool for quickly measuring the size of a PHP project. (8 months ago)
-- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books (8 months ago)
+- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books (9 months ago)
 
 #### 👯 Check out some of my recent followers
 
