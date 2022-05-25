@@ -6,8 +6,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) -  (5 days ago)
-- [abdounikarim/demo-ansible](https://github.com/abdounikarim/demo-ansible) -  (1 week ago)
+- [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) -  (6 days ago)
+- [abdounikarim/demo-ansible](https://github.com/abdounikarim/demo-ansible) -  (2 weeks ago)
 - [abdounikarim/install](https://github.com/abdounikarim/install) -  (2 months ago)
 - [abdounikarim/cmi](https://github.com/abdounikarim/cmi) -  (3 months ago)
 - [Casrime/chalets-et-caviar](https://github.com/Casrime/chalets-et-caviar) - OpenClassrooms - Projet 2 du parcours Développeur d&#39;Applications PHP / Symfony (4 months ago)
@@ -36,8 +36,8 @@
 
 #### 🔨 My recent Pull Requests
 
-- [migrate to PHP 8.1](https://github.com/abdounikarim/portfolio/pull/117) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (6 days ago)
-- [update Makefile](https://github.com/abdounikarim/portfolio/pull/116) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (6 days ago)
+- [migrate to PHP 8.1](https://github.com/abdounikarim/portfolio/pull/117) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (1 week ago)
+- [update Makefile](https://github.com/abdounikarim/portfolio/pull/116) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (1 week ago)
 - [Migrate to symfony 6 0](https://github.com/abdounikarim/portfolio/pull/114) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (1 week ago)
 - [use Github packages in Github Actions](https://github.com/abdounikarim/portfolio/pull/113) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (1 week ago)
 - [Correcting frontend](https://github.com/abdounikarim/portfolio/pull/105) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (3 months ago)
