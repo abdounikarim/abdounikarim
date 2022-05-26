@@ -6,7 +6,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) -  (6 days ago)
+- [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) -  (1 week ago)
 - [abdounikarim/demo-ansible](https://github.com/abdounikarim/demo-ansible) -  (2 weeks ago)
 - [abdounikarim/install](https://github.com/abdounikarim/install) -  (2 months ago)
 - [abdounikarim/cmi](https://github.com/abdounikarim/cmi) -  (3 months ago)
