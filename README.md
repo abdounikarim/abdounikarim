@@ -41,7 +41,6 @@
 - [update Makefile](https://github.com/abdounikarim/portfolio/pull/116) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (1 week ago)
 - [Migrate to symfony 6 0](https://github.com/abdounikarim/portfolio/pull/114) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (2 weeks ago)
 - [use Github packages in Github Actions](https://github.com/abdounikarim/portfolio/pull/113) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (2 weeks ago)
-- [Correcting frontend](https://github.com/abdounikarim/portfolio/pull/105) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (3 months ago)
 
 #### 📓 Gists I wrote
 
