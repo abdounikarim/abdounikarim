@@ -36,11 +36,9 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Update box.rb](https://github.com/box-project/homebrew-box/pull/10) on [box-project/homebrew-box](https://github.com/box-project/homebrew-box) (today)
 - [Migrate to symfony 6 1](https://github.com/abdounikarim/portfolio/pull/119) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (5 days ago)
 - [migrate to PHP 8.1](https://github.com/abdounikarim/portfolio/pull/117) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (2 weeks ago)
-- [update Makefile](https://github.com/abdounikarim/portfolio/pull/116) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (2 weeks ago)
-- [Migrate to symfony 6 0](https://github.com/abdounikarim/portfolio/pull/114) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (2 weeks ago)
-- [use Github packages in Github Actions](https://github.com/abdounikarim/portfolio/pull/113) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (2 weeks ago)
 
 #### 📓 Gists I wrote
 
