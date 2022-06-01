@@ -38,7 +38,6 @@
 
 - [Update box.rb](https://github.com/box-project/homebrew-box/pull/10) on [box-project/homebrew-box](https://github.com/box-project/homebrew-box) (today)
 - [Migrate to symfony 6 1](https://github.com/abdounikarim/portfolio/pull/119) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (5 days ago)
-- [migrate to PHP 8.1](https://github.com/abdounikarim/portfolio/pull/117) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (2 weeks ago)
 
 #### 📓 Gists I wrote
 
