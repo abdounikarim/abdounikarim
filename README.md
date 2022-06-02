@@ -37,7 +37,6 @@
 #### 🔨 My recent Pull Requests
 
 - [Update box.rb](https://github.com/box-project/homebrew-box/pull/10) on [box-project/homebrew-box](https://github.com/box-project/homebrew-box) (1 day ago)
-- [Migrate to symfony 6 1](https://github.com/abdounikarim/portfolio/pull/119) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (6 days ago)
 
 #### 📓 Gists I wrote
 
