@@ -6,10 +6,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) -  (5 days ago)
+- [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) -  (6 days ago)
 - [abdounikarim/demo-ansible](https://github.com/abdounikarim/demo-ansible) -  (3 weeks ago)
 - [abdounikarim/install](https://github.com/abdounikarim/install) -  (2 months ago)
-- [abdounikarim/cmi](https://github.com/abdounikarim/cmi) -  (3 months ago)
+- [abdounikarim/cmi](https://github.com/abdounikarim/cmi) -  (4 months ago)
 - [Casrime/chalets-et-caviar](https://github.com/Casrime/chalets-et-caviar) - OpenClassrooms - Projet 2 du parcours Développeur d&#39;Applications PHP / Symfony (4 months ago)
 - [Casrime/bilemo](https://github.com/Casrime/bilemo) - OpenClassrooms - Projet 7 du parcours Développeur d&#39;Applications PHP / Symfony (7 months ago)
 - [symfony/symfony-docs](https://github.com/symfony/symfony-docs) - The Symfony documentation (7 months ago)
@@ -36,8 +36,8 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Update box.rb](https://github.com/box-project/homebrew-box/pull/10) on [box-project/homebrew-box](https://github.com/box-project/homebrew-box) (today)
-- [Migrate to symfony 6 1](https://github.com/abdounikarim/portfolio/pull/119) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (5 days ago)
+- [Update box.rb](https://github.com/box-project/homebrew-box/pull/10) on [box-project/homebrew-box](https://github.com/box-project/homebrew-box) (1 day ago)
+- [Migrate to symfony 6 1](https://github.com/abdounikarim/portfolio/pull/119) on [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) (6 days ago)
 
 #### 📓 Gists I wrote
 
@@ -52,7 +52,7 @@
 - [shivammathur/homebrew-php](https://github.com/shivammathur/homebrew-php) - :beer: Homebrew tap for PHP 5.6 to 8.2. PHP 8.2 is a nightly build. (6 months ago)
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age (7 months ago)
 - [DEAKSoftware/Synergy-Binaries](https://github.com/DEAKSoftware/Synergy-Binaries) - Download the latest stable Synergy binaries. (7 months ago)
-- [AmmeySaini/Edu-Mail-Generator](https://github.com/AmmeySaini/Edu-Mail-Generator) - Generate Free Edu Mail(s) within minutes (7 months ago)
+- [AmmeySaini/Edu-Mail-Generator](https://github.com/AmmeySaini/Edu-Mail-Generator) - Generate Free Edu Mail(s) within minutes (8 months ago)
 - [sebastianbergmann/phploc](https://github.com/sebastianbergmann/phploc) - A tool for quickly measuring the size of a PHP project. (8 months ago)
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books (9 months ago)
 
