@@ -32,11 +32,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [doctrine/migrations](https://github.com/doctrine/migrations) ([3.5.1](https://github.com/doctrine/migrations/releases/tag/3.5.1), 3 weeks ago) - Doctrine Database Migrations Library
+- [doctrine/migrations](https://github.com/doctrine/migrations) ([3.5.1](https://github.com/doctrine/migrations/releases/tag/3.5.1), 4 weeks ago) - Doctrine Database Migrations Library
 
 #### 🔨 My recent Pull Requests
 
-- [Update box.rb](https://github.com/box-project/homebrew-box/pull/10) on [box-project/homebrew-box](https://github.com/box-project/homebrew-box) (4 days ago)
+- [Update box.rb](https://github.com/box-project/homebrew-box/pull/10) on [box-project/homebrew-box](https://github.com/box-project/homebrew-box) (5 days ago)
 
 #### 📓 Gists I wrote
 
@@ -44,9 +44,9 @@
 
 #### ⭐ Recent Stars
 
-- [igorkulman/ChangeMenuBarColor](https://github.com/igorkulman/ChangeMenuBarColor) - Simple utility to change macOS Big Sur and Monterey menu bar color by appending a solid color or gradient rectangle to a wallpaper image (2 weeks ago)
-- [coopTilleuls/workshop-apip-ddd](https://github.com/coopTilleuls/workshop-apip-ddd) - Demo project for the API Platform / DDD Workshop (3 months ago)
-- [mxkh/symfony-api-platform-ddd-cqrs-boilerplate](https://github.com/mxkh/symfony-api-platform-ddd-cqrs-boilerplate) - Symfony API Platform DDD CQRS Boilerplate (3 months ago)
+- [igorkulman/ChangeMenuBarColor](https://github.com/igorkulman/ChangeMenuBarColor) - Simple utility to change macOS Big Sur and Monterey menu bar color by appending a solid color or gradient rectangle to a wallpaper image (3 weeks ago)
+- [coopTilleuls/workshop-apip-ddd](https://github.com/coopTilleuls/workshop-apip-ddd) - Demo project for the API Platform / DDD Workshop (4 months ago)
+- [mxkh/symfony-api-platform-ddd-cqrs-boilerplate](https://github.com/mxkh/symfony-api-platform-ddd-cqrs-boilerplate) - Symfony API Platform DDD CQRS Boilerplate (4 months ago)
 - [abdounikarim/codededev](https://github.com/abdounikarim/codededev) -  (5 months ago)
 - [shivammathur/homebrew-php](https://github.com/shivammathur/homebrew-php) - :beer: Homebrew tap for PHP 5.6 to 8.2. PHP 8.2 is a nightly build. (7 months ago)
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age (7 months ago)
