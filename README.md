@@ -57,11 +57,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [SergioVasko](https://github.com/SergioVasko)
 - [BeerusHakaishin](https://github.com/BeerusHakaishin)
 - [hsensier](https://github.com/hsensier)
 - [Aminejohda](https://github.com/Aminejohda)
 - [damienmillet](https://github.com/damienmillet)
-- [flaajimi](https://github.com/flaajimi)
 
 #### 💬 Feedback
 
