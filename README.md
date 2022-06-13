@@ -43,7 +43,7 @@
 
 #### ⭐ Recent Stars
 
-- [igorkulman/ChangeMenuBarColor](https://github.com/igorkulman/ChangeMenuBarColor) - Simple utility to change macOS Big Sur and Monterey menu bar color by appending a solid color or gradient rectangle to a wallpaper image (3 weeks ago)
+- [igorkulman/ChangeMenuBarColor](https://github.com/igorkulman/ChangeMenuBarColor) - Simple utility to change macOS Big Sur and Monterey menu bar color by appending a solid color or gradient rectangle to a wallpaper image (4 weeks ago)
 - [coopTilleuls/workshop-apip-ddd](https://github.com/coopTilleuls/workshop-apip-ddd) - Demo project for the API Platform / DDD Workshop (4 months ago)
 - [mxkh/symfony-api-platform-ddd-cqrs-boilerplate](https://github.com/mxkh/symfony-api-platform-ddd-cqrs-boilerplate) - Symfony API Platform DDD CQRS Boilerplate (4 months ago)
 - [abdounikarim/codededev](https://github.com/abdounikarim/codededev) -  (6 months ago)
