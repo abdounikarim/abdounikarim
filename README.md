@@ -6,9 +6,9 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [abdounikarim/install](https://github.com/abdounikarim/install) -  (today)
 - [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) -  (2 weeks ago)
 - [abdounikarim/demo-ansible](https://github.com/abdounikarim/demo-ansible) -  (1 month ago)
-- [abdounikarim/install](https://github.com/abdounikarim/install) -  (3 months ago)
 - [abdounikarim/cmi](https://github.com/abdounikarim/cmi) -  (4 months ago)
 - [Casrime/chalets-et-caviar](https://github.com/Casrime/chalets-et-caviar) - OpenClassrooms - Projet 2 du parcours Développeur d&#39;Applications PHP / Symfony (5 months ago)
 - [Casrime/bilemo](https://github.com/Casrime/bilemo) - OpenClassrooms - Projet 7 du parcours Développeur d&#39;Applications PHP / Symfony (7 months ago)
@@ -36,6 +36,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Add configuration](https://github.com/abdounikarim/install/pull/1) on [abdounikarim/install](https://github.com/abdounikarim/install) (today)
 
 #### 📓 Gists I wrote
 
