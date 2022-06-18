@@ -6,7 +6,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [abdounikarim/install](https://github.com/abdounikarim/install) -  (2 days ago)
+- [abdounikarim/install](https://github.com/abdounikarim/install) -  (3 days ago)
 - [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) -  (3 weeks ago)
 - [abdounikarim/demo-ansible](https://github.com/abdounikarim/demo-ansible) -  (1 month ago)
 - [abdounikarim/cmi](https://github.com/abdounikarim/cmi) -  (4 months ago)
@@ -36,7 +36,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Add configuration](https://github.com/abdounikarim/install/pull/1) on [abdounikarim/install](https://github.com/abdounikarim/install) (3 days ago)
+- [Add configuration](https://github.com/abdounikarim/install/pull/1) on [abdounikarim/install](https://github.com/abdounikarim/install) (4 days ago)
 
 #### 📓 Gists I wrote
 
@@ -44,8 +44,8 @@
 
 #### ⭐ Recent Stars
 
-- [abdounikarim/prepare-certification](https://github.com/abdounikarim/prepare-certification) -  (1 day ago)
-- [r-darwish/topgrade](https://github.com/r-darwish/topgrade) - Upgrade everything (4 days ago)
+- [abdounikarim/prepare-certification](https://github.com/abdounikarim/prepare-certification) -  (2 days ago)
+- [r-darwish/topgrade](https://github.com/r-darwish/topgrade) - Upgrade everything (5 days ago)
 - [igorkulman/ChangeMenuBarColor](https://github.com/igorkulman/ChangeMenuBarColor) - Simple utility to change macOS Big Sur and Monterey menu bar color by appending a solid color or gradient rectangle to a wallpaper image (1 month ago)
 - [coopTilleuls/workshop-apip-ddd](https://github.com/coopTilleuls/workshop-apip-ddd) - Demo project for the API Platform / DDD Workshop (4 months ago)
 - [mxkh/symfony-api-platform-ddd-cqrs-boilerplate](https://github.com/mxkh/symfony-api-platform-ddd-cqrs-boilerplate) - Symfony API Platform DDD CQRS Boilerplate (4 months ago)
