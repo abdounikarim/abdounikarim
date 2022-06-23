@@ -44,7 +44,7 @@
 
 #### ⭐ Recent Stars
 
-- [abdounikarim/prepare-certification](https://github.com/abdounikarim/prepare-certification) -  (6 days ago)
+- [abdounikarim/prepare-certification](https://github.com/abdounikarim/prepare-certification) -  (1 week ago)
 - [r-darwish/topgrade](https://github.com/r-darwish/topgrade) - Upgrade everything (1 week ago)
 - [igorkulman/ChangeMenuBarColor](https://github.com/igorkulman/ChangeMenuBarColor) - Simple utility to change macOS Big Sur and Monterey menu bar color by appending a solid color or gradient rectangle to a wallpaper image (1 month ago)
 - [coopTilleuls/workshop-apip-ddd](https://github.com/coopTilleuls/workshop-apip-ddd) - Demo project for the API Platform / DDD Workshop (4 months ago)
