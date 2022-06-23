@@ -6,6 +6,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [box-project/homebrew-box](https://github.com/box-project/homebrew-box) -  (today)
 - [abdounikarim/install](https://github.com/abdounikarim/install) -  (1 week ago)
 - [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) -  (3 weeks ago)
 - [abdounikarim/demo-ansible](https://github.com/abdounikarim/demo-ansible) -  (1 month ago)
@@ -14,8 +15,7 @@
 - [Casrime/bilemo](https://github.com/Casrime/bilemo) - OpenClassrooms - Projet 7 du parcours Développeur d&#39;Applications PHP / Symfony (7 months ago)
 - [symfony/symfony-docs](https://github.com/symfony/symfony-docs) - The Symfony documentation (8 months ago)
 - [abdounikarim/test_lfz](https://github.com/abdounikarim/test_lfz) -  (9 months ago)
-- [abdounikarim/symfonycasts-javascript-es2015](https://github.com/abdounikarim/symfonycasts-javascript-es2015) -  (10 months ago)
-- [abdounikarim/symfonycasts-vue-js](https://github.com/abdounikarim/symfonycasts-vue-js) - SymfonyCasts - Vue.js courses (10 months ago)
+- [abdounikarim/the_spacebar](https://github.com/abdounikarim/the_spacebar) -  (10 months ago)
 
 #### 🌱 My latest projects
 
