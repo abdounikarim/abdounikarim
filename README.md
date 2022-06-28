@@ -6,9 +6,9 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) -  (today)
 - [box-project/homebrew-box](https://github.com/box-project/homebrew-box) -  (5 days ago)
-- [abdounikarim/install](https://github.com/abdounikarim/install) -  (1 week ago)
-- [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) -  (1 month ago)
+- [abdounikarim/macos](https://github.com/abdounikarim/macos) -  (1 week ago)
 - [abdounikarim/demo-ansible](https://github.com/abdounikarim/demo-ansible) -  (1 month ago)
 - [abdounikarim/cmi](https://github.com/abdounikarim/cmi) -  (4 months ago)
 - [Casrime/chalets-et-caviar](https://github.com/Casrime/chalets-et-caviar) - OpenClassrooms - Projet 2 du parcours Développeur d&#39;Applications PHP / Symfony (5 months ago)
@@ -21,7 +21,7 @@
 
 - [abdounikarim/demo-ansible](https://github.com/abdounikarim/demo-ansible) - 
 - [abdounikarim/cmi](https://github.com/abdounikarim/cmi) - 
-- [abdounikarim/install](https://github.com/abdounikarim/install) - 
+- [abdounikarim/macos](https://github.com/abdounikarim/macos) - 
 - [abdounikarim/test_lfz](https://github.com/abdounikarim/test_lfz) - 
 - [abdounikarim/vue](https://github.com/abdounikarim/vue) - 
 - [abdounikarim/ponka-fy_me](https://github.com/abdounikarim/ponka-fy_me) - 
@@ -36,7 +36,8 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Add configuration](https://github.com/abdounikarim/install/pull/1) on [abdounikarim/install](https://github.com/abdounikarim/install) (2 weeks ago)
+- [New architecture](https://github.com/abdounikarim/abdounikarim.com/pull/120) on [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) (today)
+- [Add configuration](https://github.com/abdounikarim/macos/pull/1) on [abdounikarim/macos](https://github.com/abdounikarim/macos) (2 weeks ago)
 
 #### 📓 Gists I wrote
 
