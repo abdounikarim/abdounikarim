@@ -6,7 +6,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [box-project/homebrew-box](https://github.com/box-project/homebrew-box) -  (4 days ago)
+- [box-project/homebrew-box](https://github.com/box-project/homebrew-box) -  (5 days ago)
 - [abdounikarim/install](https://github.com/abdounikarim/install) -  (1 week ago)
 - [abdounikarim/portfolio](https://github.com/abdounikarim/portfolio) -  (1 month ago)
 - [abdounikarim/demo-ansible](https://github.com/abdounikarim/demo-ansible) -  (1 month ago)
@@ -36,7 +36,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Add configuration](https://github.com/abdounikarim/install/pull/1) on [abdounikarim/install](https://github.com/abdounikarim/install) (1 week ago)
+- [Add configuration](https://github.com/abdounikarim/install/pull/1) on [abdounikarim/install](https://github.com/abdounikarim/install) (2 weeks ago)
 
 #### 📓 Gists I wrote
 
