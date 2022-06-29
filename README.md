@@ -7,8 +7,8 @@
 #### 👷 Check out what I'm currently working on
 
 - [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) -  (today)
-- [box-project/homebrew-box](https://github.com/box-project/homebrew-box) -  (5 days ago)
-- [abdounikarim/macos](https://github.com/abdounikarim/macos) -  (1 week ago)
+- [box-project/homebrew-box](https://github.com/box-project/homebrew-box) -  (6 days ago)
+- [abdounikarim/macos](https://github.com/abdounikarim/macos) -  (2 weeks ago)
 - [abdounikarim/demo-ansible](https://github.com/abdounikarim/demo-ansible) -  (1 month ago)
 - [abdounikarim/cmi](https://github.com/abdounikarim/cmi) -  (4 months ago)
 - [Casrime/chalets-et-caviar](https://github.com/Casrime/chalets-et-caviar) - OpenClassrooms - Projet 2 du parcours Développeur d&#39;Applications PHP / Symfony (5 months ago)
@@ -36,7 +36,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [New architecture](https://github.com/abdounikarim/abdounikarim.com/pull/120) on [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) (today)
+- [New architecture](https://github.com/abdounikarim/abdounikarim.com/pull/120) on [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) (1 day ago)
 - [Add configuration](https://github.com/abdounikarim/macos/pull/1) on [abdounikarim/macos](https://github.com/abdounikarim/macos) (2 weeks ago)
 
 #### 📓 Gists I wrote
