@@ -36,6 +36,10 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Update Makefile](https://github.com/abdounikarim/abdounikarim.com/pull/126) on [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) (today)
+- [Update Behat namespaces](https://github.com/abdounikarim/abdounikarim.com/pull/125) on [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) (today)
+- [Update Xdebug version to 3.1.5](https://github.com/abdounikarim/abdounikarim.com/pull/124) on [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) (today)
+- [Update Docker configuration](https://github.com/abdounikarim/abdounikarim.com/pull/123) on [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) (today)
 - [Update Makefile](https://github.com/abdounikarim/abdounikarim.com/pull/122) on [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) (1 day ago)
 - [New architecture](https://github.com/abdounikarim/abdounikarim.com/pull/120) on [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) (2 days ago)
 - [Add configuration](https://github.com/abdounikarim/macos/pull/1) on [abdounikarim/macos](https://github.com/abdounikarim/macos) (2 weeks ago)
