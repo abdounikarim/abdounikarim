@@ -7,7 +7,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) -  (today)
-- [box-project/homebrew-box](https://github.com/box-project/homebrew-box) -  (6 days ago)
+- [box-project/homebrew-box](https://github.com/box-project/homebrew-box) -  (1 week ago)
 - [abdounikarim/macos](https://github.com/abdounikarim/macos) -  (2 weeks ago)
 - [abdounikarim/demo-ansible](https://github.com/abdounikarim/demo-ansible) -  (1 month ago)
 - [abdounikarim/cmi](https://github.com/abdounikarim/cmi) -  (4 months ago)
@@ -36,8 +36,8 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Update Makefile](https://github.com/abdounikarim/abdounikarim.com/pull/122) on [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) (today)
-- [New architecture](https://github.com/abdounikarim/abdounikarim.com/pull/120) on [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) (1 day ago)
+- [Update Makefile](https://github.com/abdounikarim/abdounikarim.com/pull/122) on [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) (1 day ago)
+- [New architecture](https://github.com/abdounikarim/abdounikarim.com/pull/120) on [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) (2 days ago)
 - [Add configuration](https://github.com/abdounikarim/macos/pull/1) on [abdounikarim/macos](https://github.com/abdounikarim/macos) (2 weeks ago)
 
 #### 📓 Gists I wrote
@@ -46,7 +46,7 @@
 
 #### ⭐ Recent Stars
 
-- [abdounikarim/prepare-certification](https://github.com/abdounikarim/prepare-certification) -  (1 week ago)
+- [abdounikarim/prepare-certification](https://github.com/abdounikarim/prepare-certification) -  (2 weeks ago)
 - [r-darwish/topgrade](https://github.com/r-darwish/topgrade) - Upgrade everything (2 weeks ago)
 - [igorkulman/ChangeMenuBarColor](https://github.com/igorkulman/ChangeMenuBarColor) - Simple utility to change macOS Big Sur and Monterey menu bar color by appending a solid color or gradient rectangle to a wallpaper image (1 month ago)
 - [coopTilleuls/workshop-apip-ddd](https://github.com/coopTilleuls/workshop-apip-ddd) - Demo project for the API Platform / DDD Workshop (4 months ago)
