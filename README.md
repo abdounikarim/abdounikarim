@@ -6,11 +6,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) -  (1 day ago)
+- [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) -  (2 days ago)
 - [box-project/homebrew-box](https://github.com/box-project/homebrew-box) -  (1 week ago)
 - [abdounikarim/macos](https://github.com/abdounikarim/macos) -  (2 weeks ago)
 - [abdounikarim/demo-ansible](https://github.com/abdounikarim/demo-ansible) -  (1 month ago)
-- [abdounikarim/cmi](https://github.com/abdounikarim/cmi) -  (4 months ago)
+- [abdounikarim/cmi](https://github.com/abdounikarim/cmi) -  (5 months ago)
 - [Casrime/chalets-et-caviar](https://github.com/Casrime/chalets-et-caviar) - OpenClassrooms - Projet 2 du parcours Développeur d&#39;Applications PHP / Symfony (5 months ago)
 - [Casrime/bilemo](https://github.com/Casrime/bilemo) - OpenClassrooms - Projet 7 du parcours Développeur d&#39;Applications PHP / Symfony (8 months ago)
 - [symfony/symfony-docs](https://github.com/symfony/symfony-docs) - The Symfony documentation (8 months ago)
@@ -36,13 +36,13 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Clean project](https://github.com/abdounikarim/abdounikarim.com/pull/127) on [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) (1 day ago)
-- [Update Makefile](https://github.com/abdounikarim/abdounikarim.com/pull/126) on [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) (1 day ago)
-- [Update Behat namespaces](https://github.com/abdounikarim/abdounikarim.com/pull/125) on [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) (1 day ago)
-- [Update Xdebug version to 3.1.5](https://github.com/abdounikarim/abdounikarim.com/pull/124) on [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) (1 day ago)
-- [Update Docker configuration](https://github.com/abdounikarim/abdounikarim.com/pull/123) on [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) (1 day ago)
-- [Update Makefile](https://github.com/abdounikarim/abdounikarim.com/pull/122) on [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) (2 days ago)
-- [New architecture](https://github.com/abdounikarim/abdounikarim.com/pull/120) on [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) (3 days ago)
+- [Clean project](https://github.com/abdounikarim/abdounikarim.com/pull/127) on [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) (2 days ago)
+- [Update Makefile](https://github.com/abdounikarim/abdounikarim.com/pull/126) on [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) (2 days ago)
+- [Update Behat namespaces](https://github.com/abdounikarim/abdounikarim.com/pull/125) on [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) (2 days ago)
+- [Update Xdebug version to 3.1.5](https://github.com/abdounikarim/abdounikarim.com/pull/124) on [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) (2 days ago)
+- [Update Docker configuration](https://github.com/abdounikarim/abdounikarim.com/pull/123) on [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) (2 days ago)
+- [Update Makefile](https://github.com/abdounikarim/abdounikarim.com/pull/122) on [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) (3 days ago)
+- [New architecture](https://github.com/abdounikarim/abdounikarim.com/pull/120) on [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) (4 days ago)
 - [Add configuration](https://github.com/abdounikarim/macos/pull/1) on [abdounikarim/macos](https://github.com/abdounikarim/macos) (2 weeks ago)
 
 #### 📓 Gists I wrote
@@ -60,7 +60,7 @@
 - [shivammathur/homebrew-php](https://github.com/shivammathur/homebrew-php) - :beer: Homebrew tap for PHP 5.6 to 8.2. PHP 8.2 is a nightly build. (7 months ago)
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age (8 months ago)
 - [DEAKSoftware/Synergy-Binaries](https://github.com/DEAKSoftware/Synergy-Binaries) - Download the latest stable Synergy binaries. (8 months ago)
-- [AmmeySaini/Edu-Mail-Generator](https://github.com/AmmeySaini/Edu-Mail-Generator) - Generate Free Edu Mail(s) within minutes (8 months ago)
+- [AmmeySaini/Edu-Mail-Generator](https://github.com/AmmeySaini/Edu-Mail-Generator) - Generate Free Edu Mail(s) within minutes (9 months ago)
 
 #### 👯 Check out some of my recent followers
 
