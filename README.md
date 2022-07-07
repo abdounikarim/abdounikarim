@@ -7,6 +7,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) -  (2 days ago)
+- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (2 days ago)
 - [box-project/homebrew-box](https://github.com/box-project/homebrew-box) -  (2 weeks ago)
 - [abdounikarim/macos](https://github.com/abdounikarim/macos) -  (3 weeks ago)
 - [abdounikarim/demo-ansible](https://github.com/abdounikarim/demo-ansible) -  (1 month ago)
@@ -15,7 +16,6 @@
 - [Casrime/bilemo](https://github.com/Casrime/bilemo) - OpenClassrooms - Projet 7 du parcours Développeur d&#39;Applications PHP / Symfony (8 months ago)
 - [symfony/symfony-docs](https://github.com/symfony/symfony-docs) - The Symfony documentation (8 months ago)
 - [abdounikarim/test_lfz](https://github.com/abdounikarim/test_lfz) -  (9 months ago)
-- [abdounikarim/the_spacebar](https://github.com/abdounikarim/the_spacebar) -  (10 months ago)
 
 #### 🌱 My latest projects
 
@@ -32,6 +32,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [symfony/symfony](https://github.com/symfony/symfony) ([v6.1.2](https://github.com/symfony/symfony/releases/tag/v6.1.2), 1 week ago) - The Symfony PHP framework
 
 #### 🔨 My recent Pull Requests
 
