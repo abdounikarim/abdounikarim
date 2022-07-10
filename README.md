@@ -6,11 +6,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) -  (4 days ago)
-- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (4 days ago)
+- [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) -  (5 days ago)
+- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (5 days ago)
 - [box-project/homebrew-box](https://github.com/box-project/homebrew-box) -  (2 weeks ago)
 - [abdounikarim/macos](https://github.com/abdounikarim/macos) -  (3 weeks ago)
-- [abdounikarim/demo-ansible](https://github.com/abdounikarim/demo-ansible) -  (1 month ago)
+- [abdounikarim/demo-ansible](https://github.com/abdounikarim/demo-ansible) -  (2 months ago)
 - [abdounikarim/cmi](https://github.com/abdounikarim/cmi) -  (5 months ago)
 - [Casrime/chalets-et-caviar](https://github.com/Casrime/chalets-et-caviar) - OpenClassrooms - Projet 2 du parcours Développeur d&#39;Applications PHP / Symfony (6 months ago)
 - [Casrime/bilemo](https://github.com/Casrime/bilemo) - OpenClassrooms - Projet 7 du parcours Développeur d&#39;Applications PHP / Symfony (8 months ago)
@@ -32,15 +32,15 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v6.1.2](https://github.com/symfony/symfony/releases/tag/v6.1.2), 1 week ago) - The Symfony PHP framework
+- [symfony/symfony](https://github.com/symfony/symfony) ([v6.1.2](https://github.com/symfony/symfony/releases/tag/v6.1.2), 2 weeks ago) - The Symfony PHP framework
 
 #### 🔨 My recent Pull Requests
 
-- [Add a missing comment for HTTP 451 status code](https://github.com/symfony/symfony/pull/46858) on [symfony/symfony](https://github.com/symfony/symfony) (4 days ago)
-- [add create admin command](https://github.com/abdounikarim/abdounikarim.com/pull/131) on [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) (5 days ago)
-- [add admin crud link](https://github.com/abdounikarim/abdounikarim.com/pull/130) on [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) (5 days ago)
-- [Add security system](https://github.com/abdounikarim/abdounikarim.com/pull/129) on [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) (5 days ago)
-- [Boot project](https://github.com/abdounikarim/abdounikarim.com/pull/128) on [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) (5 days ago)
+- [Add a missing comment for HTTP 451 status code](https://github.com/symfony/symfony/pull/46858) on [symfony/symfony](https://github.com/symfony/symfony) (5 days ago)
+- [add create admin command](https://github.com/abdounikarim/abdounikarim.com/pull/131) on [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) (6 days ago)
+- [add admin crud link](https://github.com/abdounikarim/abdounikarim.com/pull/130) on [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) (6 days ago)
+- [Add security system](https://github.com/abdounikarim/abdounikarim.com/pull/129) on [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) (6 days ago)
+- [Boot project](https://github.com/abdounikarim/abdounikarim.com/pull/128) on [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) (6 days ago)
 - [Clean project](https://github.com/abdounikarim/abdounikarim.com/pull/127) on [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) (1 week ago)
 - [Update Makefile](https://github.com/abdounikarim/abdounikarim.com/pull/126) on [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) (1 week ago)
 - [Update Behat namespaces](https://github.com/abdounikarim/abdounikarim.com/pull/125) on [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) (1 week ago)
