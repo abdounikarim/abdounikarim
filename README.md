@@ -6,7 +6,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) -  (1 week ago)
+- [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) -  (today)
 - [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (1 week ago)
 - [box-project/homebrew-box](https://github.com/box-project/homebrew-box) -  (2 weeks ago)
 - [abdounikarim/macos](https://github.com/abdounikarim/macos) -  (3 weeks ago)
@@ -36,6 +36,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Ansistrano - remove dc-build step](https://github.com/abdounikarim/abdounikarim.com/pull/138) on [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) (today)
+- [Configure blackfire in prod environment](https://github.com/abdounikarim/abdounikarim.com/pull/137) on [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) (today)
 - [Add a missing comment for HTTP 451 status code](https://github.com/symfony/symfony/pull/46858) on [symfony/symfony](https://github.com/symfony/symfony) (1 week ago)
 - [add create admin command](https://github.com/abdounikarim/abdounikarim.com/pull/131) on [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) (1 week ago)
 - [add admin crud link](https://github.com/abdounikarim/abdounikarim.com/pull/130) on [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) (1 week ago)
@@ -43,8 +45,6 @@
 - [Boot project](https://github.com/abdounikarim/abdounikarim.com/pull/128) on [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) (1 week ago)
 - [Clean project](https://github.com/abdounikarim/abdounikarim.com/pull/127) on [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) (1 week ago)
 - [Update Makefile](https://github.com/abdounikarim/abdounikarim.com/pull/126) on [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) (1 week ago)
-- [Update Behat namespaces](https://github.com/abdounikarim/abdounikarim.com/pull/125) on [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) (1 week ago)
-- [Update Xdebug version to 3.1.5](https://github.com/abdounikarim/abdounikarim.com/pull/124) on [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) (1 week ago)
 
 #### 📓 Gists I wrote
 
