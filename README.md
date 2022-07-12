@@ -44,7 +44,6 @@
 - [Add security system](https://github.com/abdounikarim/abdounikarim.com/pull/129) on [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) (1 week ago)
 - [Boot project](https://github.com/abdounikarim/abdounikarim.com/pull/128) on [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) (1 week ago)
 - [Clean project](https://github.com/abdounikarim/abdounikarim.com/pull/127) on [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) (1 week ago)
-- [Update Makefile](https://github.com/abdounikarim/abdounikarim.com/pull/126) on [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) (1 week ago)
 
 #### 📓 Gists I wrote
 
