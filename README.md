@@ -42,7 +42,6 @@
 - [add create admin command](https://github.com/abdounikarim/abdounikarim.com/pull/131) on [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) (1 week ago)
 - [add admin crud link](https://github.com/abdounikarim/abdounikarim.com/pull/130) on [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) (1 week ago)
 - [Add security system](https://github.com/abdounikarim/abdounikarim.com/pull/129) on [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) (1 week ago)
-- [Boot project](https://github.com/abdounikarim/abdounikarim.com/pull/128) on [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) (1 week ago)
 
 #### 📓 Gists I wrote
 
