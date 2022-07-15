@@ -6,10 +6,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) -  (today)
+- [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) -  (1 day ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (1 week ago)
 - [box-project/homebrew-box](https://github.com/box-project/homebrew-box) -  (3 weeks ago)
-- [abdounikarim/macos](https://github.com/abdounikarim/macos) -  (4 weeks ago)
+- [abdounikarim/macos](https://github.com/abdounikarim/macos) -  (1 month ago)
 - [abdounikarim/demo-ansible](https://github.com/abdounikarim/demo-ansible) -  (2 months ago)
 - [abdounikarim/cmi](https://github.com/abdounikarim/cmi) -  (5 months ago)
 - [Casrime/chalets-et-caviar](https://github.com/Casrime/chalets-et-caviar) - OpenClassrooms - Projet 2 du parcours Développeur d&#39;Applications PHP / Symfony (6 months ago)
@@ -36,10 +36,10 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Install Twig CS Fixer and add Makefile command](https://github.com/abdounikarim/abdounikarim.com/pull/143) on [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) (today)
-- [Configure blackfire in prod environment](https://github.com/abdounikarim/abdounikarim.com/pull/140) on [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) (today)
-- [Ansistrano - remove dc-build step](https://github.com/abdounikarim/abdounikarim.com/pull/138) on [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) (2 days ago)
-- [Configure blackfire in prod environment](https://github.com/abdounikarim/abdounikarim.com/pull/137) on [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) (2 days ago)
+- [Install Twig CS Fixer and add Makefile command](https://github.com/abdounikarim/abdounikarim.com/pull/143) on [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) (1 day ago)
+- [Configure blackfire in prod environment](https://github.com/abdounikarim/abdounikarim.com/pull/140) on [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) (1 day ago)
+- [Ansistrano - remove dc-build step](https://github.com/abdounikarim/abdounikarim.com/pull/138) on [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) (3 days ago)
+- [Configure blackfire in prod environment](https://github.com/abdounikarim/abdounikarim.com/pull/137) on [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) (3 days ago)
 - [Add a missing comment for HTTP 451 status code](https://github.com/symfony/symfony/pull/46858) on [symfony/symfony](https://github.com/symfony/symfony) (1 week ago)
 - [add create admin command](https://github.com/abdounikarim/abdounikarim.com/pull/131) on [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) (1 week ago)
 
@@ -51,7 +51,7 @@
 
 - [abdounikarim/prepare-certification](https://github.com/abdounikarim/prepare-certification) -  (4 weeks ago)
 - [r-darwish/topgrade](https://github.com/r-darwish/topgrade) - Upgrade everything (1 month ago)
-- [igorkulman/ChangeMenuBarColor](https://github.com/igorkulman/ChangeMenuBarColor) - Simple utility to change macOS Big Sur and Monterey menu bar color by appending a solid color or gradient rectangle to a wallpaper image (1 month ago)
+- [igorkulman/ChangeMenuBarColor](https://github.com/igorkulman/ChangeMenuBarColor) - Simple utility to change macOS Big Sur and Monterey menu bar color by appending a solid color or gradient rectangle to a wallpaper image (2 months ago)
 - [coopTilleuls/workshop-apip-ddd](https://github.com/coopTilleuls/workshop-apip-ddd) - Demo project for the API Platform / DDD Workshop (5 months ago)
 - [mxkh/symfony-api-platform-ddd-cqrs-boilerplate](https://github.com/mxkh/symfony-api-platform-ddd-cqrs-boilerplate) - Symfony API Platform DDD CQRS Boilerplate (5 months ago)
 - [abdounikarim/codededev](https://github.com/abdounikarim/codededev) -  (7 months ago)
