@@ -40,8 +40,6 @@
 - [Configure blackfire in prod environment](https://github.com/abdounikarim/abdounikarim.com/pull/140) on [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) (1 day ago)
 - [Ansistrano - remove dc-build step](https://github.com/abdounikarim/abdounikarim.com/pull/138) on [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) (3 days ago)
 - [Configure blackfire in prod environment](https://github.com/abdounikarim/abdounikarim.com/pull/137) on [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) (3 days ago)
-- [Add a missing comment for HTTP 451 status code](https://github.com/symfony/symfony/pull/46858) on [symfony/symfony](https://github.com/symfony/symfony) (1 week ago)
-- [add create admin command](https://github.com/abdounikarim/abdounikarim.com/pull/131) on [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) (1 week ago)
 
 #### 📓 Gists I wrote
 
