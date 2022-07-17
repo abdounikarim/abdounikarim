@@ -6,7 +6,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) -  (2 days ago)
+- [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) -  (3 days ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (1 week ago)
 - [box-project/homebrew-box](https://github.com/box-project/homebrew-box) -  (3 weeks ago)
 - [abdounikarim/macos](https://github.com/abdounikarim/macos) -  (1 month ago)
@@ -32,14 +32,14 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v6.1.2](https://github.com/symfony/symfony/releases/tag/v6.1.2), 2 weeks ago) - The Symfony PHP framework
+- [symfony/symfony](https://github.com/symfony/symfony) ([v6.1.2](https://github.com/symfony/symfony/releases/tag/v6.1.2), 3 weeks ago) - The Symfony PHP framework
 
 #### 🔨 My recent Pull Requests
 
-- [Install Twig CS Fixer and add Makefile command](https://github.com/abdounikarim/abdounikarim.com/pull/143) on [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) (2 days ago)
-- [Configure blackfire in prod environment](https://github.com/abdounikarim/abdounikarim.com/pull/140) on [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) (2 days ago)
-- [Ansistrano - remove dc-build step](https://github.com/abdounikarim/abdounikarim.com/pull/138) on [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) (4 days ago)
-- [Configure blackfire in prod environment](https://github.com/abdounikarim/abdounikarim.com/pull/137) on [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) (4 days ago)
+- [Install Twig CS Fixer and add Makefile command](https://github.com/abdounikarim/abdounikarim.com/pull/143) on [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) (3 days ago)
+- [Configure blackfire in prod environment](https://github.com/abdounikarim/abdounikarim.com/pull/140) on [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) (3 days ago)
+- [Ansistrano - remove dc-build step](https://github.com/abdounikarim/abdounikarim.com/pull/138) on [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) (5 days ago)
+- [Configure blackfire in prod environment](https://github.com/abdounikarim/abdounikarim.com/pull/137) on [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) (5 days ago)
 
 #### 📓 Gists I wrote
 
