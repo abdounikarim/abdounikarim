@@ -39,7 +39,6 @@
 - [Install Twig CS Fixer and add Makefile command](https://github.com/abdounikarim/abdounikarim.com/pull/143) on [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) (4 days ago)
 - [Configure blackfire in prod environment](https://github.com/abdounikarim/abdounikarim.com/pull/140) on [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) (4 days ago)
 - [Ansistrano - remove dc-build step](https://github.com/abdounikarim/abdounikarim.com/pull/138) on [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) (6 days ago)
-- [Configure blackfire in prod environment](https://github.com/abdounikarim/abdounikarim.com/pull/137) on [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) (6 days ago)
 
 #### 📓 Gists I wrote
 
