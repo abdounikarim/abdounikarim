@@ -6,8 +6,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) -  (4 days ago)
-- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (1 week ago)
+- [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) -  (5 days ago)
+- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (2 weeks ago)
 - [box-project/homebrew-box](https://github.com/box-project/homebrew-box) -  (3 weeks ago)
 - [abdounikarim/macos](https://github.com/abdounikarim/macos) -  (1 month ago)
 - [abdounikarim/demo-ansible](https://github.com/abdounikarim/demo-ansible) -  (2 months ago)
@@ -15,7 +15,7 @@
 - [Casrime/chalets-et-caviar](https://github.com/Casrime/chalets-et-caviar) - OpenClassrooms - Projet 2 du parcours Développeur d&#39;Applications PHP / Symfony (6 months ago)
 - [Casrime/bilemo](https://github.com/Casrime/bilemo) - OpenClassrooms - Projet 7 du parcours Développeur d&#39;Applications PHP / Symfony (8 months ago)
 - [symfony/symfony-docs](https://github.com/symfony/symfony-docs) - The Symfony documentation (9 months ago)
-- [abdounikarim/test_lfz](https://github.com/abdounikarim/test_lfz) -  (9 months ago)
+- [abdounikarim/test_lfz](https://github.com/abdounikarim/test_lfz) -  (10 months ago)
 
 #### 🌱 My latest projects
 
@@ -36,9 +36,9 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Install Twig CS Fixer and add Makefile command](https://github.com/abdounikarim/abdounikarim.com/pull/143) on [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) (4 days ago)
-- [Configure blackfire in prod environment](https://github.com/abdounikarim/abdounikarim.com/pull/140) on [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) (4 days ago)
-- [Ansistrano - remove dc-build step](https://github.com/abdounikarim/abdounikarim.com/pull/138) on [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) (6 days ago)
+- [Install Twig CS Fixer and add Makefile command](https://github.com/abdounikarim/abdounikarim.com/pull/143) on [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) (5 days ago)
+- [Configure blackfire in prod environment](https://github.com/abdounikarim/abdounikarim.com/pull/140) on [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) (5 days ago)
+- [Ansistrano - remove dc-build step](https://github.com/abdounikarim/abdounikarim.com/pull/138) on [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) (1 week ago)
 
 #### 📓 Gists I wrote
 
