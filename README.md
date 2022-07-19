@@ -36,9 +36,9 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Pagination system](https://github.com/abdounikarim/abdounikarim.com/pull/144) on [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) (today)
 - [Install Twig CS Fixer and add Makefile command](https://github.com/abdounikarim/abdounikarim.com/pull/143) on [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) (5 days ago)
 - [Configure blackfire in prod environment](https://github.com/abdounikarim/abdounikarim.com/pull/140) on [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) (5 days ago)
-- [Ansistrano - remove dc-build step](https://github.com/abdounikarim/abdounikarim.com/pull/138) on [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) (1 week ago)
 
 #### 📓 Gists I wrote
 
