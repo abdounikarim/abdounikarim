@@ -36,6 +36,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Update composer.json](https://github.com/symfony/webapp-pack/pull/8) on [symfony/webapp-pack](https://github.com/symfony/webapp-pack) (today)
 - [Complete tests and fix ci](https://github.com/abdounikarim/abdounikarim.com/pull/150) on [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) (4 days ago)
 - [Remove behat](https://github.com/abdounikarim/abdounikarim.com/pull/148) on [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) (1 week ago)
 - [Pagination system](https://github.com/abdounikarim/abdounikarim.com/pull/144) on [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) (2 weeks ago)
