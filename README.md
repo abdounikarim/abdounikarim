@@ -6,7 +6,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) -  (today)
+- [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) -  (1 day ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (1 month ago)
 - [box-project/homebrew-box](https://github.com/box-project/homebrew-box) -  (1 month ago)
 - [abdounikarim/macos](https://github.com/abdounikarim/macos) -  (1 month ago)
@@ -36,10 +36,10 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Deploy to prod](https://github.com/abdounikarim/abdounikarim.com/pull/151) on [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) (today)
-- [Update composer.json](https://github.com/symfony/webapp-pack/pull/8) on [symfony/webapp-pack](https://github.com/symfony/webapp-pack) (5 days ago)
+- [Deploy to prod](https://github.com/abdounikarim/abdounikarim.com/pull/151) on [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) (1 day ago)
+- [Update composer.json](https://github.com/symfony/webapp-pack/pull/8) on [symfony/webapp-pack](https://github.com/symfony/webapp-pack) (6 days ago)
 - [Complete tests and fix ci](https://github.com/abdounikarim/abdounikarim.com/pull/150) on [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) (1 week ago)
-- [Remove behat](https://github.com/abdounikarim/abdounikarim.com/pull/148) on [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) (1 week ago)
+- [Remove behat](https://github.com/abdounikarim/abdounikarim.com/pull/148) on [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) (2 weeks ago)
 - [Pagination system](https://github.com/abdounikarim/abdounikarim.com/pull/144) on [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) (2 weeks ago)
 - [Install Twig CS Fixer and add Makefile command](https://github.com/abdounikarim/abdounikarim.com/pull/143) on [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) (3 weeks ago)
 
