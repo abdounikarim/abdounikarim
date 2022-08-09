@@ -6,11 +6,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) -  (today)
+- [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) -  (1 day ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (1 month ago)
 - [box-project/homebrew-box](https://github.com/box-project/homebrew-box) -  (1 month ago)
 - [abdounikarim/macos](https://github.com/abdounikarim/macos) -  (1 month ago)
-- [abdounikarim/demo-ansible](https://github.com/abdounikarim/demo-ansible) -  (2 months ago)
+- [abdounikarim/demo-ansible](https://github.com/abdounikarim/demo-ansible) -  (3 months ago)
 - [abdounikarim/cmi](https://github.com/abdounikarim/cmi) -  (6 months ago)
 - [Casrime/chalets-et-caviar](https://github.com/Casrime/chalets-et-caviar) - OpenClassrooms - Projet 2 du parcours Développeur d&#39;Applications PHP / Symfony (7 months ago)
 - [Casrime/bilemo](https://github.com/Casrime/bilemo) - OpenClassrooms - Projet 7 du parcours Développeur d&#39;Applications PHP / Symfony (9 months ago)
@@ -36,13 +36,13 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Update Makefile - add command](https://github.com/abdounikarim/abdounikarim.com/pull/154) on [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) (today)
-- [Github Actions - Exclude main branch for check and test configuration](https://github.com/abdounikarim/abdounikarim.com/pull/153) on [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) (today)
-- [Deploy to prod](https://github.com/abdounikarim/abdounikarim.com/pull/151) on [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) (1 day ago)
-- [Update composer.json](https://github.com/symfony/webapp-pack/pull/8) on [symfony/webapp-pack](https://github.com/symfony/webapp-pack) (6 days ago)
+- [Update Makefile - add command](https://github.com/abdounikarim/abdounikarim.com/pull/154) on [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) (1 day ago)
+- [Github Actions - Exclude main branch for check and test configuration](https://github.com/abdounikarim/abdounikarim.com/pull/153) on [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) (1 day ago)
+- [Deploy to prod](https://github.com/abdounikarim/abdounikarim.com/pull/151) on [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) (2 days ago)
+- [Update composer.json](https://github.com/symfony/webapp-pack/pull/8) on [symfony/webapp-pack](https://github.com/symfony/webapp-pack) (1 week ago)
 - [Complete tests and fix ci](https://github.com/abdounikarim/abdounikarim.com/pull/150) on [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) (1 week ago)
 - [Remove behat](https://github.com/abdounikarim/abdounikarim.com/pull/148) on [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) (2 weeks ago)
-- [Pagination system](https://github.com/abdounikarim/abdounikarim.com/pull/144) on [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) (2 weeks ago)
+- [Pagination system](https://github.com/abdounikarim/abdounikarim.com/pull/144) on [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) (3 weeks ago)
 
 #### 📓 Gists I wrote
 
