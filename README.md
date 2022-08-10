@@ -6,7 +6,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) -  (1 day ago)
+- [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) -  (2 days ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (1 month ago)
 - [box-project/homebrew-box](https://github.com/box-project/homebrew-box) -  (1 month ago)
 - [abdounikarim/macos](https://github.com/abdounikarim/macos) -  (1 month ago)
@@ -36,9 +36,9 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Update Makefile - add command](https://github.com/abdounikarim/abdounikarim.com/pull/154) on [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) (1 day ago)
-- [Github Actions - Exclude main branch for check and test configuration](https://github.com/abdounikarim/abdounikarim.com/pull/153) on [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) (1 day ago)
-- [Deploy to prod](https://github.com/abdounikarim/abdounikarim.com/pull/151) on [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) (2 days ago)
+- [Update Makefile - add command](https://github.com/abdounikarim/abdounikarim.com/pull/154) on [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) (2 days ago)
+- [Github Actions - Exclude main branch for check and test configuration](https://github.com/abdounikarim/abdounikarim.com/pull/153) on [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) (2 days ago)
+- [Deploy to prod](https://github.com/abdounikarim/abdounikarim.com/pull/151) on [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) (3 days ago)
 - [Update composer.json](https://github.com/symfony/webapp-pack/pull/8) on [symfony/webapp-pack](https://github.com/symfony/webapp-pack) (1 week ago)
 - [Complete tests and fix ci](https://github.com/abdounikarim/abdounikarim.com/pull/150) on [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) (1 week ago)
 - [Remove behat](https://github.com/abdounikarim/abdounikarim.com/pull/148) on [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) (2 weeks ago)
@@ -55,7 +55,7 @@
 - [igorkulman/ChangeMenuBarColor](https://github.com/igorkulman/ChangeMenuBarColor) - Simple utility to change macOS Big Sur and Monterey menu bar color by appending a solid color or gradient rectangle to a wallpaper image (2 months ago)
 - [coopTilleuls/workshop-apip-ddd](https://github.com/coopTilleuls/workshop-apip-ddd) - Demo project for the API Platform / DDD Workshop (6 months ago)
 - [mxkh/symfony-api-platform-ddd-cqrs-boilerplate](https://github.com/mxkh/symfony-api-platform-ddd-cqrs-boilerplate) - Symfony API Platform DDD CQRS Boilerplate (6 months ago)
-- [abdounikarim/codededev](https://github.com/abdounikarim/codededev) -  (7 months ago)
+- [abdounikarim/codededev](https://github.com/abdounikarim/codededev) -  (8 months ago)
 - [shivammathur/homebrew-php](https://github.com/shivammathur/homebrew-php) - :beer: Homebrew tap for PHP 5.6 to 8.2. PHP 8.2 is a nightly build. (9 months ago)
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age (9 months ago)
 - [DEAKSoftware/Synergy-Binaries](https://github.com/DEAKSoftware/Synergy-Binaries) - Download the latest stable Synergy binaries. (9 months ago)
