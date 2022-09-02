@@ -12,7 +12,7 @@
 - [abdounikarim/macos](https://github.com/abdounikarim/macos) -  (2 months ago)
 - [abdounikarim/demo-ansible](https://github.com/abdounikarim/demo-ansible) -  (3 months ago)
 - [abdounikarim/cmi](https://github.com/abdounikarim/cmi) -  (7 months ago)
-- [Casrime/chalets-et-caviar](https://github.com/Casrime/chalets-et-caviar) - OpenClassrooms - Projet 2 du parcours Développeur d&#39;Applications PHP / Symfony (7 months ago)
+- [Casrime/chalets-et-caviar](https://github.com/Casrime/chalets-et-caviar) - OpenClassrooms - Projet 2 du parcours Développeur d&#39;Applications PHP / Symfony (8 months ago)
 - [Casrime/bilemo](https://github.com/Casrime/bilemo) - OpenClassrooms - Projet 7 du parcours Développeur d&#39;Applications PHP / Symfony (10 months ago)
 - [symfony/symfony-docs](https://github.com/symfony/symfony-docs) - The Symfony documentation (10 months ago)
 - [abdounikarim/test_lfz](https://github.com/abdounikarim/test_lfz) -  (11 months ago)
@@ -32,13 +32,13 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v6.1.4](https://github.com/symfony/symfony/releases/tag/v6.1.4), 6 days ago) - The Symfony PHP framework
+- [symfony/symfony](https://github.com/symfony/symfony) ([v6.1.4](https://github.com/symfony/symfony/releases/tag/v6.1.4), 1 week ago) - The Symfony PHP framework
 
 #### 🔨 My recent Pull Requests
 
 - [Simplify Docker stack](https://github.com/abdounikarim/abdounikarim.com/pull/162) on [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) (2 weeks ago)
 - [Deploy to prod](https://github.com/abdounikarim/abdounikarim.com/pull/161) on [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) (2 weeks ago)
-- [Translate content](https://github.com/abdounikarim/abdounikarim.com/pull/159) on [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) (2 weeks ago)
+- [Translate content](https://github.com/abdounikarim/abdounikarim.com/pull/159) on [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) (3 weeks ago)
 - [Category system](https://github.com/abdounikarim/abdounikarim.com/pull/157) on [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) (3 weeks ago)
 - [Update Makefile - add command](https://github.com/abdounikarim/abdounikarim.com/pull/154) on [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) (3 weeks ago)
 - [Github Actions - Exclude main branch for check and test configuration](https://github.com/abdounikarim/abdounikarim.com/pull/153) on [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) (3 weeks ago)
