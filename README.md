@@ -7,7 +7,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) -  (2 weeks ago)
-- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (1 month ago)
+- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (2 months ago)
 - [box-project/homebrew-box](https://github.com/box-project/homebrew-box) -  (2 months ago)
 - [abdounikarim/macos](https://github.com/abdounikarim/macos) -  (2 months ago)
 - [abdounikarim/demo-ansible](https://github.com/abdounikarim/demo-ansible) -  (3 months ago)
