@@ -6,7 +6,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) -  (today)
+- [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) -  (1 day ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (2 months ago)
 - [box-project/homebrew-box](https://github.com/box-project/homebrew-box) -  (2 months ago)
 - [abdounikarim/macos](https://github.com/abdounikarim/macos) -  (2 months ago)
@@ -36,11 +36,11 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Check Link and generate title](https://github.com/abdounikarim/abdounikarim.com/pull/165) on [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) (today)
-- [Link system](https://github.com/abdounikarim/abdounikarim.com/pull/163) on [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) (6 days ago)
+- [Check Link and generate title](https://github.com/abdounikarim/abdounikarim.com/pull/165) on [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) (1 day ago)
+- [Link system](https://github.com/abdounikarim/abdounikarim.com/pull/163) on [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) (1 week ago)
 - [Simplify Docker stack](https://github.com/abdounikarim/abdounikarim.com/pull/162) on [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) (3 weeks ago)
 - [Deploy to prod](https://github.com/abdounikarim/abdounikarim.com/pull/161) on [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) (3 weeks ago)
-- [Translate content](https://github.com/abdounikarim/abdounikarim.com/pull/159) on [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) (4 weeks ago)
+- [Translate content](https://github.com/abdounikarim/abdounikarim.com/pull/159) on [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) (1 month ago)
 - [Category system](https://github.com/abdounikarim/abdounikarim.com/pull/157) on [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) (1 month ago)
 - [Update Makefile - add command](https://github.com/abdounikarim/abdounikarim.com/pull/154) on [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) (1 month ago)
 - [Github Actions - Exclude main branch for check and test configuration](https://github.com/abdounikarim/abdounikarim.com/pull/153) on [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) (1 month ago)
@@ -54,7 +54,7 @@
 #### ⭐ Recent Stars
 
 - [abdounikarim/prepare-certification](https://github.com/abdounikarim/prepare-certification) -  (2 months ago)
-- [r-darwish/topgrade](https://github.com/r-darwish/topgrade) - Upgrade everything (2 months ago)
+- [r-darwish/topgrade](https://github.com/r-darwish/topgrade) - Upgrade everything (3 months ago)
 - [igorkulman/ChangeMenuBarColor](https://github.com/igorkulman/ChangeMenuBarColor) - Simple utility to change macOS Big Sur and Monterey menu bar color by appending a solid color or gradient rectangle to a wallpaper image (3 months ago)
 - [coopTilleuls/workshop-apip-ddd](https://github.com/coopTilleuls/workshop-apip-ddd) - Demo project for the API Platform / DDD Workshop (7 months ago)
 - [mxkh/symfony-api-platform-ddd-cqrs-boilerplate](https://github.com/mxkh/symfony-api-platform-ddd-cqrs-boilerplate) - Symfony API Platform DDD CQRS Boilerplate (7 months ago)
