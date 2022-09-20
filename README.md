@@ -6,7 +6,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) -  (1 day ago)
+- [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) -  (2 days ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (2 months ago)
 - [box-project/homebrew-box](https://github.com/box-project/homebrew-box) -  (2 months ago)
 - [abdounikarim/macos](https://github.com/abdounikarim/macos) -  (3 months ago)
@@ -36,7 +36,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Css selector](https://github.com/abdounikarim/abdounikarim.com/pull/169) on [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) (1 day ago)
+- [Css selector](https://github.com/abdounikarim/abdounikarim.com/pull/169) on [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) (2 days ago)
 - [Deploy to prod](https://github.com/abdounikarim/abdounikarim.com/pull/167) on [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) (1 week ago)
 - [Ansible and Makefile - fix deployment](https://github.com/abdounikarim/abdounikarim.com/pull/166) on [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) (1 week ago)
 - [Check Link and generate title](https://github.com/abdounikarim/abdounikarim.com/pull/165) on [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) (1 week ago)
