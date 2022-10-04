@@ -31,7 +31,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v6.1.5](https://github.com/symfony/symfony/releases/tag/v6.1.5), 3 days ago) - The Symfony PHP framework
+- [symfony/symfony](https://github.com/symfony/symfony) ([v6.1.5](https://github.com/symfony/symfony/releases/tag/v6.1.5), 4 days ago) - The Symfony PHP framework
 
 #### 🔨 My recent Pull Requests
 
@@ -39,7 +39,7 @@
 - [Deploy to prod](https://github.com/abdounikarim/abdounikarim.com/pull/167) on [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) (3 weeks ago)
 - [Ansible and Makefile - fix deployment](https://github.com/abdounikarim/abdounikarim.com/pull/166) on [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) (3 weeks ago)
 - [Check Link and generate title](https://github.com/abdounikarim/abdounikarim.com/pull/165) on [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) (3 weeks ago)
-- [Link system](https://github.com/abdounikarim/abdounikarim.com/pull/163) on [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) (4 weeks ago)
+- [Link system](https://github.com/abdounikarim/abdounikarim.com/pull/163) on [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) (1 month ago)
 - [Simplify Docker stack](https://github.com/abdounikarim/abdounikarim.com/pull/162) on [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) (1 month ago)
 - [Deploy to prod](https://github.com/abdounikarim/abdounikarim.com/pull/161) on [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) (1 month ago)
 - [Translate content](https://github.com/abdounikarim/abdounikarim.com/pull/159) on [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) (1 month ago)
@@ -55,8 +55,8 @@
 - [abdounikarim/prepare-certification](https://github.com/abdounikarim/prepare-certification) -  (3 months ago)
 - [r-darwish/topgrade](https://github.com/r-darwish/topgrade) - Upgrade everything (3 months ago)
 - [igorkulman/ChangeMenuBarColor](https://github.com/igorkulman/ChangeMenuBarColor) - Simple utility to change macOS Big Sur and Monterey menu bar color by appending a solid color or gradient rectangle to a wallpaper image (4 months ago)
-- [coopTilleuls/workshop-apip-ddd](https://github.com/coopTilleuls/workshop-apip-ddd) - Demo project for the API Platform / DDD Workshop (7 months ago)
-- [mxkh/symfony-api-platform-ddd-cqrs-boilerplate](https://github.com/mxkh/symfony-api-platform-ddd-cqrs-boilerplate) - Symfony API Platform DDD CQRS Boilerplate (7 months ago)
+- [coopTilleuls/workshop-apip-ddd](https://github.com/coopTilleuls/workshop-apip-ddd) - Demo project for the API Platform / DDD Workshop (8 months ago)
+- [mxkh/symfony-api-platform-ddd-cqrs-boilerplate](https://github.com/mxkh/symfony-api-platform-ddd-cqrs-boilerplate) - Symfony API Platform DDD CQRS Boilerplate (8 months ago)
 - [abdounikarim/codededev](https://github.com/abdounikarim/codededev) -  (9 months ago)
 - [shivammathur/homebrew-php](https://github.com/shivammathur/homebrew-php) - :beer: Homebrew tap for PHP 5.6 to 8.3. PHP 8.2 and 8.3 are nightly builds. (11 months ago)
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age (11 months ago)
