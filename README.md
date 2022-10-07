@@ -31,7 +31,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v6.1.5](https://github.com/symfony/symfony/releases/tag/v6.1.5), 6 days ago) - The Symfony PHP framework
+- [symfony/symfony](https://github.com/symfony/symfony) ([v6.1.5](https://github.com/symfony/symfony/releases/tag/v6.1.5), 1 week ago) - The Symfony PHP framework
 
 #### 🔨 My recent Pull Requests
 
@@ -44,7 +44,7 @@
 - [Deploy to prod](https://github.com/abdounikarim/abdounikarim.com/pull/161) on [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) (1 month ago)
 - [Translate content](https://github.com/abdounikarim/abdounikarim.com/pull/159) on [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) (1 month ago)
 - [Category system](https://github.com/abdounikarim/abdounikarim.com/pull/157) on [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) (1 month ago)
-- [Update Makefile - add command](https://github.com/abdounikarim/abdounikarim.com/pull/154) on [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) (1 month ago)
+- [Update Makefile - add command](https://github.com/abdounikarim/abdounikarim.com/pull/154) on [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) (2 months ago)
 
 #### 📓 Gists I wrote
 
