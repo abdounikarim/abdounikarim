@@ -35,6 +35,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Update extracting-bundle.md](https://github.com/knpuniversity/symfony-bundle/pull/10) on [knpuniversity/symfony-bundle](https://github.com/knpuniversity/symfony-bundle) (today)
+- [Update testing.md](https://github.com/knpuniversity/symfony-bundle/pull/9) on [knpuniversity/symfony-bundle](https://github.com/knpuniversity/symfony-bundle) (today)
 - [Update interface-alias.md](https://github.com/knpuniversity/symfony-bundle/pull/8) on [knpuniversity/symfony-bundle](https://github.com/knpuniversity/symfony-bundle) (today)
 - [Css selector](https://github.com/abdounikarim/abdounikarim.com/pull/169) on [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) (3 weeks ago)
 - [Deploy to prod](https://github.com/abdounikarim/abdounikarim.com/pull/167) on [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) (4 weeks ago)
@@ -43,8 +45,6 @@
 - [Link system](https://github.com/abdounikarim/abdounikarim.com/pull/163) on [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) (1 month ago)
 - [Simplify Docker stack](https://github.com/abdounikarim/abdounikarim.com/pull/162) on [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) (1 month ago)
 - [Deploy to prod](https://github.com/abdounikarim/abdounikarim.com/pull/161) on [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) (1 month ago)
-- [Translate content](https://github.com/abdounikarim/abdounikarim.com/pull/159) on [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) (2 months ago)
-- [Category system](https://github.com/abdounikarim/abdounikarim.com/pull/157) on [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) (2 months ago)
 
 #### 📓 Gists I wrote
 
