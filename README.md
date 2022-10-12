@@ -6,7 +6,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [knpuniversity/symfony-bundle](https://github.com/knpuniversity/symfony-bundle) - Screencast code, script and birthday presents behind the &#34;Creating a Reusable (&amp; Amazing) Symfony Bundle&#34; tutorial (today)
+- [knpuniversity/symfony-bundle](https://github.com/knpuniversity/symfony-bundle) - Screencast code, script and birthday presents behind the &#34;Creating a Reusable (&amp; Amazing) Symfony Bundle&#34; tutorial (1 day ago)
 - [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) -  (3 weeks ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (3 months ago)
 - [box-project/homebrew-box](https://github.com/box-project/homebrew-box) -  (3 months ago)
@@ -36,12 +36,12 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Update extracting-bundle.md](https://github.com/knpuniversity/symfony-bundle/pull/10) on [knpuniversity/symfony-bundle](https://github.com/knpuniversity/symfony-bundle) (today)
-- [Update testing.md](https://github.com/knpuniversity/symfony-bundle/pull/9) on [knpuniversity/symfony-bundle](https://github.com/knpuniversity/symfony-bundle) (today)
-- [Update interface-alias.md](https://github.com/knpuniversity/symfony-bundle/pull/8) on [knpuniversity/symfony-bundle](https://github.com/knpuniversity/symfony-bundle) (today)
+- [Update extracting-bundle.md](https://github.com/knpuniversity/symfony-bundle/pull/10) on [knpuniversity/symfony-bundle](https://github.com/knpuniversity/symfony-bundle) (1 day ago)
+- [Update testing.md](https://github.com/knpuniversity/symfony-bundle/pull/9) on [knpuniversity/symfony-bundle](https://github.com/knpuniversity/symfony-bundle) (1 day ago)
+- [Update interface-alias.md](https://github.com/knpuniversity/symfony-bundle/pull/8) on [knpuniversity/symfony-bundle](https://github.com/knpuniversity/symfony-bundle) (1 day ago)
 - [Css selector](https://github.com/abdounikarim/abdounikarim.com/pull/169) on [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) (3 weeks ago)
-- [Deploy to prod](https://github.com/abdounikarim/abdounikarim.com/pull/167) on [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) (4 weeks ago)
-- [Ansible and Makefile - fix deployment](https://github.com/abdounikarim/abdounikarim.com/pull/166) on [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) (4 weeks ago)
+- [Deploy to prod](https://github.com/abdounikarim/abdounikarim.com/pull/167) on [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) (1 month ago)
+- [Ansible and Makefile - fix deployment](https://github.com/abdounikarim/abdounikarim.com/pull/166) on [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) (1 month ago)
 - [Check Link and generate title](https://github.com/abdounikarim/abdounikarim.com/pull/165) on [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) (1 month ago)
 - [Link system](https://github.com/abdounikarim/abdounikarim.com/pull/163) on [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) (1 month ago)
 - [Simplify Docker stack](https://github.com/abdounikarim/abdounikarim.com/pull/162) on [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) (1 month ago)
