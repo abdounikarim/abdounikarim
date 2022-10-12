@@ -6,6 +6,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [abdounikarim/lorem-ipsum-bundle](https://github.com/abdounikarim/lorem-ipsum-bundle) -  (today)
 - [knpuniversity/symfony-bundle](https://github.com/knpuniversity/symfony-bundle) - Screencast code, script and birthday presents behind the &#34;Creating a Reusable (&amp; Amazing) Symfony Bundle&#34; tutorial (1 day ago)
 - [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) -  (3 weeks ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (3 months ago)
@@ -15,11 +16,11 @@
 - [abdounikarim/cmi](https://github.com/abdounikarim/cmi) -  (8 months ago)
 - [Casrime/chalets-et-caviar](https://github.com/Casrime/chalets-et-caviar) - OpenClassrooms - Projet 2 du parcours Développeur d&#39;Applications PHP / Symfony (9 months ago)
 - [Casrime/bilemo](https://github.com/Casrime/bilemo) - OpenClassrooms - Projet 7 du parcours Développeur d&#39;Applications PHP / Symfony (11 months ago)
-- [symfony/symfony-docs](https://github.com/symfony/symfony-docs) - The Symfony documentation (11 months ago)
 
 #### 🌱 My latest projects
 
 - [abdounikarim/demo-ansible](https://github.com/abdounikarim/demo-ansible) - 
+- [abdounikarim/lorem-ipsum-bundle](https://github.com/abdounikarim/lorem-ipsum-bundle) - 
 - [abdounikarim/cmi](https://github.com/abdounikarim/cmi) - 
 - [abdounikarim/macos](https://github.com/abdounikarim/macos) - 
 - [abdounikarim/test_lfz](https://github.com/abdounikarim/test_lfz) - 
@@ -28,7 +29,6 @@
 - [abdounikarim/cauldron_overflow](https://github.com/abdounikarim/cauldron_overflow) - 
 - [abdounikarim/web-and-mobile-app](https://github.com/abdounikarim/web-and-mobile-app) - 
 - [abdounikarim/symfonycasts-vue-js](https://github.com/abdounikarim/symfonycasts-vue-js) - SymfonyCasts - Vue.js courses
-- [abdounikarim/team-project](https://github.com/abdounikarim/team-project) - 
 
 #### 🔭 Latest releases I've contributed to
 
@@ -36,6 +36,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Update events.md](https://github.com/knpuniversity/symfony-bundle/pull/11) on [knpuniversity/symfony-bundle](https://github.com/knpuniversity/symfony-bundle) (today)
 - [Update extracting-bundle.md](https://github.com/knpuniversity/symfony-bundle/pull/10) on [knpuniversity/symfony-bundle](https://github.com/knpuniversity/symfony-bundle) (1 day ago)
 - [Update testing.md](https://github.com/knpuniversity/symfony-bundle/pull/9) on [knpuniversity/symfony-bundle](https://github.com/knpuniversity/symfony-bundle) (1 day ago)
 - [Update interface-alias.md](https://github.com/knpuniversity/symfony-bundle/pull/8) on [knpuniversity/symfony-bundle](https://github.com/knpuniversity/symfony-bundle) (1 day ago)
@@ -45,7 +46,6 @@
 - [Check Link and generate title](https://github.com/abdounikarim/abdounikarim.com/pull/165) on [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) (1 month ago)
 - [Link system](https://github.com/abdounikarim/abdounikarim.com/pull/163) on [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) (1 month ago)
 - [Simplify Docker stack](https://github.com/abdounikarim/abdounikarim.com/pull/162) on [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) (1 month ago)
-- [Deploy to prod](https://github.com/abdounikarim/abdounikarim.com/pull/161) on [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) (1 month ago)
 
 #### 📓 Gists I wrote
 
