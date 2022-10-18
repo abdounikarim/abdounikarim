@@ -6,9 +6,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [knpuniversity/symfony-bundle](https://github.com/knpuniversity/symfony-bundle) - Screencast code, script and birthday presents behind the &#34;Creating a Reusable (&amp; Amazing) Symfony Bundle&#34; tutorial (2 days ago)
-- [abdounikarim/lorem-ipsum-bundle](https://github.com/abdounikarim/lorem-ipsum-bundle) -  (5 days ago)
-- [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) -  (4 weeks ago)
+- [knpuniversity/symfony-bundle](https://github.com/knpuniversity/symfony-bundle) - Screencast code, script and birthday presents behind the &#34;Creating a Reusable (&amp; Amazing) Symfony Bundle&#34; tutorial (3 days ago)
+- [abdounikarim/lorem-ipsum-bundle](https://github.com/abdounikarim/lorem-ipsum-bundle) -  (6 days ago)
+- [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) -  (1 month ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (3 months ago)
 - [box-project/homebrew-box](https://github.com/box-project/homebrew-box) -  (3 months ago)
 - [abdounikarim/macos](https://github.com/abdounikarim/macos) -  (4 months ago)
@@ -32,17 +32,17 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v6.1.6](https://github.com/symfony/symfony/releases/tag/v6.1.6), 5 days ago) - The Symfony PHP framework
+- [symfony/symfony](https://github.com/symfony/symfony) ([v6.1.6](https://github.com/symfony/symfony/releases/tag/v6.1.6), 6 days ago) - The Symfony PHP framework
 
 #### 🔨 My recent Pull Requests
 
-- [Update travisci.md](https://github.com/knpuniversity/symfony-bundle/pull/13) on [knpuniversity/symfony-bundle](https://github.com/knpuniversity/symfony-bundle) (today)
-- [Patch 6](https://github.com/knpuniversity/symfony-bundle/pull/12) on [knpuniversity/symfony-bundle](https://github.com/knpuniversity/symfony-bundle) (4 days ago)
-- [Update events.md](https://github.com/knpuniversity/symfony-bundle/pull/11) on [knpuniversity/symfony-bundle](https://github.com/knpuniversity/symfony-bundle) (5 days ago)
-- [Update extracting-bundle.md](https://github.com/knpuniversity/symfony-bundle/pull/10) on [knpuniversity/symfony-bundle](https://github.com/knpuniversity/symfony-bundle) (6 days ago)
-- [Update testing.md](https://github.com/knpuniversity/symfony-bundle/pull/9) on [knpuniversity/symfony-bundle](https://github.com/knpuniversity/symfony-bundle) (6 days ago)
-- [Update interface-alias.md](https://github.com/knpuniversity/symfony-bundle/pull/8) on [knpuniversity/symfony-bundle](https://github.com/knpuniversity/symfony-bundle) (6 days ago)
-- [Css selector](https://github.com/abdounikarim/abdounikarim.com/pull/169) on [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) (4 weeks ago)
+- [Update travisci.md](https://github.com/knpuniversity/symfony-bundle/pull/13) on [knpuniversity/symfony-bundle](https://github.com/knpuniversity/symfony-bundle) (1 day ago)
+- [Patch 6](https://github.com/knpuniversity/symfony-bundle/pull/12) on [knpuniversity/symfony-bundle](https://github.com/knpuniversity/symfony-bundle) (5 days ago)
+- [Update events.md](https://github.com/knpuniversity/symfony-bundle/pull/11) on [knpuniversity/symfony-bundle](https://github.com/knpuniversity/symfony-bundle) (6 days ago)
+- [Update extracting-bundle.md](https://github.com/knpuniversity/symfony-bundle/pull/10) on [knpuniversity/symfony-bundle](https://github.com/knpuniversity/symfony-bundle) (1 week ago)
+- [Update testing.md](https://github.com/knpuniversity/symfony-bundle/pull/9) on [knpuniversity/symfony-bundle](https://github.com/knpuniversity/symfony-bundle) (1 week ago)
+- [Update interface-alias.md](https://github.com/knpuniversity/symfony-bundle/pull/8) on [knpuniversity/symfony-bundle](https://github.com/knpuniversity/symfony-bundle) (1 week ago)
+- [Css selector](https://github.com/abdounikarim/abdounikarim.com/pull/169) on [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) (1 month ago)
 - [Deploy to prod](https://github.com/abdounikarim/abdounikarim.com/pull/167) on [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) (1 month ago)
 - [Ansible and Makefile - fix deployment](https://github.com/abdounikarim/abdounikarim.com/pull/166) on [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) (1 month ago)
 - [Check Link and generate title](https://github.com/abdounikarim/abdounikarim.com/pull/165) on [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) (1 month ago)
@@ -53,12 +53,12 @@
 
 #### ⭐ Recent Stars
 
-- [philipsharp/afieldguidetoelephpants](https://github.com/philipsharp/afieldguidetoelephpants) -  (2 days ago)
-- [symfony/monolog-bundle](https://github.com/symfony/monolog-bundle) - Symfony Monolog Bundle (4 days ago)
-- [symfony/webpack-encore-bundle](https://github.com/symfony/webpack-encore-bundle) - Symfony integration with Webpack Encore! (4 days ago)
-- [symfony/flex](https://github.com/symfony/flex) - Composer plugin for Symfony (4 days ago)
-- [symfony/panther](https://github.com/symfony/panther) - A browser testing and web crawling library for PHP and Symfony (4 days ago)
-- [symfony/recipes](https://github.com/symfony/recipes) - Symfony Recipes Repository (4 days ago)
+- [philipsharp/afieldguidetoelephpants](https://github.com/philipsharp/afieldguidetoelephpants) -  (3 days ago)
+- [symfony/monolog-bundle](https://github.com/symfony/monolog-bundle) - Symfony Monolog Bundle (5 days ago)
+- [symfony/webpack-encore-bundle](https://github.com/symfony/webpack-encore-bundle) - Symfony integration with Webpack Encore! (5 days ago)
+- [symfony/flex](https://github.com/symfony/flex) - Composer plugin for Symfony (5 days ago)
+- [symfony/panther](https://github.com/symfony/panther) - A browser testing and web crawling library for PHP and Symfony (5 days ago)
+- [symfony/recipes](https://github.com/symfony/recipes) - Symfony Recipes Repository (5 days ago)
 - [abdounikarim/prepare-certification](https://github.com/abdounikarim/prepare-certification) -  (4 months ago)
 - [r-darwish/topgrade](https://github.com/r-darwish/topgrade) - Upgrade everything (4 months ago)
 - [igorkulman/ChangeMenuBarColor](https://github.com/igorkulman/ChangeMenuBarColor) - Simple utility to change macOS Big Sur and Monterey menu bar color by appending a solid color or gradient rectangle to a wallpaper image (5 months ago)
