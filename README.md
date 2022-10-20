@@ -6,7 +6,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [knpuniversity/symfony-bundle](https://github.com/knpuniversity/symfony-bundle) - Screencast code, script and birthday presents behind the &#34;Creating a Reusable (&amp; Amazing) Symfony Bundle&#34; tutorial (4 days ago)
+- [knpuniversity/symfony-bundle](https://github.com/knpuniversity/symfony-bundle) - Screencast code, script and birthday presents behind the &#34;Creating a Reusable (&amp; Amazing) Symfony Bundle&#34; tutorial (5 days ago)
 - [abdounikarim/lorem-ipsum-bundle](https://github.com/abdounikarim/lorem-ipsum-bundle) -  (1 week ago)
 - [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) -  (1 month ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (3 months ago)
@@ -36,10 +36,10 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Remove unused phpdocs - Application](https://github.com/Vonage/vonage-php-sdk-core/pull/338) on [Vonage/vonage-php-sdk-core](https://github.com/Vonage/vonage-php-sdk-core) (today)
-- [Remove unused phpdocs - Account](https://github.com/Vonage/vonage-php-sdk-core/pull/337) on [Vonage/vonage-php-sdk-core](https://github.com/Vonage/vonage-php-sdk-core) (today)
-- [Update travisci.md](https://github.com/knpuniversity/symfony-bundle/pull/13) on [knpuniversity/symfony-bundle](https://github.com/knpuniversity/symfony-bundle) (2 days ago)
-- [Patch 6](https://github.com/knpuniversity/symfony-bundle/pull/12) on [knpuniversity/symfony-bundle](https://github.com/knpuniversity/symfony-bundle) (6 days ago)
+- [Remove unused phpdocs - Application](https://github.com/Vonage/vonage-php-sdk-core/pull/338) on [Vonage/vonage-php-sdk-core](https://github.com/Vonage/vonage-php-sdk-core) (1 day ago)
+- [Remove unused phpdocs - Account](https://github.com/Vonage/vonage-php-sdk-core/pull/337) on [Vonage/vonage-php-sdk-core](https://github.com/Vonage/vonage-php-sdk-core) (1 day ago)
+- [Update travisci.md](https://github.com/knpuniversity/symfony-bundle/pull/13) on [knpuniversity/symfony-bundle](https://github.com/knpuniversity/symfony-bundle) (3 days ago)
+- [Patch 6](https://github.com/knpuniversity/symfony-bundle/pull/12) on [knpuniversity/symfony-bundle](https://github.com/knpuniversity/symfony-bundle) (1 week ago)
 - [Update events.md](https://github.com/knpuniversity/symfony-bundle/pull/11) on [knpuniversity/symfony-bundle](https://github.com/knpuniversity/symfony-bundle) (1 week ago)
 - [Update extracting-bundle.md](https://github.com/knpuniversity/symfony-bundle/pull/10) on [knpuniversity/symfony-bundle](https://github.com/knpuniversity/symfony-bundle) (1 week ago)
 - [Update testing.md](https://github.com/knpuniversity/symfony-bundle/pull/9) on [knpuniversity/symfony-bundle](https://github.com/knpuniversity/symfony-bundle) (1 week ago)
@@ -53,12 +53,12 @@
 
 #### ⭐ Recent Stars
 
-- [philipsharp/afieldguidetoelephpants](https://github.com/philipsharp/afieldguidetoelephpants) -  (4 days ago)
-- [symfony/monolog-bundle](https://github.com/symfony/monolog-bundle) - Symfony Monolog Bundle (6 days ago)
-- [symfony/webpack-encore-bundle](https://github.com/symfony/webpack-encore-bundle) - Symfony integration with Webpack Encore! (6 days ago)
-- [symfony/flex](https://github.com/symfony/flex) - Composer plugin for Symfony (6 days ago)
-- [symfony/panther](https://github.com/symfony/panther) - A browser testing and web crawling library for PHP and Symfony (6 days ago)
-- [symfony/recipes](https://github.com/symfony/recipes) - Symfony Recipes Repository (6 days ago)
+- [philipsharp/afieldguidetoelephpants](https://github.com/philipsharp/afieldguidetoelephpants) -  (5 days ago)
+- [symfony/monolog-bundle](https://github.com/symfony/monolog-bundle) - Symfony Monolog Bundle (1 week ago)
+- [symfony/webpack-encore-bundle](https://github.com/symfony/webpack-encore-bundle) - Symfony integration with Webpack Encore! (1 week ago)
+- [symfony/flex](https://github.com/symfony/flex) - Composer plugin for Symfony (1 week ago)
+- [symfony/panther](https://github.com/symfony/panther) - A browser testing and web crawling library for PHP and Symfony (1 week ago)
+- [symfony/recipes](https://github.com/symfony/recipes) - Symfony Recipes Repository (1 week ago)
 - [abdounikarim/prepare-certification](https://github.com/abdounikarim/prepare-certification) -  (4 months ago)
 - [r-darwish/topgrade](https://github.com/r-darwish/topgrade) - Upgrade everything (4 months ago)
 - [igorkulman/ChangeMenuBarColor](https://github.com/igorkulman/ChangeMenuBarColor) - Simple utility to change macOS Big Sur and Monterey menu bar color by appending a solid color or gradient rectangle to a wallpaper image (5 months ago)
