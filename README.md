@@ -36,6 +36,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix code style in pub](https://github.com/magento/magento2/pull/36359) on [magento/magento2](https://github.com/magento/magento2) (today)
+- [Fix code style in phpserver](https://github.com/magento/magento2/pull/36358) on [magento/magento2](https://github.com/magento/magento2) (today)
 - [Add blank link at end of file in packages - attribute](https://github.com/bagisto/bagisto/pull/7032) on [bagisto/bagisto](https://github.com/bagisto/bagisto) (today)
 - [Add blank link at end of file in packages - customer](https://github.com/bagisto/bagisto/pull/7031) on [bagisto/bagisto](https://github.com/bagisto/bagisto) (today)
 - [Add blank link at end of file in packages - cms](https://github.com/bagisto/bagisto/pull/7030) on [bagisto/bagisto](https://github.com/bagisto/bagisto) (today)
@@ -44,8 +46,6 @@
 - [Add blank link at end of file in database](https://github.com/bagisto/bagisto/pull/7027) on [bagisto/bagisto](https://github.com/bagisto/bagisto) (today)
 - [Add blank link at end of file in packages - catalog rule](https://github.com/bagisto/bagisto/pull/7026) on [bagisto/bagisto](https://github.com/bagisto/bagisto) (today)
 - [Add blank link at end of file in packages - social login](https://github.com/bagisto/bagisto/pull/7025) on [bagisto/bagisto](https://github.com/bagisto/bagisto) (today)
-- [Add blank link at end of file in packages - theme](https://github.com/bagisto/bagisto/pull/7024) on [bagisto/bagisto](https://github.com/bagisto/bagisto) (today)
-- [Add blank link at end of file in packages - admin](https://github.com/bagisto/bagisto/pull/7023) on [bagisto/bagisto](https://github.com/bagisto/bagisto) (today)
 
 #### 📓 Gists I wrote
 
