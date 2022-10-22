@@ -6,7 +6,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [knpuniversity/symfony-bundle](https://github.com/knpuniversity/symfony-bundle) - Screencast code, script and birthday presents behind the &#34;Creating a Reusable (&amp; Amazing) Symfony Bundle&#34; tutorial (6 days ago)
+- [knpuniversity/symfony-bundle](https://github.com/knpuniversity/symfony-bundle) - Screencast code, script and birthday presents behind the &#34;Creating a Reusable (&amp; Amazing) Symfony Bundle&#34; tutorial (1 week ago)
 - [abdounikarim/lorem-ipsum-bundle](https://github.com/abdounikarim/lorem-ipsum-bundle) -  (1 week ago)
 - [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) -  (1 month ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (3 months ago)
@@ -36,16 +36,16 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Fix code style in pub](https://github.com/magento/magento2/pull/36359) on [magento/magento2](https://github.com/magento/magento2) (today)
-- [Fix code style in phpserver](https://github.com/magento/magento2/pull/36358) on [magento/magento2](https://github.com/magento/magento2) (today)
-- [Add blank link at end of file in packages - attribute](https://github.com/bagisto/bagisto/pull/7032) on [bagisto/bagisto](https://github.com/bagisto/bagisto) (today)
-- [Add blank link at end of file in packages - customer](https://github.com/bagisto/bagisto/pull/7031) on [bagisto/bagisto](https://github.com/bagisto/bagisto) (today)
-- [Add blank link at end of file in packages - cms](https://github.com/bagisto/bagisto/pull/7030) on [bagisto/bagisto](https://github.com/bagisto/bagisto) (today)
-- [Add blank link at end of file in packages - sales](https://github.com/bagisto/bagisto/pull/7029) on [bagisto/bagisto](https://github.com/bagisto/bagisto) (today)
-- [Add blank link at end of file in packages - checkout](https://github.com/bagisto/bagisto/pull/7028) on [bagisto/bagisto](https://github.com/bagisto/bagisto) (today)
-- [Add blank link at end of file in database](https://github.com/bagisto/bagisto/pull/7027) on [bagisto/bagisto](https://github.com/bagisto/bagisto) (today)
-- [Add blank link at end of file in packages - catalog rule](https://github.com/bagisto/bagisto/pull/7026) on [bagisto/bagisto](https://github.com/bagisto/bagisto) (today)
-- [Add blank link at end of file in packages - social login](https://github.com/bagisto/bagisto/pull/7025) on [bagisto/bagisto](https://github.com/bagisto/bagisto) (today)
+- [Fix code style in pub](https://github.com/magento/magento2/pull/36359) on [magento/magento2](https://github.com/magento/magento2) (1 day ago)
+- [Fix code style in phpserver](https://github.com/magento/magento2/pull/36358) on [magento/magento2](https://github.com/magento/magento2) (1 day ago)
+- [Add blank link at end of file in packages - attribute](https://github.com/bagisto/bagisto/pull/7032) on [bagisto/bagisto](https://github.com/bagisto/bagisto) (1 day ago)
+- [Add blank link at end of file in packages - customer](https://github.com/bagisto/bagisto/pull/7031) on [bagisto/bagisto](https://github.com/bagisto/bagisto) (1 day ago)
+- [Add blank link at end of file in packages - cms](https://github.com/bagisto/bagisto/pull/7030) on [bagisto/bagisto](https://github.com/bagisto/bagisto) (1 day ago)
+- [Add blank link at end of file in packages - sales](https://github.com/bagisto/bagisto/pull/7029) on [bagisto/bagisto](https://github.com/bagisto/bagisto) (1 day ago)
+- [Add blank link at end of file in packages - checkout](https://github.com/bagisto/bagisto/pull/7028) on [bagisto/bagisto](https://github.com/bagisto/bagisto) (1 day ago)
+- [Add blank link at end of file in database](https://github.com/bagisto/bagisto/pull/7027) on [bagisto/bagisto](https://github.com/bagisto/bagisto) (1 day ago)
+- [Add blank link at end of file in packages - catalog rule](https://github.com/bagisto/bagisto/pull/7026) on [bagisto/bagisto](https://github.com/bagisto/bagisto) (1 day ago)
+- [Add blank link at end of file in packages - social login](https://github.com/bagisto/bagisto/pull/7025) on [bagisto/bagisto](https://github.com/bagisto/bagisto) (1 day ago)
 
 #### 📓 Gists I wrote
 
@@ -53,7 +53,7 @@
 
 #### ⭐ Recent Stars
 
-- [philipsharp/afieldguidetoelephpants](https://github.com/philipsharp/afieldguidetoelephpants) -  (6 days ago)
+- [philipsharp/afieldguidetoelephpants](https://github.com/philipsharp/afieldguidetoelephpants) -  (1 week ago)
 - [symfony/monolog-bundle](https://github.com/symfony/monolog-bundle) - Symfony Monolog Bundle (1 week ago)
 - [symfony/webpack-encore-bundle](https://github.com/symfony/webpack-encore-bundle) - Symfony integration with Webpack Encore! (1 week ago)
 - [symfony/flex](https://github.com/symfony/flex) - Composer plugin for Symfony (1 week ago)
