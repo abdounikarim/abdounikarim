@@ -6,7 +6,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [abdounikarim/macos](https://github.com/abdounikarim/macos) -  (today)
+- [abdounikarim/macos](https://github.com/abdounikarim/macos) -  (1 day ago)
 - [knpuniversity/symfony-bundle](https://github.com/knpuniversity/symfony-bundle) - Screencast code, script and birthday presents behind the &#34;Creating a Reusable (&amp; Amazing) Symfony Bundle&#34; tutorial (1 week ago)
 - [abdounikarim/lorem-ipsum-bundle](https://github.com/abdounikarim/lorem-ipsum-bundle) -  (1 week ago)
 - [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) -  (1 month ago)
@@ -32,20 +32,20 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v6.2.0-BETA1](https://github.com/symfony/symfony/releases/tag/v6.2.0-BETA1), today) - The Symfony PHP framework
+- [symfony/symfony](https://github.com/symfony/symfony) ([v6.2.0-BETA1](https://github.com/symfony/symfony/releases/tag/v6.2.0-BETA1), 1 day ago) - The Symfony PHP framework
 
 #### 🔨 My recent Pull Requests
 
-- [Update default configuration for branches](https://github.com/abdounikarim/macos/pull/4) on [abdounikarim/macos](https://github.com/abdounikarim/macos) (today)
-- [Upgrade create gitignore file command](https://github.com/abdounikarim/macos/pull/3) on [abdounikarim/macos](https://github.com/abdounikarim/macos) (today)
-- [Fix code style in pub](https://github.com/magento/magento2/pull/36359) on [magento/magento2](https://github.com/magento/magento2) (3 days ago)
-- [Fix code style in phpserver](https://github.com/magento/magento2/pull/36358) on [magento/magento2](https://github.com/magento/magento2) (3 days ago)
-- [Add blank link at end of file in packages - attribute](https://github.com/bagisto/bagisto/pull/7032) on [bagisto/bagisto](https://github.com/bagisto/bagisto) (3 days ago)
-- [Add blank link at end of file in packages - customer](https://github.com/bagisto/bagisto/pull/7031) on [bagisto/bagisto](https://github.com/bagisto/bagisto) (3 days ago)
-- [Add blank link at end of file in packages - cms](https://github.com/bagisto/bagisto/pull/7030) on [bagisto/bagisto](https://github.com/bagisto/bagisto) (3 days ago)
-- [Add blank link at end of file in packages - sales](https://github.com/bagisto/bagisto/pull/7029) on [bagisto/bagisto](https://github.com/bagisto/bagisto) (3 days ago)
-- [Add blank link at end of file in packages - checkout](https://github.com/bagisto/bagisto/pull/7028) on [bagisto/bagisto](https://github.com/bagisto/bagisto) (3 days ago)
-- [Add blank link at end of file in database](https://github.com/bagisto/bagisto/pull/7027) on [bagisto/bagisto](https://github.com/bagisto/bagisto) (3 days ago)
+- [Update default configuration for branches](https://github.com/abdounikarim/macos/pull/4) on [abdounikarim/macos](https://github.com/abdounikarim/macos) (1 day ago)
+- [Upgrade create gitignore file command](https://github.com/abdounikarim/macos/pull/3) on [abdounikarim/macos](https://github.com/abdounikarim/macos) (1 day ago)
+- [Fix code style in pub](https://github.com/magento/magento2/pull/36359) on [magento/magento2](https://github.com/magento/magento2) (4 days ago)
+- [Fix code style in phpserver](https://github.com/magento/magento2/pull/36358) on [magento/magento2](https://github.com/magento/magento2) (4 days ago)
+- [Add blank link at end of file in packages - attribute](https://github.com/bagisto/bagisto/pull/7032) on [bagisto/bagisto](https://github.com/bagisto/bagisto) (4 days ago)
+- [Add blank link at end of file in packages - customer](https://github.com/bagisto/bagisto/pull/7031) on [bagisto/bagisto](https://github.com/bagisto/bagisto) (4 days ago)
+- [Add blank link at end of file in packages - cms](https://github.com/bagisto/bagisto/pull/7030) on [bagisto/bagisto](https://github.com/bagisto/bagisto) (4 days ago)
+- [Add blank link at end of file in packages - sales](https://github.com/bagisto/bagisto/pull/7029) on [bagisto/bagisto](https://github.com/bagisto/bagisto) (4 days ago)
+- [Add blank link at end of file in packages - checkout](https://github.com/bagisto/bagisto/pull/7028) on [bagisto/bagisto](https://github.com/bagisto/bagisto) (4 days ago)
+- [Add blank link at end of file in database](https://github.com/bagisto/bagisto/pull/7027) on [bagisto/bagisto](https://github.com/bagisto/bagisto) (4 days ago)
 
 #### 📓 Gists I wrote
 
