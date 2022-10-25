@@ -42,7 +42,6 @@
 - [Fix code style in phpserver](https://github.com/magento/magento2/pull/36358) on [magento/magento2](https://github.com/magento/magento2) (4 days ago)
 - [Add blank link at end of file in packages - attribute](https://github.com/bagisto/bagisto/pull/7032) on [bagisto/bagisto](https://github.com/bagisto/bagisto) (4 days ago)
 - [Add blank link at end of file in packages - customer](https://github.com/bagisto/bagisto/pull/7031) on [bagisto/bagisto](https://github.com/bagisto/bagisto) (4 days ago)
-- [Add blank link at end of file in packages - cms](https://github.com/bagisto/bagisto/pull/7030) on [bagisto/bagisto](https://github.com/bagisto/bagisto) (4 days ago)
 
 #### 📓 Gists I wrote
 
