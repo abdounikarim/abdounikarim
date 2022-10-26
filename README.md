@@ -6,9 +6,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [abdounikarim/macos](https://github.com/abdounikarim/macos) -  (1 day ago)
+- [abdounikarim/macos](https://github.com/abdounikarim/macos) -  (2 days ago)
 - [knpuniversity/symfony-bundle](https://github.com/knpuniversity/symfony-bundle) - Screencast code, script and birthday presents behind the &#34;Creating a Reusable (&amp; Amazing) Symfony Bundle&#34; tutorial (1 week ago)
-- [abdounikarim/lorem-ipsum-bundle](https://github.com/abdounikarim/lorem-ipsum-bundle) -  (1 week ago)
+- [abdounikarim/lorem-ipsum-bundle](https://github.com/abdounikarim/lorem-ipsum-bundle) -  (2 weeks ago)
 - [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) -  (1 month ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (3 months ago)
 - [box-project/homebrew-box](https://github.com/box-project/homebrew-box) -  (4 months ago)
@@ -32,16 +32,16 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v6.2.0-BETA1](https://github.com/symfony/symfony/releases/tag/v6.2.0-BETA1), 1 day ago) - The Symfony PHP framework
+- [symfony/symfony](https://github.com/symfony/symfony) ([v6.2.0-BETA1](https://github.com/symfony/symfony/releases/tag/v6.2.0-BETA1), 2 days ago) - The Symfony PHP framework
 
 #### 🔨 My recent Pull Requests
 
-- [Update default configuration for branches](https://github.com/abdounikarim/macos/pull/4) on [abdounikarim/macos](https://github.com/abdounikarim/macos) (1 day ago)
-- [Upgrade create gitignore file command](https://github.com/abdounikarim/macos/pull/3) on [abdounikarim/macos](https://github.com/abdounikarim/macos) (1 day ago)
-- [Fix code style in pub](https://github.com/magento/magento2/pull/36359) on [magento/magento2](https://github.com/magento/magento2) (4 days ago)
-- [Fix code style in phpserver](https://github.com/magento/magento2/pull/36358) on [magento/magento2](https://github.com/magento/magento2) (4 days ago)
-- [Add blank link at end of file in packages - attribute](https://github.com/bagisto/bagisto/pull/7032) on [bagisto/bagisto](https://github.com/bagisto/bagisto) (4 days ago)
-- [Add blank link at end of file in packages - customer](https://github.com/bagisto/bagisto/pull/7031) on [bagisto/bagisto](https://github.com/bagisto/bagisto) (4 days ago)
+- [Update default configuration for branches](https://github.com/abdounikarim/macos/pull/4) on [abdounikarim/macos](https://github.com/abdounikarim/macos) (2 days ago)
+- [Upgrade create gitignore file command](https://github.com/abdounikarim/macos/pull/3) on [abdounikarim/macos](https://github.com/abdounikarim/macos) (2 days ago)
+- [Fix code style in pub](https://github.com/magento/magento2/pull/36359) on [magento/magento2](https://github.com/magento/magento2) (5 days ago)
+- [Fix code style in phpserver](https://github.com/magento/magento2/pull/36358) on [magento/magento2](https://github.com/magento/magento2) (5 days ago)
+- [Add blank link at end of file in packages - attribute](https://github.com/bagisto/bagisto/pull/7032) on [bagisto/bagisto](https://github.com/bagisto/bagisto) (5 days ago)
+- [Add blank link at end of file in packages - customer](https://github.com/bagisto/bagisto/pull/7031) on [bagisto/bagisto](https://github.com/bagisto/bagisto) (5 days ago)
 
 #### 📓 Gists I wrote
 
