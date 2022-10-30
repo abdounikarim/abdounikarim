@@ -6,14 +6,14 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [abdounikarim/macos](https://github.com/abdounikarim/macos) -  (5 days ago)
+- [abdounikarim/macos](https://github.com/abdounikarim/macos) -  (6 days ago)
 - [knpuniversity/symfony-bundle](https://github.com/knpuniversity/symfony-bundle) - Screencast code, script and birthday presents behind the &#34;Creating a Reusable (&amp; Amazing) Symfony Bundle&#34; tutorial (2 weeks ago)
 - [abdounikarim/lorem-ipsum-bundle](https://github.com/abdounikarim/lorem-ipsum-bundle) -  (2 weeks ago)
 - [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) -  (1 month ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (3 months ago)
 - [box-project/homebrew-box](https://github.com/box-project/homebrew-box) -  (4 months ago)
 - [abdounikarim/demo-ansible](https://github.com/abdounikarim/demo-ansible) -  (5 months ago)
-- [abdounikarim/cmi](https://github.com/abdounikarim/cmi) -  (8 months ago)
+- [abdounikarim/cmi](https://github.com/abdounikarim/cmi) -  (9 months ago)
 - [Casrime/chalets-et-caviar](https://github.com/Casrime/chalets-et-caviar) - OpenClassrooms - Projet 2 du parcours Développeur d&#39;Applications PHP / Symfony (9 months ago)
 - [Casrime/bilemo](https://github.com/Casrime/bilemo) - OpenClassrooms - Projet 7 du parcours Développeur d&#39;Applications PHP / Symfony (1 year ago)
 
@@ -32,12 +32,12 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v6.2.0-BETA2](https://github.com/symfony/symfony/releases/tag/v6.2.0-BETA2), 1 day ago) - The Symfony PHP framework
+- [symfony/symfony](https://github.com/symfony/symfony) ([v6.2.0-BETA2](https://github.com/symfony/symfony/releases/tag/v6.2.0-BETA2), 2 days ago) - The Symfony PHP framework
 
 #### 🔨 My recent Pull Requests
 
-- [Update default configuration for branches](https://github.com/abdounikarim/macos/pull/4) on [abdounikarim/macos](https://github.com/abdounikarim/macos) (5 days ago)
-- [Upgrade create gitignore file command](https://github.com/abdounikarim/macos/pull/3) on [abdounikarim/macos](https://github.com/abdounikarim/macos) (5 days ago)
+- [Update default configuration for branches](https://github.com/abdounikarim/macos/pull/4) on [abdounikarim/macos](https://github.com/abdounikarim/macos) (6 days ago)
+- [Upgrade create gitignore file command](https://github.com/abdounikarim/macos/pull/3) on [abdounikarim/macos](https://github.com/abdounikarim/macos) (6 days ago)
 - [Fix code style in pub](https://github.com/magento/magento2/pull/36359) on [magento/magento2](https://github.com/magento/magento2) (1 week ago)
 - [Fix code style in phpserver](https://github.com/magento/magento2/pull/36358) on [magento/magento2](https://github.com/magento/magento2) (1 week ago)
 - [Add blank link at end of file in packages - attribute](https://github.com/bagisto/bagisto/pull/7032) on [bagisto/bagisto](https://github.com/bagisto/bagisto) (1 week ago)
