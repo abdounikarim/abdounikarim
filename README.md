@@ -6,7 +6,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Casrime/bilemo](https://github.com/Casrime/bilemo) - OpenClassrooms - Projet 7 du parcours Développeur d&#39;Applications PHP / Symfony (2 days ago)
+- [Casrime/bilemo](https://github.com/Casrime/bilemo) - OpenClassrooms - Projet 7 du parcours Développeur d&#39;Applications PHP / Symfony (3 days ago)
 - [abdounikarim/macos](https://github.com/abdounikarim/macos) -  (1 week ago)
 - [knpuniversity/symfony-bundle](https://github.com/knpuniversity/symfony-bundle) - Screencast code, script and birthday presents behind the &#34;Creating a Reusable (&amp; Amazing) Symfony Bundle&#34; tutorial (2 weeks ago)
 - [abdounikarim/lorem-ipsum-bundle](https://github.com/abdounikarim/lorem-ipsum-bundle) -  (3 weeks ago)
@@ -31,7 +31,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v6.2.0-BETA2](https://github.com/symfony/symfony/releases/tag/v6.2.0-BETA2), 5 days ago) - The Symfony PHP framework
+- [symfony/symfony](https://github.com/symfony/symfony) ([v6.2.0-BETA2](https://github.com/symfony/symfony/releases/tag/v6.2.0-BETA2), 6 days ago) - The Symfony PHP framework
 
 #### 🔨 My recent Pull Requests
 
@@ -47,15 +47,15 @@
 #### ⭐ Recent Stars
 
 - [philipsharp/afieldguidetoelephpants](https://github.com/philipsharp/afieldguidetoelephpants) -  (2 weeks ago)
-- [symfony/monolog-bundle](https://github.com/symfony/monolog-bundle) - Symfony Monolog Bundle (2 weeks ago)
-- [symfony/webpack-encore-bundle](https://github.com/symfony/webpack-encore-bundle) - Symfony integration with Webpack Encore! (2 weeks ago)
-- [symfony/flex](https://github.com/symfony/flex) - Composer plugin for Symfony (2 weeks ago)
-- [symfony/panther](https://github.com/symfony/panther) - A browser testing and web crawling library for PHP and Symfony (2 weeks ago)
-- [symfony/recipes](https://github.com/symfony/recipes) - Symfony Recipes Repository (2 weeks ago)
+- [symfony/monolog-bundle](https://github.com/symfony/monolog-bundle) - Symfony Monolog Bundle (3 weeks ago)
+- [symfony/webpack-encore-bundle](https://github.com/symfony/webpack-encore-bundle) - Symfony integration with Webpack Encore! (3 weeks ago)
+- [symfony/flex](https://github.com/symfony/flex) - Composer plugin for Symfony (3 weeks ago)
+- [symfony/panther](https://github.com/symfony/panther) - A browser testing and web crawling library for PHP and Symfony (3 weeks ago)
+- [symfony/recipes](https://github.com/symfony/recipes) - Symfony Recipes Repository (3 weeks ago)
 - [abdounikarim/prepare-certification](https://github.com/abdounikarim/prepare-certification) -  (4 months ago)
 - [r-darwish/topgrade](https://github.com/r-darwish/topgrade) - Upgrade everything (4 months ago)
 - [igorkulman/ChangeMenuBarColor](https://github.com/igorkulman/ChangeMenuBarColor) - Simple utility to change macOS Big Sur and Monterey menu bar color by appending a solid color or gradient rectangle to a wallpaper image (5 months ago)
-- [coopTilleuls/workshop-apip-ddd](https://github.com/coopTilleuls/workshop-apip-ddd) - Demo project for the API Platform / DDD Workshop (8 months ago)
+- [coopTilleuls/workshop-apip-ddd](https://github.com/coopTilleuls/workshop-apip-ddd) - Demo project for the API Platform / DDD Workshop (9 months ago)
 
 #### 👯 Check out some of my recent followers
 
