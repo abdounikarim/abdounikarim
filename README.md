@@ -6,14 +6,14 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Casrime/snowtricks](https://github.com/Casrime/snowtricks) - OpenClassrooms - Projet 6 du parcours Développeur d&#39;Applications PHP / Symfony (2 days ago)
-- [Casrime/bilemo](https://github.com/Casrime/bilemo) - OpenClassrooms - Projet 7 du parcours Développeur d&#39;Applications PHP / Symfony (6 days ago)
-- [abdounikarim/macos](https://github.com/abdounikarim/macos) -  (1 week ago)
+- [Casrime/snowtricks](https://github.com/Casrime/snowtricks) - OpenClassrooms - Projet 6 du parcours Développeur d&#39;Applications PHP / Symfony (3 days ago)
+- [Casrime/bilemo](https://github.com/Casrime/bilemo) - OpenClassrooms - Projet 7 du parcours Développeur d&#39;Applications PHP / Symfony (1 week ago)
+- [abdounikarim/macos](https://github.com/abdounikarim/macos) -  (2 weeks ago)
 - [knpuniversity/symfony-bundle](https://github.com/knpuniversity/symfony-bundle) - Screencast code, script and birthday presents behind the &#34;Creating a Reusable (&amp; Amazing) Symfony Bundle&#34; tutorial (3 weeks ago)
 - [abdounikarim/lorem-ipsum-bundle](https://github.com/abdounikarim/lorem-ipsum-bundle) -  (3 weeks ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (4 months ago)
 - [box-project/homebrew-box](https://github.com/box-project/homebrew-box) -  (4 months ago)
-- [abdounikarim/demo-ansible](https://github.com/abdounikarim/demo-ansible) -  (5 months ago)
+- [abdounikarim/demo-ansible](https://github.com/abdounikarim/demo-ansible) -  (6 months ago)
 - [abdounikarim/cmi](https://github.com/abdounikarim/cmi) -  (9 months ago)
 - [Casrime/chalets-et-caviar](https://github.com/Casrime/chalets-et-caviar) - OpenClassrooms - Projet 2 du parcours Développeur d&#39;Applications PHP / Symfony (10 months ago)
 
@@ -36,8 +36,8 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Update default configuration for branches](https://github.com/abdounikarim/macos/pull/4) on [abdounikarim/macos](https://github.com/abdounikarim/macos) (1 week ago)
-- [Upgrade create gitignore file command](https://github.com/abdounikarim/macos/pull/3) on [abdounikarim/macos](https://github.com/abdounikarim/macos) (1 week ago)
+- [Update default configuration for branches](https://github.com/abdounikarim/macos/pull/4) on [abdounikarim/macos](https://github.com/abdounikarim/macos) (2 weeks ago)
+- [Upgrade create gitignore file command](https://github.com/abdounikarim/macos/pull/3) on [abdounikarim/macos](https://github.com/abdounikarim/macos) (2 weeks ago)
 - [Fix code style in pub](https://github.com/magento/magento2/pull/36359) on [magento/magento2](https://github.com/magento/magento2) (2 weeks ago)
 - [Fix code style in phpserver](https://github.com/magento/magento2/pull/36358) on [magento/magento2](https://github.com/magento/magento2) (2 weeks ago)
 
