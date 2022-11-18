@@ -60,11 +60,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [qdequippe](https://github.com/qdequippe)
 - [SergioVasko](https://github.com/SergioVasko)
 - [BeerusHakaishin](https://github.com/BeerusHakaishin)
 - [hsensier](https://github.com/hsensier)
 - [Aminejohda](https://github.com/Aminejohda)
-- [damienmillet](https://github.com/damienmillet)
 
 #### 💬 Feedback
 
