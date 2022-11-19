@@ -47,7 +47,7 @@
 
 #### ⭐ Recent Stars
 
-- [jobbsy-dev/jobbsy](https://github.com/jobbsy-dev/jobbsy) - Jobbsy - Job Board for Symfony (1 day ago)
+- [jobbsy-dev/jobbsy](https://github.com/jobbsy-dev/jobbsy) - Jobbsy - Job Board for Symfony (2 days ago)
 - [philipsharp/afieldguidetoelephpants](https://github.com/philipsharp/afieldguidetoelephpants) -  (1 month ago)
 - [symfony/monolog-bundle](https://github.com/symfony/monolog-bundle) - Symfony Monolog Bundle (1 month ago)
 - [symfony/webpack-encore-bundle](https://github.com/symfony/webpack-encore-bundle) - Symfony integration with Webpack Encore! (1 month ago)
