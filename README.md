@@ -6,7 +6,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Casrime/snowtricks](https://github.com/Casrime/snowtricks) - OpenClassrooms - Projet 6 du parcours Développeur d&#39;Applications PHP / Symfony (2 weeks ago)
+- [Casrime/snowtricks](https://github.com/Casrime/snowtricks) - OpenClassrooms - Projet 6 du parcours Développeur d&#39;Applications PHP / Symfony (3 weeks ago)
 - [Casrime/bilemo](https://github.com/Casrime/bilemo) - OpenClassrooms - Projet 7 du parcours Développeur d&#39;Applications PHP / Symfony (3 weeks ago)
 - [abdounikarim/macos](https://github.com/abdounikarim/macos) -  (1 month ago)
 - [knpuniversity/symfony-bundle](https://github.com/knpuniversity/symfony-bundle) - Screencast code, script and birthday presents behind the &#34;Creating a Reusable (&amp; Amazing) Symfony Bundle&#34; tutorial (1 month ago)
@@ -32,11 +32,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v6.2.0-BETA3](https://github.com/symfony/symfony/releases/tag/v6.2.0-BETA3), 5 days ago) - The Symfony PHP framework
+- [symfony/symfony](https://github.com/symfony/symfony) ([v6.2.0-BETA3](https://github.com/symfony/symfony/releases/tag/v6.2.0-BETA3), 6 days ago) - The Symfony PHP framework
 
 #### 🔨 My recent Pull Requests
 
-- [Update attribute.rst](https://github.com/twigphp/Twig/pull/3775) on [twigphp/Twig](https://github.com/twigphp/Twig) (2 days ago)
+- [Update attribute.rst](https://github.com/twigphp/Twig/pull/3775) on [twigphp/Twig](https://github.com/twigphp/Twig) (3 days ago)
 - [Update default configuration for branches](https://github.com/abdounikarim/macos/pull/4) on [abdounikarim/macos](https://github.com/abdounikarim/macos) (1 month ago)
 - [Upgrade create gitignore file command](https://github.com/abdounikarim/macos/pull/3) on [abdounikarim/macos](https://github.com/abdounikarim/macos) (1 month ago)
 - [Fix code style in pub](https://github.com/magento/magento2/pull/36359) on [magento/magento2](https://github.com/magento/magento2) (1 month ago)
