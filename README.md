@@ -32,11 +32,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v6.2.0-RC1](https://github.com/symfony/symfony/releases/tag/v6.2.0-RC1), today) - The Symfony PHP framework
+- [symfony/symfony](https://github.com/symfony/symfony) ([v6.2.0-RC1](https://github.com/symfony/symfony/releases/tag/v6.2.0-RC1), 1 day ago) - The Symfony PHP framework
 
 #### 🔨 My recent Pull Requests
 
-- [Update attribute.rst](https://github.com/twigphp/Twig/pull/3775) on [twigphp/Twig](https://github.com/twigphp/Twig) (3 days ago)
+- [Update attribute.rst](https://github.com/twigphp/Twig/pull/3775) on [twigphp/Twig](https://github.com/twigphp/Twig) (4 days ago)
 - [Handle createdAt and updatedAt](https://github.com/abdounikarim/abdounikarim.com/pull/173) on [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) (3 weeks ago)
 - [Update default configuration for branches](https://github.com/abdounikarim/macos/pull/4) on [abdounikarim/macos](https://github.com/abdounikarim/macos) (1 month ago)
 - [Upgrade create gitignore file command](https://github.com/abdounikarim/macos/pull/3) on [abdounikarim/macos](https://github.com/abdounikarim/macos) (1 month ago)
