@@ -15,7 +15,7 @@
 - [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (4 months ago)
 - [box-project/homebrew-box](https://github.com/box-project/homebrew-box) -  (5 months ago)
 - [abdounikarim/demo-ansible](https://github.com/abdounikarim/demo-ansible) -  (6 months ago)
-- [abdounikarim/cmi](https://github.com/abdounikarim/cmi) -  (9 months ago)
+- [abdounikarim/cmi](https://github.com/abdounikarim/cmi) -  (10 months ago)
 
 #### 🌱 My latest projects
 
@@ -32,11 +32,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v6.2.0-RC2](https://github.com/symfony/symfony/releases/tag/v6.2.0-RC2), today) - The Symfony PHP framework
+- [symfony/symfony](https://github.com/symfony/symfony) ([v6.2.0-RC2](https://github.com/symfony/symfony/releases/tag/v6.2.0-RC2), 1 day ago) - The Symfony PHP framework
 
 #### 🔨 My recent Pull Requests
 
-- [Update attribute.rst](https://github.com/twigphp/Twig/pull/3775) on [twigphp/Twig](https://github.com/twigphp/Twig) (6 days ago)
+- [Update attribute.rst](https://github.com/twigphp/Twig/pull/3775) on [twigphp/Twig](https://github.com/twigphp/Twig) (1 week ago)
 - [Handle createdAt and updatedAt](https://github.com/abdounikarim/abdounikarim.com/pull/173) on [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) (4 weeks ago)
 - [Update default configuration for branches](https://github.com/abdounikarim/macos/pull/4) on [abdounikarim/macos](https://github.com/abdounikarim/macos) (1 month ago)
 - [Upgrade create gitignore file command](https://github.com/abdounikarim/macos/pull/3) on [abdounikarim/macos](https://github.com/abdounikarim/macos) (1 month ago)
