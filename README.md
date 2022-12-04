@@ -6,7 +6,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Casrime/snowtricks](https://github.com/Casrime/snowtricks) - OpenClassrooms - Projet 6 du parcours Développeur d&#39;Applications PHP / Symfony (4 weeks ago)
+- [Casrime/snowtricks](https://github.com/Casrime/snowtricks) - OpenClassrooms - Projet 6 du parcours Développeur d&#39;Applications PHP / Symfony (1 month ago)
 - [Casrime/bilemo](https://github.com/Casrime/bilemo) - OpenClassrooms - Projet 7 du parcours Développeur d&#39;Applications PHP / Symfony (1 month ago)
 - [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) -  (1 month ago)
 - [abdounikarim/macos](https://github.com/abdounikarim/macos) -  (1 month ago)
@@ -32,7 +32,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v6.2.0](https://github.com/symfony/symfony/releases/tag/v6.2.0), 3 days ago) - The Symfony PHP framework
+- [symfony/symfony](https://github.com/symfony/symfony) ([v6.2.0](https://github.com/symfony/symfony/releases/tag/v6.2.0), 4 days ago) - The Symfony PHP framework
 
 #### 🔨 My recent Pull Requests
 
