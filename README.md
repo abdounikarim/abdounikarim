@@ -32,7 +32,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v6.2.1](https://github.com/symfony/symfony/releases/tag/v6.2.1), 3 days ago) - The Symfony PHP framework
+- [symfony/symfony](https://github.com/symfony/symfony) ([v6.2.1](https://github.com/symfony/symfony/releases/tag/v6.2.1), 4 days ago) - The Symfony PHP framework
 
 #### 🔨 My recent Pull Requests
 
@@ -56,7 +56,7 @@
 - [symfony/panther](https://github.com/symfony/panther) - A browser testing and web crawling library for PHP and Symfony (1 month ago)
 - [symfony/recipes](https://github.com/symfony/recipes) - Symfony Recipes Repository (1 month ago)
 - [abdounikarim/prepare-certification](https://github.com/abdounikarim/prepare-certification) -  (5 months ago)
-- [r-darwish/topgrade](https://github.com/r-darwish/topgrade) - Upgrade everything (5 months ago)
+- [r-darwish/topgrade](https://github.com/r-darwish/topgrade) - Upgrade everything (6 months ago)
 - [igorkulman/ChangeMenuBarColor](https://github.com/igorkulman/ChangeMenuBarColor) - Simple utility to change macOS Big Sur and Monterey menu bar color by appending a solid color or gradient rectangle to a wallpaper image (6 months ago)
 
 #### 👯 Check out some of my recent followers
