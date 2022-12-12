@@ -32,7 +32,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v6.2.1](https://github.com/symfony/symfony/releases/tag/v6.2.1), 5 days ago) - The Symfony PHP framework
+- [symfony/symfony](https://github.com/symfony/symfony) ([v6.2.1](https://github.com/symfony/symfony/releases/tag/v6.2.1), 6 days ago) - The Symfony PHP framework
 
 #### 🔨 My recent Pull Requests
 
@@ -50,14 +50,14 @@
 
 - [jobbsy-dev/jobbsy](https://github.com/jobbsy-dev/jobbsy) - Jobbsy - Job Board for Symfony (3 weeks ago)
 - [philipsharp/afieldguidetoelephpants](https://github.com/philipsharp/afieldguidetoelephpants) -  (1 month ago)
-- [symfony/monolog-bundle](https://github.com/symfony/monolog-bundle) - Symfony Monolog Bundle (1 month ago)
-- [symfony/webpack-encore-bundle](https://github.com/symfony/webpack-encore-bundle) - Symfony integration with Webpack Encore! (1 month ago)
-- [symfony/flex](https://github.com/symfony/flex) - Composer plugin for Symfony (1 month ago)
-- [symfony/panther](https://github.com/symfony/panther) - A browser testing and web crawling library for PHP and Symfony (1 month ago)
-- [symfony/recipes](https://github.com/symfony/recipes) - Symfony Recipes Repository (1 month ago)
+- [symfony/monolog-bundle](https://github.com/symfony/monolog-bundle) - Symfony Monolog Bundle (2 months ago)
+- [symfony/webpack-encore-bundle](https://github.com/symfony/webpack-encore-bundle) - Symfony integration with Webpack Encore! (2 months ago)
+- [symfony/flex](https://github.com/symfony/flex) - Composer plugin for Symfony (2 months ago)
+- [symfony/panther](https://github.com/symfony/panther) - A browser testing and web crawling library for PHP and Symfony (2 months ago)
+- [symfony/recipes](https://github.com/symfony/recipes) - Symfony Recipes Repository (2 months ago)
 - [abdounikarim/prepare-certification](https://github.com/abdounikarim/prepare-certification) -  (5 months ago)
 - [r-darwish/topgrade](https://github.com/r-darwish/topgrade) - Upgrade everything (6 months ago)
-- [igorkulman/ChangeMenuBarColor](https://github.com/igorkulman/ChangeMenuBarColor) - Simple utility to change macOS Big Sur and Monterey menu bar color by appending a solid color or gradient rectangle to a wallpaper image (6 months ago)
+- [igorkulman/ChangeMenuBarColor](https://github.com/igorkulman/ChangeMenuBarColor) - Simple utility to change macOS Big Sur and Monterey menu bar color by appending a solid color or gradient rectangle to a wallpaper image (7 months ago)
 
 #### 👯 Check out some of my recent followers
 
