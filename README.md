@@ -6,7 +6,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) -  (today)
+- [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) -  (1 day ago)
 - [Casrime/snowtricks](https://github.com/Casrime/snowtricks) - OpenClassrooms - Projet 6 du parcours Développeur d&#39;Applications PHP / Symfony (1 month ago)
 - [Casrime/bilemo](https://github.com/Casrime/bilemo) - OpenClassrooms - Projet 7 du parcours Développeur d&#39;Applications PHP / Symfony (1 month ago)
 - [abdounikarim/macos](https://github.com/abdounikarim/macos) -  (1 month ago)
@@ -32,12 +32,12 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v6.2.1](https://github.com/symfony/symfony/releases/tag/v6.2.1), 6 days ago) - The Symfony PHP framework
+- [symfony/symfony](https://github.com/symfony/symfony) ([v6.2.1](https://github.com/symfony/symfony/releases/tag/v6.2.1), 1 week ago) - The Symfony PHP framework
 
 #### 🔨 My recent Pull Requests
 
-- [Blog](https://github.com/abdounikarim/abdounikarim.com/pull/176) on [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) (today)
-- [Update attribute.rst](https://github.com/twigphp/Twig/pull/3775) on [twigphp/Twig](https://github.com/twigphp/Twig) (2 weeks ago)
+- [Blog](https://github.com/abdounikarim/abdounikarim.com/pull/176) on [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) (1 day ago)
+- [Update attribute.rst](https://github.com/twigphp/Twig/pull/3775) on [twigphp/Twig](https://github.com/twigphp/Twig) (3 weeks ago)
 - [Handle createdAt and updatedAt](https://github.com/abdounikarim/abdounikarim.com/pull/173) on [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) (1 month ago)
 - [Update default configuration for branches](https://github.com/abdounikarim/macos/pull/4) on [abdounikarim/macos](https://github.com/abdounikarim/macos) (1 month ago)
 - [Upgrade create gitignore file command](https://github.com/abdounikarim/macos/pull/3) on [abdounikarim/macos](https://github.com/abdounikarim/macos) (1 month ago)
@@ -55,7 +55,7 @@
 - [symfony/flex](https://github.com/symfony/flex) - Composer plugin for Symfony (2 months ago)
 - [symfony/panther](https://github.com/symfony/panther) - A browser testing and web crawling library for PHP and Symfony (2 months ago)
 - [symfony/recipes](https://github.com/symfony/recipes) - Symfony Recipes Repository (2 months ago)
-- [abdounikarim/prepare-certification](https://github.com/abdounikarim/prepare-certification) -  (5 months ago)
+- [abdounikarim/prepare-certification](https://github.com/abdounikarim/prepare-certification) -  (6 months ago)
 - [r-darwish/topgrade](https://github.com/r-darwish/topgrade) - Upgrade everything (6 months ago)
 - [igorkulman/ChangeMenuBarColor](https://github.com/igorkulman/ChangeMenuBarColor) - Simple utility to change macOS Big Sur and Monterey menu bar color by appending a solid color or gradient rectangle to a wallpaper image (7 months ago)
 
