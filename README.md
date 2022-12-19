@@ -6,7 +6,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) -  (6 days ago)
+- [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) -  (1 week ago)
 - [Casrime/snowtricks](https://github.com/Casrime/snowtricks) - OpenClassrooms - Projet 6 du parcours Développeur d&#39;Applications PHP / Symfony (1 month ago)
 - [Casrime/bilemo](https://github.com/Casrime/bilemo) - OpenClassrooms - Projet 7 du parcours Développeur d&#39;Applications PHP / Symfony (1 month ago)
 - [abdounikarim/macos](https://github.com/abdounikarim/macos) -  (1 month ago)
@@ -32,11 +32,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v6.2.2](https://github.com/symfony/symfony/releases/tag/v6.2.2), 2 days ago) - The Symfony PHP framework
+- [symfony/symfony](https://github.com/symfony/symfony) ([v6.2.2](https://github.com/symfony/symfony/releases/tag/v6.2.2), 3 days ago) - The Symfony PHP framework
 
 #### 🔨 My recent Pull Requests
 
-- [Blog](https://github.com/abdounikarim/abdounikarim.com/pull/176) on [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) (6 days ago)
+- [Blog](https://github.com/abdounikarim/abdounikarim.com/pull/176) on [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) (1 week ago)
 - [Update attribute.rst](https://github.com/twigphp/Twig/pull/3775) on [twigphp/Twig](https://github.com/twigphp/Twig) (3 weeks ago)
 - [Handle createdAt and updatedAt](https://github.com/abdounikarim/abdounikarim.com/pull/173) on [abdounikarim/abdounikarim.com](https://github.com/abdounikarim/abdounikarim.com) (1 month ago)
 - [Update default configuration for branches](https://github.com/abdounikarim/macos/pull/4) on [abdounikarim/macos](https://github.com/abdounikarim/macos) (1 month ago)
