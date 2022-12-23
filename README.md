@@ -8,7 +8,7 @@
 
 - [Casrime/snowtricks](https://github.com/Casrime/snowtricks) - OpenClassrooms - Projet 6 du parcours Développeur d&#39;Applications PHP / Symfony (1 month ago)
 - [Casrime/bilemo](https://github.com/Casrime/bilemo) - OpenClassrooms - Projet 7 du parcours Développeur d&#39;Applications PHP / Symfony (1 month ago)
-- [abdounikarim/macos](https://github.com/abdounikarim/macos) -  (1 month ago)
+- [abdounikarim/macos](https://github.com/abdounikarim/macos) -  (2 months ago)
 - [knpuniversity/symfony-bundle](https://github.com/knpuniversity/symfony-bundle) - Screencast code, script and birthday presents behind the &#34;Creating a Reusable (&amp; Amazing) Symfony Bundle&#34; tutorial (2 months ago)
 - [abdounikarim/lorem-ipsum-bundle](https://github.com/abdounikarim/lorem-ipsum-bundle) -  (2 months ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (5 months ago)
@@ -32,13 +32,13 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v6.2.2](https://github.com/symfony/symfony/releases/tag/v6.2.2), 6 days ago) - The Symfony PHP framework
+- [symfony/symfony](https://github.com/symfony/symfony) ([v6.2.2](https://github.com/symfony/symfony/releases/tag/v6.2.2), 1 week ago) - The Symfony PHP framework
 
 #### 🔨 My recent Pull Requests
 
 - [Update attribute.rst](https://github.com/twigphp/Twig/pull/3775) on [twigphp/Twig](https://github.com/twigphp/Twig) (1 month ago)
-- [Update default configuration for branches](https://github.com/abdounikarim/macos/pull/4) on [abdounikarim/macos](https://github.com/abdounikarim/macos) (1 month ago)
-- [Upgrade create gitignore file command](https://github.com/abdounikarim/macos/pull/3) on [abdounikarim/macos](https://github.com/abdounikarim/macos) (1 month ago)
+- [Update default configuration for branches](https://github.com/abdounikarim/macos/pull/4) on [abdounikarim/macos](https://github.com/abdounikarim/macos) (2 months ago)
+- [Upgrade create gitignore file command](https://github.com/abdounikarim/macos/pull/3) on [abdounikarim/macos](https://github.com/abdounikarim/macos) (2 months ago)
 
 #### 📓 Gists I wrote
 
