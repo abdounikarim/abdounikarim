@@ -14,7 +14,7 @@
 - [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (5 months ago)
 - [box-project/homebrew-box](https://github.com/box-project/homebrew-box) -  (6 months ago)
 - [abdounikarim/demo-ansible](https://github.com/abdounikarim/demo-ansible) -  (7 months ago)
-- [abdounikarim/cmi](https://github.com/abdounikarim/cmi) -  (10 months ago)
+- [abdounikarim/cmi](https://github.com/abdounikarim/cmi) -  (11 months ago)
 - [Casrime/chalets-et-caviar](https://github.com/Casrime/chalets-et-caviar) - OpenClassrooms - Projet 2 du parcours Développeur d&#39;Applications PHP / Symfony (11 months ago)
 
 #### 🌱 My latest projects
@@ -32,7 +32,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v6.2.3](https://github.com/symfony/symfony/releases/tag/v6.2.3), today) - The Symfony PHP framework
+- [symfony/symfony](https://github.com/symfony/symfony) ([v6.2.3](https://github.com/symfony/symfony/releases/tag/v6.2.3), 1 day ago) - The Symfony PHP framework
 
 #### 🔨 My recent Pull Requests
 
