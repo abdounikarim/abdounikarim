@@ -15,7 +15,7 @@
 - [box-project/homebrew-box](https://github.com/box-project/homebrew-box) -  (6 months ago)
 - [abdounikarim/demo-ansible](https://github.com/abdounikarim/demo-ansible) -  (7 months ago)
 - [abdounikarim/cmi](https://github.com/abdounikarim/cmi) -  (11 months ago)
-- [Casrime/chalets-et-caviar](https://github.com/Casrime/chalets-et-caviar) - OpenClassrooms - Projet 2 du parcours Développeur d&#39;Applications PHP / Symfony (11 months ago)
+- [Casrime/chalets-et-caviar](https://github.com/Casrime/chalets-et-caviar) - OpenClassrooms - Projet 2 du parcours Développeur d&#39;Applications PHP / Symfony (1 year ago)
 
 #### 🌱 My latest projects
 
@@ -32,7 +32,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v6.2.4](https://github.com/symfony/symfony/releases/tag/v6.2.4), 1 day ago) - The Symfony PHP framework
+- [symfony/symfony](https://github.com/symfony/symfony) ([v6.2.4](https://github.com/symfony/symfony/releases/tag/v6.2.4), 2 days ago) - The Symfony PHP framework
 
 #### 🔨 My recent Pull Requests
 
@@ -46,7 +46,7 @@
 
 #### ⭐ Recent Stars
 
-- [philcook/brew-php-switcher](https://github.com/philcook/brew-php-switcher) - Brew PHP switcher is a simple shell script to switch your apache and CLI quickly between major versions of PHP. If you support multiple products/projects that are built using either brand new or old legacy PHP functionality. For users of Homebrew (or brew for short) currently only. (1 day ago)
+- [philcook/brew-php-switcher](https://github.com/philcook/brew-php-switcher) - Brew PHP switcher is a simple shell script to switch your apache and CLI quickly between major versions of PHP. If you support multiple products/projects that are built using either brand new or old legacy PHP functionality. For users of Homebrew (or brew for short) currently only. (2 days ago)
 - [jobbsy-dev/jobbsy](https://github.com/jobbsy-dev/jobbsy) - Jobbsy - Job Board for Symfony (1 month ago)
 - [philipsharp/afieldguidetoelephpants](https://github.com/philipsharp/afieldguidetoelephpants) -  (2 months ago)
 - [symfony/monolog-bundle](https://github.com/symfony/monolog-bundle) - Symfony Monolog Bundle (2 months ago)
