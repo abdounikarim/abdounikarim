@@ -15,7 +15,6 @@
 - [box-project/homebrew-box](https://github.com/box-project/homebrew-box) -  (6 months ago)
 - [abdounikarim/demo-ansible](https://github.com/abdounikarim/demo-ansible) -  (8 months ago)
 - [abdounikarim/cmi](https://github.com/abdounikarim/cmi) -  (11 months ago)
-- [Casrime/chalets-et-caviar](https://github.com/Casrime/chalets-et-caviar) - OpenClassrooms - Projet 2 du parcours Développeur d&#39;Applications PHP / Symfony (1 year ago)
 
 #### 🌱 My latest projects
 
