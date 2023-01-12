@@ -37,7 +37,6 @@
 
 - [Update attribute.rst](https://github.com/twigphp/Twig/pull/3775) on [twigphp/Twig](https://github.com/twigphp/Twig) (1 month ago)
 - [Update default configuration for branches](https://github.com/abdounikarim/macos/pull/4) on [abdounikarim/macos](https://github.com/abdounikarim/macos) (2 months ago)
-- [Upgrade create gitignore file command](https://github.com/abdounikarim/macos/pull/3) on [abdounikarim/macos](https://github.com/abdounikarim/macos) (2 months ago)
 
 #### 📓 Gists I wrote
 
