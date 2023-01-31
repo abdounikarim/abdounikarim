@@ -11,7 +11,7 @@
 - [abdounikarim/macos](https://github.com/abdounikarim/macos) -  (3 months ago)
 - [knpuniversity/symfony-bundle](https://github.com/knpuniversity/symfony-bundle) - Screencast code, script and birthday presents behind the &#34;Creating a Reusable (&amp; Amazing) Symfony Bundle&#34; tutorial (3 months ago)
 - [abdounikarim/lorem-ipsum-bundle](https://github.com/abdounikarim/lorem-ipsum-bundle) -  (3 months ago)
-- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (6 months ago)
+- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (7 months ago)
 - [box-project/homebrew-box](https://github.com/box-project/homebrew-box) -  (7 months ago)
 - [abdounikarim/demo-ansible](https://github.com/abdounikarim/demo-ansible) -  (8 months ago)
 - [abdounikarim/cmi](https://github.com/abdounikarim/cmi) -  (1 year ago)
@@ -31,7 +31,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v6.2.5](https://github.com/symfony/symfony/releases/tag/v6.2.5), 6 days ago) - The Symfony PHP framework
+- [symfony/symfony](https://github.com/symfony/symfony) ([v6.2.5](https://github.com/symfony/symfony/releases/tag/v6.2.5), 1 week ago) - The Symfony PHP framework
 
 #### 🔨 My recent Pull Requests
 
@@ -43,7 +43,7 @@
 
 #### ⭐ Recent Stars
 
-- [drknzz/GitHub-Achievements](https://github.com/drknzz/GitHub-Achievements) - 🔥 A Complete List of GitHub Profile Badges and Achievements 🔥 (3 weeks ago)
+- [drknzz/GitHub-Achievements](https://github.com/drknzz/GitHub-Achievements) - 🔥 A Complete List of GitHub Profile Badges and Achievements 🔥 (4 weeks ago)
 - [philcook/brew-php-switcher](https://github.com/philcook/brew-php-switcher) - Brew PHP switcher is a simple shell script to switch your apache and CLI quickly between major versions of PHP. If you support multiple products/projects that are built using either brand new or old legacy PHP functionality. For users of Homebrew (or brew for short) currently only. (1 month ago)
 - [jobbsy-dev/jobbsy](https://github.com/jobbsy-dev/jobbsy) - Jobbsy - Job Board for Symfony (2 months ago)
 - [philipsharp/afieldguidetoelephpants](https://github.com/philipsharp/afieldguidetoelephpants) -  (3 months ago)
