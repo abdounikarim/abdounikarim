@@ -36,9 +36,9 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Update dependencies](https://github.com/Casrime/todolist/pull/4) on [Casrime/todolist](https://github.com/Casrime/todolist) (today)
+- [Update dependencies](https://github.com/saro0h/projet8-TodoList/pull/31) on [saro0h/projet8-TodoList](https://github.com/saro0h/projet8-TodoList) (today)
 - [Update attribute.rst](https://github.com/twigphp/Twig/pull/3775) on [twigphp/Twig](https://github.com/twigphp/Twig) (2 months ago)
-- [Update default configuration for branches](https://github.com/abdounikarim/macos/pull/4) on [abdounikarim/macos](https://github.com/abdounikarim/macos) (3 months ago)
-- [Upgrade create gitignore file command](https://github.com/abdounikarim/macos/pull/3) on [abdounikarim/macos](https://github.com/abdounikarim/macos) (3 months ago)
 
 #### 📓 Gists I wrote
 
