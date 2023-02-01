@@ -6,7 +6,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [abdounikarim/web-and-mobile-app](https://github.com/abdounikarim/web-and-mobile-app) -  (today)
+- [abdounikarim/web-and-mobile-app](https://github.com/abdounikarim/web-and-mobile-app) -  (1 day ago)
 - [Casrime/snowtricks](https://github.com/Casrime/snowtricks) - OpenClassrooms - Projet 6 du parcours Développeur d&#39;Applications PHP / Symfony (2 months ago)
 - [Casrime/bilemo](https://github.com/Casrime/bilemo) - OpenClassrooms - Projet 7 du parcours Développeur d&#39;Applications PHP / Symfony (3 months ago)
 - [abdounikarim/macos](https://github.com/abdounikarim/macos) -  (3 months ago)
@@ -36,11 +36,11 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Update Readme](https://github.com/Casrime/todolist/pull/7) on [Casrime/todolist](https://github.com/Casrime/todolist) (today)
-- [Update Makefile](https://github.com/Casrime/todolist/pull/6) on [Casrime/todolist](https://github.com/Casrime/todolist) (today)
-- [Insight - Update php version and badge link](https://github.com/Casrime/todolist/pull/5) on [Casrime/todolist](https://github.com/Casrime/todolist) (today)
-- [Update dependencies](https://github.com/Casrime/todolist/pull/4) on [Casrime/todolist](https://github.com/Casrime/todolist) (today)
-- [Update dependencies](https://github.com/saro0h/projet8-TodoList/pull/31) on [saro0h/projet8-TodoList](https://github.com/saro0h/projet8-TodoList) (today)
+- [Update Readme](https://github.com/Casrime/todolist/pull/7) on [Casrime/todolist](https://github.com/Casrime/todolist) (1 day ago)
+- [Update Makefile](https://github.com/Casrime/todolist/pull/6) on [Casrime/todolist](https://github.com/Casrime/todolist) (1 day ago)
+- [Insight - Update php version and badge link](https://github.com/Casrime/todolist/pull/5) on [Casrime/todolist](https://github.com/Casrime/todolist) (1 day ago)
+- [Update dependencies](https://github.com/Casrime/todolist/pull/4) on [Casrime/todolist](https://github.com/Casrime/todolist) (1 day ago)
+- [Update dependencies](https://github.com/saro0h/projet8-TodoList/pull/31) on [saro0h/projet8-TodoList](https://github.com/saro0h/projet8-TodoList) (1 day ago)
 
 #### 📓 Gists I wrote
 
