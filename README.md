@@ -36,6 +36,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Insight corrections](https://github.com/Casrime/todolist/pull/8) on [Casrime/todolist](https://github.com/Casrime/todolist) (today)
 - [Update Readme](https://github.com/Casrime/todolist/pull/7) on [Casrime/todolist](https://github.com/Casrime/todolist) (1 day ago)
 - [Update Makefile](https://github.com/Casrime/todolist/pull/6) on [Casrime/todolist](https://github.com/Casrime/todolist) (1 day ago)
 - [Insight - Update php version and badge link](https://github.com/Casrime/todolist/pull/5) on [Casrime/todolist](https://github.com/Casrime/todolist) (1 day ago)
