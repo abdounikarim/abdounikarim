@@ -36,6 +36,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Symfony recipes](https://github.com/Casrime/todolist/pull/10) on [Casrime/todolist](https://github.com/Casrime/todolist) (today)
+- [Install rector and apply rules, and use php-cs-fixer](https://github.com/Casrime/todolist/pull/9) on [Casrime/todolist](https://github.com/Casrime/todolist) (today)
 - [Insight corrections](https://github.com/Casrime/todolist/pull/8) on [Casrime/todolist](https://github.com/Casrime/todolist) (1 day ago)
 - [Update Readme](https://github.com/Casrime/todolist/pull/7) on [Casrime/todolist](https://github.com/Casrime/todolist) (2 days ago)
 - [Update Makefile](https://github.com/Casrime/todolist/pull/6) on [Casrime/todolist](https://github.com/Casrime/todolist) (2 days ago)
