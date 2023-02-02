@@ -6,8 +6,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [abdounikarim/web-and-mobile-app](https://github.com/abdounikarim/web-and-mobile-app) -  (1 day ago)
-- [Casrime/snowtricks](https://github.com/Casrime/snowtricks) - OpenClassrooms - Projet 6 du parcours Développeur d&#39;Applications PHP / Symfony (2 months ago)
+- [abdounikarim/web-and-mobile-app](https://github.com/abdounikarim/web-and-mobile-app) -  (2 days ago)
+- [Casrime/snowtricks](https://github.com/Casrime/snowtricks) - OpenClassrooms - Projet 6 du parcours Développeur d&#39;Applications PHP / Symfony (3 months ago)
 - [Casrime/bilemo](https://github.com/Casrime/bilemo) - OpenClassrooms - Projet 7 du parcours Développeur d&#39;Applications PHP / Symfony (3 months ago)
 - [abdounikarim/macos](https://github.com/abdounikarim/macos) -  (3 months ago)
 - [knpuniversity/symfony-bundle](https://github.com/knpuniversity/symfony-bundle) - Screencast code, script and birthday presents behind the &#34;Creating a Reusable (&amp; Amazing) Symfony Bundle&#34; tutorial (3 months ago)
@@ -32,16 +32,16 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v6.2.6](https://github.com/symfony/symfony/releases/tag/v6.2.6), today) - The Symfony PHP framework
+- [symfony/symfony](https://github.com/symfony/symfony) ([v6.2.6](https://github.com/symfony/symfony/releases/tag/v6.2.6), 1 day ago) - The Symfony PHP framework
 
 #### 🔨 My recent Pull Requests
 
-- [Insight corrections](https://github.com/Casrime/todolist/pull/8) on [Casrime/todolist](https://github.com/Casrime/todolist) (today)
-- [Update Readme](https://github.com/Casrime/todolist/pull/7) on [Casrime/todolist](https://github.com/Casrime/todolist) (1 day ago)
-- [Update Makefile](https://github.com/Casrime/todolist/pull/6) on [Casrime/todolist](https://github.com/Casrime/todolist) (1 day ago)
-- [Insight - Update php version and badge link](https://github.com/Casrime/todolist/pull/5) on [Casrime/todolist](https://github.com/Casrime/todolist) (1 day ago)
-- [Update dependencies](https://github.com/Casrime/todolist/pull/4) on [Casrime/todolist](https://github.com/Casrime/todolist) (1 day ago)
-- [Update dependencies](https://github.com/saro0h/projet8-TodoList/pull/31) on [saro0h/projet8-TodoList](https://github.com/saro0h/projet8-TodoList) (1 day ago)
+- [Insight corrections](https://github.com/Casrime/todolist/pull/8) on [Casrime/todolist](https://github.com/Casrime/todolist) (1 day ago)
+- [Update Readme](https://github.com/Casrime/todolist/pull/7) on [Casrime/todolist](https://github.com/Casrime/todolist) (2 days ago)
+- [Update Makefile](https://github.com/Casrime/todolist/pull/6) on [Casrime/todolist](https://github.com/Casrime/todolist) (2 days ago)
+- [Insight - Update php version and badge link](https://github.com/Casrime/todolist/pull/5) on [Casrime/todolist](https://github.com/Casrime/todolist) (2 days ago)
+- [Update dependencies](https://github.com/Casrime/todolist/pull/4) on [Casrime/todolist](https://github.com/Casrime/todolist) (2 days ago)
+- [Update dependencies](https://github.com/saro0h/projet8-TodoList/pull/31) on [saro0h/projet8-TodoList](https://github.com/saro0h/projet8-TodoList) (2 days ago)
 
 #### 📓 Gists I wrote
 
@@ -49,7 +49,7 @@
 
 #### ⭐ Recent Stars
 
-- [drknzz/GitHub-Achievements](https://github.com/drknzz/GitHub-Achievements) - 🔥 A Complete List of GitHub Profile Badges and Achievements 🔥 (4 weeks ago)
+- [drknzz/GitHub-Achievements](https://github.com/drknzz/GitHub-Achievements) - 🔥 A Complete List of GitHub Profile Badges and Achievements 🔥 (1 month ago)
 - [philcook/brew-php-switcher](https://github.com/philcook/brew-php-switcher) - Brew PHP switcher is a simple shell script to switch your apache and CLI quickly between major versions of PHP. If you support multiple products/projects that are built using either brand new or old legacy PHP functionality. For users of Homebrew (or brew for short) currently only. (1 month ago)
 - [jobbsy-dev/jobbsy](https://github.com/jobbsy-dev/jobbsy) - Jobbsy - Job Board for Symfony (2 months ago)
 - [philipsharp/afieldguidetoelephpants](https://github.com/philipsharp/afieldguidetoelephpants) -  (3 months ago)
