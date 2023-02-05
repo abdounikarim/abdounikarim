@@ -15,7 +15,6 @@
 - [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (7 months ago)
 - [box-project/homebrew-box](https://github.com/box-project/homebrew-box) -  (7 months ago)
 - [abdounikarim/demo-ansible](https://github.com/abdounikarim/demo-ansible) -  (9 months ago)
-- [abdounikarim/cmi](https://github.com/abdounikarim/cmi) -  (1 year ago)
 
 #### 🌱 My latest projects
 
