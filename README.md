@@ -35,6 +35,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Twig - add form theme](https://github.com/Casrime/todolist/pull/13) on [Casrime/todolist](https://github.com/Casrime/todolist) (today)
 - [UML](https://github.com/Casrime/todolist/pull/12) on [Casrime/todolist](https://github.com/Casrime/todolist) (1 day ago)
 - [Makefile - Update db-fixtures command](https://github.com/Casrime/todolist/pull/11) on [Casrime/todolist](https://github.com/Casrime/todolist) (1 day ago)
 - [Symfony recipes](https://github.com/Casrime/todolist/pull/10) on [Casrime/todolist](https://github.com/Casrime/todolist) (5 days ago)
@@ -44,7 +45,6 @@
 - [Update Makefile](https://github.com/Casrime/todolist/pull/6) on [Casrime/todolist](https://github.com/Casrime/todolist) (1 week ago)
 - [Insight - Update php version and badge link](https://github.com/Casrime/todolist/pull/5) on [Casrime/todolist](https://github.com/Casrime/todolist) (1 week ago)
 - [Update dependencies](https://github.com/Casrime/todolist/pull/4) on [Casrime/todolist](https://github.com/Casrime/todolist) (1 week ago)
-- [Update dependencies](https://github.com/saro0h/projet8-TodoList/pull/31) on [saro0h/projet8-TodoList](https://github.com/saro0h/projet8-TodoList) (1 week ago)
 
 #### 📓 Gists I wrote
 
