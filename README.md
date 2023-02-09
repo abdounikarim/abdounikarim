@@ -11,7 +11,7 @@
 - [Casrime/bilemo](https://github.com/Casrime/bilemo) - OpenClassrooms - Projet 7 du parcours Développeur d&#39;Applications PHP / Symfony (3 months ago)
 - [abdounikarim/macos](https://github.com/abdounikarim/macos) -  (3 months ago)
 - [knpuniversity/symfony-bundle](https://github.com/knpuniversity/symfony-bundle) - Screencast code, script and birthday presents behind the &#34;Creating a Reusable (&amp; Amazing) Symfony Bundle&#34; tutorial (3 months ago)
-- [abdounikarim/lorem-ipsum-bundle](https://github.com/abdounikarim/lorem-ipsum-bundle) -  (3 months ago)
+- [abdounikarim/lorem-ipsum-bundle](https://github.com/abdounikarim/lorem-ipsum-bundle) -  (4 months ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (7 months ago)
 - [box-project/homebrew-box](https://github.com/box-project/homebrew-box) -  (7 months ago)
 - [abdounikarim/demo-ansible](https://github.com/abdounikarim/demo-ansible) -  (9 months ago)
@@ -35,11 +35,11 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Twig - add form theme](https://github.com/Casrime/todolist/pull/13) on [Casrime/todolist](https://github.com/Casrime/todolist) (1 day ago)
-- [UML](https://github.com/Casrime/todolist/pull/12) on [Casrime/todolist](https://github.com/Casrime/todolist) (2 days ago)
-- [Makefile - Update db-fixtures command](https://github.com/Casrime/todolist/pull/11) on [Casrime/todolist](https://github.com/Casrime/todolist) (2 days ago)
-- [Symfony recipes](https://github.com/Casrime/todolist/pull/10) on [Casrime/todolist](https://github.com/Casrime/todolist) (6 days ago)
-- [Install rector and apply rules, and use php-cs-fixer](https://github.com/Casrime/todolist/pull/9) on [Casrime/todolist](https://github.com/Casrime/todolist) (6 days ago)
+- [Twig - add form theme](https://github.com/Casrime/todolist/pull/13) on [Casrime/todolist](https://github.com/Casrime/todolist) (2 days ago)
+- [UML](https://github.com/Casrime/todolist/pull/12) on [Casrime/todolist](https://github.com/Casrime/todolist) (3 days ago)
+- [Makefile - Update db-fixtures command](https://github.com/Casrime/todolist/pull/11) on [Casrime/todolist](https://github.com/Casrime/todolist) (3 days ago)
+- [Symfony recipes](https://github.com/Casrime/todolist/pull/10) on [Casrime/todolist](https://github.com/Casrime/todolist) (1 week ago)
+- [Install rector and apply rules, and use php-cs-fixer](https://github.com/Casrime/todolist/pull/9) on [Casrime/todolist](https://github.com/Casrime/todolist) (1 week ago)
 - [Insight corrections](https://github.com/Casrime/todolist/pull/8) on [Casrime/todolist](https://github.com/Casrime/todolist) (1 week ago)
 - [Update Readme](https://github.com/Casrime/todolist/pull/7) on [Casrime/todolist](https://github.com/Casrime/todolist) (1 week ago)
 - [Update Makefile](https://github.com/Casrime/todolist/pull/6) on [Casrime/todolist](https://github.com/Casrime/todolist) (1 week ago)
