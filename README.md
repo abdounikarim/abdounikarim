@@ -35,9 +35,9 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Twig - add form theme](https://github.com/Casrime/todolist/pull/13) on [Casrime/todolist](https://github.com/Casrime/todolist) (3 days ago)
-- [UML](https://github.com/Casrime/todolist/pull/12) on [Casrime/todolist](https://github.com/Casrime/todolist) (4 days ago)
-- [Makefile - Update db-fixtures command](https://github.com/Casrime/todolist/pull/11) on [Casrime/todolist](https://github.com/Casrime/todolist) (4 days ago)
+- [Twig - add form theme](https://github.com/Casrime/todolist/pull/13) on [Casrime/todolist](https://github.com/Casrime/todolist) (4 days ago)
+- [UML](https://github.com/Casrime/todolist/pull/12) on [Casrime/todolist](https://github.com/Casrime/todolist) (5 days ago)
+- [Makefile - Update db-fixtures command](https://github.com/Casrime/todolist/pull/11) on [Casrime/todolist](https://github.com/Casrime/todolist) (5 days ago)
 - [Symfony recipes](https://github.com/Casrime/todolist/pull/10) on [Casrime/todolist](https://github.com/Casrime/todolist) (1 week ago)
 - [Install rector and apply rules, and use php-cs-fixer](https://github.com/Casrime/todolist/pull/9) on [Casrime/todolist](https://github.com/Casrime/todolist) (1 week ago)
 - [Insight corrections](https://github.com/Casrime/todolist/pull/8) on [Casrime/todolist](https://github.com/Casrime/todolist) (1 week ago)
@@ -60,7 +60,7 @@
 - [symfony/flex](https://github.com/symfony/flex) - Composer plugin for Symfony (4 months ago)
 - [symfony/panther](https://github.com/symfony/panther) - A browser testing and web crawling library for PHP and Symfony (4 months ago)
 - [symfony/recipes](https://github.com/symfony/recipes) - Symfony Recipes Repository (4 months ago)
-- [abdounikarim/prepare-certification](https://github.com/abdounikarim/prepare-certification) -  (7 months ago)
+- [abdounikarim/prepare-certification](https://github.com/abdounikarim/prepare-certification) -  (8 months ago)
 
 #### 👯 Check out some of my recent followers
 
