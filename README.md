@@ -31,7 +31,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v6.2.6](https://github.com/symfony/symfony/releases/tag/v6.2.6), 3 weeks ago) - The Symfony PHP framework
+- [symfony/symfony](https://github.com/symfony/symfony) ([v5.4.21](https://github.com/symfony/symfony/releases/tag/v5.4.21), today) - The Symfony PHP framework
 
 #### 🔨 My recent Pull Requests
 
