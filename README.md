@@ -14,7 +14,7 @@
 - [abdounikarim/lorem-ipsum-bundle](https://github.com/abdounikarim/lorem-ipsum-bundle) -  (4 months ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (8 months ago)
 - [box-project/homebrew-box](https://github.com/box-project/homebrew-box) -  (8 months ago)
-- [abdounikarim/demo-ansible](https://github.com/abdounikarim/demo-ansible) -  (9 months ago)
+- [abdounikarim/demo-ansible](https://github.com/abdounikarim/demo-ansible) -  (10 months ago)
 
 #### 🌱 My latest projects
 
@@ -31,11 +31,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v6.2.7](https://github.com/symfony/symfony/releases/tag/v6.2.7), 6 days ago) - The Symfony PHP framework
+- [symfony/symfony](https://github.com/symfony/symfony) ([v6.2.7](https://github.com/symfony/symfony/releases/tag/v6.2.7), 1 week ago) - The Symfony PHP framework
 
 #### 🔨 My recent Pull Requests
 
-- [Twig - add form theme](https://github.com/Casrime/todolist/pull/13) on [Casrime/todolist](https://github.com/Casrime/todolist) (3 weeks ago)
+- [Twig - add form theme](https://github.com/Casrime/todolist/pull/13) on [Casrime/todolist](https://github.com/Casrime/todolist) (4 weeks ago)
 - [UML](https://github.com/Casrime/todolist/pull/12) on [Casrime/todolist](https://github.com/Casrime/todolist) (4 weeks ago)
 - [Makefile - Update db-fixtures command](https://github.com/Casrime/todolist/pull/11) on [Casrime/todolist](https://github.com/Casrime/todolist) (4 weeks ago)
 - [Symfony recipes](https://github.com/Casrime/todolist/pull/10) on [Casrime/todolist](https://github.com/Casrime/todolist) (1 month ago)
