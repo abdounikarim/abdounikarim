@@ -36,6 +36,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Makefile - add commands](https://github.com/Casrime/todolist/pull/16) on [Casrime/todolist](https://github.com/Casrime/todolist) (today)
+- [Upgrade Symfony version](https://github.com/Casrime/todolist/pull/15) on [Casrime/todolist](https://github.com/Casrime/todolist) (today)
 - [Upgrade to php 8.2](https://github.com/Casrime/todolist/pull/14) on [Casrime/todolist](https://github.com/Casrime/todolist) (today)
 - [Twig - add form theme](https://github.com/Casrime/todolist/pull/13) on [Casrime/todolist](https://github.com/Casrime/todolist) (1 month ago)
 - [UML](https://github.com/Casrime/todolist/pull/12) on [Casrime/todolist](https://github.com/Casrime/todolist) (1 month ago)
@@ -43,8 +45,6 @@
 - [Symfony recipes](https://github.com/Casrime/todolist/pull/10) on [Casrime/todolist](https://github.com/Casrime/todolist) (1 month ago)
 - [Install rector and apply rules, and use php-cs-fixer](https://github.com/Casrime/todolist/pull/9) on [Casrime/todolist](https://github.com/Casrime/todolist) (1 month ago)
 - [Insight corrections](https://github.com/Casrime/todolist/pull/8) on [Casrime/todolist](https://github.com/Casrime/todolist) (1 month ago)
-- [Update Readme](https://github.com/Casrime/todolist/pull/7) on [Casrime/todolist](https://github.com/Casrime/todolist) (1 month ago)
-- [Update Makefile](https://github.com/Casrime/todolist/pull/6) on [Casrime/todolist](https://github.com/Casrime/todolist) (1 month ago)
 
 #### 📓 Gists I wrote
 
