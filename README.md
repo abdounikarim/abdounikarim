@@ -10,7 +10,7 @@
 - [Casrime/chalets-et-caviar](https://github.com/Casrime/chalets-et-caviar) - OpenClassrooms - Projet 2 du parcours Développeur d&#39;Applications PHP / Symfony (2 weeks ago)
 - [abdounikarim/web-and-mobile-app](https://github.com/abdounikarim/web-and-mobile-app) -  (1 month ago)
 - [Casrime/snowtricks](https://github.com/Casrime/snowtricks) - OpenClassrooms - Projet 6 du parcours Développeur d&#39;Applications PHP / Symfony (4 months ago)
-- [Casrime/bilemo](https://github.com/Casrime/bilemo) - OpenClassrooms - Projet 7 du parcours Développeur d&#39;Applications PHP / Symfony (4 months ago)
+- [Casrime/bilemo](https://github.com/Casrime/bilemo) - OpenClassrooms - Projet 7 du parcours Développeur d&#39;Applications PHP / Symfony (5 months ago)
 - [abdounikarim/macos](https://github.com/abdounikarim/macos) -  (5 months ago)
 - [knpuniversity/symfony-bundle](https://github.com/knpuniversity/symfony-bundle) - Screencast code, script and birthday presents behind the &#34;Creating a Reusable (&amp; Amazing) Symfony Bundle&#34; tutorial (5 months ago)
 - [abdounikarim/lorem-ipsum-bundle](https://github.com/abdounikarim/lorem-ipsum-bundle) -  (5 months ago)
@@ -32,19 +32,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v6.2.7](https://github.com/symfony/symfony/releases/tag/v6.2.7), 4 weeks ago) - The Symfony PHP framework
+- [symfony/symfony](https://github.com/symfony/symfony) ([v6.2.7](https://github.com/symfony/symfony/releases/tag/v6.2.7), 1 month ago) - The Symfony PHP framework
 
 #### 🔨 My recent Pull Requests
 
-- [Task delete - authorize delete for admin if task has no user](https://github.com/Casrime/todolist/pull/22) on [Casrime/todolist](https://github.com/Casrime/todolist) (2 days ago)
-- [Task fixtures - change task from admin to anonymous](https://github.com/Casrime/todolist/pull/21) on [Casrime/todolist](https://github.com/Casrime/todolist) (2 days ago)
-- [Base template - add check for admin](https://github.com/Casrime/todolist/pull/20) on [Casrime/todolist](https://github.com/Casrime/todolist) (2 days ago)
-- [Update Xdebug](https://github.com/Casrime/todolist/pull/19) on [Casrime/todolist](https://github.com/Casrime/todolist) (2 days ago)
-- [Blackfire recommendations](https://github.com/Casrime/todolist/pull/18) on [Casrime/todolist](https://github.com/Casrime/todolist) (2 days ago)
-- [Add editorconfig file](https://github.com/Casrime/todolist/pull/17) on [Casrime/todolist](https://github.com/Casrime/todolist) (5 days ago)
-- [Makefile - add commands](https://github.com/Casrime/todolist/pull/16) on [Casrime/todolist](https://github.com/Casrime/todolist) (6 days ago)
-- [Upgrade Symfony version](https://github.com/Casrime/todolist/pull/15) on [Casrime/todolist](https://github.com/Casrime/todolist) (6 days ago)
-- [Upgrade to php 8.2](https://github.com/Casrime/todolist/pull/14) on [Casrime/todolist](https://github.com/Casrime/todolist) (6 days ago)
+- [Task delete - authorize delete for admin if task has no user](https://github.com/Casrime/todolist/pull/22) on [Casrime/todolist](https://github.com/Casrime/todolist) (3 days ago)
+- [Task fixtures - change task from admin to anonymous](https://github.com/Casrime/todolist/pull/21) on [Casrime/todolist](https://github.com/Casrime/todolist) (3 days ago)
+- [Base template - add check for admin](https://github.com/Casrime/todolist/pull/20) on [Casrime/todolist](https://github.com/Casrime/todolist) (3 days ago)
+- [Update Xdebug](https://github.com/Casrime/todolist/pull/19) on [Casrime/todolist](https://github.com/Casrime/todolist) (3 days ago)
+- [Blackfire recommendations](https://github.com/Casrime/todolist/pull/18) on [Casrime/todolist](https://github.com/Casrime/todolist) (3 days ago)
+- [Add editorconfig file](https://github.com/Casrime/todolist/pull/17) on [Casrime/todolist](https://github.com/Casrime/todolist) (6 days ago)
+- [Makefile - add commands](https://github.com/Casrime/todolist/pull/16) on [Casrime/todolist](https://github.com/Casrime/todolist) (1 week ago)
+- [Upgrade Symfony version](https://github.com/Casrime/todolist/pull/15) on [Casrime/todolist](https://github.com/Casrime/todolist) (1 week ago)
+- [Upgrade to php 8.2](https://github.com/Casrime/todolist/pull/14) on [Casrime/todolist](https://github.com/Casrime/todolist) (1 week ago)
 
 #### 📓 Gists I wrote
 
