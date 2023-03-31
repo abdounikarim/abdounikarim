@@ -36,6 +36,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Migrate to Bootstrap 5](https://github.com/Casrime/todolist/pull/24) on [Casrime/todolist](https://github.com/Casrime/todolist) (today)
+- [add CONTRIBUTING.md file](https://github.com/Casrime/todolist/pull/23) on [Casrime/todolist](https://github.com/Casrime/todolist) (today)
 - [Task delete - authorize delete for admin if task has no user](https://github.com/Casrime/todolist/pull/22) on [Casrime/todolist](https://github.com/Casrime/todolist) (4 days ago)
 - [Task fixtures - change task from admin to anonymous](https://github.com/Casrime/todolist/pull/21) on [Casrime/todolist](https://github.com/Casrime/todolist) (4 days ago)
 - [Base template - add check for admin](https://github.com/Casrime/todolist/pull/20) on [Casrime/todolist](https://github.com/Casrime/todolist) (4 days ago)
@@ -44,7 +46,6 @@
 - [Add editorconfig file](https://github.com/Casrime/todolist/pull/17) on [Casrime/todolist](https://github.com/Casrime/todolist) (1 week ago)
 - [Makefile - add commands](https://github.com/Casrime/todolist/pull/16) on [Casrime/todolist](https://github.com/Casrime/todolist) (1 week ago)
 - [Upgrade Symfony version](https://github.com/Casrime/todolist/pull/15) on [Casrime/todolist](https://github.com/Casrime/todolist) (1 week ago)
-- [Upgrade to php 8.2](https://github.com/Casrime/todolist/pull/14) on [Casrime/todolist](https://github.com/Casrime/todolist) (1 week ago)
 
 #### 📓 Gists I wrote
 
