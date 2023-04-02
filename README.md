@@ -32,17 +32,17 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v6.2.8](https://github.com/symfony/symfony/releases/tag/v6.2.8), 1 day ago) - The Symfony PHP framework
+- [symfony/symfony](https://github.com/symfony/symfony) ([v6.2.8](https://github.com/symfony/symfony/releases/tag/v6.2.8), 2 days ago) - The Symfony PHP framework
 
 #### 🔨 My recent Pull Requests
 
-- [Migrate to Bootstrap 5](https://github.com/Casrime/todolist/pull/24) on [Casrime/todolist](https://github.com/Casrime/todolist) (1 day ago)
-- [add CONTRIBUTING.md file](https://github.com/Casrime/todolist/pull/23) on [Casrime/todolist](https://github.com/Casrime/todolist) (1 day ago)
-- [Task delete - authorize delete for admin if task has no user](https://github.com/Casrime/todolist/pull/22) on [Casrime/todolist](https://github.com/Casrime/todolist) (5 days ago)
-- [Task fixtures - change task from admin to anonymous](https://github.com/Casrime/todolist/pull/21) on [Casrime/todolist](https://github.com/Casrime/todolist) (5 days ago)
-- [Base template - add check for admin](https://github.com/Casrime/todolist/pull/20) on [Casrime/todolist](https://github.com/Casrime/todolist) (5 days ago)
-- [Update Xdebug](https://github.com/Casrime/todolist/pull/19) on [Casrime/todolist](https://github.com/Casrime/todolist) (5 days ago)
-- [Blackfire recommendations](https://github.com/Casrime/todolist/pull/18) on [Casrime/todolist](https://github.com/Casrime/todolist) (5 days ago)
+- [Migrate to Bootstrap 5](https://github.com/Casrime/todolist/pull/24) on [Casrime/todolist](https://github.com/Casrime/todolist) (2 days ago)
+- [add CONTRIBUTING.md file](https://github.com/Casrime/todolist/pull/23) on [Casrime/todolist](https://github.com/Casrime/todolist) (2 days ago)
+- [Task delete - authorize delete for admin if task has no user](https://github.com/Casrime/todolist/pull/22) on [Casrime/todolist](https://github.com/Casrime/todolist) (6 days ago)
+- [Task fixtures - change task from admin to anonymous](https://github.com/Casrime/todolist/pull/21) on [Casrime/todolist](https://github.com/Casrime/todolist) (6 days ago)
+- [Base template - add check for admin](https://github.com/Casrime/todolist/pull/20) on [Casrime/todolist](https://github.com/Casrime/todolist) (6 days ago)
+- [Update Xdebug](https://github.com/Casrime/todolist/pull/19) on [Casrime/todolist](https://github.com/Casrime/todolist) (6 days ago)
+- [Blackfire recommendations](https://github.com/Casrime/todolist/pull/18) on [Casrime/todolist](https://github.com/Casrime/todolist) (6 days ago)
 - [Add editorconfig file](https://github.com/Casrime/todolist/pull/17) on [Casrime/todolist](https://github.com/Casrime/todolist) (1 week ago)
 - [Makefile - add commands](https://github.com/Casrime/todolist/pull/16) on [Casrime/todolist](https://github.com/Casrime/todolist) (1 week ago)
 - [Upgrade Symfony version](https://github.com/Casrime/todolist/pull/15) on [Casrime/todolist](https://github.com/Casrime/todolist) (1 week ago)
