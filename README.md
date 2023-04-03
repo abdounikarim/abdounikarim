@@ -9,7 +9,7 @@
 - [Casrime/blog](https://github.com/Casrime/blog) - OpenClassrooms - Projet 5 du parcours Développeur d&#39;Applications PHP / Symfony (2 weeks ago)
 - [Casrime/chalets-et-caviar](https://github.com/Casrime/chalets-et-caviar) - OpenClassrooms - Projet 2 du parcours Développeur d&#39;Applications PHP / Symfony (3 weeks ago)
 - [abdounikarim/web-and-mobile-app](https://github.com/abdounikarim/web-and-mobile-app) -  (2 months ago)
-- [Casrime/snowtricks](https://github.com/Casrime/snowtricks) - OpenClassrooms - Projet 6 du parcours Développeur d&#39;Applications PHP / Symfony (4 months ago)
+- [Casrime/snowtricks](https://github.com/Casrime/snowtricks) - OpenClassrooms - Projet 6 du parcours Développeur d&#39;Applications PHP / Symfony (5 months ago)
 - [Casrime/bilemo](https://github.com/Casrime/bilemo) - OpenClassrooms - Projet 7 du parcours Développeur d&#39;Applications PHP / Symfony (5 months ago)
 - [abdounikarim/macos](https://github.com/abdounikarim/macos) -  (5 months ago)
 - [knpuniversity/symfony-bundle](https://github.com/knpuniversity/symfony-bundle) - Screencast code, script and birthday presents behind the &#34;Creating a Reusable (&amp; Amazing) Symfony Bundle&#34; tutorial (5 months ago)
@@ -32,17 +32,17 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v6.2.8](https://github.com/symfony/symfony/releases/tag/v6.2.8), 2 days ago) - The Symfony PHP framework
+- [symfony/symfony](https://github.com/symfony/symfony) ([v6.2.8](https://github.com/symfony/symfony/releases/tag/v6.2.8), 3 days ago) - The Symfony PHP framework
 
 #### 🔨 My recent Pull Requests
 
-- [Migrate to Bootstrap 5](https://github.com/Casrime/todolist/pull/24) on [Casrime/todolist](https://github.com/Casrime/todolist) (2 days ago)
-- [add CONTRIBUTING.md file](https://github.com/Casrime/todolist/pull/23) on [Casrime/todolist](https://github.com/Casrime/todolist) (2 days ago)
-- [Task delete - authorize delete for admin if task has no user](https://github.com/Casrime/todolist/pull/22) on [Casrime/todolist](https://github.com/Casrime/todolist) (6 days ago)
-- [Task fixtures - change task from admin to anonymous](https://github.com/Casrime/todolist/pull/21) on [Casrime/todolist](https://github.com/Casrime/todolist) (6 days ago)
-- [Base template - add check for admin](https://github.com/Casrime/todolist/pull/20) on [Casrime/todolist](https://github.com/Casrime/todolist) (6 days ago)
-- [Update Xdebug](https://github.com/Casrime/todolist/pull/19) on [Casrime/todolist](https://github.com/Casrime/todolist) (6 days ago)
-- [Blackfire recommendations](https://github.com/Casrime/todolist/pull/18) on [Casrime/todolist](https://github.com/Casrime/todolist) (6 days ago)
+- [Migrate to Bootstrap 5](https://github.com/Casrime/todolist/pull/24) on [Casrime/todolist](https://github.com/Casrime/todolist) (3 days ago)
+- [add CONTRIBUTING.md file](https://github.com/Casrime/todolist/pull/23) on [Casrime/todolist](https://github.com/Casrime/todolist) (3 days ago)
+- [Task delete - authorize delete for admin if task has no user](https://github.com/Casrime/todolist/pull/22) on [Casrime/todolist](https://github.com/Casrime/todolist) (1 week ago)
+- [Task fixtures - change task from admin to anonymous](https://github.com/Casrime/todolist/pull/21) on [Casrime/todolist](https://github.com/Casrime/todolist) (1 week ago)
+- [Base template - add check for admin](https://github.com/Casrime/todolist/pull/20) on [Casrime/todolist](https://github.com/Casrime/todolist) (1 week ago)
+- [Update Xdebug](https://github.com/Casrime/todolist/pull/19) on [Casrime/todolist](https://github.com/Casrime/todolist) (1 week ago)
+- [Blackfire recommendations](https://github.com/Casrime/todolist/pull/18) on [Casrime/todolist](https://github.com/Casrime/todolist) (1 week ago)
 - [Add editorconfig file](https://github.com/Casrime/todolist/pull/17) on [Casrime/todolist](https://github.com/Casrime/todolist) (1 week ago)
 - [Makefile - add commands](https://github.com/Casrime/todolist/pull/16) on [Casrime/todolist](https://github.com/Casrime/todolist) (1 week ago)
 - [Upgrade Symfony version](https://github.com/Casrime/todolist/pull/15) on [Casrime/todolist](https://github.com/Casrime/todolist) (1 week ago)
@@ -53,7 +53,7 @@
 
 #### ⭐ Recent Stars
 
-- [drknzz/GitHub-Achievements](https://github.com/drknzz/GitHub-Achievements) - 🔥 A Complete List of GitHub Profile Badges and Achievements 🔥 (2 months ago)
+- [drknzz/GitHub-Achievements](https://github.com/drknzz/GitHub-Achievements) - 🔥 A Complete List of GitHub Profile Badges and Achievements 🔥 (3 months ago)
 - [philcook/brew-php-switcher](https://github.com/philcook/brew-php-switcher) - Brew PHP switcher is a simple shell script to switch your apache and CLI quickly between major versions of PHP. If you support multiple products/projects that are built using either brand new or old legacy PHP functionality. For users of Homebrew (or brew for short) currently only. (3 months ago)
 - [jobbsy-dev/jobbsy](https://github.com/jobbsy-dev/jobbsy) - Jobbsy - Job Board for Symfony (4 months ago)
 - [philipsharp/afieldguidetoelephpants](https://github.com/philipsharp/afieldguidetoelephpants) -  (5 months ago)
