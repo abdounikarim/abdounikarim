@@ -6,11 +6,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [Casrime/bilemo](https://github.com/Casrime/bilemo) - OpenClassrooms - Projet 7 du parcours Développeur d&#39;Applications PHP / Symfony (today)
 - [Casrime/blog](https://github.com/Casrime/blog) - OpenClassrooms - Projet 5 du parcours Développeur d&#39;Applications PHP / Symfony (2 weeks ago)
 - [Casrime/chalets-et-caviar](https://github.com/Casrime/chalets-et-caviar) - OpenClassrooms - Projet 2 du parcours Développeur d&#39;Applications PHP / Symfony (3 weeks ago)
 - [abdounikarim/web-and-mobile-app](https://github.com/abdounikarim/web-and-mobile-app) -  (2 months ago)
 - [Casrime/snowtricks](https://github.com/Casrime/snowtricks) - OpenClassrooms - Projet 6 du parcours Développeur d&#39;Applications PHP / Symfony (5 months ago)
-- [Casrime/bilemo](https://github.com/Casrime/bilemo) - OpenClassrooms - Projet 7 du parcours Développeur d&#39;Applications PHP / Symfony (5 months ago)
 - [abdounikarim/macos](https://github.com/abdounikarim/macos) -  (5 months ago)
 - [knpuniversity/symfony-bundle](https://github.com/knpuniversity/symfony-bundle) - Screencast code, script and birthday presents behind the &#34;Creating a Reusable (&amp; Amazing) Symfony Bundle&#34; tutorial (5 months ago)
 - [abdounikarim/lorem-ipsum-bundle](https://github.com/abdounikarim/lorem-ipsum-bundle) -  (5 months ago)
@@ -36,6 +36,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Update Makefile](https://github.com/Casrime/bilemo/pull/52) on [Casrime/bilemo](https://github.com/Casrime/bilemo) (today)
+- [Upgrade to Symfony 5.4](https://github.com/Casrime/bilemo/pull/50) on [Casrime/bilemo](https://github.com/Casrime/bilemo) (today)
 - [Migrate to Bootstrap 5](https://github.com/Casrime/todolist/pull/24) on [Casrime/todolist](https://github.com/Casrime/todolist) (4 days ago)
 - [add CONTRIBUTING.md file](https://github.com/Casrime/todolist/pull/23) on [Casrime/todolist](https://github.com/Casrime/todolist) (4 days ago)
 - [Task delete - authorize delete for admin if task has no user](https://github.com/Casrime/todolist/pull/22) on [Casrime/todolist](https://github.com/Casrime/todolist) (1 week ago)
@@ -44,8 +46,6 @@
 - [Update Xdebug](https://github.com/Casrime/todolist/pull/19) on [Casrime/todolist](https://github.com/Casrime/todolist) (1 week ago)
 - [Blackfire recommendations](https://github.com/Casrime/todolist/pull/18) on [Casrime/todolist](https://github.com/Casrime/todolist) (1 week ago)
 - [Add editorconfig file](https://github.com/Casrime/todolist/pull/17) on [Casrime/todolist](https://github.com/Casrime/todolist) (1 week ago)
-- [Makefile - add commands](https://github.com/Casrime/todolist/pull/16) on [Casrime/todolist](https://github.com/Casrime/todolist) (1 week ago)
-- [Upgrade Symfony version](https://github.com/Casrime/todolist/pull/15) on [Casrime/todolist](https://github.com/Casrime/todolist) (1 week ago)
 
 #### 📓 Gists I wrote
 
