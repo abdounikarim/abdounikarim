@@ -6,7 +6,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Casrime/bilemo](https://github.com/Casrime/bilemo) - OpenClassrooms - Projet 7 du parcours Développeur d&#39;Applications PHP / Symfony (3 days ago)
+- [Casrime/bilemo](https://github.com/Casrime/bilemo) - OpenClassrooms - Projet 7 du parcours Développeur d&#39;Applications PHP / Symfony (4 days ago)
 - [Casrime/blog](https://github.com/Casrime/blog) - OpenClassrooms - Projet 5 du parcours Développeur d&#39;Applications PHP / Symfony (3 weeks ago)
 - [Casrime/chalets-et-caviar](https://github.com/Casrime/chalets-et-caviar) - OpenClassrooms - Projet 2 du parcours Développeur d&#39;Applications PHP / Symfony (4 weeks ago)
 - [abdounikarim/web-and-mobile-app](https://github.com/abdounikarim/web-and-mobile-app) -  (2 months ago)
@@ -36,9 +36,9 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Upgrade to PHP 8.2](https://github.com/Casrime/bilemo/pull/54) on [Casrime/bilemo](https://github.com/Casrime/bilemo) (3 days ago)
-- [Update Makefile](https://github.com/Casrime/bilemo/pull/52) on [Casrime/bilemo](https://github.com/Casrime/bilemo) (3 days ago)
-- [Upgrade to Symfony 5.4](https://github.com/Casrime/bilemo/pull/50) on [Casrime/bilemo](https://github.com/Casrime/bilemo) (3 days ago)
+- [Upgrade to PHP 8.2](https://github.com/Casrime/bilemo/pull/54) on [Casrime/bilemo](https://github.com/Casrime/bilemo) (4 days ago)
+- [Update Makefile](https://github.com/Casrime/bilemo/pull/52) on [Casrime/bilemo](https://github.com/Casrime/bilemo) (4 days ago)
+- [Upgrade to Symfony 5.4](https://github.com/Casrime/bilemo/pull/50) on [Casrime/bilemo](https://github.com/Casrime/bilemo) (4 days ago)
 - [Migrate to Bootstrap 5](https://github.com/Casrime/todolist/pull/24) on [Casrime/todolist](https://github.com/Casrime/todolist) (1 week ago)
 - [add CONTRIBUTING.md file](https://github.com/Casrime/todolist/pull/23) on [Casrime/todolist](https://github.com/Casrime/todolist) (1 week ago)
 - [Task delete - authorize delete for admin if task has no user](https://github.com/Casrime/todolist/pull/22) on [Casrime/todolist](https://github.com/Casrime/todolist) (1 week ago)
