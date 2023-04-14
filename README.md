@@ -36,6 +36,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Docker - remove containers names](https://github.com/Casrime/todolist/pull/27) on [Casrime/todolist](https://github.com/Casrime/todolist) (today)
+- [Upgrade to PHP 5.4.22](https://github.com/Casrime/todolist/pull/26) on [Casrime/todolist](https://github.com/Casrime/todolist) (today)
 - [Correcting UML diagrams links](https://github.com/Casrime/todolist/pull/25) on [Casrime/todolist](https://github.com/Casrime/todolist) (today)
 - [Upgrade to PHP 8.2](https://github.com/Casrime/bilemo/pull/54) on [Casrime/bilemo](https://github.com/Casrime/bilemo) (1 week ago)
 - [Update Makefile](https://github.com/Casrime/bilemo/pull/52) on [Casrime/bilemo](https://github.com/Casrime/bilemo) (1 week ago)
@@ -44,8 +46,6 @@
 - [add CONTRIBUTING.md file](https://github.com/Casrime/todolist/pull/23) on [Casrime/todolist](https://github.com/Casrime/todolist) (2 weeks ago)
 - [Task delete - authorize delete for admin if task has no user](https://github.com/Casrime/todolist/pull/22) on [Casrime/todolist](https://github.com/Casrime/todolist) (2 weeks ago)
 - [Task fixtures - change task from admin to anonymous](https://github.com/Casrime/todolist/pull/21) on [Casrime/todolist](https://github.com/Casrime/todolist) (2 weeks ago)
-- [Base template - add check for admin](https://github.com/Casrime/todolist/pull/20) on [Casrime/todolist](https://github.com/Casrime/todolist) (2 weeks ago)
-- [Update Xdebug](https://github.com/Casrime/todolist/pull/19) on [Casrime/todolist](https://github.com/Casrime/todolist) (2 weeks ago)
 
 #### 📓 Gists I wrote
 
