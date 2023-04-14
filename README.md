@@ -36,16 +36,16 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Task validation](https://github.com/Casrime/todolist/pull/31) on [Casrime/todolist](https://github.com/Casrime/todolist) (today)
+- [Task validation](https://github.com/saro0h/projet8-TodoList/pull/35) on [saro0h/projet8-TodoList](https://github.com/saro0h/projet8-TodoList) (today)
+- [Cards design](https://github.com/Casrime/todolist/pull/30) on [Casrime/todolist](https://github.com/Casrime/todolist) (today)
+- [Update toggle task](https://github.com/Casrime/todolist/pull/29) on [Casrime/todolist](https://github.com/Casrime/todolist) (today)
+- [Tasks finished](https://github.com/Casrime/todolist/pull/28) on [Casrime/todolist](https://github.com/Casrime/todolist) (today)
 - [Docker - remove containers names](https://github.com/Casrime/todolist/pull/27) on [Casrime/todolist](https://github.com/Casrime/todolist) (today)
 - [Upgrade to PHP 5.4.22](https://github.com/Casrime/todolist/pull/26) on [Casrime/todolist](https://github.com/Casrime/todolist) (today)
 - [Correcting UML diagrams links](https://github.com/Casrime/todolist/pull/25) on [Casrime/todolist](https://github.com/Casrime/todolist) (today)
 - [Upgrade to PHP 8.2](https://github.com/Casrime/bilemo/pull/54) on [Casrime/bilemo](https://github.com/Casrime/bilemo) (1 week ago)
 - [Update Makefile](https://github.com/Casrime/bilemo/pull/52) on [Casrime/bilemo](https://github.com/Casrime/bilemo) (1 week ago)
-- [Upgrade to Symfony 5.4](https://github.com/Casrime/bilemo/pull/50) on [Casrime/bilemo](https://github.com/Casrime/bilemo) (1 week ago)
-- [Migrate to Bootstrap 5](https://github.com/Casrime/todolist/pull/24) on [Casrime/todolist](https://github.com/Casrime/todolist) (2 weeks ago)
-- [add CONTRIBUTING.md file](https://github.com/Casrime/todolist/pull/23) on [Casrime/todolist](https://github.com/Casrime/todolist) (2 weeks ago)
-- [Task delete - authorize delete for admin if task has no user](https://github.com/Casrime/todolist/pull/22) on [Casrime/todolist](https://github.com/Casrime/todolist) (2 weeks ago)
-- [Task fixtures - change task from admin to anonymous](https://github.com/Casrime/todolist/pull/21) on [Casrime/todolist](https://github.com/Casrime/todolist) (2 weeks ago)
 
 #### 📓 Gists I wrote
 
