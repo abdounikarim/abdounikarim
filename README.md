@@ -36,6 +36,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Task show](https://github.com/Casrime/todolist/pull/32) on [Casrime/todolist](https://github.com/Casrime/todolist) (today)
 - [Task validation](https://github.com/Casrime/todolist/pull/31) on [Casrime/todolist](https://github.com/Casrime/todolist) (today)
 - [Task validation](https://github.com/saro0h/projet8-TodoList/pull/35) on [saro0h/projet8-TodoList](https://github.com/saro0h/projet8-TodoList) (today)
 - [Cards design](https://github.com/Casrime/todolist/pull/30) on [Casrime/todolist](https://github.com/Casrime/todolist) (today)
@@ -45,7 +46,6 @@
 - [Upgrade to PHP 5.4.22](https://github.com/Casrime/todolist/pull/26) on [Casrime/todolist](https://github.com/Casrime/todolist) (today)
 - [Correcting UML diagrams links](https://github.com/Casrime/todolist/pull/25) on [Casrime/todolist](https://github.com/Casrime/todolist) (today)
 - [Upgrade to PHP 8.2](https://github.com/Casrime/bilemo/pull/54) on [Casrime/bilemo](https://github.com/Casrime/bilemo) (1 week ago)
-- [Update Makefile](https://github.com/Casrime/bilemo/pull/52) on [Casrime/bilemo](https://github.com/Casrime/bilemo) (1 week ago)
 
 #### 📓 Gists I wrote
 
