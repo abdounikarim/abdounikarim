@@ -36,6 +36,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Correcting UML diagrams links](https://github.com/Casrime/todolist/pull/25) on [Casrime/todolist](https://github.com/Casrime/todolist) (today)
 - [Upgrade to PHP 8.2](https://github.com/Casrime/bilemo/pull/54) on [Casrime/bilemo](https://github.com/Casrime/bilemo) (1 week ago)
 - [Update Makefile](https://github.com/Casrime/bilemo/pull/52) on [Casrime/bilemo](https://github.com/Casrime/bilemo) (1 week ago)
 - [Upgrade to Symfony 5.4](https://github.com/Casrime/bilemo/pull/50) on [Casrime/bilemo](https://github.com/Casrime/bilemo) (1 week ago)
@@ -45,7 +46,6 @@
 - [Task fixtures - change task from admin to anonymous](https://github.com/Casrime/todolist/pull/21) on [Casrime/todolist](https://github.com/Casrime/todolist) (2 weeks ago)
 - [Base template - add check for admin](https://github.com/Casrime/todolist/pull/20) on [Casrime/todolist](https://github.com/Casrime/todolist) (2 weeks ago)
 - [Update Xdebug](https://github.com/Casrime/todolist/pull/19) on [Casrime/todolist](https://github.com/Casrime/todolist) (2 weeks ago)
-- [Blackfire recommendations](https://github.com/Casrime/todolist/pull/18) on [Casrime/todolist](https://github.com/Casrime/todolist) (2 weeks ago)
 
 #### 📓 Gists I wrote
 
