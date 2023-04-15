@@ -32,20 +32,20 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v6.2.9](https://github.com/symfony/symfony/releases/tag/v6.2.9), 1 day ago) - The Symfony PHP framework
+- [symfony/symfony](https://github.com/symfony/symfony) ([v6.2.9](https://github.com/symfony/symfony/releases/tag/v6.2.9), 2 days ago) - The Symfony PHP framework
 
 #### 🔨 My recent Pull Requests
 
-- [Task delete redirect to task_list or task_finished](https://github.com/Casrime/todolist/pull/34) on [Casrime/todolist](https://github.com/Casrime/todolist) (today)
-- [Confirmation delete](https://github.com/Casrime/todolist/pull/33) on [Casrime/todolist](https://github.com/Casrime/todolist) (today)
-- [Task show](https://github.com/Casrime/todolist/pull/32) on [Casrime/todolist](https://github.com/Casrime/todolist) (today)
-- [Task validation](https://github.com/Casrime/todolist/pull/31) on [Casrime/todolist](https://github.com/Casrime/todolist) (today)
-- [Task validation](https://github.com/saro0h/projet8-TodoList/pull/35) on [saro0h/projet8-TodoList](https://github.com/saro0h/projet8-TodoList) (today)
-- [Cards design](https://github.com/Casrime/todolist/pull/30) on [Casrime/todolist](https://github.com/Casrime/todolist) (today)
-- [Update toggle task](https://github.com/Casrime/todolist/pull/29) on [Casrime/todolist](https://github.com/Casrime/todolist) (today)
-- [Tasks finished](https://github.com/Casrime/todolist/pull/28) on [Casrime/todolist](https://github.com/Casrime/todolist) (today)
-- [Docker - remove containers names](https://github.com/Casrime/todolist/pull/27) on [Casrime/todolist](https://github.com/Casrime/todolist) (today)
-- [Upgrade to PHP 5.4.22](https://github.com/Casrime/todolist/pull/26) on [Casrime/todolist](https://github.com/Casrime/todolist) (today)
+- [Task delete redirect to task_list or task_finished](https://github.com/Casrime/todolist/pull/34) on [Casrime/todolist](https://github.com/Casrime/todolist) (1 day ago)
+- [Confirmation delete](https://github.com/Casrime/todolist/pull/33) on [Casrime/todolist](https://github.com/Casrime/todolist) (1 day ago)
+- [Task show](https://github.com/Casrime/todolist/pull/32) on [Casrime/todolist](https://github.com/Casrime/todolist) (1 day ago)
+- [Task validation](https://github.com/Casrime/todolist/pull/31) on [Casrime/todolist](https://github.com/Casrime/todolist) (1 day ago)
+- [Task validation](https://github.com/saro0h/projet8-TodoList/pull/35) on [saro0h/projet8-TodoList](https://github.com/saro0h/projet8-TodoList) (1 day ago)
+- [Cards design](https://github.com/Casrime/todolist/pull/30) on [Casrime/todolist](https://github.com/Casrime/todolist) (1 day ago)
+- [Update toggle task](https://github.com/Casrime/todolist/pull/29) on [Casrime/todolist](https://github.com/Casrime/todolist) (1 day ago)
+- [Tasks finished](https://github.com/Casrime/todolist/pull/28) on [Casrime/todolist](https://github.com/Casrime/todolist) (1 day ago)
+- [Docker - remove containers names](https://github.com/Casrime/todolist/pull/27) on [Casrime/todolist](https://github.com/Casrime/todolist) (1 day ago)
+- [Upgrade to PHP 5.4.22](https://github.com/Casrime/todolist/pull/26) on [Casrime/todolist](https://github.com/Casrime/todolist) (1 day ago)
 
 #### 📓 Gists I wrote
 
