@@ -32,20 +32,20 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v6.2.9](https://github.com/symfony/symfony/releases/tag/v6.2.9), 2 days ago) - The Symfony PHP framework
+- [symfony/symfony](https://github.com/symfony/symfony) ([v6.2.9](https://github.com/symfony/symfony/releases/tag/v6.2.9), 3 days ago) - The Symfony PHP framework
 
 #### 🔨 My recent Pull Requests
 
-- [Task delete redirect to task_list or task_finished](https://github.com/Casrime/todolist/pull/34) on [Casrime/todolist](https://github.com/Casrime/todolist) (1 day ago)
-- [Confirmation delete](https://github.com/Casrime/todolist/pull/33) on [Casrime/todolist](https://github.com/Casrime/todolist) (1 day ago)
-- [Task show](https://github.com/Casrime/todolist/pull/32) on [Casrime/todolist](https://github.com/Casrime/todolist) (1 day ago)
-- [Task validation](https://github.com/Casrime/todolist/pull/31) on [Casrime/todolist](https://github.com/Casrime/todolist) (1 day ago)
-- [Task validation](https://github.com/saro0h/projet8-TodoList/pull/35) on [saro0h/projet8-TodoList](https://github.com/saro0h/projet8-TodoList) (1 day ago)
-- [Cards design](https://github.com/Casrime/todolist/pull/30) on [Casrime/todolist](https://github.com/Casrime/todolist) (1 day ago)
-- [Update toggle task](https://github.com/Casrime/todolist/pull/29) on [Casrime/todolist](https://github.com/Casrime/todolist) (1 day ago)
-- [Tasks finished](https://github.com/Casrime/todolist/pull/28) on [Casrime/todolist](https://github.com/Casrime/todolist) (1 day ago)
-- [Docker - remove containers names](https://github.com/Casrime/todolist/pull/27) on [Casrime/todolist](https://github.com/Casrime/todolist) (1 day ago)
-- [Upgrade to PHP 5.4.22](https://github.com/Casrime/todolist/pull/26) on [Casrime/todolist](https://github.com/Casrime/todolist) (1 day ago)
+- [Task delete redirect to task_list or task_finished](https://github.com/Casrime/todolist/pull/34) on [Casrime/todolist](https://github.com/Casrime/todolist) (2 days ago)
+- [Confirmation delete](https://github.com/Casrime/todolist/pull/33) on [Casrime/todolist](https://github.com/Casrime/todolist) (2 days ago)
+- [Task show](https://github.com/Casrime/todolist/pull/32) on [Casrime/todolist](https://github.com/Casrime/todolist) (2 days ago)
+- [Task validation](https://github.com/Casrime/todolist/pull/31) on [Casrime/todolist](https://github.com/Casrime/todolist) (2 days ago)
+- [Task validation](https://github.com/saro0h/projet8-TodoList/pull/35) on [saro0h/projet8-TodoList](https://github.com/saro0h/projet8-TodoList) (2 days ago)
+- [Cards design](https://github.com/Casrime/todolist/pull/30) on [Casrime/todolist](https://github.com/Casrime/todolist) (2 days ago)
+- [Update toggle task](https://github.com/Casrime/todolist/pull/29) on [Casrime/todolist](https://github.com/Casrime/todolist) (2 days ago)
+- [Tasks finished](https://github.com/Casrime/todolist/pull/28) on [Casrime/todolist](https://github.com/Casrime/todolist) (2 days ago)
+- [Docker - remove containers names](https://github.com/Casrime/todolist/pull/27) on [Casrime/todolist](https://github.com/Casrime/todolist) (2 days ago)
+- [Upgrade to PHP 5.4.22](https://github.com/Casrime/todolist/pull/26) on [Casrime/todolist](https://github.com/Casrime/todolist) (2 days ago)
 
 #### 📓 Gists I wrote
 
@@ -55,7 +55,7 @@
 
 - [drknzz/GitHub-Achievements](https://github.com/drknzz/GitHub-Achievements) - 🔥 A Complete List of GitHub Profile Badges and Achievements 🔥 (3 months ago)
 - [philcook/brew-php-switcher](https://github.com/philcook/brew-php-switcher) - Brew PHP switcher is a simple shell script to switch your apache and CLI quickly between major versions of PHP. If you support multiple products/projects that are built using either brand new or old legacy PHP functionality. For users of Homebrew (or brew for short) currently only. (3 months ago)
-- [jobbsy-dev/jobbsy](https://github.com/jobbsy-dev/jobbsy) - Jobbsy - Job Board for Symfony (4 months ago)
+- [jobbsy-dev/jobbsy](https://github.com/jobbsy-dev/jobbsy) - Jobbsy - Job Board for Symfony (5 months ago)
 - [philipsharp/afieldguidetoelephpants](https://github.com/philipsharp/afieldguidetoelephpants) -  (6 months ago)
 - [symfony/monolog-bundle](https://github.com/symfony/monolog-bundle) - Symfony Monolog Bundle (6 months ago)
 - [symfony/webpack-encore-bundle](https://github.com/symfony/webpack-encore-bundle) - Symfony integration with Webpack Encore! (6 months ago)
