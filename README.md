@@ -36,6 +36,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Remove twigcs and replace by twig-cs-fixer](https://github.com/Casrime/todolist/pull/36) on [Casrime/todolist](https://github.com/Casrime/todolist) (today)
+- [Category](https://github.com/Casrime/todolist/pull/35) on [Casrime/todolist](https://github.com/Casrime/todolist) (today)
 - [Task delete redirect to task_list or task_finished](https://github.com/Casrime/todolist/pull/34) on [Casrime/todolist](https://github.com/Casrime/todolist) (3 days ago)
 - [Confirmation delete](https://github.com/Casrime/todolist/pull/33) on [Casrime/todolist](https://github.com/Casrime/todolist) (3 days ago)
 - [Task show](https://github.com/Casrime/todolist/pull/32) on [Casrime/todolist](https://github.com/Casrime/todolist) (3 days ago)
@@ -44,8 +46,6 @@
 - [Cards design](https://github.com/Casrime/todolist/pull/30) on [Casrime/todolist](https://github.com/Casrime/todolist) (3 days ago)
 - [Update toggle task](https://github.com/Casrime/todolist/pull/29) on [Casrime/todolist](https://github.com/Casrime/todolist) (3 days ago)
 - [Tasks finished](https://github.com/Casrime/todolist/pull/28) on [Casrime/todolist](https://github.com/Casrime/todolist) (3 days ago)
-- [Docker - remove containers names](https://github.com/Casrime/todolist/pull/27) on [Casrime/todolist](https://github.com/Casrime/todolist) (3 days ago)
-- [Upgrade to PHP 5.4.22](https://github.com/Casrime/todolist/pull/26) on [Casrime/todolist](https://github.com/Casrime/todolist) (3 days ago)
 
 #### 📓 Gists I wrote
 
