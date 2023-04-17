@@ -36,6 +36,9 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Correcting tests](https://github.com/Casrime/todolist/pull/40) on [Casrime/todolist](https://github.com/Casrime/todolist) (today)
+- [Correcting tests](https://github.com/saro0h/projet8-TodoList/pull/36) on [saro0h/projet8-TodoList](https://github.com/saro0h/projet8-TodoList) (today)
+- [Validation](https://github.com/Casrime/todolist/pull/39) on [Casrime/todolist](https://github.com/Casrime/todolist) (today)
 - [Update fixtures](https://github.com/Casrime/todolist/pull/38) on [Casrime/todolist](https://github.com/Casrime/todolist) (today)
 - [Translation](https://github.com/Casrime/todolist/pull/37) on [Casrime/todolist](https://github.com/Casrime/todolist) (today)
 - [Remove twigcs and replace by twig-cs-fixer](https://github.com/Casrime/todolist/pull/36) on [Casrime/todolist](https://github.com/Casrime/todolist) (today)
@@ -43,9 +46,6 @@
 - [Task delete redirect to task_list or task_finished](https://github.com/Casrime/todolist/pull/34) on [Casrime/todolist](https://github.com/Casrime/todolist) (3 days ago)
 - [Confirmation delete](https://github.com/Casrime/todolist/pull/33) on [Casrime/todolist](https://github.com/Casrime/todolist) (3 days ago)
 - [Task show](https://github.com/Casrime/todolist/pull/32) on [Casrime/todolist](https://github.com/Casrime/todolist) (3 days ago)
-- [Task validation](https://github.com/Casrime/todolist/pull/31) on [Casrime/todolist](https://github.com/Casrime/todolist) (3 days ago)
-- [Task validation](https://github.com/saro0h/projet8-TodoList/pull/35) on [saro0h/projet8-TodoList](https://github.com/saro0h/projet8-TodoList) (3 days ago)
-- [Cards design](https://github.com/Casrime/todolist/pull/30) on [Casrime/todolist](https://github.com/Casrime/todolist) (3 days ago)
 
 #### 📓 Gists I wrote
 
