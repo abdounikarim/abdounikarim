@@ -6,7 +6,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Casrime/bilemo](https://github.com/Casrime/bilemo) - OpenClassrooms - Projet 7 du parcours Développeur d&#39;Applications PHP / Symfony (today)
+- [Casrime/bilemo](https://github.com/Casrime/bilemo) - OpenClassrooms - Projet 7 du parcours Développeur d&#39;Applications PHP / Symfony (1 day ago)
 - [Casrime/blog](https://github.com/Casrime/blog) - OpenClassrooms - Projet 5 du parcours Développeur d&#39;Applications PHP / Symfony (1 month ago)
 - [Casrime/chalets-et-caviar](https://github.com/Casrime/chalets-et-caviar) - OpenClassrooms - Projet 2 du parcours Développeur d&#39;Applications PHP / Symfony (1 month ago)
 - [abdounikarim/web-and-mobile-app](https://github.com/abdounikarim/web-and-mobile-app) -  (2 months ago)
@@ -32,20 +32,20 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v6.2.9](https://github.com/symfony/symfony/releases/tag/v6.2.9), 4 days ago) - The Symfony PHP framework
+- [symfony/symfony](https://github.com/symfony/symfony) ([v6.2.9](https://github.com/symfony/symfony/releases/tag/v6.2.9), 5 days ago) - The Symfony PHP framework
 
 #### 🔨 My recent Pull Requests
 
-- [Correcting tests](https://github.com/Casrime/todolist/pull/40) on [Casrime/todolist](https://github.com/Casrime/todolist) (today)
-- [Correcting tests](https://github.com/saro0h/projet8-TodoList/pull/36) on [saro0h/projet8-TodoList](https://github.com/saro0h/projet8-TodoList) (today)
-- [Validation](https://github.com/Casrime/todolist/pull/39) on [Casrime/todolist](https://github.com/Casrime/todolist) (today)
-- [Update fixtures](https://github.com/Casrime/todolist/pull/38) on [Casrime/todolist](https://github.com/Casrime/todolist) (today)
-- [Translation](https://github.com/Casrime/todolist/pull/37) on [Casrime/todolist](https://github.com/Casrime/todolist) (today)
-- [Remove twigcs and replace by twig-cs-fixer](https://github.com/Casrime/todolist/pull/36) on [Casrime/todolist](https://github.com/Casrime/todolist) (today)
-- [Category](https://github.com/Casrime/todolist/pull/35) on [Casrime/todolist](https://github.com/Casrime/todolist) (today)
-- [Task delete redirect to task_list or task_finished](https://github.com/Casrime/todolist/pull/34) on [Casrime/todolist](https://github.com/Casrime/todolist) (3 days ago)
-- [Confirmation delete](https://github.com/Casrime/todolist/pull/33) on [Casrime/todolist](https://github.com/Casrime/todolist) (3 days ago)
-- [Task show](https://github.com/Casrime/todolist/pull/32) on [Casrime/todolist](https://github.com/Casrime/todolist) (3 days ago)
+- [Correcting tests](https://github.com/Casrime/todolist/pull/40) on [Casrime/todolist](https://github.com/Casrime/todolist) (1 day ago)
+- [Correcting tests](https://github.com/saro0h/projet8-TodoList/pull/36) on [saro0h/projet8-TodoList](https://github.com/saro0h/projet8-TodoList) (1 day ago)
+- [Validation](https://github.com/Casrime/todolist/pull/39) on [Casrime/todolist](https://github.com/Casrime/todolist) (1 day ago)
+- [Update fixtures](https://github.com/Casrime/todolist/pull/38) on [Casrime/todolist](https://github.com/Casrime/todolist) (1 day ago)
+- [Translation](https://github.com/Casrime/todolist/pull/37) on [Casrime/todolist](https://github.com/Casrime/todolist) (1 day ago)
+- [Remove twigcs and replace by twig-cs-fixer](https://github.com/Casrime/todolist/pull/36) on [Casrime/todolist](https://github.com/Casrime/todolist) (1 day ago)
+- [Category](https://github.com/Casrime/todolist/pull/35) on [Casrime/todolist](https://github.com/Casrime/todolist) (1 day ago)
+- [Task delete redirect to task_list or task_finished](https://github.com/Casrime/todolist/pull/34) on [Casrime/todolist](https://github.com/Casrime/todolist) (4 days ago)
+- [Confirmation delete](https://github.com/Casrime/todolist/pull/33) on [Casrime/todolist](https://github.com/Casrime/todolist) (4 days ago)
+- [Task show](https://github.com/Casrime/todolist/pull/32) on [Casrime/todolist](https://github.com/Casrime/todolist) (4 days ago)
 
 #### 📓 Gists I wrote
 
