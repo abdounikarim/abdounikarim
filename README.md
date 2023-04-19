@@ -6,7 +6,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Casrime/bilemo](https://github.com/Casrime/bilemo) - OpenClassrooms - Projet 7 du parcours Développeur d&#39;Applications PHP / Symfony (today)
+- [Casrime/bilemo](https://github.com/Casrime/bilemo) - OpenClassrooms - Projet 7 du parcours Développeur d&#39;Applications PHP / Symfony (1 day ago)
 - [Casrime/blog](https://github.com/Casrime/blog) - OpenClassrooms - Projet 5 du parcours Développeur d&#39;Applications PHP / Symfony (1 month ago)
 - [Casrime/chalets-et-caviar](https://github.com/Casrime/chalets-et-caviar) - OpenClassrooms - Projet 2 du parcours Développeur d&#39;Applications PHP / Symfony (1 month ago)
 - [abdounikarim/web-and-mobile-app](https://github.com/abdounikarim/web-and-mobile-app) -  (2 months ago)
@@ -15,7 +15,7 @@
 - [knpuniversity/symfony-bundle](https://github.com/knpuniversity/symfony-bundle) - Screencast code, script and birthday presents behind the &#34;Creating a Reusable (&amp; Amazing) Symfony Bundle&#34; tutorial (6 months ago)
 - [abdounikarim/lorem-ipsum-bundle](https://github.com/abdounikarim/lorem-ipsum-bundle) -  (6 months ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (9 months ago)
-- [box-project/homebrew-box](https://github.com/box-project/homebrew-box) -  (9 months ago)
+- [box-project/homebrew-box](https://github.com/box-project/homebrew-box) -  (10 months ago)
 
 #### 🌱 My latest projects
 
@@ -32,20 +32,20 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v6.2.9](https://github.com/symfony/symfony/releases/tag/v6.2.9), 5 days ago) - The Symfony PHP framework
+- [symfony/symfony](https://github.com/symfony/symfony) ([v6.2.9](https://github.com/symfony/symfony/releases/tag/v6.2.9), 6 days ago) - The Symfony PHP framework
 
 #### 🔨 My recent Pull Requests
 
-- [PHP CS Fixer - PHPStan and Rector - upgrade code](https://github.com/Casrime/bilemo/pull/57) on [Casrime/bilemo](https://github.com/Casrime/bilemo) (today)
-- [Add symfony insight configuration](https://github.com/Casrime/bilemo/pull/55) on [Casrime/bilemo](https://github.com/Casrime/bilemo) (today)
-- [Correcting tests](https://github.com/Casrime/todolist/pull/40) on [Casrime/todolist](https://github.com/Casrime/todolist) (1 day ago)
-- [Correcting tests](https://github.com/saro0h/projet8-TodoList/pull/36) on [saro0h/projet8-TodoList](https://github.com/saro0h/projet8-TodoList) (1 day ago)
-- [Validation](https://github.com/Casrime/todolist/pull/39) on [Casrime/todolist](https://github.com/Casrime/todolist) (1 day ago)
-- [Update fixtures](https://github.com/Casrime/todolist/pull/38) on [Casrime/todolist](https://github.com/Casrime/todolist) (1 day ago)
-- [Translation](https://github.com/Casrime/todolist/pull/37) on [Casrime/todolist](https://github.com/Casrime/todolist) (1 day ago)
-- [Remove twigcs and replace by twig-cs-fixer](https://github.com/Casrime/todolist/pull/36) on [Casrime/todolist](https://github.com/Casrime/todolist) (1 day ago)
-- [Category](https://github.com/Casrime/todolist/pull/35) on [Casrime/todolist](https://github.com/Casrime/todolist) (1 day ago)
-- [Task delete redirect to task_list or task_finished](https://github.com/Casrime/todolist/pull/34) on [Casrime/todolist](https://github.com/Casrime/todolist) (4 days ago)
+- [PHP CS Fixer - PHPStan and Rector - upgrade code](https://github.com/Casrime/bilemo/pull/57) on [Casrime/bilemo](https://github.com/Casrime/bilemo) (1 day ago)
+- [Add symfony insight configuration](https://github.com/Casrime/bilemo/pull/55) on [Casrime/bilemo](https://github.com/Casrime/bilemo) (1 day ago)
+- [Correcting tests](https://github.com/Casrime/todolist/pull/40) on [Casrime/todolist](https://github.com/Casrime/todolist) (2 days ago)
+- [Correcting tests](https://github.com/saro0h/projet8-TodoList/pull/36) on [saro0h/projet8-TodoList](https://github.com/saro0h/projet8-TodoList) (2 days ago)
+- [Validation](https://github.com/Casrime/todolist/pull/39) on [Casrime/todolist](https://github.com/Casrime/todolist) (2 days ago)
+- [Update fixtures](https://github.com/Casrime/todolist/pull/38) on [Casrime/todolist](https://github.com/Casrime/todolist) (2 days ago)
+- [Translation](https://github.com/Casrime/todolist/pull/37) on [Casrime/todolist](https://github.com/Casrime/todolist) (2 days ago)
+- [Remove twigcs and replace by twig-cs-fixer](https://github.com/Casrime/todolist/pull/36) on [Casrime/todolist](https://github.com/Casrime/todolist) (2 days ago)
+- [Category](https://github.com/Casrime/todolist/pull/35) on [Casrime/todolist](https://github.com/Casrime/todolist) (2 days ago)
+- [Task delete redirect to task_list or task_finished](https://github.com/Casrime/todolist/pull/34) on [Casrime/todolist](https://github.com/Casrime/todolist) (5 days ago)
 
 #### 📓 Gists I wrote
 
