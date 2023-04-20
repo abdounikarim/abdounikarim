@@ -36,6 +36,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix Github CI](https://github.com/Casrime/todolist/pull/41) on [Casrime/todolist](https://github.com/Casrime/todolist) (today)
 - [Update Readme](https://github.com/Casrime/bilemo/pull/62) on [Casrime/bilemo](https://github.com/Casrime/bilemo) (today)
 - [Makefile commands](https://github.com/Casrime/bilemo/pull/61) on [Casrime/bilemo](https://github.com/Casrime/bilemo) (today)
 - [UML](https://github.com/Casrime/bilemo/pull/59) on [Casrime/bilemo](https://github.com/Casrime/bilemo) (today)
@@ -45,7 +46,6 @@
 - [Correcting tests](https://github.com/saro0h/projet8-TodoList/pull/36) on [saro0h/projet8-TodoList](https://github.com/saro0h/projet8-TodoList) (3 days ago)
 - [Validation](https://github.com/Casrime/todolist/pull/39) on [Casrime/todolist](https://github.com/Casrime/todolist) (3 days ago)
 - [Update fixtures](https://github.com/Casrime/todolist/pull/38) on [Casrime/todolist](https://github.com/Casrime/todolist) (3 days ago)
-- [Translation](https://github.com/Casrime/todolist/pull/37) on [Casrime/todolist](https://github.com/Casrime/todolist) (3 days ago)
 
 #### 📓 Gists I wrote
 
