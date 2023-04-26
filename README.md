@@ -6,7 +6,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Casrime/bilemo](https://github.com/Casrime/bilemo) - OpenClassrooms - Projet 7 du parcours Développeur d&#39;Applications PHP / Symfony (5 days ago)
+- [Casrime/bilemo](https://github.com/Casrime/bilemo) - OpenClassrooms - Projet 7 du parcours Développeur d&#39;Applications PHP / Symfony (6 days ago)
 - [Casrime/blog](https://github.com/Casrime/blog) - OpenClassrooms - Projet 5 du parcours Développeur d&#39;Applications PHP / Symfony (1 month ago)
 - [Casrime/chalets-et-caviar](https://github.com/Casrime/chalets-et-caviar) - OpenClassrooms - Projet 2 du parcours Développeur d&#39;Applications PHP / Symfony (1 month ago)
 - [abdounikarim/web-and-mobile-app](https://github.com/abdounikarim/web-and-mobile-app) -  (2 months ago)
@@ -36,10 +36,10 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Fix Github CI](https://github.com/Casrime/todolist/pull/41) on [Casrime/todolist](https://github.com/Casrime/todolist) (5 days ago)
-- [Update Readme](https://github.com/Casrime/bilemo/pull/62) on [Casrime/bilemo](https://github.com/Casrime/bilemo) (5 days ago)
-- [Makefile commands](https://github.com/Casrime/bilemo/pull/61) on [Casrime/bilemo](https://github.com/Casrime/bilemo) (5 days ago)
-- [UML](https://github.com/Casrime/bilemo/pull/59) on [Casrime/bilemo](https://github.com/Casrime/bilemo) (5 days ago)
+- [Fix Github CI](https://github.com/Casrime/todolist/pull/41) on [Casrime/todolist](https://github.com/Casrime/todolist) (6 days ago)
+- [Update Readme](https://github.com/Casrime/bilemo/pull/62) on [Casrime/bilemo](https://github.com/Casrime/bilemo) (6 days ago)
+- [Makefile commands](https://github.com/Casrime/bilemo/pull/61) on [Casrime/bilemo](https://github.com/Casrime/bilemo) (6 days ago)
+- [UML](https://github.com/Casrime/bilemo/pull/59) on [Casrime/bilemo](https://github.com/Casrime/bilemo) (6 days ago)
 - [PHP CS Fixer - PHPStan and Rector - upgrade code](https://github.com/Casrime/bilemo/pull/57) on [Casrime/bilemo](https://github.com/Casrime/bilemo) (1 week ago)
 - [Add symfony insight configuration](https://github.com/Casrime/bilemo/pull/55) on [Casrime/bilemo](https://github.com/Casrime/bilemo) (1 week ago)
 - [Correcting tests](https://github.com/Casrime/todolist/pull/40) on [Casrime/todolist](https://github.com/Casrime/todolist) (1 week ago)
