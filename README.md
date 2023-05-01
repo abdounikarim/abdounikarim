@@ -9,12 +9,12 @@
 - [Casrime/bilemo](https://github.com/Casrime/bilemo) - OpenClassrooms - Projet 7 du parcours Développeur d&#39;Applications PHP / Symfony (1 week ago)
 - [Casrime/blog](https://github.com/Casrime/blog) - OpenClassrooms - Projet 5 du parcours Développeur d&#39;Applications PHP / Symfony (1 month ago)
 - [Casrime/chalets-et-caviar](https://github.com/Casrime/chalets-et-caviar) - OpenClassrooms - Projet 2 du parcours Développeur d&#39;Applications PHP / Symfony (1 month ago)
-- [abdounikarim/web-and-mobile-app](https://github.com/abdounikarim/web-and-mobile-app) -  (2 months ago)
+- [abdounikarim/web-and-mobile-app](https://github.com/abdounikarim/web-and-mobile-app) -  (3 months ago)
 - [Casrime/snowtricks](https://github.com/Casrime/snowtricks) - OpenClassrooms - Projet 6 du parcours Développeur d&#39;Applications PHP / Symfony (5 months ago)
 - [abdounikarim/macos](https://github.com/abdounikarim/macos) -  (6 months ago)
 - [knpuniversity/symfony-bundle](https://github.com/knpuniversity/symfony-bundle) - Screencast code, script and birthday presents behind the &#34;Creating a Reusable (&amp; Amazing) Symfony Bundle&#34; tutorial (6 months ago)
 - [abdounikarim/lorem-ipsum-bundle](https://github.com/abdounikarim/lorem-ipsum-bundle) -  (6 months ago)
-- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (9 months ago)
+- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (10 months ago)
 - [box-project/homebrew-box](https://github.com/box-project/homebrew-box) -  (10 months ago)
 
 #### 🌱 My latest projects
@@ -32,7 +32,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v6.2.10](https://github.com/symfony/symfony/releases/tag/v6.2.10), 2 days ago) - The Symfony PHP framework
+- [symfony/symfony](https://github.com/symfony/symfony) ([v6.2.10](https://github.com/symfony/symfony/releases/tag/v6.2.10), 3 days ago) - The Symfony PHP framework
 
 #### 🔨 My recent Pull Requests
 
@@ -42,10 +42,10 @@
 - [UML](https://github.com/Casrime/bilemo/pull/59) on [Casrime/bilemo](https://github.com/Casrime/bilemo) (1 week ago)
 - [PHP CS Fixer - PHPStan and Rector - upgrade code](https://github.com/Casrime/bilemo/pull/57) on [Casrime/bilemo](https://github.com/Casrime/bilemo) (1 week ago)
 - [Add symfony insight configuration](https://github.com/Casrime/bilemo/pull/55) on [Casrime/bilemo](https://github.com/Casrime/bilemo) (1 week ago)
-- [Correcting tests](https://github.com/Casrime/todolist/pull/40) on [Casrime/todolist](https://github.com/Casrime/todolist) (1 week ago)
-- [Correcting tests](https://github.com/saro0h/projet8-TodoList/pull/36) on [saro0h/projet8-TodoList](https://github.com/saro0h/projet8-TodoList) (1 week ago)
-- [Validation](https://github.com/Casrime/todolist/pull/39) on [Casrime/todolist](https://github.com/Casrime/todolist) (1 week ago)
-- [Update fixtures](https://github.com/Casrime/todolist/pull/38) on [Casrime/todolist](https://github.com/Casrime/todolist) (1 week ago)
+- [Correcting tests](https://github.com/Casrime/todolist/pull/40) on [Casrime/todolist](https://github.com/Casrime/todolist) (2 weeks ago)
+- [Correcting tests](https://github.com/saro0h/projet8-TodoList/pull/36) on [saro0h/projet8-TodoList](https://github.com/saro0h/projet8-TodoList) (2 weeks ago)
+- [Validation](https://github.com/Casrime/todolist/pull/39) on [Casrime/todolist](https://github.com/Casrime/todolist) (2 weeks ago)
+- [Update fixtures](https://github.com/Casrime/todolist/pull/38) on [Casrime/todolist](https://github.com/Casrime/todolist) (2 weeks ago)
 
 #### 📓 Gists I wrote
 
