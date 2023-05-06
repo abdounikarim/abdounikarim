@@ -32,7 +32,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v6.3.0-BETA1](https://github.com/symfony/symfony/releases/tag/v6.3.0-BETA1), 4 days ago) - The Symfony PHP framework
+- [symfony/symfony](https://github.com/symfony/symfony) ([v6.3.0-BETA1](https://github.com/symfony/symfony/releases/tag/v6.3.0-BETA1), 5 days ago) - The Symfony PHP framework
 
 #### 🔨 My recent Pull Requests
 
