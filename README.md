@@ -13,7 +13,7 @@
 - [Casrime/snowtricks](https://github.com/Casrime/snowtricks) - OpenClassrooms - Projet 6 du parcours Développeur d&#39;Applications PHP / Symfony (6 months ago)
 - [abdounikarim/macos](https://github.com/abdounikarim/macos) -  (6 months ago)
 - [knpuniversity/symfony-bundle](https://github.com/knpuniversity/symfony-bundle) - Screencast code, script and birthday presents behind the &#34;Creating a Reusable (&amp; Amazing) Symfony Bundle&#34; tutorial (6 months ago)
-- [abdounikarim/lorem-ipsum-bundle](https://github.com/abdounikarim/lorem-ipsum-bundle) -  (6 months ago)
+- [abdounikarim/lorem-ipsum-bundle](https://github.com/abdounikarim/lorem-ipsum-bundle) -  (7 months ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (10 months ago)
 - [box-project/homebrew-box](https://github.com/box-project/homebrew-box) -  (10 months ago)
 
@@ -32,7 +32,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v6.3.0-BETA2](https://github.com/symfony/symfony/releases/tag/v6.3.0-BETA2), 2 days ago) - The Symfony PHP framework
+- [symfony/symfony](https://github.com/symfony/symfony) ([v6.3.0-BETA2](https://github.com/symfony/symfony/releases/tag/v6.3.0-BETA2), 3 days ago) - The Symfony PHP framework
 
 #### 🔨 My recent Pull Requests
 
