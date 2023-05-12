@@ -32,7 +32,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v6.3.0-BETA2](https://github.com/symfony/symfony/releases/tag/v6.3.0-BETA2), 4 days ago) - The Symfony PHP framework
+- [symfony/symfony](https://github.com/symfony/symfony) ([v6.3.0-BETA2](https://github.com/symfony/symfony/releases/tag/v6.3.0-BETA2), 5 days ago) - The Symfony PHP framework
 
 #### 🔨 My recent Pull Requests
 
@@ -62,7 +62,7 @@
 - [symfony/flex](https://github.com/symfony/flex) - Composer plugin for Symfony (7 months ago)
 - [symfony/panther](https://github.com/symfony/panther) - A browser testing and web crawling library for PHP and Symfony (7 months ago)
 - [symfony/recipes](https://github.com/symfony/recipes) - Symfony Recipes Repository (7 months ago)
-- [abdounikarim/prepare-certification](https://github.com/abdounikarim/prepare-certification) -  (10 months ago)
+- [abdounikarim/prepare-certification](https://github.com/abdounikarim/prepare-certification) -  (11 months ago)
 
 #### 👯 Check out some of my recent followers
 
