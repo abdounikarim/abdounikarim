@@ -32,7 +32,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v6.3.0-BETA3](https://github.com/symfony/symfony/releases/tag/v6.3.0-BETA3), 2 days ago) - The Symfony PHP framework
+- [symfony/symfony](https://github.com/symfony/symfony) ([v6.3.0-BETA3](https://github.com/symfony/symfony/releases/tag/v6.3.0-BETA3), 3 days ago) - The Symfony PHP framework
 
 #### 🔨 My recent Pull Requests
 
@@ -40,8 +40,8 @@
 - [Update Readme](https://github.com/Casrime/bilemo/pull/62) on [Casrime/bilemo](https://github.com/Casrime/bilemo) (3 weeks ago)
 - [Makefile commands](https://github.com/Casrime/bilemo/pull/61) on [Casrime/bilemo](https://github.com/Casrime/bilemo) (3 weeks ago)
 - [UML](https://github.com/Casrime/bilemo/pull/59) on [Casrime/bilemo](https://github.com/Casrime/bilemo) (3 weeks ago)
-- [PHP CS Fixer - PHPStan and Rector - upgrade code](https://github.com/Casrime/bilemo/pull/57) on [Casrime/bilemo](https://github.com/Casrime/bilemo) (3 weeks ago)
-- [Add symfony insight configuration](https://github.com/Casrime/bilemo/pull/55) on [Casrime/bilemo](https://github.com/Casrime/bilemo) (3 weeks ago)
+- [PHP CS Fixer - PHPStan and Rector - upgrade code](https://github.com/Casrime/bilemo/pull/57) on [Casrime/bilemo](https://github.com/Casrime/bilemo) (4 weeks ago)
+- [Add symfony insight configuration](https://github.com/Casrime/bilemo/pull/55) on [Casrime/bilemo](https://github.com/Casrime/bilemo) (4 weeks ago)
 - [Correcting tests](https://github.com/Casrime/todolist/pull/40) on [Casrime/todolist](https://github.com/Casrime/todolist) (4 weeks ago)
 - [Correcting tests](https://github.com/saro0h/projet8-TodoList/pull/36) on [saro0h/projet8-TodoList](https://github.com/saro0h/projet8-TodoList) (4 weeks ago)
 - [Validation](https://github.com/Casrime/todolist/pull/39) on [Casrime/todolist](https://github.com/Casrime/todolist) (4 weeks ago)
@@ -55,7 +55,7 @@
 
 - [drknzz/GitHub-Achievements](https://github.com/drknzz/GitHub-Achievements) - 🔥 A Complete List of GitHub Profile Badges and Achievements 🔥 (4 months ago)
 - [philcook/brew-php-switcher](https://github.com/philcook/brew-php-switcher) - Brew PHP switcher is a simple shell script to switch your apache and CLI quickly between major versions of PHP. If you support multiple products/projects that are built using either brand new or old legacy PHP functionality. For users of Homebrew (or brew for short) currently only. (4 months ago)
-- [jobbsy-dev/jobbsy](https://github.com/jobbsy-dev/jobbsy) - Jobbsy - Job Board for Symfony (5 months ago)
+- [jobbsy-dev/jobbsy](https://github.com/jobbsy-dev/jobbsy) - Jobbsy - Job Board for Symfony (6 months ago)
 - [philipsharp/afieldguidetoelephpants](https://github.com/philipsharp/afieldguidetoelephpants) -  (7 months ago)
 - [symfony/monolog-bundle](https://github.com/symfony/monolog-bundle) - Symfony Monolog Bundle (7 months ago)
 - [symfony/webpack-encore-bundle](https://github.com/symfony/webpack-encore-bundle) - Symfony integration with Webpack Encore! (7 months ago)
