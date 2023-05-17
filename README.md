@@ -32,7 +32,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v6.3.0-BETA3](https://github.com/symfony/symfony/releases/tag/v6.3.0-BETA3), 3 days ago) - The Symfony PHP framework
+- [symfony/symfony](https://github.com/symfony/symfony) ([v6.3.0-BETA3](https://github.com/symfony/symfony/releases/tag/v6.3.0-BETA3), 4 days ago) - The Symfony PHP framework
 
 #### 🔨 My recent Pull Requests
 
@@ -42,10 +42,10 @@
 - [UML](https://github.com/Casrime/bilemo/pull/59) on [Casrime/bilemo](https://github.com/Casrime/bilemo) (3 weeks ago)
 - [PHP CS Fixer - PHPStan and Rector - upgrade code](https://github.com/Casrime/bilemo/pull/57) on [Casrime/bilemo](https://github.com/Casrime/bilemo) (4 weeks ago)
 - [Add symfony insight configuration](https://github.com/Casrime/bilemo/pull/55) on [Casrime/bilemo](https://github.com/Casrime/bilemo) (4 weeks ago)
-- [Correcting tests](https://github.com/Casrime/todolist/pull/40) on [Casrime/todolist](https://github.com/Casrime/todolist) (4 weeks ago)
-- [Correcting tests](https://github.com/saro0h/projet8-TodoList/pull/36) on [saro0h/projet8-TodoList](https://github.com/saro0h/projet8-TodoList) (4 weeks ago)
-- [Validation](https://github.com/Casrime/todolist/pull/39) on [Casrime/todolist](https://github.com/Casrime/todolist) (4 weeks ago)
-- [Update fixtures](https://github.com/Casrime/todolist/pull/38) on [Casrime/todolist](https://github.com/Casrime/todolist) (4 weeks ago)
+- [Correcting tests](https://github.com/Casrime/todolist/pull/40) on [Casrime/todolist](https://github.com/Casrime/todolist) (1 month ago)
+- [Correcting tests](https://github.com/saro0h/projet8-TodoList/pull/36) on [saro0h/projet8-TodoList](https://github.com/saro0h/projet8-TodoList) (1 month ago)
+- [Validation](https://github.com/Casrime/todolist/pull/39) on [Casrime/todolist](https://github.com/Casrime/todolist) (1 month ago)
+- [Update fixtures](https://github.com/Casrime/todolist/pull/38) on [Casrime/todolist](https://github.com/Casrime/todolist) (1 month ago)
 
 #### 📓 Gists I wrote
 
