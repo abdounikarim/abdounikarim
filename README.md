@@ -15,7 +15,7 @@
 - [knpuniversity/symfony-bundle](https://github.com/knpuniversity/symfony-bundle) - Screencast code, script and birthday presents behind the &#34;Creating a Reusable (&amp; Amazing) Symfony Bundle&#34; tutorial (7 months ago)
 - [abdounikarim/lorem-ipsum-bundle](https://github.com/abdounikarim/lorem-ipsum-bundle) -  (7 months ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (10 months ago)
-- [box-project/homebrew-box](https://github.com/box-project/homebrew-box) -  (10 months ago)
+- [box-project/homebrew-box](https://github.com/box-project/homebrew-box) -  (11 months ago)
 
 #### 🌱 My latest projects
 
@@ -32,7 +32,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v6.3.0-BETA3](https://github.com/symfony/symfony/releases/tag/v6.3.0-BETA3), 5 days ago) - The Symfony PHP framework
+- [symfony/symfony](https://github.com/symfony/symfony) ([v6.3.0-BETA3](https://github.com/symfony/symfony/releases/tag/v6.3.0-BETA3), 6 days ago) - The Symfony PHP framework
 
 #### 🔨 My recent Pull Requests
 
