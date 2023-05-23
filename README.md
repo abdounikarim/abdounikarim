@@ -36,16 +36,16 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Launch make commands from everywhere](https://github.com/abdounikarim/macos/pull/9) on [abdounikarim/macos](https://github.com/abdounikarim/macos) (today)
+- [Add path for Docker in .zshrc file](https://github.com/abdounikarim/macos/pull/8) on [abdounikarim/macos](https://github.com/abdounikarim/macos) (today)
+- [Add emojis](https://github.com/abdounikarim/macos/pull/7) on [abdounikarim/macos](https://github.com/abdounikarim/macos) (today)
+- [Delete .zshrc file](https://github.com/abdounikarim/macos/pull/6) on [abdounikarim/macos](https://github.com/abdounikarim/macos) (today)
+- [Update iTerm2 configuration file](https://github.com/abdounikarim/macos/pull/5) on [abdounikarim/macos](https://github.com/abdounikarim/macos) (today)
 - [Fix Github CI](https://github.com/Casrime/todolist/pull/41) on [Casrime/todolist](https://github.com/Casrime/todolist) (1 month ago)
 - [Update Readme](https://github.com/Casrime/bilemo/pull/62) on [Casrime/bilemo](https://github.com/Casrime/bilemo) (1 month ago)
 - [Makefile commands](https://github.com/Casrime/bilemo/pull/61) on [Casrime/bilemo](https://github.com/Casrime/bilemo) (1 month ago)
 - [UML](https://github.com/Casrime/bilemo/pull/59) on [Casrime/bilemo](https://github.com/Casrime/bilemo) (1 month ago)
 - [PHP CS Fixer - PHPStan and Rector - upgrade code](https://github.com/Casrime/bilemo/pull/57) on [Casrime/bilemo](https://github.com/Casrime/bilemo) (1 month ago)
-- [Add symfony insight configuration](https://github.com/Casrime/bilemo/pull/55) on [Casrime/bilemo](https://github.com/Casrime/bilemo) (1 month ago)
-- [Correcting tests](https://github.com/Casrime/todolist/pull/40) on [Casrime/todolist](https://github.com/Casrime/todolist) (1 month ago)
-- [Correcting tests](https://github.com/saro0h/projet8-TodoList/pull/36) on [saro0h/projet8-TodoList](https://github.com/saro0h/projet8-TodoList) (1 month ago)
-- [Validation](https://github.com/Casrime/todolist/pull/39) on [Casrime/todolist](https://github.com/Casrime/todolist) (1 month ago)
-- [Update fixtures](https://github.com/Casrime/todolist/pull/38) on [Casrime/todolist](https://github.com/Casrime/todolist) (1 month ago)
 
 #### 📓 Gists I wrote
 
