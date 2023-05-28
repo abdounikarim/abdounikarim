@@ -32,15 +32,15 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v6.3.0-RC2](https://github.com/symfony/symfony/releases/tag/v6.3.0-RC2), today) - The Symfony PHP framework
+- [symfony/symfony](https://github.com/symfony/symfony) ([v6.3.0-RC2](https://github.com/symfony/symfony/releases/tag/v6.3.0-RC2), 1 day ago) - The Symfony PHP framework
 
 #### 🔨 My recent Pull Requests
 
-- [Launch make commands from everywhere](https://github.com/abdounikarim/macos/pull/9) on [abdounikarim/macos](https://github.com/abdounikarim/macos) (4 days ago)
-- [Add path for Docker in .zshrc file](https://github.com/abdounikarim/macos/pull/8) on [abdounikarim/macos](https://github.com/abdounikarim/macos) (4 days ago)
-- [Add emojis](https://github.com/abdounikarim/macos/pull/7) on [abdounikarim/macos](https://github.com/abdounikarim/macos) (4 days ago)
-- [Delete .zshrc file](https://github.com/abdounikarim/macos/pull/6) on [abdounikarim/macos](https://github.com/abdounikarim/macos) (4 days ago)
-- [Update iTerm2 configuration file](https://github.com/abdounikarim/macos/pull/5) on [abdounikarim/macos](https://github.com/abdounikarim/macos) (4 days ago)
+- [Launch make commands from everywhere](https://github.com/abdounikarim/macos/pull/9) on [abdounikarim/macos](https://github.com/abdounikarim/macos) (5 days ago)
+- [Add path for Docker in .zshrc file](https://github.com/abdounikarim/macos/pull/8) on [abdounikarim/macos](https://github.com/abdounikarim/macos) (5 days ago)
+- [Add emojis](https://github.com/abdounikarim/macos/pull/7) on [abdounikarim/macos](https://github.com/abdounikarim/macos) (5 days ago)
+- [Delete .zshrc file](https://github.com/abdounikarim/macos/pull/6) on [abdounikarim/macos](https://github.com/abdounikarim/macos) (5 days ago)
+- [Update iTerm2 configuration file](https://github.com/abdounikarim/macos/pull/5) on [abdounikarim/macos](https://github.com/abdounikarim/macos) (5 days ago)
 - [Fix Github CI](https://github.com/Casrime/todolist/pull/41) on [Casrime/todolist](https://github.com/Casrime/todolist) (1 month ago)
 - [Update Readme](https://github.com/Casrime/bilemo/pull/62) on [Casrime/bilemo](https://github.com/Casrime/bilemo) (1 month ago)
 - [Makefile commands](https://github.com/Casrime/bilemo/pull/61) on [Casrime/bilemo](https://github.com/Casrime/bilemo) (1 month ago)
@@ -54,7 +54,7 @@
 #### ⭐ Recent Stars
 
 - [drknzz/GitHub-Achievements](https://github.com/drknzz/GitHub-Achievements) - 🔥 A Complete List of GitHub Profile Badges and Achievements 🔥 (4 months ago)
-- [philcook/brew-php-switcher](https://github.com/philcook/brew-php-switcher) - Brew PHP switcher is a simple shell script to switch your apache and CLI quickly between major versions of PHP. If you support multiple products/projects that are built using either brand new or old legacy PHP functionality. For users of Homebrew (or brew for short) currently only. (4 months ago)
+- [philcook/brew-php-switcher](https://github.com/philcook/brew-php-switcher) - Brew PHP switcher is a simple shell script to switch your apache and CLI quickly between major versions of PHP. If you support multiple products/projects that are built using either brand new or old legacy PHP functionality. For users of Homebrew (or brew for short) currently only. (5 months ago)
 - [jobbsy-dev/jobbsy](https://github.com/jobbsy-dev/jobbsy) - Jobbsy - Job Board for Symfony (6 months ago)
 - [philipsharp/afieldguidetoelephpants](https://github.com/philipsharp/afieldguidetoelephpants) -  (7 months ago)
 - [symfony/monolog-bundle](https://github.com/symfony/monolog-bundle) - Symfony Monolog Bundle (7 months ago)
