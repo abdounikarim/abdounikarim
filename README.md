@@ -9,12 +9,12 @@
 - [Casrime/bilemo](https://github.com/Casrime/bilemo) - OpenClassrooms - Projet 7 du parcours Développeur d&#39;Applications PHP / Symfony (1 month ago)
 - [Casrime/blog](https://github.com/Casrime/blog) - OpenClassrooms - Projet 5 du parcours Développeur d&#39;Applications PHP / Symfony (2 months ago)
 - [Casrime/chalets-et-caviar](https://github.com/Casrime/chalets-et-caviar) - OpenClassrooms - Projet 2 du parcours Développeur d&#39;Applications PHP / Symfony (2 months ago)
-- [abdounikarim/web-and-mobile-app](https://github.com/abdounikarim/web-and-mobile-app) -  (3 months ago)
+- [abdounikarim/web-and-mobile-app](https://github.com/abdounikarim/web-and-mobile-app) -  (4 months ago)
 - [Casrime/snowtricks](https://github.com/Casrime/snowtricks) - OpenClassrooms - Projet 6 du parcours Développeur d&#39;Applications PHP / Symfony (6 months ago)
 - [abdounikarim/macos](https://github.com/abdounikarim/macos) -  (7 months ago)
 - [knpuniversity/symfony-bundle](https://github.com/knpuniversity/symfony-bundle) - Screencast code, script and birthday presents behind the &#34;Creating a Reusable (&amp; Amazing) Symfony Bundle&#34; tutorial (7 months ago)
 - [abdounikarim/lorem-ipsum-bundle](https://github.com/abdounikarim/lorem-ipsum-bundle) -  (7 months ago)
-- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (10 months ago)
+- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (11 months ago)
 - [box-project/homebrew-box](https://github.com/box-project/homebrew-box) -  (11 months ago)
 
 #### 🌱 My latest projects
@@ -32,7 +32,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v6.3.0](https://github.com/symfony/symfony/releases/tag/v6.3.0), today) - The Symfony PHP framework
+- [symfony/symfony](https://github.com/symfony/symfony) ([v6.3.0](https://github.com/symfony/symfony/releases/tag/v6.3.0), 1 day ago) - The Symfony PHP framework
 
 #### 🔨 My recent Pull Requests
 
