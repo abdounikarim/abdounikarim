@@ -6,7 +6,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [abdounikarim/macos](https://github.com/abdounikarim/macos) -  (3 days ago)
+- [abdounikarim/macos](https://github.com/abdounikarim/macos) -  (4 days ago)
 - [Casrime/bilemo](https://github.com/Casrime/bilemo) - OpenClassrooms - Projet 7 du parcours Développeur d&#39;Applications PHP / Symfony (1 month ago)
 - [Casrime/blog](https://github.com/Casrime/blog) - OpenClassrooms - Projet 5 du parcours Développeur d&#39;Applications PHP / Symfony (2 months ago)
 - [Casrime/chalets-et-caviar](https://github.com/Casrime/chalets-et-caviar) - OpenClassrooms - Projet 2 du parcours Développeur d&#39;Applications PHP / Symfony (3 months ago)
@@ -62,7 +62,7 @@
 - [symfony/flex](https://github.com/symfony/flex) - Composer plugin for Symfony (8 months ago)
 - [symfony/panther](https://github.com/symfony/panther) - A browser testing and web crawling library for PHP and Symfony (8 months ago)
 - [symfony/recipes](https://github.com/symfony/recipes) - Symfony Recipes Repository (8 months ago)
-- [abdounikarim/prepare-certification](https://github.com/abdounikarim/prepare-certification) -  (11 months ago)
+- [abdounikarim/prepare-certification](https://github.com/abdounikarim/prepare-certification) -  (1 year ago)
 
 #### 👯 Check out some of my recent followers
 
