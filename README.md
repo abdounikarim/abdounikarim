@@ -7,7 +7,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [abdounikarim/macos](https://github.com/abdounikarim/macos) -  (1 week ago)
-- [Casrime/bilemo](https://github.com/Casrime/bilemo) - OpenClassrooms - Projet 7 du parcours Développeur d&#39;Applications PHP / Symfony (1 month ago)
+- [Casrime/bilemo](https://github.com/Casrime/bilemo) - OpenClassrooms - Projet 7 du parcours Développeur d&#39;Applications PHP / Symfony (2 months ago)
 - [Casrime/blog](https://github.com/Casrime/blog) - OpenClassrooms - Projet 5 du parcours Développeur d&#39;Applications PHP / Symfony (3 months ago)
 - [Casrime/chalets-et-caviar](https://github.com/Casrime/chalets-et-caviar) - OpenClassrooms - Projet 2 du parcours Développeur d&#39;Applications PHP / Symfony (3 months ago)
 - [abdounikarim/web-and-mobile-app](https://github.com/abdounikarim/web-and-mobile-app) -  (4 months ago)
@@ -41,10 +41,10 @@
 - [Add emojis](https://github.com/abdounikarim/macos/pull/7) on [abdounikarim/macos](https://github.com/abdounikarim/macos) (3 weeks ago)
 - [Delete .zshrc file](https://github.com/abdounikarim/macos/pull/6) on [abdounikarim/macos](https://github.com/abdounikarim/macos) (3 weeks ago)
 - [Update iTerm2 configuration file](https://github.com/abdounikarim/macos/pull/5) on [abdounikarim/macos](https://github.com/abdounikarim/macos) (3 weeks ago)
-- [Fix Github CI](https://github.com/Casrime/todolist/pull/41) on [Casrime/todolist](https://github.com/Casrime/todolist) (1 month ago)
-- [Update Readme](https://github.com/Casrime/bilemo/pull/62) on [Casrime/bilemo](https://github.com/Casrime/bilemo) (1 month ago)
-- [Makefile commands](https://github.com/Casrime/bilemo/pull/61) on [Casrime/bilemo](https://github.com/Casrime/bilemo) (1 month ago)
-- [UML](https://github.com/Casrime/bilemo/pull/59) on [Casrime/bilemo](https://github.com/Casrime/bilemo) (1 month ago)
+- [Fix Github CI](https://github.com/Casrime/todolist/pull/41) on [Casrime/todolist](https://github.com/Casrime/todolist) (2 months ago)
+- [Update Readme](https://github.com/Casrime/bilemo/pull/62) on [Casrime/bilemo](https://github.com/Casrime/bilemo) (2 months ago)
+- [Makefile commands](https://github.com/Casrime/bilemo/pull/61) on [Casrime/bilemo](https://github.com/Casrime/bilemo) (2 months ago)
+- [UML](https://github.com/Casrime/bilemo/pull/59) on [Casrime/bilemo](https://github.com/Casrime/bilemo) (2 months ago)
 - [PHP CS Fixer - PHPStan and Rector - upgrade code](https://github.com/Casrime/bilemo/pull/57) on [Casrime/bilemo](https://github.com/Casrime/bilemo) (2 months ago)
 
 #### 📓 Gists I wrote
