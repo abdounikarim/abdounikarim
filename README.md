@@ -35,7 +35,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Get PHP version dynamically](https://github.com/abdounikarim/macos/pull/10) on [abdounikarim/macos](https://github.com/abdounikarim/macos) (today)
+- [Get PHP version dynamically](https://github.com/abdounikarim/macos/pull/10) on [abdounikarim/macos](https://github.com/abdounikarim/macos) (1 day ago)
 - [Launch make commands from everywhere](https://github.com/abdounikarim/macos/pull/9) on [abdounikarim/macos](https://github.com/abdounikarim/macos) (1 month ago)
 - [Add path for Docker in .zshrc file](https://github.com/abdounikarim/macos/pull/8) on [abdounikarim/macos](https://github.com/abdounikarim/macos) (1 month ago)
 - [Add emojis](https://github.com/abdounikarim/macos/pull/7) on [abdounikarim/macos](https://github.com/abdounikarim/macos) (1 month ago)
