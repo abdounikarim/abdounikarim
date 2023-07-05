@@ -44,7 +44,6 @@
 - [Update iTerm2 configuration file](https://github.com/abdounikarim/macos/pull/5) on [abdounikarim/macos](https://github.com/abdounikarim/macos) (1 month ago)
 - [Fix Github CI](https://github.com/Casrime/todolist/pull/41) on [Casrime/todolist](https://github.com/Casrime/todolist) (2 months ago)
 - [Update Readme](https://github.com/Casrime/bilemo/pull/62) on [Casrime/bilemo](https://github.com/Casrime/bilemo) (2 months ago)
-- [Makefile commands](https://github.com/Casrime/bilemo/pull/61) on [Casrime/bilemo](https://github.com/Casrime/bilemo) (2 months ago)
 
 #### 📓 Gists I wrote
 
