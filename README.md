@@ -31,7 +31,6 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v6.3.1](https://github.com/symfony/symfony/releases/tag/v6.3.1), 1 week ago) - The Symfony PHP framework
 
 #### 🔨 My recent Pull Requests
 
