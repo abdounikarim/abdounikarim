@@ -61,11 +61,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [JiuBanA1](https://github.com/JiuBanA1)
 - [qdequippe](https://github.com/qdequippe)
 - [SergioVasko](https://github.com/SergioVasko)
 - [hsensier](https://github.com/hsensier)
 - [Aminejohda](https://github.com/Aminejohda)
-- [damienmillet](https://github.com/damienmillet)
 
 #### 💬 Feedback
 
