@@ -6,7 +6,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [abdounikarim/macos](https://github.com/abdounikarim/macos) -  (4 weeks ago)
+- [abdounikarim/macos](https://github.com/abdounikarim/macos) -  (1 month ago)
 - [Casrime/bilemo](https://github.com/Casrime/bilemo) - OpenClassrooms - Projet 7 du parcours Développeur d&#39;Applications PHP / Symfony (2 months ago)
 - [Casrime/blog](https://github.com/Casrime/blog) - OpenClassrooms - Projet 5 du parcours Développeur d&#39;Applications PHP / Symfony (3 months ago)
 - [Casrime/chalets-et-caviar](https://github.com/Casrime/chalets-et-caviar) - OpenClassrooms - Projet 2 du parcours Développeur d&#39;Applications PHP / Symfony (3 months ago)
@@ -34,8 +34,8 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Create packages directory](https://github.com/abdounikarim/macos/pull/11) on [abdounikarim/macos](https://github.com/abdounikarim/macos) (2 days ago)
-- [Get PHP version dynamically](https://github.com/abdounikarim/macos/pull/10) on [abdounikarim/macos](https://github.com/abdounikarim/macos) (3 days ago)
+- [Create packages directory](https://github.com/abdounikarim/macos/pull/11) on [abdounikarim/macos](https://github.com/abdounikarim/macos) (3 days ago)
+- [Get PHP version dynamically](https://github.com/abdounikarim/macos/pull/10) on [abdounikarim/macos](https://github.com/abdounikarim/macos) (4 days ago)
 - [Launch make commands from everywhere](https://github.com/abdounikarim/macos/pull/9) on [abdounikarim/macos](https://github.com/abdounikarim/macos) (1 month ago)
 - [Add path for Docker in .zshrc file](https://github.com/abdounikarim/macos/pull/8) on [abdounikarim/macos](https://github.com/abdounikarim/macos) (1 month ago)
 - [Add emojis](https://github.com/abdounikarim/macos/pull/7) on [abdounikarim/macos](https://github.com/abdounikarim/macos) (1 month ago)
