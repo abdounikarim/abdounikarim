@@ -40,7 +40,6 @@
 - [Add path for Docker in .zshrc file](https://github.com/abdounikarim/macos/pull/8) on [abdounikarim/macos](https://github.com/abdounikarim/macos) (1 month ago)
 - [Add emojis](https://github.com/abdounikarim/macos/pull/7) on [abdounikarim/macos](https://github.com/abdounikarim/macos) (1 month ago)
 - [Delete .zshrc file](https://github.com/abdounikarim/macos/pull/6) on [abdounikarim/macos](https://github.com/abdounikarim/macos) (1 month ago)
-- [Update iTerm2 configuration file](https://github.com/abdounikarim/macos/pull/5) on [abdounikarim/macos](https://github.com/abdounikarim/macos) (1 month ago)
 
 #### 📓 Gists I wrote
 
