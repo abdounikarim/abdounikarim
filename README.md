@@ -13,7 +13,7 @@
 - [abdounikarim/web-and-mobile-app](https://github.com/abdounikarim/web-and-mobile-app) -  (5 months ago)
 - [Casrime/snowtricks](https://github.com/Casrime/snowtricks) - OpenClassrooms - Projet 6 du parcours Développeur d&#39;Applications PHP / Symfony (8 months ago)
 - [knpuniversity/symfony-bundle](https://github.com/knpuniversity/symfony-bundle) - Screencast code, script and birthday presents behind the &#34;Creating a Reusable (&amp; Amazing) Symfony Bundle&#34; tutorial (8 months ago)
-- [abdounikarim/lorem-ipsum-bundle](https://github.com/abdounikarim/lorem-ipsum-bundle) -  (8 months ago)
+- [abdounikarim/lorem-ipsum-bundle](https://github.com/abdounikarim/lorem-ipsum-bundle) -  (9 months ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (1 year ago)
 
 #### 🌱 My latest projects
@@ -34,8 +34,8 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Create packages directory](https://github.com/abdounikarim/macos/pull/11) on [abdounikarim/macos](https://github.com/abdounikarim/macos) (4 days ago)
-- [Get PHP version dynamically](https://github.com/abdounikarim/macos/pull/10) on [abdounikarim/macos](https://github.com/abdounikarim/macos) (5 days ago)
+- [Create packages directory](https://github.com/abdounikarim/macos/pull/11) on [abdounikarim/macos](https://github.com/abdounikarim/macos) (5 days ago)
+- [Get PHP version dynamically](https://github.com/abdounikarim/macos/pull/10) on [abdounikarim/macos](https://github.com/abdounikarim/macos) (6 days ago)
 - [Launch make commands from everywhere](https://github.com/abdounikarim/macos/pull/9) on [abdounikarim/macos](https://github.com/abdounikarim/macos) (1 month ago)
 - [Add path for Docker in .zshrc file](https://github.com/abdounikarim/macos/pull/8) on [abdounikarim/macos](https://github.com/abdounikarim/macos) (1 month ago)
 - [Add emojis](https://github.com/abdounikarim/macos/pull/7) on [abdounikarim/macos](https://github.com/abdounikarim/macos) (1 month ago)
