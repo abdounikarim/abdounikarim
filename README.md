@@ -34,7 +34,7 @@
 #### 🔨 My recent Pull Requests
 
 - [Create packages directory](https://github.com/abdounikarim/macos/pull/11) on [abdounikarim/macos](https://github.com/abdounikarim/macos) (1 week ago)
-- [Get PHP version dynamically](https://github.com/abdounikarim/macos/pull/10) on [abdounikarim/macos](https://github.com/abdounikarim/macos) (1 week ago)
+- [Get PHP version dynamically](https://github.com/abdounikarim/macos/pull/10) on [abdounikarim/macos](https://github.com/abdounikarim/macos) (2 weeks ago)
 - [Launch make commands from everywhere](https://github.com/abdounikarim/macos/pull/9) on [abdounikarim/macos](https://github.com/abdounikarim/macos) (1 month ago)
 
 #### 📓 Gists I wrote
