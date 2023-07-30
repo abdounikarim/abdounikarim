@@ -6,11 +6,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [abdounikarim/macos](https://github.com/abdounikarim/macos) -  (1 day ago)
+- [abdounikarim/macos](https://github.com/abdounikarim/macos) -  (2 days ago)
 - [Casrime/bilemo](https://github.com/Casrime/bilemo) - OpenClassrooms - Projet 7 du parcours Développeur d&#39;Applications PHP / Symfony (3 months ago)
 - [Casrime/blog](https://github.com/Casrime/blog) - OpenClassrooms - Projet 5 du parcours Développeur d&#39;Applications PHP / Symfony (4 months ago)
 - [Casrime/chalets-et-caviar](https://github.com/Casrime/chalets-et-caviar) - OpenClassrooms - Projet 2 du parcours Développeur d&#39;Applications PHP / Symfony (4 months ago)
-- [abdounikarim/web-and-mobile-app](https://github.com/abdounikarim/web-and-mobile-app) -  (5 months ago)
+- [abdounikarim/web-and-mobile-app](https://github.com/abdounikarim/web-and-mobile-app) -  (6 months ago)
 - [Casrime/snowtricks](https://github.com/Casrime/snowtricks) - OpenClassrooms - Projet 6 du parcours Développeur d&#39;Applications PHP / Symfony (8 months ago)
 - [knpuniversity/symfony-bundle](https://github.com/knpuniversity/symfony-bundle) - Screencast code, script and birthday presents behind the &#34;Creating a Reusable (&amp; Amazing) Symfony Bundle&#34; tutorial (9 months ago)
 - [abdounikarim/lorem-ipsum-bundle](https://github.com/abdounikarim/lorem-ipsum-bundle) -  (9 months ago)
@@ -33,8 +33,8 @@
 
 #### 🔨 My recent Pull Requests
 
-- [add bat](https://github.com/abdounikarim/macos/pull/13) on [abdounikarim/macos](https://github.com/abdounikarim/macos) (1 day ago)
-- [add tap file](https://github.com/abdounikarim/macos/pull/12) on [abdounikarim/macos](https://github.com/abdounikarim/macos) (1 day ago)
+- [add bat](https://github.com/abdounikarim/macos/pull/13) on [abdounikarim/macos](https://github.com/abdounikarim/macos) (2 days ago)
+- [add tap file](https://github.com/abdounikarim/macos/pull/12) on [abdounikarim/macos](https://github.com/abdounikarim/macos) (2 days ago)
 - [Create packages directory](https://github.com/abdounikarim/macos/pull/11) on [abdounikarim/macos](https://github.com/abdounikarim/macos) (3 weeks ago)
 
 #### 📓 Gists I wrote
