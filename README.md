@@ -47,11 +47,11 @@
 - [philcook/brew-php-switcher](https://github.com/philcook/brew-php-switcher) - Brew PHP switcher is a simple shell script to switch your apache and CLI quickly between major versions of PHP. If you support multiple products/projects that are built using either brand new or old legacy PHP functionality. For users of Homebrew (or brew for short) currently only. (7 months ago)
 - [jobbsy-dev/jobbsy](https://github.com/jobbsy-dev/jobbsy) - Jobbsy - Job Board for Symfony (8 months ago)
 - [philipsharp/afieldguidetoelephpants](https://github.com/philipsharp/afieldguidetoelephpants) -  (9 months ago)
-- [symfony/monolog-bundle](https://github.com/symfony/monolog-bundle) - Symfony Monolog Bundle (9 months ago)
-- [symfony/webpack-encore-bundle](https://github.com/symfony/webpack-encore-bundle) - Symfony integration with Webpack Encore! (9 months ago)
-- [symfony/flex](https://github.com/symfony/flex) - Composer plugin for Symfony (9 months ago)
-- [symfony/panther](https://github.com/symfony/panther) - A browser testing and web crawling library for PHP and Symfony (9 months ago)
-- [symfony/recipes](https://github.com/symfony/recipes) - Symfony Recipes Repository (9 months ago)
+- [symfony/monolog-bundle](https://github.com/symfony/monolog-bundle) - Symfony Monolog Bundle (10 months ago)
+- [symfony/webpack-encore-bundle](https://github.com/symfony/webpack-encore-bundle) - Symfony integration with Webpack Encore! (10 months ago)
+- [symfony/flex](https://github.com/symfony/flex) - Composer plugin for Symfony (10 months ago)
+- [symfony/panther](https://github.com/symfony/panther) - A browser testing and web crawling library for PHP and Symfony (10 months ago)
+- [symfony/recipes](https://github.com/symfony/recipes) - Symfony Recipes Repository (10 months ago)
 - [abdounikarim/prepare-certification](https://github.com/abdounikarim/prepare-certification) -  (1 year ago)
 
 #### 👯 Check out some of my recent followers
