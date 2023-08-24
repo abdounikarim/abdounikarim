@@ -35,7 +35,6 @@
 
 - [add bat](https://github.com/abdounikarim/macos/pull/13) on [abdounikarim/macos](https://github.com/abdounikarim/macos) (3 weeks ago)
 - [add tap file](https://github.com/abdounikarim/macos/pull/12) on [abdounikarim/macos](https://github.com/abdounikarim/macos) (3 weeks ago)
-- [Create packages directory](https://github.com/abdounikarim/macos/pull/11) on [abdounikarim/macos](https://github.com/abdounikarim/macos) (1 month ago)
 
 #### 📓 Gists I wrote
 
