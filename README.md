@@ -6,7 +6,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [abdounikarim/macos](https://github.com/abdounikarim/macos) -  (3 weeks ago)
+- [abdounikarim/macos](https://github.com/abdounikarim/macos) -  (4 weeks ago)
 - [Casrime/bilemo](https://github.com/Casrime/bilemo) - OpenClassrooms - Projet 7 du parcours Développeur d&#39;Applications PHP / Symfony (4 months ago)
 - [Casrime/blog](https://github.com/Casrime/blog) - OpenClassrooms - Projet 5 du parcours Développeur d&#39;Applications PHP / Symfony (5 months ago)
 - [Casrime/chalets-et-caviar](https://github.com/Casrime/chalets-et-caviar) - OpenClassrooms - Projet 2 du parcours Développeur d&#39;Applications PHP / Symfony (5 months ago)
@@ -33,8 +33,8 @@
 
 #### 🔨 My recent Pull Requests
 
-- [add bat](https://github.com/abdounikarim/macos/pull/13) on [abdounikarim/macos](https://github.com/abdounikarim/macos) (3 weeks ago)
-- [add tap file](https://github.com/abdounikarim/macos/pull/12) on [abdounikarim/macos](https://github.com/abdounikarim/macos) (3 weeks ago)
+- [add bat](https://github.com/abdounikarim/macos/pull/13) on [abdounikarim/macos](https://github.com/abdounikarim/macos) (4 weeks ago)
+- [add tap file](https://github.com/abdounikarim/macos/pull/12) on [abdounikarim/macos](https://github.com/abdounikarim/macos) (4 weeks ago)
 
 #### 📓 Gists I wrote
 
