@@ -6,9 +6,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Casrime/blog](https://github.com/Casrime/blog) - OpenClassrooms - Projet 5 du parcours Développeur d&#39;Applications PHP / Symfony (today)
+- [Casrime/blog](https://github.com/Casrime/blog) - OpenClassrooms - Projet 5 du parcours Développeur d&#39;Applications PHP / Symfony (1 day ago)
 - [abdounikarim/macos](https://github.com/abdounikarim/macos) -  (1 month ago)
-- [Casrime/bilemo](https://github.com/Casrime/bilemo) - OpenClassrooms - Projet 7 du parcours Développeur d&#39;Applications PHP / Symfony (4 months ago)
+- [Casrime/bilemo](https://github.com/Casrime/bilemo) - OpenClassrooms - Projet 7 du parcours Développeur d&#39;Applications PHP / Symfony (5 months ago)
 - [Casrime/chalets-et-caviar](https://github.com/Casrime/chalets-et-caviar) - OpenClassrooms - Projet 2 du parcours Développeur d&#39;Applications PHP / Symfony (6 months ago)
 - [abdounikarim/web-and-mobile-app](https://github.com/abdounikarim/web-and-mobile-app) -  (7 months ago)
 - [Casrime/snowtricks](https://github.com/Casrime/snowtricks) - OpenClassrooms - Projet 6 du parcours Développeur d&#39;Applications PHP / Symfony (10 months ago)
@@ -33,8 +33,8 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Blog](https://github.com/Casrime/blog/pull/4) on [Casrime/blog](https://github.com/Casrime/blog) (today)
-- [home](https://github.com/Casrime/blog/pull/3) on [Casrime/blog](https://github.com/Casrime/blog) (today)
+- [Blog](https://github.com/Casrime/blog/pull/4) on [Casrime/blog](https://github.com/Casrime/blog) (1 day ago)
+- [home](https://github.com/Casrime/blog/pull/3) on [Casrime/blog](https://github.com/Casrime/blog) (1 day ago)
 - [add bat](https://github.com/abdounikarim/macos/pull/13) on [abdounikarim/macos](https://github.com/abdounikarim/macos) (1 month ago)
 - [add tap file](https://github.com/abdounikarim/macos/pull/12) on [abdounikarim/macos](https://github.com/abdounikarim/macos) (1 month ago)
 
