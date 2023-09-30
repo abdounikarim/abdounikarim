@@ -6,12 +6,12 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Casrime/blog](https://github.com/Casrime/blog) - OpenClassrooms - Projet 5 du parcours Développeur d&#39;Applications PHP / Symfony (2 days ago)
+- [Casrime/blog](https://github.com/Casrime/blog) - OpenClassrooms - Projet 5 du parcours Développeur d&#39;Applications PHP / Symfony (3 days ago)
 - [abdounikarim/macos](https://github.com/abdounikarim/macos) -  (2 months ago)
 - [Casrime/bilemo](https://github.com/Casrime/bilemo) - OpenClassrooms - Projet 7 du parcours Développeur d&#39;Applications PHP / Symfony (5 months ago)
 - [Casrime/chalets-et-caviar](https://github.com/Casrime/chalets-et-caviar) - OpenClassrooms - Projet 2 du parcours Développeur d&#39;Applications PHP / Symfony (6 months ago)
 - [abdounikarim/web-and-mobile-app](https://github.com/abdounikarim/web-and-mobile-app) -  (8 months ago)
-- [Casrime/snowtricks](https://github.com/Casrime/snowtricks) - OpenClassrooms - Projet 6 du parcours Développeur d&#39;Applications PHP / Symfony (10 months ago)
+- [Casrime/snowtricks](https://github.com/Casrime/snowtricks) - OpenClassrooms - Projet 6 du parcours Développeur d&#39;Applications PHP / Symfony (11 months ago)
 - [knpuniversity/symfony-bundle](https://github.com/knpuniversity/symfony-bundle) - Screencast code, script and birthday presents behind the &#34;Creating a Reusable (&amp; Amazing) Symfony Bundle&#34; tutorial (11 months ago)
 - [abdounikarim/lorem-ipsum-bundle](https://github.com/abdounikarim/lorem-ipsum-bundle) -  (11 months ago)
 
@@ -33,13 +33,13 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Add design for frontend](https://github.com/Casrime/blog/pull/14) on [Casrime/blog](https://github.com/Casrime/blog) (2 days ago)
-- [Forms](https://github.com/Casrime/blog/pull/12) on [Casrime/blog](https://github.com/Casrime/blog) (4 days ago)
+- [Add design for frontend](https://github.com/Casrime/blog/pull/14) on [Casrime/blog](https://github.com/Casrime/blog) (3 days ago)
+- [Forms](https://github.com/Casrime/blog/pull/12) on [Casrime/blog](https://github.com/Casrime/blog) (5 days ago)
 - [login](https://github.com/Casrime/blog/pull/10) on [Casrime/blog](https://github.com/Casrime/blog) (1 week ago)
 - [register](https://github.com/Casrime/blog/pull/9) on [Casrime/blog](https://github.com/Casrime/blog) (1 week ago)
 - [Article edit](https://github.com/Casrime/blog/pull/8) on [Casrime/blog](https://github.com/Casrime/blog) (1 week ago)
-- [Blog](https://github.com/Casrime/blog/pull/4) on [Casrime/blog](https://github.com/Casrime/blog) (1 week ago)
-- [home](https://github.com/Casrime/blog/pull/3) on [Casrime/blog](https://github.com/Casrime/blog) (1 week ago)
+- [Blog](https://github.com/Casrime/blog/pull/4) on [Casrime/blog](https://github.com/Casrime/blog) (2 weeks ago)
+- [home](https://github.com/Casrime/blog/pull/3) on [Casrime/blog](https://github.com/Casrime/blog) (2 weeks ago)
 - [add bat](https://github.com/abdounikarim/macos/pull/13) on [abdounikarim/macos](https://github.com/abdounikarim/macos) (2 months ago)
 - [add tap file](https://github.com/abdounikarim/macos/pull/12) on [abdounikarim/macos](https://github.com/abdounikarim/macos) (2 months ago)
 
@@ -49,7 +49,7 @@
 
 #### ⭐ Recent Stars
 
-- [drknzz/GitHub-Achievements](https://github.com/drknzz/GitHub-Achievements) - 🔥 A Complete List of GitHub Profile Badges and Achievements 🔥 (8 months ago)
+- [drknzz/GitHub-Achievements](https://github.com/drknzz/GitHub-Achievements) - 🔥 A Complete List of GitHub Profile Badges and Achievements 🔥 (9 months ago)
 - [philcook/brew-php-switcher](https://github.com/philcook/brew-php-switcher) - Brew PHP switcher is a simple shell script to switch your apache and CLI quickly between major versions of PHP. If you support multiple products/projects that are built using either brand new or old legacy PHP functionality. For users of Homebrew (or brew for short) currently only. (9 months ago)
 - [jobbsy-dev/jobbsy](https://github.com/jobbsy-dev/jobbsy) - Jobbsy - Job Board for Symfony (10 months ago)
 - [philipsharp/afieldguidetoelephpants](https://github.com/philipsharp/afieldguidetoelephpants) -  (11 months ago)
