@@ -6,7 +6,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Casrime/blog](https://github.com/Casrime/blog) - OpenClassrooms - Projet 5 du parcours Développeur d&#39;Applications PHP / Symfony (3 days ago)
+- [Casrime/blog](https://github.com/Casrime/blog) - OpenClassrooms - Projet 5 du parcours Développeur d&#39;Applications PHP / Symfony (4 days ago)
 - [abdounikarim/macos](https://github.com/abdounikarim/macos) -  (2 months ago)
 - [Casrime/bilemo](https://github.com/Casrime/bilemo) - OpenClassrooms - Projet 7 du parcours Développeur d&#39;Applications PHP / Symfony (5 months ago)
 - [Casrime/chalets-et-caviar](https://github.com/Casrime/chalets-et-caviar) - OpenClassrooms - Projet 2 du parcours Développeur d&#39;Applications PHP / Symfony (6 months ago)
@@ -33,11 +33,11 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Add design for frontend](https://github.com/Casrime/blog/pull/14) on [Casrime/blog](https://github.com/Casrime/blog) (3 days ago)
-- [Forms](https://github.com/Casrime/blog/pull/12) on [Casrime/blog](https://github.com/Casrime/blog) (5 days ago)
-- [login](https://github.com/Casrime/blog/pull/10) on [Casrime/blog](https://github.com/Casrime/blog) (1 week ago)
-- [register](https://github.com/Casrime/blog/pull/9) on [Casrime/blog](https://github.com/Casrime/blog) (1 week ago)
-- [Article edit](https://github.com/Casrime/blog/pull/8) on [Casrime/blog](https://github.com/Casrime/blog) (1 week ago)
+- [Add design for frontend](https://github.com/Casrime/blog/pull/14) on [Casrime/blog](https://github.com/Casrime/blog) (4 days ago)
+- [Forms](https://github.com/Casrime/blog/pull/12) on [Casrime/blog](https://github.com/Casrime/blog) (6 days ago)
+- [login](https://github.com/Casrime/blog/pull/10) on [Casrime/blog](https://github.com/Casrime/blog) (2 weeks ago)
+- [register](https://github.com/Casrime/blog/pull/9) on [Casrime/blog](https://github.com/Casrime/blog) (2 weeks ago)
+- [Article edit](https://github.com/Casrime/blog/pull/8) on [Casrime/blog](https://github.com/Casrime/blog) (2 weeks ago)
 - [Blog](https://github.com/Casrime/blog/pull/4) on [Casrime/blog](https://github.com/Casrime/blog) (2 weeks ago)
 - [home](https://github.com/Casrime/blog/pull/3) on [Casrime/blog](https://github.com/Casrime/blog) (2 weeks ago)
 - [add bat](https://github.com/abdounikarim/macos/pull/13) on [abdounikarim/macos](https://github.com/abdounikarim/macos) (2 months ago)
