@@ -62,11 +62,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [sheeehy](https://github.com/sheeehy)
 - [JiuBanA1](https://github.com/JiuBanA1)
 - [qdequippe](https://github.com/qdequippe)
 - [SergioVasko](https://github.com/SergioVasko)
 - [hsensier](https://github.com/hsensier)
-- [Aminejohda](https://github.com/Aminejohda)
 
 #### 💬 Feedback
 
