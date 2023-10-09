@@ -6,7 +6,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Casrime/blog](https://github.com/Casrime/blog) - OpenClassrooms - Projet 5 du parcours Développeur d&#39;Applications PHP / Symfony (1 week ago)
+- [Casrime/blog](https://github.com/Casrime/blog) - OpenClassrooms - Projet 5 du parcours Développeur d&#39;Applications PHP / Symfony (today)
 - [abdounikarim/macos](https://github.com/abdounikarim/macos) -  (2 months ago)
 - [Casrime/bilemo](https://github.com/Casrime/bilemo) - OpenClassrooms - Projet 7 du parcours Développeur d&#39;Applications PHP / Symfony (5 months ago)
 - [Casrime/chalets-et-caviar](https://github.com/Casrime/chalets-et-caviar) - OpenClassrooms - Projet 2 du parcours Développeur d&#39;Applications PHP / Symfony (7 months ago)
@@ -33,6 +33,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Repositories](https://github.com/Casrime/blog/pull/16) on [Casrime/blog](https://github.com/Casrime/blog) (today)
 - [Add design for frontend](https://github.com/Casrime/blog/pull/14) on [Casrime/blog](https://github.com/Casrime/blog) (1 week ago)
 - [Forms](https://github.com/Casrime/blog/pull/12) on [Casrime/blog](https://github.com/Casrime/blog) (2 weeks ago)
 - [login](https://github.com/Casrime/blog/pull/10) on [Casrime/blog](https://github.com/Casrime/blog) (3 weeks ago)
