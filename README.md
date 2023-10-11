@@ -40,7 +40,6 @@
 - [register](https://github.com/Casrime/blog/pull/9) on [Casrime/blog](https://github.com/Casrime/blog) (3 weeks ago)
 - [Article edit](https://github.com/Casrime/blog/pull/8) on [Casrime/blog](https://github.com/Casrime/blog) (3 weeks ago)
 - [Blog](https://github.com/Casrime/blog/pull/4) on [Casrime/blog](https://github.com/Casrime/blog) (3 weeks ago)
-- [home](https://github.com/Casrime/blog/pull/3) on [Casrime/blog](https://github.com/Casrime/blog) (3 weeks ago)
 
 #### 📓 Gists I wrote
 
