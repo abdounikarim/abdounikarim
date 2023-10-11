@@ -41,7 +41,6 @@
 - [Article edit](https://github.com/Casrime/blog/pull/8) on [Casrime/blog](https://github.com/Casrime/blog) (3 weeks ago)
 - [Blog](https://github.com/Casrime/blog/pull/4) on [Casrime/blog](https://github.com/Casrime/blog) (3 weeks ago)
 - [home](https://github.com/Casrime/blog/pull/3) on [Casrime/blog](https://github.com/Casrime/blog) (3 weeks ago)
-- [add bat](https://github.com/abdounikarim/macos/pull/13) on [abdounikarim/macos](https://github.com/abdounikarim/macos) (2 months ago)
 
 #### 📓 Gists I wrote
 
