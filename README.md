@@ -37,8 +37,8 @@
 - [Docker configuration](https://github.com/Casrime/snowtricks/pull/3) on [Casrime/snowtricks](https://github.com/Casrime/snowtricks) (1 week ago)
 - [Properties initialization](https://github.com/Casrime/blog/pull/18) on [Casrime/blog](https://github.com/Casrime/blog) (1 week ago)
 - [Repositories](https://github.com/Casrime/blog/pull/16) on [Casrime/blog](https://github.com/Casrime/blog) (2 weeks ago)
-- [Add design for frontend](https://github.com/Casrime/blog/pull/14) on [Casrime/blog](https://github.com/Casrime/blog) (3 weeks ago)
-- [Forms](https://github.com/Casrime/blog/pull/12) on [Casrime/blog](https://github.com/Casrime/blog) (4 weeks ago)
+- [Add design for frontend](https://github.com/Casrime/blog/pull/14) on [Casrime/blog](https://github.com/Casrime/blog) (4 weeks ago)
+- [Forms](https://github.com/Casrime/blog/pull/12) on [Casrime/blog](https://github.com/Casrime/blog) (1 month ago)
 - [login](https://github.com/Casrime/blog/pull/10) on [Casrime/blog](https://github.com/Casrime/blog) (1 month ago)
 
 #### 📓 Gists I wrote
@@ -48,7 +48,7 @@
 #### ⭐ Recent Stars
 
 - [drknzz/GitHub-Achievements](https://github.com/drknzz/GitHub-Achievements) - 🔥 A Complete List of GitHub Profile Badges and Achievements 🔥 (9 months ago)
-- [philcook/brew-php-switcher](https://github.com/philcook/brew-php-switcher) - Brew PHP switcher is a simple shell script to switch your apache and CLI quickly between major versions of PHP. If you support multiple products/projects that are built using either brand new or old legacy PHP functionality. For users of Homebrew (or brew for short) currently only. (9 months ago)
+- [philcook/brew-php-switcher](https://github.com/philcook/brew-php-switcher) - Brew PHP switcher is a simple shell script to switch your apache and CLI quickly between major versions of PHP. If you support multiple products/projects that are built using either brand new or old legacy PHP functionality. For users of Homebrew (or brew for short) currently only. (10 months ago)
 - [jobbsy-dev/jobbsy](https://github.com/jobbsy-dev/jobbsy) - Jobbsy - Job Board for Symfony (11 months ago)
 - [philipsharp/afieldguidetoelephpants](https://github.com/philipsharp/afieldguidetoelephpants) -  (1 year ago)
 - [symfony/monolog-bundle](https://github.com/symfony/monolog-bundle) - Symfony Monolog Bundle (1 year ago)
