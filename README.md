@@ -7,8 +7,8 @@
 #### 👷 Check out what I'm currently working on
 
 - [Casrime/snowtricks](https://github.com/Casrime/snowtricks) - OpenClassrooms - Projet 6 du parcours Développeur d&#39;Applications PHP / Symfony (1 week ago)
-- [Casrime/blog](https://github.com/Casrime/blog) - OpenClassrooms - Projet 5 du parcours Développeur d&#39;Applications PHP / Symfony (1 week ago)
-- [abdounikarim/demo-ansible](https://github.com/abdounikarim/demo-ansible) -  (1 week ago)
+- [Casrime/blog](https://github.com/Casrime/blog) - OpenClassrooms - Projet 5 du parcours Développeur d&#39;Applications PHP / Symfony (2 weeks ago)
+- [abdounikarim/demo-ansible](https://github.com/abdounikarim/demo-ansible) -  (2 weeks ago)
 - [abdounikarim/macos](https://github.com/abdounikarim/macos) -  (3 months ago)
 - [Casrime/bilemo](https://github.com/Casrime/bilemo) - OpenClassrooms - Projet 7 du parcours Développeur d&#39;Applications PHP / Symfony (6 months ago)
 - [Casrime/chalets-et-caviar](https://github.com/Casrime/chalets-et-caviar) - OpenClassrooms - Projet 2 du parcours Développeur d&#39;Applications PHP / Symfony (7 months ago)
@@ -35,9 +35,9 @@
 
 - [Makefile](https://github.com/Casrime/snowtricks/pull/4) on [Casrime/snowtricks](https://github.com/Casrime/snowtricks) (1 week ago)
 - [Docker configuration](https://github.com/Casrime/snowtricks/pull/3) on [Casrime/snowtricks](https://github.com/Casrime/snowtricks) (1 week ago)
-- [Properties initialization](https://github.com/Casrime/blog/pull/18) on [Casrime/blog](https://github.com/Casrime/blog) (1 week ago)
+- [Properties initialization](https://github.com/Casrime/blog/pull/18) on [Casrime/blog](https://github.com/Casrime/blog) (2 weeks ago)
 - [Repositories](https://github.com/Casrime/blog/pull/16) on [Casrime/blog](https://github.com/Casrime/blog) (2 weeks ago)
-- [Add design for frontend](https://github.com/Casrime/blog/pull/14) on [Casrime/blog](https://github.com/Casrime/blog) (4 weeks ago)
+- [Add design for frontend](https://github.com/Casrime/blog/pull/14) on [Casrime/blog](https://github.com/Casrime/blog) (1 month ago)
 - [Forms](https://github.com/Casrime/blog/pull/12) on [Casrime/blog](https://github.com/Casrime/blog) (1 month ago)
 - [login](https://github.com/Casrime/blog/pull/10) on [Casrime/blog](https://github.com/Casrime/blog) (1 month ago)
 
