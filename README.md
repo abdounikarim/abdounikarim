@@ -35,7 +35,7 @@
 - [Makefile](https://github.com/Casrime/snowtricks/pull/4) on [Casrime/snowtricks](https://github.com/Casrime/snowtricks) (2 weeks ago)
 - [Docker configuration](https://github.com/Casrime/snowtricks/pull/3) on [Casrime/snowtricks](https://github.com/Casrime/snowtricks) (2 weeks ago)
 - [Properties initialization](https://github.com/Casrime/blog/pull/18) on [Casrime/blog](https://github.com/Casrime/blog) (3 weeks ago)
-- [Repositories](https://github.com/Casrime/blog/pull/16) on [Casrime/blog](https://github.com/Casrime/blog) (3 weeks ago)
+- [Repositories](https://github.com/Casrime/blog/pull/16) on [Casrime/blog](https://github.com/Casrime/blog) (4 weeks ago)
 - [Add design for frontend](https://github.com/Casrime/blog/pull/14) on [Casrime/blog](https://github.com/Casrime/blog) (1 month ago)
 - [Forms](https://github.com/Casrime/blog/pull/12) on [Casrime/blog](https://github.com/Casrime/blog) (1 month ago)
 - [login](https://github.com/Casrime/blog/pull/10) on [Casrime/blog](https://github.com/Casrime/blog) (1 month ago)
