@@ -6,7 +6,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Casrime/snowtricks](https://github.com/Casrime/snowtricks) - OpenClassrooms - Projet 6 du parcours Développeur d&#39;Applications PHP / Symfony (2 weeks ago)
+- [Casrime/snowtricks](https://github.com/Casrime/snowtricks) - OpenClassrooms - Projet 6 du parcours Développeur d&#39;Applications PHP / Symfony (3 weeks ago)
 - [Casrime/blog](https://github.com/Casrime/blog) - OpenClassrooms - Projet 5 du parcours Développeur d&#39;Applications PHP / Symfony (3 weeks ago)
 - [abdounikarim/demo-ansible](https://github.com/abdounikarim/demo-ansible) -  (3 weeks ago)
 - [abdounikarim/macos](https://github.com/abdounikarim/macos) -  (3 months ago)
@@ -32,8 +32,8 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Makefile](https://github.com/Casrime/snowtricks/pull/4) on [Casrime/snowtricks](https://github.com/Casrime/snowtricks) (2 weeks ago)
-- [Docker configuration](https://github.com/Casrime/snowtricks/pull/3) on [Casrime/snowtricks](https://github.com/Casrime/snowtricks) (2 weeks ago)
+- [Makefile](https://github.com/Casrime/snowtricks/pull/4) on [Casrime/snowtricks](https://github.com/Casrime/snowtricks) (3 weeks ago)
+- [Docker configuration](https://github.com/Casrime/snowtricks/pull/3) on [Casrime/snowtricks](https://github.com/Casrime/snowtricks) (3 weeks ago)
 - [Properties initialization](https://github.com/Casrime/blog/pull/18) on [Casrime/blog](https://github.com/Casrime/blog) (3 weeks ago)
 - [Repositories](https://github.com/Casrime/blog/pull/16) on [Casrime/blog](https://github.com/Casrime/blog) (4 weeks ago)
 - [Add design for frontend](https://github.com/Casrime/blog/pull/14) on [Casrime/blog](https://github.com/Casrime/blog) (1 month ago)
