@@ -32,13 +32,13 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Validation](https://github.com/Casrime/blog/pull/21) on [Casrime/blog](https://github.com/Casrime/blog) (today)
 - [Makefile](https://github.com/Casrime/snowtricks/pull/4) on [Casrime/snowtricks](https://github.com/Casrime/snowtricks) (3 weeks ago)
 - [Docker configuration](https://github.com/Casrime/snowtricks/pull/3) on [Casrime/snowtricks](https://github.com/Casrime/snowtricks) (3 weeks ago)
 - [Properties initialization](https://github.com/Casrime/blog/pull/18) on [Casrime/blog](https://github.com/Casrime/blog) (1 month ago)
 - [Repositories](https://github.com/Casrime/blog/pull/16) on [Casrime/blog](https://github.com/Casrime/blog) (1 month ago)
 - [Add design for frontend](https://github.com/Casrime/blog/pull/14) on [Casrime/blog](https://github.com/Casrime/blog) (1 month ago)
 - [Forms](https://github.com/Casrime/blog/pull/12) on [Casrime/blog](https://github.com/Casrime/blog) (1 month ago)
-- [login](https://github.com/Casrime/blog/pull/10) on [Casrime/blog](https://github.com/Casrime/blog) (1 month ago)
 
 #### 📓 Gists I wrote
 
