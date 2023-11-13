@@ -6,6 +6,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [doctrine/DoctrineMigrationsBundle](https://github.com/doctrine/DoctrineMigrationsBundle) - Symfony integration for the doctrine/migrations library (today)
 - [Casrime/blog](https://github.com/Casrime/blog) - OpenClassrooms - Projet 5 du parcours Développeur d&#39;Applications PHP / Symfony (1 day ago)
 - [Casrime/snowtricks](https://github.com/Casrime/snowtricks) - OpenClassrooms - Projet 6 du parcours Développeur d&#39;Applications PHP / Symfony (3 weeks ago)
 - [abdounikarim/demo-ansible](https://github.com/abdounikarim/demo-ansible) -  (1 month ago)
@@ -29,6 +30,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [doctrine/DoctrineMigrationsBundle](https://github.com/doctrine/DoctrineMigrationsBundle) ([3.2.4](https://github.com/doctrine/DoctrineMigrationsBundle/releases/tag/3.2.4), 5 months ago) - Symfony integration for the doctrine/migrations library
 
 #### 🔨 My recent Pull Requests
 
