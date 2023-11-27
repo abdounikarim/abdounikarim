@@ -7,13 +7,13 @@
 #### 👷 Check out what I'm currently working on
 
 - [Casrime/blog](https://github.com/Casrime/blog) - OpenClassrooms - Projet 5 du parcours Développeur d&#39;Applications PHP / Symfony (1 week ago)
-- [doctrine/DoctrineMigrationsBundle](https://github.com/doctrine/DoctrineMigrationsBundle) - Symfony integration for the doctrine/migrations library (1 week ago)
+- [doctrine/DoctrineMigrationsBundle](https://github.com/doctrine/DoctrineMigrationsBundle) - Symfony integration for the doctrine/migrations library (2 weeks ago)
 - [Casrime/snowtricks](https://github.com/Casrime/snowtricks) - OpenClassrooms - Projet 6 du parcours Développeur d&#39;Applications PHP / Symfony (1 month ago)
 - [abdounikarim/demo-ansible](https://github.com/abdounikarim/demo-ansible) -  (1 month ago)
 - [abdounikarim/macos](https://github.com/abdounikarim/macos) -  (4 months ago)
 - [Casrime/bilemo](https://github.com/Casrime/bilemo) - OpenClassrooms - Projet 7 du parcours Développeur d&#39;Applications PHP / Symfony (7 months ago)
 - [Casrime/chalets-et-caviar](https://github.com/Casrime/chalets-et-caviar) - OpenClassrooms - Projet 2 du parcours Développeur d&#39;Applications PHP / Symfony (8 months ago)
-- [abdounikarim/web-and-mobile-app](https://github.com/abdounikarim/web-and-mobile-app) -  (9 months ago)
+- [abdounikarim/web-and-mobile-app](https://github.com/abdounikarim/web-and-mobile-app) -  (10 months ago)
 
 #### 🌱 My latest projects
 
@@ -30,7 +30,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [doctrine/DoctrineMigrationsBundle](https://github.com/doctrine/DoctrineMigrationsBundle) ([3.3.0](https://github.com/doctrine/DoctrineMigrationsBundle/releases/tag/3.3.0), 1 week ago) - Symfony integration for the doctrine/migrations library
+- [doctrine/DoctrineMigrationsBundle](https://github.com/doctrine/DoctrineMigrationsBundle) ([3.3.0](https://github.com/doctrine/DoctrineMigrationsBundle/releases/tag/3.3.0), 2 weeks ago) - Symfony integration for the doctrine/migrations library
 
 #### 🔨 My recent Pull Requests
 
