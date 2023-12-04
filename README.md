@@ -33,7 +33,6 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Makefile](https://github.com/Casrime/snowtricks/pull/4) on [Casrime/snowtricks](https://github.com/Casrime/snowtricks) (1 month ago)
 
 #### 📓 Gists I wrote
 
