@@ -6,7 +6,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [doctrine/DoctrineMigrationsBundle](https://github.com/doctrine/DoctrineMigrationsBundle) - Symfony integration for the doctrine/migrations library (2 weeks ago)
+- [doctrine/DoctrineMigrationsBundle](https://github.com/doctrine/DoctrineMigrationsBundle) - Symfony integration for the doctrine/migrations library (3 weeks ago)
 - [Casrime/snowtricks](https://github.com/Casrime/snowtricks) - OpenClassrooms - Projet 6 du parcours Développeur d&#39;Applications PHP / Symfony (1 month ago)
 - [abdounikarim/demo-ansible](https://github.com/abdounikarim/demo-ansible) -  (1 month ago)
 - [abdounikarim/macos](https://github.com/abdounikarim/macos) -  (4 months ago)
@@ -29,7 +29,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [doctrine/DoctrineMigrationsBundle](https://github.com/doctrine/DoctrineMigrationsBundle) ([3.3.0](https://github.com/doctrine/DoctrineMigrationsBundle/releases/tag/3.3.0), 2 weeks ago) - Symfony integration for the doctrine/migrations library
+- [doctrine/DoctrineMigrationsBundle](https://github.com/doctrine/DoctrineMigrationsBundle) ([3.3.0](https://github.com/doctrine/DoctrineMigrationsBundle/releases/tag/3.3.0), 3 weeks ago) - Symfony integration for the doctrine/migrations library
 
 #### 🔨 My recent Pull Requests
 
