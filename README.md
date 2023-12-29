@@ -33,6 +33,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fixtures](https://github.com/Casrime/snowtricks/pull/27) on [Casrime/snowtricks](https://github.com/Casrime/snowtricks) (today)
 - [Tools](https://github.com/Casrime/snowtricks/pull/26) on [Casrime/snowtricks](https://github.com/Casrime/snowtricks) (today)
 - [Entities](https://github.com/Casrime/snowtricks/pull/25) on [Casrime/snowtricks](https://github.com/Casrime/snowtricks) (today)
 - [Makefile](https://github.com/Casrime/snowtricks/pull/24) on [Casrime/snowtricks](https://github.com/Casrime/snowtricks) (today)
