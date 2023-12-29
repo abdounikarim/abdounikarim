@@ -6,8 +6,8 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [Casrime/snowtricks](https://github.com/Casrime/snowtricks) - OpenClassrooms - Projet 6 du parcours Développeur d&#39;Applications PHP / Symfony (6 days ago)
 - [doctrine/DoctrineMigrationsBundle](https://github.com/doctrine/DoctrineMigrationsBundle) - Symfony integration for the doctrine/migrations library (1 month ago)
-- [Casrime/snowtricks](https://github.com/Casrime/snowtricks) - OpenClassrooms - Projet 6 du parcours Développeur d&#39;Applications PHP / Symfony (2 months ago)
 - [abdounikarim/demo-ansible](https://github.com/abdounikarim/demo-ansible) -  (2 months ago)
 - [abdounikarim/macos](https://github.com/abdounikarim/macos) -  (5 months ago)
 - [Casrime/bilemo](https://github.com/Casrime/bilemo) - OpenClassrooms - Projet 7 du parcours Développeur d&#39;Applications PHP / Symfony (8 months ago)
@@ -40,7 +40,7 @@
 
 #### ⭐ Recent Stars
 
-- [drknzz/GitHub-Achievements](https://github.com/drknzz/GitHub-Achievements) - 🔥 A Complete List of GitHub Profile Badges and Achievements 🔥 (11 months ago)
+- [drknzz/GitHub-Achievements](https://github.com/drknzz/GitHub-Achievements) - 🔥 A Complete List of GitHub Profile Badges and Achievements 🔥 (1 year ago)
 - [philcook/brew-php-switcher](https://github.com/philcook/brew-php-switcher) - Brew PHP switcher is a simple shell script to switch your apache and CLI quickly between major versions of PHP. If you support multiple products/projects that are built using either brand new or old legacy PHP functionality. For users of Homebrew (or brew for short) currently only. (1 year ago)
 - [jobbsy-dev/jobbsy](https://github.com/jobbsy-dev/jobbsy) - Jobbsy - Job Board for Symfony (1 year ago)
 - [philipsharp/afieldguidetoelephpants](https://github.com/philipsharp/afieldguidetoelephpants) -  (1 year ago)
