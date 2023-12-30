@@ -6,7 +6,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Casrime/snowtricks](https://github.com/Casrime/snowtricks) - OpenClassrooms - Projet 6 du parcours Développeur d&#39;Applications PHP / Symfony (today)
+- [Casrime/snowtricks](https://github.com/Casrime/snowtricks) - OpenClassrooms - Projet 6 du parcours Développeur d&#39;Applications PHP / Symfony (1 day ago)
 - [doctrine/DoctrineMigrationsBundle](https://github.com/doctrine/DoctrineMigrationsBundle) - Symfony integration for the doctrine/migrations library (1 month ago)
 - [abdounikarim/demo-ansible](https://github.com/abdounikarim/demo-ansible) -  (2 months ago)
 - [abdounikarim/macos](https://github.com/abdounikarim/macos) -  (5 months ago)
@@ -33,11 +33,11 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Fixtures](https://github.com/Casrime/snowtricks/pull/27) on [Casrime/snowtricks](https://github.com/Casrime/snowtricks) (today)
-- [Tools](https://github.com/Casrime/snowtricks/pull/26) on [Casrime/snowtricks](https://github.com/Casrime/snowtricks) (today)
-- [Entities](https://github.com/Casrime/snowtricks/pull/25) on [Casrime/snowtricks](https://github.com/Casrime/snowtricks) (today)
-- [Makefile](https://github.com/Casrime/snowtricks/pull/24) on [Casrime/snowtricks](https://github.com/Casrime/snowtricks) (today)
-- [Docker configuration](https://github.com/Casrime/snowtricks/pull/23) on [Casrime/snowtricks](https://github.com/Casrime/snowtricks) (today)
+- [Fixtures](https://github.com/Casrime/snowtricks/pull/27) on [Casrime/snowtricks](https://github.com/Casrime/snowtricks) (1 day ago)
+- [Tools](https://github.com/Casrime/snowtricks/pull/26) on [Casrime/snowtricks](https://github.com/Casrime/snowtricks) (1 day ago)
+- [Entities](https://github.com/Casrime/snowtricks/pull/25) on [Casrime/snowtricks](https://github.com/Casrime/snowtricks) (1 day ago)
+- [Makefile](https://github.com/Casrime/snowtricks/pull/24) on [Casrime/snowtricks](https://github.com/Casrime/snowtricks) (1 day ago)
+- [Docker configuration](https://github.com/Casrime/snowtricks/pull/23) on [Casrime/snowtricks](https://github.com/Casrime/snowtricks) (1 day ago)
 
 #### 📓 Gists I wrote
 
