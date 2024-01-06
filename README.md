@@ -34,6 +34,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Comment](https://github.com/Casrime/snowtricks/pull/33) on [Casrime/snowtricks](https://github.com/Casrime/snowtricks) (today)
 - [Trick](https://github.com/Casrime/snowtricks/pull/32) on [Casrime/snowtricks](https://github.com/Casrime/snowtricks) (today)
 - [Video](https://github.com/Casrime/snowtricks/pull/31) on [Casrime/snowtricks](https://github.com/Casrime/snowtricks) (2 days ago)
 - [README](https://github.com/Casrime/blog/pull/56) on [Casrime/blog](https://github.com/Casrime/blog) (3 days ago)
@@ -43,7 +44,6 @@
 - [Category](https://github.com/Casrime/snowtricks/pull/29) on [Casrime/snowtricks](https://github.com/Casrime/snowtricks) (3 days ago)
 - [User](https://github.com/Casrime/snowtricks/pull/28) on [Casrime/snowtricks](https://github.com/Casrime/snowtricks) (6 days ago)
 - [Fixtures](https://github.com/Casrime/snowtricks/pull/27) on [Casrime/snowtricks](https://github.com/Casrime/snowtricks) (1 week ago)
-- [Tools](https://github.com/Casrime/snowtricks/pull/26) on [Casrime/snowtricks](https://github.com/Casrime/snowtricks) (1 week ago)
 
 #### 📓 Gists I wrote
 
