@@ -34,13 +34,13 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Reset password page](https://github.com/Casrime/snowtricks/pull/37) on [Casrime/snowtricks](https://github.com/Casrime/snowtricks) (1 day ago)
-- [Forgot password page](https://github.com/Casrime/snowtricks/pull/36) on [Casrime/snowtricks](https://github.com/Casrime/snowtricks) (1 day ago)
-- [Register page](https://github.com/Casrime/snowtricks/pull/35) on [Casrime/snowtricks](https://github.com/Casrime/snowtricks) (1 day ago)
-- [Login page](https://github.com/Casrime/snowtricks/pull/34) on [Casrime/snowtricks](https://github.com/Casrime/snowtricks) (1 day ago)
+- [Reset password page](https://github.com/Casrime/snowtricks/pull/37) on [Casrime/snowtricks](https://github.com/Casrime/snowtricks) (2 days ago)
+- [Forgot password page](https://github.com/Casrime/snowtricks/pull/36) on [Casrime/snowtricks](https://github.com/Casrime/snowtricks) (2 days ago)
+- [Register page](https://github.com/Casrime/snowtricks/pull/35) on [Casrime/snowtricks](https://github.com/Casrime/snowtricks) (2 days ago)
+- [Login page](https://github.com/Casrime/snowtricks/pull/34) on [Casrime/snowtricks](https://github.com/Casrime/snowtricks) (2 days ago)
 - [Comment](https://github.com/Casrime/snowtricks/pull/33) on [Casrime/snowtricks](https://github.com/Casrime/snowtricks) (2 weeks ago)
 - [Trick](https://github.com/Casrime/snowtricks/pull/32) on [Casrime/snowtricks](https://github.com/Casrime/snowtricks) (2 weeks ago)
-- [Video](https://github.com/Casrime/snowtricks/pull/31) on [Casrime/snowtricks](https://github.com/Casrime/snowtricks) (2 weeks ago)
+- [Video](https://github.com/Casrime/snowtricks/pull/31) on [Casrime/snowtricks](https://github.com/Casrime/snowtricks) (3 weeks ago)
 - [README](https://github.com/Casrime/blog/pull/56) on [Casrime/blog](https://github.com/Casrime/blog) (3 weeks ago)
 - [Symfony Insight](https://github.com/Casrime/blog/pull/55) on [Casrime/blog](https://github.com/Casrime/blog) (3 weeks ago)
 - [UML](https://github.com/Casrime/blog/pull/54) on [Casrime/blog](https://github.com/Casrime/blog) (3 weeks ago)
