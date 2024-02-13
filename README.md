@@ -37,10 +37,10 @@
 - [Show Tricks page](https://github.com/Casrime/snowtricks/pull/42) on [Casrime/snowtricks](https://github.com/Casrime/snowtricks) (1 week ago)
 - [Create Trick page](https://github.com/Casrime/snowtricks/pull/40) on [Casrime/snowtricks](https://github.com/Casrime/snowtricks) (1 week ago)
 - [Home page](https://github.com/Casrime/snowtricks/pull/39) on [Casrime/snowtricks](https://github.com/Casrime/snowtricks) (2 weeks ago)
-- [Reset password page](https://github.com/Casrime/snowtricks/pull/37) on [Casrime/snowtricks](https://github.com/Casrime/snowtricks) (2 weeks ago)
-- [Forgot password page](https://github.com/Casrime/snowtricks/pull/36) on [Casrime/snowtricks](https://github.com/Casrime/snowtricks) (2 weeks ago)
-- [Register page](https://github.com/Casrime/snowtricks/pull/35) on [Casrime/snowtricks](https://github.com/Casrime/snowtricks) (2 weeks ago)
-- [Login page](https://github.com/Casrime/snowtricks/pull/34) on [Casrime/snowtricks](https://github.com/Casrime/snowtricks) (2 weeks ago)
+- [Reset password page](https://github.com/Casrime/snowtricks/pull/37) on [Casrime/snowtricks](https://github.com/Casrime/snowtricks) (3 weeks ago)
+- [Forgot password page](https://github.com/Casrime/snowtricks/pull/36) on [Casrime/snowtricks](https://github.com/Casrime/snowtricks) (3 weeks ago)
+- [Register page](https://github.com/Casrime/snowtricks/pull/35) on [Casrime/snowtricks](https://github.com/Casrime/snowtricks) (3 weeks ago)
+- [Login page](https://github.com/Casrime/snowtricks/pull/34) on [Casrime/snowtricks](https://github.com/Casrime/snowtricks) (3 weeks ago)
 - [Comment](https://github.com/Casrime/snowtricks/pull/33) on [Casrime/snowtricks](https://github.com/Casrime/snowtricks) (1 month ago)
 - [Trick](https://github.com/Casrime/snowtricks/pull/32) on [Casrime/snowtricks](https://github.com/Casrime/snowtricks) (1 month ago)
 
@@ -50,7 +50,7 @@
 
 #### ⭐ Recent Stars
 
-- [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux) (today)
+- [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux) (1 day ago)
 - [drknzz/GitHub-Achievements](https://github.com/drknzz/GitHub-Achievements) - 🔥 A Complete List of GitHub Profile Badges and Achievements 🔥 (1 year ago)
 - [philcook/brew-php-switcher](https://github.com/philcook/brew-php-switcher) - Brew PHP switcher is a simple shell script to switch your apache and CLI quickly between major versions of PHP. If you support multiple products/projects that are built using either brand new or old legacy PHP functionality. For users of Homebrew (or brew for short) currently only. (1 year ago)
 - [jobbsy-dev/jobbsy](https://github.com/jobbsy-dev/jobbsy) - Jobbsy - Job Board for Symfony (1 year ago)
