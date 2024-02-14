@@ -6,7 +6,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Casrime/snowtricks](https://github.com/Casrime/snowtricks) - OpenClassrooms - Projet 6 du parcours Développeur d&#39;Applications PHP / Symfony (1 week ago)
+- [Casrime/snowtricks](https://github.com/Casrime/snowtricks) - OpenClassrooms - Projet 6 du parcours Développeur d&#39;Applications PHP / Symfony (today)
 - [Casrime/blog](https://github.com/Casrime/blog) - OpenClassrooms - Projet 5 du parcours Développeur d&#39;Applications PHP / Symfony (1 month ago)
 - [doctrine/DoctrineMigrationsBundle](https://github.com/doctrine/DoctrineMigrationsBundle) - Symfony integration for the doctrine/migrations library (3 months ago)
 - [abdounikarim/demo-ansible](https://github.com/abdounikarim/demo-ansible) -  (4 months ago)
@@ -33,6 +33,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Symfony insight](https://github.com/Casrime/snowtricks/pull/48) on [Casrime/snowtricks](https://github.com/Casrime/snowtricks) (today)
 - [Readme](https://github.com/Casrime/snowtricks/pull/46) on [Casrime/snowtricks](https://github.com/Casrime/snowtricks) (today)
 - [Tests](https://github.com/Casrime/snowtricks/pull/45) on [Casrime/snowtricks](https://github.com/Casrime/snowtricks) (1 day ago)
 - [Admin](https://github.com/Casrime/snowtricks/pull/44) on [Casrime/snowtricks](https://github.com/Casrime/snowtricks) (1 day ago)
@@ -42,7 +43,6 @@
 - [Home page](https://github.com/Casrime/snowtricks/pull/39) on [Casrime/snowtricks](https://github.com/Casrime/snowtricks) (2 weeks ago)
 - [Reset password page](https://github.com/Casrime/snowtricks/pull/37) on [Casrime/snowtricks](https://github.com/Casrime/snowtricks) (3 weeks ago)
 - [Forgot password page](https://github.com/Casrime/snowtricks/pull/36) on [Casrime/snowtricks](https://github.com/Casrime/snowtricks) (3 weeks ago)
-- [Register page](https://github.com/Casrime/snowtricks/pull/35) on [Casrime/snowtricks](https://github.com/Casrime/snowtricks) (3 weeks ago)
 
 #### 📓 Gists I wrote
 
