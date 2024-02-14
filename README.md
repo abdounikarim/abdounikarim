@@ -11,7 +11,7 @@
 - [doctrine/DoctrineMigrationsBundle](https://github.com/doctrine/DoctrineMigrationsBundle) - Symfony integration for the doctrine/migrations library (3 months ago)
 - [abdounikarim/demo-ansible](https://github.com/abdounikarim/demo-ansible) -  (4 months ago)
 - [abdounikarim/macos](https://github.com/abdounikarim/macos) -  (6 months ago)
-- [Casrime/bilemo](https://github.com/Casrime/bilemo) - OpenClassrooms - Projet 7 du parcours Développeur d&#39;Applications PHP / Symfony (9 months ago)
+- [Casrime/bilemo](https://github.com/Casrime/bilemo) - OpenClassrooms - Projet 7 du parcours Développeur d&#39;Applications PHP / Symfony (10 months ago)
 - [Casrime/chalets-et-caviar](https://github.com/Casrime/chalets-et-caviar) - OpenClassrooms - Projet 2 du parcours Développeur d&#39;Applications PHP / Symfony (11 months ago)
 
 #### 🌱 My latest projects
@@ -33,8 +33,8 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Tests](https://github.com/Casrime/snowtricks/pull/45) on [Casrime/snowtricks](https://github.com/Casrime/snowtricks) (today)
-- [Admin](https://github.com/Casrime/snowtricks/pull/44) on [Casrime/snowtricks](https://github.com/Casrime/snowtricks) (today)
+- [Tests](https://github.com/Casrime/snowtricks/pull/45) on [Casrime/snowtricks](https://github.com/Casrime/snowtricks) (1 day ago)
+- [Admin](https://github.com/Casrime/snowtricks/pull/44) on [Casrime/snowtricks](https://github.com/Casrime/snowtricks) (1 day ago)
 - [Show trick page](https://github.com/Casrime/snowtricks/pull/43) on [Casrime/snowtricks](https://github.com/Casrime/snowtricks) (1 week ago)
 - [Show Tricks page](https://github.com/Casrime/snowtricks/pull/42) on [Casrime/snowtricks](https://github.com/Casrime/snowtricks) (1 week ago)
 - [Create Trick page](https://github.com/Casrime/snowtricks/pull/40) on [Casrime/snowtricks](https://github.com/Casrime/snowtricks) (1 week ago)
@@ -50,7 +50,7 @@
 
 #### ⭐ Recent Stars
 
-- [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux) (1 day ago)
+- [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux) (2 days ago)
 - [drknzz/GitHub-Achievements](https://github.com/drknzz/GitHub-Achievements) - 🔥 A Complete List of GitHub Profile Badges and Achievements 🔥 (1 year ago)
 - [philcook/brew-php-switcher](https://github.com/philcook/brew-php-switcher) - Brew PHP switcher is a simple shell script to switch your apache and CLI quickly between major versions of PHP. If you support multiple products/projects that are built using either brand new or old legacy PHP functionality. For users of Homebrew (or brew for short) currently only. (1 year ago)
 - [jobbsy-dev/jobbsy](https://github.com/jobbsy-dev/jobbsy) - Jobbsy - Job Board for Symfony (1 year ago)
