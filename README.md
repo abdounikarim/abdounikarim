@@ -39,10 +39,10 @@
 - [Admin](https://github.com/Casrime/snowtricks/pull/44) on [Casrime/snowtricks](https://github.com/Casrime/snowtricks) (1 week ago)
 - [Show trick page](https://github.com/Casrime/snowtricks/pull/43) on [Casrime/snowtricks](https://github.com/Casrime/snowtricks) (2 weeks ago)
 - [Show Tricks page](https://github.com/Casrime/snowtricks/pull/42) on [Casrime/snowtricks](https://github.com/Casrime/snowtricks) (2 weeks ago)
-- [Create Trick page](https://github.com/Casrime/snowtricks/pull/40) on [Casrime/snowtricks](https://github.com/Casrime/snowtricks) (2 weeks ago)
+- [Create Trick page](https://github.com/Casrime/snowtricks/pull/40) on [Casrime/snowtricks](https://github.com/Casrime/snowtricks) (3 weeks ago)
 - [Home page](https://github.com/Casrime/snowtricks/pull/39) on [Casrime/snowtricks](https://github.com/Casrime/snowtricks) (3 weeks ago)
-- [Reset password page](https://github.com/Casrime/snowtricks/pull/37) on [Casrime/snowtricks](https://github.com/Casrime/snowtricks) (4 weeks ago)
-- [Forgot password page](https://github.com/Casrime/snowtricks/pull/36) on [Casrime/snowtricks](https://github.com/Casrime/snowtricks) (4 weeks ago)
+- [Reset password page](https://github.com/Casrime/snowtricks/pull/37) on [Casrime/snowtricks](https://github.com/Casrime/snowtricks) (1 month ago)
+- [Forgot password page](https://github.com/Casrime/snowtricks/pull/36) on [Casrime/snowtricks](https://github.com/Casrime/snowtricks) (1 month ago)
 
 #### 📓 Gists I wrote
 
