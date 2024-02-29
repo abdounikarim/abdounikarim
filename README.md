@@ -6,7 +6,6 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [abdounikarim/test.github.io](https://github.com/abdounikarim/test.github.io) -  (1 day ago)
 - [Casrime/snowtricks](https://github.com/Casrime/snowtricks) - OpenClassrooms - Projet 6 du parcours Développeur d&#39;Applications PHP / Symfony (1 week ago)
 - [Casrime/blog](https://github.com/Casrime/blog) - OpenClassrooms - Projet 5 du parcours Développeur d&#39;Applications PHP / Symfony (1 month ago)
 - [doctrine/DoctrineMigrationsBundle](https://github.com/doctrine/DoctrineMigrationsBundle) - Symfony integration for the doctrine/migrations library (3 months ago)
@@ -17,7 +16,6 @@
 
 #### 🌱 My latest projects
 
-- [abdounikarim/test.github.io](https://github.com/abdounikarim/test.github.io) - 
 - [abdounikarim/demo-ansible](https://github.com/abdounikarim/demo-ansible) - 
 - [abdounikarim/lorem-ipsum-bundle](https://github.com/abdounikarim/lorem-ipsum-bundle) - 
 - [abdounikarim/cmi](https://github.com/abdounikarim/cmi) - 
@@ -27,6 +25,7 @@
 - [abdounikarim/ponka-fy_me](https://github.com/abdounikarim/ponka-fy_me) - 
 - [abdounikarim/cauldron_overflow](https://github.com/abdounikarim/cauldron_overflow) - 
 - [abdounikarim/web-and-mobile-app](https://github.com/abdounikarim/web-and-mobile-app) - 
+- [abdounikarim/symfonycasts-vue-js](https://github.com/abdounikarim/symfonycasts-vue-js) - SymfonyCasts - Vue.js courses
 
 #### 🔭 Latest releases I've contributed to
 
