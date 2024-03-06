@@ -34,8 +34,8 @@
 #### 🔨 My recent Pull Requests
 
 - [UML](https://github.com/Casrime/snowtricks/pull/49) on [Casrime/snowtricks](https://github.com/Casrime/snowtricks) (1 week ago)
-- [Symfony insight](https://github.com/Casrime/snowtricks/pull/48) on [Casrime/snowtricks](https://github.com/Casrime/snowtricks) (2 weeks ago)
-- [Readme](https://github.com/Casrime/snowtricks/pull/46) on [Casrime/snowtricks](https://github.com/Casrime/snowtricks) (2 weeks ago)
+- [Symfony insight](https://github.com/Casrime/snowtricks/pull/48) on [Casrime/snowtricks](https://github.com/Casrime/snowtricks) (3 weeks ago)
+- [Readme](https://github.com/Casrime/snowtricks/pull/46) on [Casrime/snowtricks](https://github.com/Casrime/snowtricks) (3 weeks ago)
 - [Tests](https://github.com/Casrime/snowtricks/pull/45) on [Casrime/snowtricks](https://github.com/Casrime/snowtricks) (3 weeks ago)
 - [Admin](https://github.com/Casrime/snowtricks/pull/44) on [Casrime/snowtricks](https://github.com/Casrime/snowtricks) (3 weeks ago)
 - [Show trick page](https://github.com/Casrime/snowtricks/pull/43) on [Casrime/snowtricks](https://github.com/Casrime/snowtricks) (1 month ago)
