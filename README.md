@@ -6,6 +6,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [abdounikarim/php-js-boilerplate](https://github.com/abdounikarim/php-js-boilerplate) -  (today)
 - [abdounikarim/abdounikarim.github.io](https://github.com/abdounikarim/abdounikarim.github.io) -  (1 month ago)
 - [Casrime/expressfood](https://github.com/Casrime/expressfood) - OpenClassrooms - Projet 4 du parcours Développeur d&#39;Applications PHP / Symfony (1 month ago)
 - [Casrime/snowtricks](https://github.com/Casrime/snowtricks) - OpenClassrooms - Projet 6 du parcours Développeur d&#39;Applications PHP / Symfony (2 months ago)
@@ -16,6 +17,7 @@
 
 #### 🌱 My latest projects
 
+- [abdounikarim/php-js-boilerplate](https://github.com/abdounikarim/php-js-boilerplate) - 
 - [abdounikarim/abdounikarim.github.io](https://github.com/abdounikarim/abdounikarim.github.io) - 
 - [abdounikarim/demo-ansible](https://github.com/abdounikarim/demo-ansible) - 
 - [abdounikarim/lorem-ipsum-bundle](https://github.com/abdounikarim/lorem-ipsum-bundle) - 
@@ -25,7 +27,6 @@
 - [abdounikarim/vue](https://github.com/abdounikarim/vue) - 
 - [abdounikarim/ponka-fy_me](https://github.com/abdounikarim/ponka-fy_me) - 
 - [abdounikarim/cauldron_overflow](https://github.com/abdounikarim/cauldron_overflow) - 
-- [abdounikarim/web-and-mobile-app](https://github.com/abdounikarim/web-and-mobile-app) - 
 
 #### 🔭 Latest releases I've contributed to
 
