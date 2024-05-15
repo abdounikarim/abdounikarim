@@ -6,7 +6,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [abdounikarim/abdounikarim.github.io](https://github.com/abdounikarim/abdounikarim.github.io) -  (2 days ago)
+- [abdounikarim/abdounikarim.github.io](https://github.com/abdounikarim/abdounikarim.github.io) -  (3 days ago)
 - [abdounikarim/php-js-boilerplate](https://github.com/abdounikarim/php-js-boilerplate) -  (2 weeks ago)
 - [Casrime/expressfood](https://github.com/Casrime/expressfood) - OpenClassrooms - Projet 4 du parcours Développeur d&#39;Applications PHP / Symfony (2 months ago)
 - [Casrime/snowtricks](https://github.com/Casrime/snowtricks) - OpenClassrooms - Projet 6 du parcours Développeur d&#39;Applications PHP / Symfony (2 months ago)
@@ -30,11 +30,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [doctrine/DoctrineMigrationsBundle](https://github.com/doctrine/DoctrineMigrationsBundle) ([3.3.1](https://github.com/doctrine/DoctrineMigrationsBundle/releases/tag/3.3.1), today) - Symfony integration for the doctrine/migrations library
+- [doctrine/DoctrineMigrationsBundle](https://github.com/doctrine/DoctrineMigrationsBundle) ([3.3.1](https://github.com/doctrine/DoctrineMigrationsBundle/releases/tag/3.3.1), 1 day ago) - Symfony integration for the doctrine/migrations library
 
 #### 🔨 My recent Pull Requests
 
-- [Switch to pnpm](https://github.com/abdounikarim/abdounikarim.github.io/pull/1) on [abdounikarim/abdounikarim.github.io](https://github.com/abdounikarim/abdounikarim.github.io) (2 days ago)
+- [Switch to pnpm](https://github.com/abdounikarim/abdounikarim.github.io/pull/1) on [abdounikarim/abdounikarim.github.io](https://github.com/abdounikarim/abdounikarim.github.io) (3 days ago)
 - [UML](https://github.com/Casrime/snowtricks/pull/49) on [Casrime/snowtricks](https://github.com/Casrime/snowtricks) (2 months ago)
 - [Symfony insight](https://github.com/Casrime/snowtricks/pull/48) on [Casrime/snowtricks](https://github.com/Casrime/snowtricks) (3 months ago)
 - [Readme](https://github.com/Casrime/snowtricks/pull/46) on [Casrime/snowtricks](https://github.com/Casrime/snowtricks) (3 months ago)
