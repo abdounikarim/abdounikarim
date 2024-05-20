@@ -30,7 +30,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [doctrine/DoctrineMigrationsBundle](https://github.com/doctrine/DoctrineMigrationsBundle) ([3.3.1](https://github.com/doctrine/DoctrineMigrationsBundle/releases/tag/3.3.1), 5 days ago) - Symfony integration for the doctrine/migrations library
+- [doctrine/DoctrineMigrationsBundle](https://github.com/doctrine/DoctrineMigrationsBundle) ([3.3.1](https://github.com/doctrine/DoctrineMigrationsBundle/releases/tag/3.3.1), 6 days ago) - Symfony integration for the doctrine/migrations library
 
 #### 🔨 My recent Pull Requests
 
