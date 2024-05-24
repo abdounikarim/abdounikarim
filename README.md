@@ -64,11 +64,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [cumsoft](https://github.com/cumsoft)
 - [CStre](https://github.com/CStre)
 - [Pierstoval](https://github.com/Pierstoval)
 - [JiuBanA1](https://github.com/JiuBanA1)
 - [qdequippe](https://github.com/qdequippe)
-- [SergioVasko](https://github.com/SergioVasko)
 
 #### 💬 Feedback
 
