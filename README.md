@@ -6,6 +6,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [abdounikarim/poc-symfony-hello](https://github.com/abdounikarim/poc-symfony-hello) - Hello from Symfony!👋 application (today)
 - [abdounikarim/abdounikarim.github.io](https://github.com/abdounikarim/abdounikarim.github.io) -  (3 weeks ago)
 - [abdounikarim/php-js-boilerplate](https://github.com/abdounikarim/php-js-boilerplate) -  (1 month ago)
 - [Casrime/expressfood](https://github.com/Casrime/expressfood) - OpenClassrooms - Projet 4 du parcours Développeur d&#39;Applications PHP / Symfony (3 months ago)
@@ -17,6 +18,7 @@
 
 #### 🌱 My latest projects
 
+- [abdounikarim/poc-symfony-hello](https://github.com/abdounikarim/poc-symfony-hello) - Hello from Symfony!👋 application
 - [abdounikarim/php-js-boilerplate](https://github.com/abdounikarim/php-js-boilerplate) - 
 - [abdounikarim/abdounikarim.github.io](https://github.com/abdounikarim/abdounikarim.github.io) - 
 - [abdounikarim/demo-ansible](https://github.com/abdounikarim/demo-ansible) - 
@@ -26,7 +28,6 @@
 - [abdounikarim/test_lfz](https://github.com/abdounikarim/test_lfz) - 
 - [abdounikarim/vue](https://github.com/abdounikarim/vue) - 
 - [abdounikarim/ponka-fy_me](https://github.com/abdounikarim/ponka-fy_me) - 
-- [abdounikarim/cauldron_overflow](https://github.com/abdounikarim/cauldron_overflow) - 
 
 #### 🔭 Latest releases I've contributed to
 
