@@ -6,7 +6,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [abdounikarim/poc-symfony-hello](https://github.com/abdounikarim/poc-symfony-hello) - Hello from Symfony!👋 application (today)
+- [abdounikarim/poc-symfony-hello](https://github.com/abdounikarim/poc-symfony-hello) - Hello from Symfony!👋 application (1 day ago)
 - [abdounikarim/abdounikarim.github.io](https://github.com/abdounikarim/abdounikarim.github.io) -  (3 weeks ago)
 - [abdounikarim/php-js-boilerplate](https://github.com/abdounikarim/php-js-boilerplate) -  (1 month ago)
 - [Casrime/expressfood](https://github.com/Casrime/expressfood) - OpenClassrooms - Projet 4 du parcours Développeur d&#39;Applications PHP / Symfony (3 months ago)
