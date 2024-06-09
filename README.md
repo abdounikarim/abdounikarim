@@ -6,14 +6,14 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [abdounikarim/poc-symfony-hello](https://github.com/abdounikarim/poc-symfony-hello) - Hello from Symfony!👋 application (1 day ago)
-- [abdounikarim/abdounikarim.github.io](https://github.com/abdounikarim/abdounikarim.github.io) -  (3 weeks ago)
+- [abdounikarim/poc-symfony-hello](https://github.com/abdounikarim/poc-symfony-hello) - Hello from Symfony!👋 application (2 days ago)
+- [abdounikarim/abdounikarim.github.io](https://github.com/abdounikarim/abdounikarim.github.io) -  (4 weeks ago)
 - [abdounikarim/php-js-boilerplate](https://github.com/abdounikarim/php-js-boilerplate) -  (1 month ago)
 - [Casrime/expressfood](https://github.com/Casrime/expressfood) - OpenClassrooms - Projet 4 du parcours Développeur d&#39;Applications PHP / Symfony (3 months ago)
 - [Casrime/snowtricks](https://github.com/Casrime/snowtricks) - OpenClassrooms - Projet 6 du parcours Développeur d&#39;Applications PHP / Symfony (3 months ago)
 - [Casrime/blog](https://github.com/Casrime/blog) - OpenClassrooms - Projet 5 du parcours Développeur d&#39;Applications PHP / Symfony (5 months ago)
 - [doctrine/DoctrineMigrationsBundle](https://github.com/doctrine/DoctrineMigrationsBundle) - Symfony integration for the doctrine/migrations library (6 months ago)
-- [abdounikarim/demo-ansible](https://github.com/abdounikarim/demo-ansible) -  (7 months ago)
+- [abdounikarim/demo-ansible](https://github.com/abdounikarim/demo-ansible) -  (8 months ago)
 - [abdounikarim/macos](https://github.com/abdounikarim/macos) -  (10 months ago)
 
 #### 🌱 My latest projects
@@ -35,7 +35,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Switch to pnpm](https://github.com/abdounikarim/abdounikarim.github.io/pull/1) on [abdounikarim/abdounikarim.github.io](https://github.com/abdounikarim/abdounikarim.github.io) (3 weeks ago)
+- [Switch to pnpm](https://github.com/abdounikarim/abdounikarim.github.io/pull/1) on [abdounikarim/abdounikarim.github.io](https://github.com/abdounikarim/abdounikarim.github.io) (4 weeks ago)
 - [UML](https://github.com/Casrime/snowtricks/pull/49) on [Casrime/snowtricks](https://github.com/Casrime/snowtricks) (3 months ago)
 - [Symfony insight](https://github.com/Casrime/snowtricks/pull/48) on [Casrime/snowtricks](https://github.com/Casrime/snowtricks) (3 months ago)
 - [Readme](https://github.com/Casrime/snowtricks/pull/46) on [Casrime/snowtricks](https://github.com/Casrime/snowtricks) (3 months ago)
