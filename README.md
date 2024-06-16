@@ -52,6 +52,7 @@
 
 #### ⭐ Recent Stars
 
+- [abdounikarim/poc](https://github.com/abdounikarim/poc) -  (today)
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux) (4 months ago)
 - [drknzz/GitHub-Achievements](https://github.com/drknzz/GitHub-Achievements) - 🔥 A Complete List of GitHub Profile Badges and Achievements 🔥 (1 year ago)
 - [philcook/brew-php-switcher](https://github.com/philcook/brew-php-switcher) - Brew PHP switcher is a simple shell script to switch your apache and CLI quickly between major versions of PHP. If you support multiple products/projects that are built using either brand new or old legacy PHP functionality. For users of Homebrew (or brew for short) currently only. (1 year ago)
@@ -61,7 +62,6 @@
 - [symfony/webpack-encore-bundle](https://github.com/symfony/webpack-encore-bundle) - Symfony integration with Webpack Encore! (2 years ago)
 - [symfony/flex](https://github.com/symfony/flex) - Composer plugin for Symfony (2 years ago)
 - [symfony/panther](https://github.com/symfony/panther) - A browser testing and web crawling library for PHP and Symfony (2 years ago)
-- [symfony/recipes](https://github.com/symfony/recipes) - Symfony Recipes Repository (2 years ago)
 
 #### 👯 Check out some of my recent followers
 
