@@ -35,6 +35,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Improvements](https://github.com/abdounikarim/abdounikarim.github.io/pull/2) on [abdounikarim/abdounikarim.github.io](https://github.com/abdounikarim/abdounikarim.github.io) (today)
 - [Switch to pnpm](https://github.com/abdounikarim/abdounikarim.github.io/pull/1) on [abdounikarim/abdounikarim.github.io](https://github.com/abdounikarim/abdounikarim.github.io) (1 month ago)
 - [UML](https://github.com/Casrime/snowtricks/pull/49) on [Casrime/snowtricks](https://github.com/Casrime/snowtricks) (3 months ago)
 - [Symfony insight](https://github.com/Casrime/snowtricks/pull/48) on [Casrime/snowtricks](https://github.com/Casrime/snowtricks) (4 months ago)
@@ -44,7 +45,6 @@
 - [Show trick page](https://github.com/Casrime/snowtricks/pull/43) on [Casrime/snowtricks](https://github.com/Casrime/snowtricks) (4 months ago)
 - [Show Tricks page](https://github.com/Casrime/snowtricks/pull/42) on [Casrime/snowtricks](https://github.com/Casrime/snowtricks) (4 months ago)
 - [Create Trick page](https://github.com/Casrime/snowtricks/pull/40) on [Casrime/snowtricks](https://github.com/Casrime/snowtricks) (4 months ago)
-- [Home page](https://github.com/Casrime/snowtricks/pull/39) on [Casrime/snowtricks](https://github.com/Casrime/snowtricks) (4 months ago)
 
 #### 📓 Gists I wrote
 
