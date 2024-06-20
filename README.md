@@ -65,11 +65,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [OlafCoin001](https://github.com/OlafCoin001)
 - [cumsoft](https://github.com/cumsoft)
 - [CStre](https://github.com/CStre)
 - [Pierstoval](https://github.com/Pierstoval)
 - [JiuBanA1](https://github.com/JiuBanA1)
-- [qdequippe](https://github.com/qdequippe)
 
 #### 💬 Feedback
 
