@@ -65,11 +65,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [UndeadRoses](https://github.com/UndeadRoses)
 - [sammorozov](https://github.com/sammorozov)
 - [OlafCoin001](https://github.com/OlafCoin001)
 - [cumsoft](https://github.com/cumsoft)
 - [CStre](https://github.com/CStre)
-- [Pierstoval](https://github.com/Pierstoval)
 
 #### 💬 Feedback
 
