@@ -67,7 +67,7 @@
 
 - [BATJOKEZ](https://github.com/BATJOKEZ)
 - [sammorozov](https://github.com/sammorozov)
-- [OlafCoin001](https://github.com/OlafCoin001)
+- [CuteOlafDev](https://github.com/CuteOlafDev)
 - [cumsoft](https://github.com/cumsoft)
 - [CStre](https://github.com/CStre)
 
