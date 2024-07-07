@@ -6,7 +6,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [abdounikarim/poc-symfony-hello](https://github.com/abdounikarim/poc-symfony-hello) - Hello from Symfony!👋 application (4 weeks ago)
+- [abdounikarim/poc-symfony-hello](https://github.com/abdounikarim/poc-symfony-hello) - Hello from Symfony!👋 application (1 month ago)
 - [abdounikarim/abdounikarim.github.io](https://github.com/abdounikarim/abdounikarim.github.io) -  (1 month ago)
 - [abdounikarim/php-js-boilerplate](https://github.com/abdounikarim/php-js-boilerplate) -  (2 months ago)
 - [Casrime/expressfood](https://github.com/Casrime/expressfood) - OpenClassrooms - Projet 4 du parcours Développeur d&#39;Applications PHP / Symfony (4 months ago)
@@ -35,7 +35,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Improvements](https://github.com/abdounikarim/abdounikarim.github.io/pull/2) on [abdounikarim/abdounikarim.github.io](https://github.com/abdounikarim/abdounikarim.github.io) (2 weeks ago)
+- [Improvements](https://github.com/abdounikarim/abdounikarim.github.io/pull/2) on [abdounikarim/abdounikarim.github.io](https://github.com/abdounikarim/abdounikarim.github.io) (3 weeks ago)
 - [Switch to pnpm](https://github.com/abdounikarim/abdounikarim.github.io/pull/1) on [abdounikarim/abdounikarim.github.io](https://github.com/abdounikarim/abdounikarim.github.io) (1 month ago)
 - [UML](https://github.com/Casrime/snowtricks/pull/49) on [Casrime/snowtricks](https://github.com/Casrime/snowtricks) (4 months ago)
 - [Symfony insight](https://github.com/Casrime/snowtricks/pull/48) on [Casrime/snowtricks](https://github.com/Casrime/snowtricks) (4 months ago)
@@ -52,7 +52,7 @@
 
 #### ⭐ Recent Stars
 
-- [abdounikarim/poc](https://github.com/abdounikarim/poc) -  (2 weeks ago)
+- [abdounikarim/poc](https://github.com/abdounikarim/poc) -  (3 weeks ago)
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux) (4 months ago)
 - [drknzz/GitHub-Achievements](https://github.com/drknzz/GitHub-Achievements) - 🔥 A Complete List of GitHub Profile Badges and Achievements 🔥 (2 years ago)
 - [philcook/brew-php-switcher](https://github.com/philcook/brew-php-switcher) - Brew PHP switcher is a simple shell script to switch your apache and CLI quickly between major versions of PHP. If you support multiple products/projects that are built using either brand new or old legacy PHP functionality. For users of Homebrew (or brew for short) currently only. (2 years ago)
