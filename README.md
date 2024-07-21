@@ -10,7 +10,7 @@
 - [abdounikarim/abdounikarim.github.io](https://github.com/abdounikarim/abdounikarim.github.io) -  (2 months ago)
 - [abdounikarim/php-js-boilerplate](https://github.com/abdounikarim/php-js-boilerplate) -  (2 months ago)
 - [Casrime/expressfood](https://github.com/Casrime/expressfood) - OpenClassrooms - Projet 4 du parcours Développeur d&#39;Applications PHP / Symfony (4 months ago)
-- [Casrime/snowtricks](https://github.com/Casrime/snowtricks) - OpenClassrooms - Projet 6 du parcours Développeur d&#39;Applications PHP / Symfony (4 months ago)
+- [Casrime/snowtricks](https://github.com/Casrime/snowtricks) - OpenClassrooms - Projet 6 du parcours Développeur d&#39;Applications PHP / Symfony (5 months ago)
 - [Casrime/blog](https://github.com/Casrime/blog) - OpenClassrooms - Projet 5 du parcours Développeur d&#39;Applications PHP / Symfony (6 months ago)
 - [doctrine/DoctrineMigrationsBundle](https://github.com/doctrine/DoctrineMigrationsBundle) - Symfony integration for the doctrine/migrations library (8 months ago)
 - [abdounikarim/demo-ansible](https://github.com/abdounikarim/demo-ansible) -  (9 months ago)
@@ -37,7 +37,7 @@
 
 - [Improvements](https://github.com/abdounikarim/abdounikarim.github.io/pull/2) on [abdounikarim/abdounikarim.github.io](https://github.com/abdounikarim/abdounikarim.github.io) (1 month ago)
 - [Switch to pnpm](https://github.com/abdounikarim/abdounikarim.github.io/pull/1) on [abdounikarim/abdounikarim.github.io](https://github.com/abdounikarim/abdounikarim.github.io) (2 months ago)
-- [UML](https://github.com/Casrime/snowtricks/pull/49) on [Casrime/snowtricks](https://github.com/Casrime/snowtricks) (4 months ago)
+- [UML](https://github.com/Casrime/snowtricks/pull/49) on [Casrime/snowtricks](https://github.com/Casrime/snowtricks) (5 months ago)
 - [Symfony insight](https://github.com/Casrime/snowtricks/pull/48) on [Casrime/snowtricks](https://github.com/Casrime/snowtricks) (5 months ago)
 - [Readme](https://github.com/Casrime/snowtricks/pull/46) on [Casrime/snowtricks](https://github.com/Casrime/snowtricks) (5 months ago)
 - [Tests](https://github.com/Casrime/snowtricks/pull/45) on [Casrime/snowtricks](https://github.com/Casrime/snowtricks) (5 months ago)
