@@ -64,11 +64,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [alxkm](https://github.com/alxkm)
 - [HElZOU](https://github.com/HElZOU)
 - [BuildDream18](https://github.com/BuildDream18)
 - [cumsoft](https://github.com/cumsoft)
 - [CStre](https://github.com/CStre)
-- [Pierstoval](https://github.com/Pierstoval)
 
 #### 💬 Feedback
 
