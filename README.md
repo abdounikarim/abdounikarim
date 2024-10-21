@@ -50,6 +50,7 @@
 
 #### ⭐ Recent Stars
 
+- [abdounikarim/nahos](https://github.com/abdounikarim/nahos) -  (today)
 - [msichterman/mac-setup](https://github.com/msichterman/mac-setup) - The commands and processes I run to setup a new Mac computer (3 weeks ago)
 - [geerlingguy/mac-dev-playbook](https://github.com/geerlingguy/mac-dev-playbook) - Mac setup and configuration via Ansible. (3 weeks ago)
 - [abdounikarim/poc](https://github.com/abdounikarim/poc) -  (4 months ago)
@@ -59,7 +60,6 @@
 - [jobbsy-dev/jobbsy](https://github.com/jobbsy-dev/jobbsy) - Jobbsy - Job Board for Symfony (2 years ago)
 - [philipsharp/afieldguidetoelephpants](https://github.com/philipsharp/afieldguidetoelephpants) -  (2 years ago)
 - [symfony/monolog-bundle](https://github.com/symfony/monolog-bundle) - Symfony Monolog Bundle (2 years ago)
-- [symfony/webpack-encore-bundle](https://github.com/symfony/webpack-encore-bundle) - Symfony integration with Webpack Encore! (2 years ago)
 
 #### 👯 Check out some of my recent followers
 
