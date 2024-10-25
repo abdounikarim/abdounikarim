@@ -6,9 +6,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [abdounikarim/poc-symfony](https://github.com/abdounikarim/poc-symfony) - Hello from Symfony!👋 application (3 days ago)
+- [abdounikarim/poc-symfony](https://github.com/abdounikarim/poc-symfony) - Hello from Symfony!👋 application (4 days ago)
 - [abdounikarim/abdounikarim.github.io](https://github.com/abdounikarim/abdounikarim.github.io) -  (5 months ago)
-- [abdounikarim/php-js-boilerplate](https://github.com/abdounikarim/php-js-boilerplate) -  (5 months ago)
+- [abdounikarim/php-js-boilerplate](https://github.com/abdounikarim/php-js-boilerplate) -  (6 months ago)
 - [Casrime/expressfood](https://github.com/Casrime/expressfood) - OpenClassrooms - Projet 4 du parcours Développeur d&#39;Applications PHP / Symfony (7 months ago)
 - [Casrime/snowtricks](https://github.com/Casrime/snowtricks) - OpenClassrooms - Projet 6 du parcours Développeur d&#39;Applications PHP / Symfony (8 months ago)
 - [Casrime/blog](https://github.com/Casrime/blog) - OpenClassrooms - Projet 5 du parcours Développeur d&#39;Applications PHP / Symfony (9 months ago)
@@ -50,7 +50,7 @@
 
 #### ⭐ Recent Stars
 
-- [abdounikarim/nahos](https://github.com/abdounikarim/nahos) -  (3 days ago)
+- [abdounikarim/nahos](https://github.com/abdounikarim/nahos) -  (4 days ago)
 - [msichterman/mac-setup](https://github.com/msichterman/mac-setup) - The commands and processes I run to setup a new Mac computer (3 weeks ago)
 - [geerlingguy/mac-dev-playbook](https://github.com/geerlingguy/mac-dev-playbook) - Mac setup and configuration via Ansible. (3 weeks ago)
 - [abdounikarim/poc](https://github.com/abdounikarim/poc) -  (4 months ago)
