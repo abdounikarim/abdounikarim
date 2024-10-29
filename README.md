@@ -11,7 +11,7 @@
 - [abdounikarim/php-js-boilerplate](https://github.com/abdounikarim/php-js-boilerplate) -  (6 months ago)
 - [Casrime/expressfood](https://github.com/Casrime/expressfood) - OpenClassrooms - Projet 4 du parcours Développeur d&#39;Applications PHP / Symfony (7 months ago)
 - [Casrime/snowtricks](https://github.com/Casrime/snowtricks) - OpenClassrooms - Projet 6 du parcours Développeur d&#39;Applications PHP / Symfony (8 months ago)
-- [Casrime/blog](https://github.com/Casrime/blog) - OpenClassrooms - Projet 5 du parcours Développeur d&#39;Applications PHP / Symfony (9 months ago)
+- [Casrime/blog](https://github.com/Casrime/blog) - OpenClassrooms - Projet 5 du parcours Développeur d&#39;Applications PHP / Symfony (10 months ago)
 - [doctrine/DoctrineMigrationsBundle](https://github.com/doctrine/DoctrineMigrationsBundle) - Symfony integration for the doctrine/migrations library (11 months ago)
 
 #### 🌱 My latest projects
@@ -40,8 +40,8 @@
 - [Readme](https://github.com/Casrime/snowtricks/pull/46) on [Casrime/snowtricks](https://github.com/Casrime/snowtricks) (8 months ago)
 - [Tests](https://github.com/Casrime/snowtricks/pull/45) on [Casrime/snowtricks](https://github.com/Casrime/snowtricks) (8 months ago)
 - [Admin](https://github.com/Casrime/snowtricks/pull/44) on [Casrime/snowtricks](https://github.com/Casrime/snowtricks) (8 months ago)
-- [Show trick page](https://github.com/Casrime/snowtricks/pull/43) on [Casrime/snowtricks](https://github.com/Casrime/snowtricks) (8 months ago)
-- [Show Tricks page](https://github.com/Casrime/snowtricks/pull/42) on [Casrime/snowtricks](https://github.com/Casrime/snowtricks) (8 months ago)
+- [Show trick page](https://github.com/Casrime/snowtricks/pull/43) on [Casrime/snowtricks](https://github.com/Casrime/snowtricks) (9 months ago)
+- [Show Tricks page](https://github.com/Casrime/snowtricks/pull/42) on [Casrime/snowtricks](https://github.com/Casrime/snowtricks) (9 months ago)
 - [Create Trick page](https://github.com/Casrime/snowtricks/pull/40) on [Casrime/snowtricks](https://github.com/Casrime/snowtricks) (9 months ago)
 
 #### 📓 Gists I wrote
