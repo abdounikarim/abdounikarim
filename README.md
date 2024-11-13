@@ -6,8 +6,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [abdounikarim/poc-symfony](https://github.com/abdounikarim/poc-symfony) - Hello from Symfony!👋 application (today)
-- [Casrime/bilemo](https://github.com/Casrime/bilemo) - OpenClassrooms - Projet 7 du parcours Développeur d&#39;Applications PHP / Symfony (today)
+- [abdounikarim/poc-symfony](https://github.com/abdounikarim/poc-symfony) - Hello from Symfony!👋 application (1 day ago)
+- [Casrime/bilemo](https://github.com/Casrime/bilemo) - OpenClassrooms - Projet 7 du parcours Développeur d&#39;Applications PHP / Symfony (1 day ago)
 - [abdounikarim/abdounikarim.github.io](https://github.com/abdounikarim/abdounikarim.github.io) -  (6 months ago)
 - [abdounikarim/php-js-boilerplate](https://github.com/abdounikarim/php-js-boilerplate) -  (6 months ago)
 - [Casrime/expressfood](https://github.com/Casrime/expressfood) - OpenClassrooms - Projet 4 du parcours Développeur d&#39;Applications PHP / Symfony (8 months ago)
@@ -34,10 +34,10 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Fix deprecations](https://github.com/Casrime/bilemo/pull/65) on [Casrime/bilemo](https://github.com/Casrime/bilemo) (today)
-- [Update dependencies](https://github.com/Casrime/bilemo/pull/64) on [Casrime/bilemo](https://github.com/Casrime/bilemo) (today)
-- [Makefile - Update docker compose](https://github.com/Casrime/bilemo/pull/63) on [Casrime/bilemo](https://github.com/Casrime/bilemo) (today)
-- [Improvements](https://github.com/abdounikarim/abdounikarim.github.io/pull/2) on [abdounikarim/abdounikarim.github.io](https://github.com/abdounikarim/abdounikarim.github.io) (4 months ago)
+- [Fix deprecations](https://github.com/Casrime/bilemo/pull/65) on [Casrime/bilemo](https://github.com/Casrime/bilemo) (1 day ago)
+- [Update dependencies](https://github.com/Casrime/bilemo/pull/64) on [Casrime/bilemo](https://github.com/Casrime/bilemo) (1 day ago)
+- [Makefile - Update docker compose](https://github.com/Casrime/bilemo/pull/63) on [Casrime/bilemo](https://github.com/Casrime/bilemo) (1 day ago)
+- [Improvements](https://github.com/abdounikarim/abdounikarim.github.io/pull/2) on [abdounikarim/abdounikarim.github.io](https://github.com/abdounikarim/abdounikarim.github.io) (5 months ago)
 - [Switch to pnpm](https://github.com/abdounikarim/abdounikarim.github.io/pull/1) on [abdounikarim/abdounikarim.github.io](https://github.com/abdounikarim/abdounikarim.github.io) (6 months ago)
 - [UML](https://github.com/Casrime/snowtricks/pull/49) on [Casrime/snowtricks](https://github.com/Casrime/snowtricks) (8 months ago)
 
@@ -51,7 +51,7 @@
 - [abdounikarim/nahos](https://github.com/abdounikarim/nahos) -  (3 weeks ago)
 - [msichterman/mac-setup](https://github.com/msichterman/mac-setup) - The commands and processes I run to setup a new Mac computer (1 month ago)
 - [geerlingguy/mac-dev-playbook](https://github.com/geerlingguy/mac-dev-playbook) - Mac setup and configuration via Ansible. (1 month ago)
-- [abdounikarim/poc](https://github.com/abdounikarim/poc) -  (4 months ago)
+- [abdounikarim/poc](https://github.com/abdounikarim/poc) -  (5 months ago)
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux) (9 months ago)
 - [drknzz/GitHub-Achievements](https://github.com/drknzz/GitHub-Achievements) - 🔥 A Complete List of GitHub Profile Badges and Achievements 🔥 (2 years ago)
 - [philcook/brew-php-switcher](https://github.com/philcook/brew-php-switcher) - Brew PHP switcher is a simple shell script to switch your apache and CLI quickly between major versions of PHP. If you support multiple products/projects that are built using either brand new or old legacy PHP functionality. For users of Homebrew (or brew for short) currently only. (2 years ago)
