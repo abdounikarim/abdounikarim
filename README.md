@@ -6,8 +6,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [abdounikarim/poc-symfony](https://github.com/abdounikarim/poc-symfony) - Hello from Symfony!👋 application (3 days ago)
-- [Casrime/bilemo](https://github.com/Casrime/bilemo) - OpenClassrooms - Projet 7 du parcours Développeur d&#39;Applications PHP / Symfony (3 days ago)
+- [abdounikarim/poc-symfony](https://github.com/abdounikarim/poc-symfony) - Hello from Symfony!👋 application (4 days ago)
+- [Casrime/bilemo](https://github.com/Casrime/bilemo) - OpenClassrooms - Projet 7 du parcours Développeur d&#39;Applications PHP / Symfony (4 days ago)
 - [abdounikarim/abdounikarim.github.io](https://github.com/abdounikarim/abdounikarim.github.io) -  (6 months ago)
 - [abdounikarim/php-js-boilerplate](https://github.com/abdounikarim/php-js-boilerplate) -  (6 months ago)
 - [Casrime/expressfood](https://github.com/Casrime/expressfood) - OpenClassrooms - Projet 4 du parcours Développeur d&#39;Applications PHP / Symfony (8 months ago)
@@ -33,9 +33,9 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Fix deprecations](https://github.com/Casrime/bilemo/pull/65) on [Casrime/bilemo](https://github.com/Casrime/bilemo) (3 days ago)
-- [Update dependencies](https://github.com/Casrime/bilemo/pull/64) on [Casrime/bilemo](https://github.com/Casrime/bilemo) (3 days ago)
-- [Makefile - Update docker compose](https://github.com/Casrime/bilemo/pull/63) on [Casrime/bilemo](https://github.com/Casrime/bilemo) (3 days ago)
+- [Fix deprecations](https://github.com/Casrime/bilemo/pull/65) on [Casrime/bilemo](https://github.com/Casrime/bilemo) (4 days ago)
+- [Update dependencies](https://github.com/Casrime/bilemo/pull/64) on [Casrime/bilemo](https://github.com/Casrime/bilemo) (4 days ago)
+- [Makefile - Update docker compose](https://github.com/Casrime/bilemo/pull/63) on [Casrime/bilemo](https://github.com/Casrime/bilemo) (4 days ago)
 
 #### 📓 Gists I wrote
 
@@ -43,7 +43,7 @@
 
 #### ⭐ Recent Stars
 
-- [abdounikarim/poc-nginx](https://github.com/abdounikarim/poc-nginx) -  (1 week ago)
+- [abdounikarim/poc-nginx](https://github.com/abdounikarim/poc-nginx) -  (2 weeks ago)
 - [abdounikarim/nahos](https://github.com/abdounikarim/nahos) -  (3 weeks ago)
 - [msichterman/mac-setup](https://github.com/msichterman/mac-setup) - The commands and processes I run to setup a new Mac computer (1 month ago)
 - [geerlingguy/mac-dev-playbook](https://github.com/geerlingguy/mac-dev-playbook) - Mac setup and configuration via Ansible. (1 month ago)
