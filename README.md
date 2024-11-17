@@ -6,8 +6,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [abdounikarim/poc-symfony](https://github.com/abdounikarim/poc-symfony) - Hello from Symfony!👋 application (4 days ago)
-- [Casrime/bilemo](https://github.com/Casrime/bilemo) - OpenClassrooms - Projet 7 du parcours Développeur d&#39;Applications PHP / Symfony (4 days ago)
+- [abdounikarim/poc-symfony](https://github.com/abdounikarim/poc-symfony) - Hello from Symfony!👋 application (5 days ago)
+- [Casrime/bilemo](https://github.com/Casrime/bilemo) - OpenClassrooms - Projet 7 du parcours Développeur d&#39;Applications PHP / Symfony (5 days ago)
 - [abdounikarim/abdounikarim.github.io](https://github.com/abdounikarim/abdounikarim.github.io) -  (6 months ago)
 - [abdounikarim/php-js-boilerplate](https://github.com/abdounikarim/php-js-boilerplate) -  (6 months ago)
 - [Casrime/expressfood](https://github.com/Casrime/expressfood) - OpenClassrooms - Projet 4 du parcours Développeur d&#39;Applications PHP / Symfony (8 months ago)
@@ -33,9 +33,9 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Fix deprecations](https://github.com/Casrime/bilemo/pull/65) on [Casrime/bilemo](https://github.com/Casrime/bilemo) (4 days ago)
-- [Update dependencies](https://github.com/Casrime/bilemo/pull/64) on [Casrime/bilemo](https://github.com/Casrime/bilemo) (4 days ago)
-- [Makefile - Update docker compose](https://github.com/Casrime/bilemo/pull/63) on [Casrime/bilemo](https://github.com/Casrime/bilemo) (4 days ago)
+- [Fix deprecations](https://github.com/Casrime/bilemo/pull/65) on [Casrime/bilemo](https://github.com/Casrime/bilemo) (5 days ago)
+- [Update dependencies](https://github.com/Casrime/bilemo/pull/64) on [Casrime/bilemo](https://github.com/Casrime/bilemo) (5 days ago)
+- [Makefile - Update docker compose](https://github.com/Casrime/bilemo/pull/63) on [Casrime/bilemo](https://github.com/Casrime/bilemo) (5 days ago)
 
 #### 📓 Gists I wrote
 
