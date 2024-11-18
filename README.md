@@ -6,12 +6,12 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [abdounikarim/poc-symfony](https://github.com/abdounikarim/poc-symfony) - Hello from Symfony!👋 application (5 days ago)
-- [Casrime/bilemo](https://github.com/Casrime/bilemo) - OpenClassrooms - Projet 7 du parcours Développeur d&#39;Applications PHP / Symfony (5 days ago)
+- [abdounikarim/poc-symfony](https://github.com/abdounikarim/poc-symfony) - Hello from Symfony!👋 application (6 days ago)
+- [Casrime/bilemo](https://github.com/Casrime/bilemo) - OpenClassrooms - Projet 7 du parcours Développeur d&#39;Applications PHP / Symfony (6 days ago)
 - [abdounikarim/abdounikarim.github.io](https://github.com/abdounikarim/abdounikarim.github.io) -  (6 months ago)
 - [abdounikarim/php-js-boilerplate](https://github.com/abdounikarim/php-js-boilerplate) -  (6 months ago)
 - [Casrime/expressfood](https://github.com/Casrime/expressfood) - OpenClassrooms - Projet 4 du parcours Développeur d&#39;Applications PHP / Symfony (8 months ago)
-- [Casrime/snowtricks](https://github.com/Casrime/snowtricks) - OpenClassrooms - Projet 6 du parcours Développeur d&#39;Applications PHP / Symfony (8 months ago)
+- [Casrime/snowtricks](https://github.com/Casrime/snowtricks) - OpenClassrooms - Projet 6 du parcours Développeur d&#39;Applications PHP / Symfony (9 months ago)
 - [Casrime/blog](https://github.com/Casrime/blog) - OpenClassrooms - Projet 5 du parcours Développeur d&#39;Applications PHP / Symfony (10 months ago)
 - [doctrine/DoctrineMigrationsBundle](https://github.com/doctrine/DoctrineMigrationsBundle) - Symfony integration for the doctrine/migrations library (1 year ago)
 
@@ -33,9 +33,9 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Fix deprecations](https://github.com/Casrime/bilemo/pull/65) on [Casrime/bilemo](https://github.com/Casrime/bilemo) (5 days ago)
-- [Update dependencies](https://github.com/Casrime/bilemo/pull/64) on [Casrime/bilemo](https://github.com/Casrime/bilemo) (5 days ago)
-- [Makefile - Update docker compose](https://github.com/Casrime/bilemo/pull/63) on [Casrime/bilemo](https://github.com/Casrime/bilemo) (5 days ago)
+- [Fix deprecations](https://github.com/Casrime/bilemo/pull/65) on [Casrime/bilemo](https://github.com/Casrime/bilemo) (6 days ago)
+- [Update dependencies](https://github.com/Casrime/bilemo/pull/64) on [Casrime/bilemo](https://github.com/Casrime/bilemo) (6 days ago)
+- [Makefile - Update docker compose](https://github.com/Casrime/bilemo/pull/63) on [Casrime/bilemo](https://github.com/Casrime/bilemo) (6 days ago)
 
 #### 📓 Gists I wrote
 
@@ -44,7 +44,7 @@
 #### ⭐ Recent Stars
 
 - [abdounikarim/poc-nginx](https://github.com/abdounikarim/poc-nginx) -  (2 weeks ago)
-- [abdounikarim/nahos](https://github.com/abdounikarim/nahos) -  (3 weeks ago)
+- [abdounikarim/nahos](https://github.com/abdounikarim/nahos) -  (4 weeks ago)
 - [msichterman/mac-setup](https://github.com/msichterman/mac-setup) - The commands and processes I run to setup a new Mac computer (1 month ago)
 - [geerlingguy/mac-dev-playbook](https://github.com/geerlingguy/mac-dev-playbook) - Mac setup and configuration via Ansible. (1 month ago)
 - [abdounikarim/poc](https://github.com/abdounikarim/poc) -  (5 months ago)
