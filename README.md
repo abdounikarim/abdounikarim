@@ -42,7 +42,7 @@
 
 #### ⭐ Recent Stars
 
-- [abdounikarim/poc-nginx](https://github.com/abdounikarim/poc-nginx) -  (2 weeks ago)
+- [abdounikarim/poc-nginx](https://github.com/abdounikarim/poc-nginx) -  (3 weeks ago)
 - [abdounikarim/nahos](https://github.com/abdounikarim/nahos) -  (1 month ago)
 - [msichterman/mac-setup](https://github.com/msichterman/mac-setup) - The commands and processes I run to setup a new Mac computer (1 month ago)
 - [geerlingguy/mac-dev-playbook](https://github.com/geerlingguy/mac-dev-playbook) - Mac setup and configuration via Ansible. (1 month ago)
