@@ -32,10 +32,10 @@
 
 #### 🔨 My recent Pull Requests
 
+- [WIP - Modern JavaScript](https://github.com/abdounikarim/velib/pull/1) on [abdounikarim/velib](https://github.com/abdounikarim/velib) (today)
 - [WIP - Brewfile](https://github.com/abdounikarim/macos/pull/15) on [abdounikarim/macos](https://github.com/abdounikarim/macos) (today)
 - [Fix deprecations](https://github.com/Casrime/bilemo/pull/65) on [Casrime/bilemo](https://github.com/Casrime/bilemo) (1 week ago)
 - [Update dependencies](https://github.com/Casrime/bilemo/pull/64) on [Casrime/bilemo](https://github.com/Casrime/bilemo) (1 week ago)
-- [Makefile - Update docker compose](https://github.com/Casrime/bilemo/pull/63) on [Casrime/bilemo](https://github.com/Casrime/bilemo) (1 week ago)
 
 #### 📓 Gists I wrote
 
