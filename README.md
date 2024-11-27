@@ -32,8 +32,8 @@
 
 #### 🔨 My recent Pull Requests
 
-- [WIP - Modern JavaScript](https://github.com/abdounikarim/velib/pull/1) on [abdounikarim/velib](https://github.com/abdounikarim/velib) (1 day ago)
-- [WIP - Brewfile](https://github.com/abdounikarim/macos/pull/15) on [abdounikarim/macos](https://github.com/abdounikarim/macos) (1 day ago)
+- [WIP - Modern JavaScript](https://github.com/abdounikarim/velib/pull/1) on [abdounikarim/velib](https://github.com/abdounikarim/velib) (2 days ago)
+- [WIP - Brewfile](https://github.com/abdounikarim/macos/pull/15) on [abdounikarim/macos](https://github.com/abdounikarim/macos) (2 days ago)
 - [Fix deprecations](https://github.com/Casrime/bilemo/pull/65) on [Casrime/bilemo](https://github.com/Casrime/bilemo) (2 weeks ago)
 - [Update dependencies](https://github.com/Casrime/bilemo/pull/64) on [Casrime/bilemo](https://github.com/Casrime/bilemo) (2 weeks ago)
 
