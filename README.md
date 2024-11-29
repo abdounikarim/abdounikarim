@@ -32,10 +32,11 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Improve github workflow](https://github.com/Casrime/bilemo/pull/84) on [Casrime/bilemo](https://github.com/Casrime/bilemo) (1 day ago)
-- [Replace twigcs by twig-cs-fixer](https://github.com/Casrime/bilemo/pull/80) on [Casrime/bilemo](https://github.com/Casrime/bilemo) (1 day ago)
-- [WIP - Modern JavaScript](https://github.com/abdounikarim/velib/pull/1) on [abdounikarim/velib](https://github.com/abdounikarim/velib) (3 days ago)
-- [WIP - Brewfile](https://github.com/abdounikarim/macos/pull/15) on [abdounikarim/macos](https://github.com/abdounikarim/macos) (3 days ago)
+- [Update to symfony 6](https://github.com/Casrime/bilemo/pull/86) on [Casrime/bilemo](https://github.com/Casrime/bilemo) (1 day ago)
+- [Improve github workflow](https://github.com/Casrime/bilemo/pull/84) on [Casrime/bilemo](https://github.com/Casrime/bilemo) (2 days ago)
+- [Replace twigcs by twig-cs-fixer](https://github.com/Casrime/bilemo/pull/80) on [Casrime/bilemo](https://github.com/Casrime/bilemo) (2 days ago)
+- [WIP - Modern JavaScript](https://github.com/abdounikarim/velib/pull/1) on [abdounikarim/velib](https://github.com/abdounikarim/velib) (4 days ago)
+- [WIP - Brewfile](https://github.com/abdounikarim/macos/pull/15) on [abdounikarim/macos](https://github.com/abdounikarim/macos) (4 days ago)
 
 #### 📓 Gists I wrote
 
@@ -45,8 +46,8 @@
 
 - [abdounikarim/poc-nginx](https://github.com/abdounikarim/poc-nginx) -  (3 weeks ago)
 - [abdounikarim/nahos](https://github.com/abdounikarim/nahos) -  (1 month ago)
-- [msichterman/mac-setup](https://github.com/msichterman/mac-setup) - The commands and processes I run to setup a new Mac computer (1 month ago)
-- [geerlingguy/mac-dev-playbook](https://github.com/geerlingguy/mac-dev-playbook) - Mac setup and configuration via Ansible. (1 month ago)
+- [msichterman/mac-setup](https://github.com/msichterman/mac-setup) - The commands and processes I run to setup a new Mac computer (2 months ago)
+- [geerlingguy/mac-dev-playbook](https://github.com/geerlingguy/mac-dev-playbook) - Mac setup and configuration via Ansible. (2 months ago)
 - [abdounikarim/poc](https://github.com/abdounikarim/poc) -  (5 months ago)
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux) (9 months ago)
 - [drknzz/GitHub-Achievements](https://github.com/drknzz/GitHub-Achievements) - 🔥 A Complete List of GitHub Profile Badges and Achievements 🔥 (2 years ago)
