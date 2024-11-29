@@ -32,6 +32,9 @@
 
 #### 🔨 My recent Pull Requests
 
+- [WIP - Redis for the cache](https://github.com/Casrime/todolist/pull/54) on [Casrime/todolist](https://github.com/Casrime/todolist) (today)
+- [WIP - Translations in tests](https://github.com/Casrime/todolist/pull/53) on [Casrime/todolist](https://github.com/Casrime/todolist) (today)
+- [WIP - Search with Algolia](https://github.com/Casrime/todolist/pull/52) on [Casrime/todolist](https://github.com/Casrime/todolist) (today)
 - [Update to symfony 6](https://github.com/Casrime/bilemo/pull/86) on [Casrime/bilemo](https://github.com/Casrime/bilemo) (1 day ago)
 - [Improve github workflow](https://github.com/Casrime/bilemo/pull/84) on [Casrime/bilemo](https://github.com/Casrime/bilemo) (2 days ago)
 - [Replace twigcs by twig-cs-fixer](https://github.com/Casrime/bilemo/pull/80) on [Casrime/bilemo](https://github.com/Casrime/bilemo) (2 days ago)
