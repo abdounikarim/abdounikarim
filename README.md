@@ -6,12 +6,12 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Casrime/bilemo](https://github.com/Casrime/bilemo) - OpenClassrooms - Projet 7 du parcours Développeur d&#39;Applications PHP / Symfony (1 day ago)
-- [Casrime/snowtricks](https://github.com/Casrime/snowtricks) - OpenClassrooms - Projet 6 du parcours Développeur d&#39;Applications PHP / Symfony (1 day ago)
+- [Casrime/bilemo](https://github.com/Casrime/bilemo) - OpenClassrooms - Projet 7 du parcours Développeur d&#39;Applications PHP / Symfony (2 days ago)
+- [Casrime/snowtricks](https://github.com/Casrime/snowtricks) - OpenClassrooms - Projet 6 du parcours Développeur d&#39;Applications PHP / Symfony (2 days ago)
 - [abdounikarim/poc-symfony](https://github.com/abdounikarim/poc-symfony) - Hello from Symfony!👋 application (2 weeks ago)
 - [abdounikarim/abdounikarim.github.io](https://github.com/abdounikarim/abdounikarim.github.io) -  (6 months ago)
 - [abdounikarim/php-js-boilerplate](https://github.com/abdounikarim/php-js-boilerplate) -  (7 months ago)
-- [Casrime/expressfood](https://github.com/Casrime/expressfood) - OpenClassrooms - Projet 4 du parcours Développeur d&#39;Applications PHP / Symfony (8 months ago)
+- [Casrime/expressfood](https://github.com/Casrime/expressfood) - OpenClassrooms - Projet 4 du parcours Développeur d&#39;Applications PHP / Symfony (9 months ago)
 - [Casrime/blog](https://github.com/Casrime/blog) - OpenClassrooms - Projet 5 du parcours Développeur d&#39;Applications PHP / Symfony (11 months ago)
 
 #### 🌱 My latest projects
@@ -32,14 +32,14 @@
 
 #### 🔨 My recent Pull Requests
 
-- [WIP - Redis for the cache](https://github.com/Casrime/todolist/pull/54) on [Casrime/todolist](https://github.com/Casrime/todolist) (1 day ago)
-- [WIP - Translations in tests](https://github.com/Casrime/todolist/pull/53) on [Casrime/todolist](https://github.com/Casrime/todolist) (1 day ago)
-- [WIP - Search with Algolia](https://github.com/Casrime/todolist/pull/52) on [Casrime/todolist](https://github.com/Casrime/todolist) (1 day ago)
-- [Update to symfony 6](https://github.com/Casrime/bilemo/pull/86) on [Casrime/bilemo](https://github.com/Casrime/bilemo) (2 days ago)
-- [Improve github workflow](https://github.com/Casrime/bilemo/pull/84) on [Casrime/bilemo](https://github.com/Casrime/bilemo) (3 days ago)
-- [Replace twigcs by twig-cs-fixer](https://github.com/Casrime/bilemo/pull/80) on [Casrime/bilemo](https://github.com/Casrime/bilemo) (3 days ago)
-- [WIP - Modern JavaScript](https://github.com/abdounikarim/velib/pull/1) on [abdounikarim/velib](https://github.com/abdounikarim/velib) (5 days ago)
-- [WIP - Brewfile](https://github.com/abdounikarim/macos/pull/15) on [abdounikarim/macos](https://github.com/abdounikarim/macos) (5 days ago)
+- [WIP - Redis for the cache](https://github.com/Casrime/todolist/pull/54) on [Casrime/todolist](https://github.com/Casrime/todolist) (2 days ago)
+- [WIP - Translations in tests](https://github.com/Casrime/todolist/pull/53) on [Casrime/todolist](https://github.com/Casrime/todolist) (2 days ago)
+- [WIP - Search with Algolia](https://github.com/Casrime/todolist/pull/52) on [Casrime/todolist](https://github.com/Casrime/todolist) (2 days ago)
+- [Update to symfony 6](https://github.com/Casrime/bilemo/pull/86) on [Casrime/bilemo](https://github.com/Casrime/bilemo) (3 days ago)
+- [Improve github workflow](https://github.com/Casrime/bilemo/pull/84) on [Casrime/bilemo](https://github.com/Casrime/bilemo) (4 days ago)
+- [Replace twigcs by twig-cs-fixer](https://github.com/Casrime/bilemo/pull/80) on [Casrime/bilemo](https://github.com/Casrime/bilemo) (4 days ago)
+- [WIP - Modern JavaScript](https://github.com/abdounikarim/velib/pull/1) on [abdounikarim/velib](https://github.com/abdounikarim/velib) (6 days ago)
+- [WIP - Brewfile](https://github.com/abdounikarim/macos/pull/15) on [abdounikarim/macos](https://github.com/abdounikarim/macos) (6 days ago)
 
 #### 📓 Gists I wrote
 
