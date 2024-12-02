@@ -32,6 +32,9 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Makefile - Update docker compose](https://github.com/Casrime/todolist/pull/58) on [Casrime/todolist](https://github.com/Casrime/todolist) (today)
+- [Symfony Insight](https://github.com/Casrime/todolist/pull/57) on [Casrime/todolist](https://github.com/Casrime/todolist) (today)
+- [Docker compose - remove version](https://github.com/Casrime/todolist/pull/56) on [Casrime/todolist](https://github.com/Casrime/todolist) (today)
 - [WIP - Redis for the cache](https://github.com/Casrime/todolist/pull/54) on [Casrime/todolist](https://github.com/Casrime/todolist) (3 days ago)
 - [WIP - Translations in tests](https://github.com/Casrime/todolist/pull/53) on [Casrime/todolist](https://github.com/Casrime/todolist) (3 days ago)
 - [WIP - Search with Algolia](https://github.com/Casrime/todolist/pull/52) on [Casrime/todolist](https://github.com/Casrime/todolist) (3 days ago)
@@ -39,7 +42,6 @@
 - [Improve github workflow](https://github.com/Casrime/bilemo/pull/84) on [Casrime/bilemo](https://github.com/Casrime/bilemo) (5 days ago)
 - [Replace twigcs by twig-cs-fixer](https://github.com/Casrime/bilemo/pull/80) on [Casrime/bilemo](https://github.com/Casrime/bilemo) (5 days ago)
 - [WIP - Modern JavaScript](https://github.com/abdounikarim/velib/pull/1) on [abdounikarim/velib](https://github.com/abdounikarim/velib) (1 week ago)
-- [WIP - Brewfile](https://github.com/abdounikarim/macos/pull/15) on [abdounikarim/macos](https://github.com/abdounikarim/macos) (1 week ago)
 
 #### 📓 Gists I wrote
 
