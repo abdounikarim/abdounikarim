@@ -32,7 +32,8 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Install PHPStan recipe](https://github.com/Casrime/todolist/pull/59) on [Casrime/todolist](https://github.com/Casrime/todolist) (today)
+- [Improve Github CI](https://github.com/Casrime/todolist/pull/60) on [Casrime/todolist](https://github.com/Casrime/todolist) (today)
+- [Update Symfony recipes](https://github.com/Casrime/todolist/pull/59) on [Casrime/todolist](https://github.com/Casrime/todolist) (today)
 - [Makefile - Update docker compose](https://github.com/Casrime/todolist/pull/58) on [Casrime/todolist](https://github.com/Casrime/todolist) (today)
 - [Symfony Insight](https://github.com/Casrime/todolist/pull/57) on [Casrime/todolist](https://github.com/Casrime/todolist) (today)
 - [Docker compose - remove version](https://github.com/Casrime/todolist/pull/56) on [Casrime/todolist](https://github.com/Casrime/todolist) (today)
@@ -41,7 +42,6 @@
 - [WIP - Search with Algolia](https://github.com/Casrime/todolist/pull/52) on [Casrime/todolist](https://github.com/Casrime/todolist) (3 days ago)
 - [Update to symfony 6](https://github.com/Casrime/bilemo/pull/86) on [Casrime/bilemo](https://github.com/Casrime/bilemo) (4 days ago)
 - [Improve github workflow](https://github.com/Casrime/bilemo/pull/84) on [Casrime/bilemo](https://github.com/Casrime/bilemo) (5 days ago)
-- [Replace twigcs by twig-cs-fixer](https://github.com/Casrime/bilemo/pull/80) on [Casrime/bilemo](https://github.com/Casrime/bilemo) (5 days ago)
 
 #### 📓 Gists I wrote
 
