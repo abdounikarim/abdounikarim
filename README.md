@@ -22,7 +22,7 @@
 - [abdounikarim/demo-ansible](https://github.com/abdounikarim/demo-ansible) - 
 - [abdounikarim/lorem-ipsum-bundle](https://github.com/abdounikarim/lorem-ipsum-bundle) - 
 - [abdounikarim/cmi](https://github.com/abdounikarim/cmi) - 
-- [abdounikarim/macos](https://github.com/abdounikarim/macos) - 
+- [abdounikarim/os](https://github.com/abdounikarim/os) - 
 - [abdounikarim/test_lfz](https://github.com/abdounikarim/test_lfz) - 
 - [abdounikarim/vue](https://github.com/abdounikarim/vue) - 
 - [abdounikarim/ponka-fy_me](https://github.com/abdounikarim/ponka-fy_me) - 
