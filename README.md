@@ -6,9 +6,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Casrime/bilemo](https://github.com/Casrime/bilemo) - OpenClassrooms - Projet 7 du parcours Développeur d&#39;Applications PHP / Symfony (3 days ago)
-- [Casrime/snowtricks](https://github.com/Casrime/snowtricks) - OpenClassrooms - Projet 6 du parcours Développeur d&#39;Applications PHP / Symfony (3 days ago)
-- [abdounikarim/poc-symfony](https://github.com/abdounikarim/poc-symfony) - Hello from Symfony!👋 application (2 weeks ago)
+- [Casrime/bilemo](https://github.com/Casrime/bilemo) - OpenClassrooms - Projet 7 du parcours Développeur d&#39;Applications PHP / Symfony (4 days ago)
+- [Casrime/snowtricks](https://github.com/Casrime/snowtricks) - OpenClassrooms - Projet 6 du parcours Développeur d&#39;Applications PHP / Symfony (4 days ago)
+- [abdounikarim/poc-symfony](https://github.com/abdounikarim/poc-symfony) - Hello from Symfony!👋 application (3 weeks ago)
 - [abdounikarim/abdounikarim.github.io](https://github.com/abdounikarim/abdounikarim.github.io) -  (6 months ago)
 - [abdounikarim/php-js-boilerplate](https://github.com/abdounikarim/php-js-boilerplate) -  (7 months ago)
 - [Casrime/expressfood](https://github.com/Casrime/expressfood) - OpenClassrooms - Projet 4 du parcours Développeur d&#39;Applications PHP / Symfony (9 months ago)
@@ -32,16 +32,16 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Improve Github CI](https://github.com/Casrime/todolist/pull/60) on [Casrime/todolist](https://github.com/Casrime/todolist) (today)
-- [Update Symfony recipes](https://github.com/Casrime/todolist/pull/59) on [Casrime/todolist](https://github.com/Casrime/todolist) (today)
-- [Makefile - Update docker compose](https://github.com/Casrime/todolist/pull/58) on [Casrime/todolist](https://github.com/Casrime/todolist) (today)
-- [Symfony Insight](https://github.com/Casrime/todolist/pull/57) on [Casrime/todolist](https://github.com/Casrime/todolist) (today)
-- [Docker compose - remove version](https://github.com/Casrime/todolist/pull/56) on [Casrime/todolist](https://github.com/Casrime/todolist) (today)
-- [WIP - Redis for the cache](https://github.com/Casrime/todolist/pull/54) on [Casrime/todolist](https://github.com/Casrime/todolist) (3 days ago)
-- [WIP - Translations in tests](https://github.com/Casrime/todolist/pull/53) on [Casrime/todolist](https://github.com/Casrime/todolist) (3 days ago)
-- [WIP - Search with Algolia](https://github.com/Casrime/todolist/pull/52) on [Casrime/todolist](https://github.com/Casrime/todolist) (3 days ago)
-- [Update to symfony 6](https://github.com/Casrime/bilemo/pull/86) on [Casrime/bilemo](https://github.com/Casrime/bilemo) (4 days ago)
-- [Improve github workflow](https://github.com/Casrime/bilemo/pull/84) on [Casrime/bilemo](https://github.com/Casrime/bilemo) (5 days ago)
+- [Improve Github CI](https://github.com/Casrime/todolist/pull/60) on [Casrime/todolist](https://github.com/Casrime/todolist) (1 day ago)
+- [Update Symfony recipes](https://github.com/Casrime/todolist/pull/59) on [Casrime/todolist](https://github.com/Casrime/todolist) (1 day ago)
+- [Makefile - Update docker compose](https://github.com/Casrime/todolist/pull/58) on [Casrime/todolist](https://github.com/Casrime/todolist) (1 day ago)
+- [Symfony Insight](https://github.com/Casrime/todolist/pull/57) on [Casrime/todolist](https://github.com/Casrime/todolist) (1 day ago)
+- [Docker compose - remove version](https://github.com/Casrime/todolist/pull/56) on [Casrime/todolist](https://github.com/Casrime/todolist) (1 day ago)
+- [WIP - Redis for the cache](https://github.com/Casrime/todolist/pull/54) on [Casrime/todolist](https://github.com/Casrime/todolist) (4 days ago)
+- [WIP - Translations in tests](https://github.com/Casrime/todolist/pull/53) on [Casrime/todolist](https://github.com/Casrime/todolist) (4 days ago)
+- [WIP - Search with Algolia](https://github.com/Casrime/todolist/pull/52) on [Casrime/todolist](https://github.com/Casrime/todolist) (4 days ago)
+- [Update to symfony 6](https://github.com/Casrime/bilemo/pull/86) on [Casrime/bilemo](https://github.com/Casrime/bilemo) (5 days ago)
+- [Improve github workflow](https://github.com/Casrime/bilemo/pull/84) on [Casrime/bilemo](https://github.com/Casrime/bilemo) (6 days ago)
 
 #### 📓 Gists I wrote
 
