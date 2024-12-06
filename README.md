@@ -32,6 +32,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Rector - remove PSR_4 rule](https://github.com/Casrime/todolist/pull/74) on [Casrime/todolist](https://github.com/Casrime/todolist) (today)
 - [Remove composer/package-versions-deprecated](https://github.com/Casrime/todolist/pull/73) on [Casrime/todolist](https://github.com/Casrime/todolist) (today)
 - [Improve Github CI](https://github.com/Casrime/todolist/pull/60) on [Casrime/todolist](https://github.com/Casrime/todolist) (4 days ago)
 - [Update Symfony recipes](https://github.com/Casrime/todolist/pull/59) on [Casrime/todolist](https://github.com/Casrime/todolist) (4 days ago)
@@ -41,7 +42,6 @@
 - [WIP - Redis for the cache](https://github.com/Casrime/todolist/pull/54) on [Casrime/todolist](https://github.com/Casrime/todolist) (1 week ago)
 - [WIP - Translations in tests](https://github.com/Casrime/todolist/pull/53) on [Casrime/todolist](https://github.com/Casrime/todolist) (1 week ago)
 - [WIP - Search with Algolia](https://github.com/Casrime/todolist/pull/52) on [Casrime/todolist](https://github.com/Casrime/todolist) (1 week ago)
-- [Update to symfony 6](https://github.com/Casrime/bilemo/pull/86) on [Casrime/bilemo](https://github.com/Casrime/bilemo) (1 week ago)
 
 #### 📓 Gists I wrote
 
