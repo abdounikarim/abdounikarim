@@ -7,9 +7,9 @@
 #### 👷 Check out what I'm currently working on
 
 - [Casrime/snowtricks](https://github.com/Casrime/snowtricks) - OpenClassrooms - Projet 6 du parcours Développeur d&#39;Applications PHP / Symfony (today)
-- [Casrime/bilemo](https://github.com/Casrime/bilemo) - OpenClassrooms - Projet 7 du parcours Développeur d&#39;Applications PHP / Symfony (1 day ago)
+- [Casrime/bilemo](https://github.com/Casrime/bilemo) - OpenClassrooms - Projet 7 du parcours Développeur d&#39;Applications PHP / Symfony (2 days ago)
 - [abdounikarim/poc-symfony](https://github.com/abdounikarim/poc-symfony) - Hello from Symfony!👋 application (3 weeks ago)
-- [abdounikarim/abdounikarim.github.io](https://github.com/abdounikarim/abdounikarim.github.io) -  (6 months ago)
+- [abdounikarim/abdounikarim.github.io](https://github.com/abdounikarim/abdounikarim.github.io) -  (7 months ago)
 - [abdounikarim/php-js-boilerplate](https://github.com/abdounikarim/php-js-boilerplate) -  (7 months ago)
 - [Casrime/expressfood](https://github.com/Casrime/expressfood) - OpenClassrooms - Projet 4 du parcours Développeur d&#39;Applications PHP / Symfony (9 months ago)
 - [Casrime/blog](https://github.com/Casrime/blog) - OpenClassrooms - Projet 5 du parcours Développeur d&#39;Applications PHP / Symfony (11 months ago)
@@ -32,13 +32,13 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Rector - remove PSR_4 rule](https://github.com/Casrime/todolist/pull/74) on [Casrime/todolist](https://github.com/Casrime/todolist) (1 day ago)
-- [Remove composer/package-versions-deprecated](https://github.com/Casrime/todolist/pull/73) on [Casrime/todolist](https://github.com/Casrime/todolist) (1 day ago)
-- [Improve Github CI](https://github.com/Casrime/todolist/pull/60) on [Casrime/todolist](https://github.com/Casrime/todolist) (5 days ago)
-- [Update Symfony recipes](https://github.com/Casrime/todolist/pull/59) on [Casrime/todolist](https://github.com/Casrime/todolist) (5 days ago)
-- [Makefile - Update docker compose](https://github.com/Casrime/todolist/pull/58) on [Casrime/todolist](https://github.com/Casrime/todolist) (5 days ago)
-- [Symfony Insight](https://github.com/Casrime/todolist/pull/57) on [Casrime/todolist](https://github.com/Casrime/todolist) (5 days ago)
-- [Docker compose - remove version](https://github.com/Casrime/todolist/pull/56) on [Casrime/todolist](https://github.com/Casrime/todolist) (5 days ago)
+- [Rector - remove PSR_4 rule](https://github.com/Casrime/todolist/pull/74) on [Casrime/todolist](https://github.com/Casrime/todolist) (2 days ago)
+- [Remove composer/package-versions-deprecated](https://github.com/Casrime/todolist/pull/73) on [Casrime/todolist](https://github.com/Casrime/todolist) (2 days ago)
+- [Improve Github CI](https://github.com/Casrime/todolist/pull/60) on [Casrime/todolist](https://github.com/Casrime/todolist) (6 days ago)
+- [Update Symfony recipes](https://github.com/Casrime/todolist/pull/59) on [Casrime/todolist](https://github.com/Casrime/todolist) (6 days ago)
+- [Makefile - Update docker compose](https://github.com/Casrime/todolist/pull/58) on [Casrime/todolist](https://github.com/Casrime/todolist) (6 days ago)
+- [Symfony Insight](https://github.com/Casrime/todolist/pull/57) on [Casrime/todolist](https://github.com/Casrime/todolist) (6 days ago)
+- [Docker compose - remove version](https://github.com/Casrime/todolist/pull/56) on [Casrime/todolist](https://github.com/Casrime/todolist) (6 days ago)
 - [WIP - Redis for the cache](https://github.com/Casrime/todolist/pull/54) on [Casrime/todolist](https://github.com/Casrime/todolist) (1 week ago)
 - [WIP - Translations in tests](https://github.com/Casrime/todolist/pull/53) on [Casrime/todolist](https://github.com/Casrime/todolist) (1 week ago)
 - [WIP - Search with Algolia](https://github.com/Casrime/todolist/pull/52) on [Casrime/todolist](https://github.com/Casrime/todolist) (1 week ago)
@@ -54,7 +54,7 @@
 - [msichterman/mac-setup](https://github.com/msichterman/mac-setup) - The commands and processes I run to setup a new Mac computer (2 months ago)
 - [geerlingguy/mac-dev-playbook](https://github.com/geerlingguy/mac-dev-playbook) - Mac setup and configuration via Ansible. (2 months ago)
 - [abdounikarim/poc](https://github.com/abdounikarim/poc) -  (5 months ago)
-- [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux) (9 months ago)
+- [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux) (10 months ago)
 - [drknzz/GitHub-Achievements](https://github.com/drknzz/GitHub-Achievements) - 🔥 A Complete List of GitHub Profile Badges and Achievements 🔥 (2 years ago)
 - [philcook/brew-php-switcher](https://github.com/philcook/brew-php-switcher) - Brew PHP switcher is a simple shell script to switch your apache and CLI quickly between major versions of PHP. If you support multiple products/projects that are built using either brand new or old legacy PHP functionality. For users of Homebrew (or brew for short) currently only. (2 years ago)
 - [jobbsy-dev/jobbsy](https://github.com/jobbsy-dev/jobbsy) - Jobbsy - Job Board for Symfony (2 years ago)
