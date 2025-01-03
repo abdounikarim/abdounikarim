@@ -7,7 +7,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [Casrime/snowtricks](https://github.com/Casrime/snowtricks) - OpenClassrooms - Projet 6 du parcours Développeur d&#39;Applications PHP / Symfony (3 weeks ago)
-- [Casrime/bilemo](https://github.com/Casrime/bilemo) - OpenClassrooms - Projet 7 du parcours Développeur d&#39;Applications PHP / Symfony (3 weeks ago)
+- [Casrime/bilemo](https://github.com/Casrime/bilemo) - OpenClassrooms - Projet 7 du parcours Développeur d&#39;Applications PHP / Symfony (4 weeks ago)
 - [abdounikarim/poc-symfony](https://github.com/abdounikarim/poc-symfony) - Hello from Symfony!👋 application (1 month ago)
 - [abdounikarim/abdounikarim.github.io](https://github.com/abdounikarim/abdounikarim.github.io) -  (7 months ago)
 - [abdounikarim/php-js-boilerplate](https://github.com/abdounikarim/php-js-boilerplate) -  (8 months ago)
@@ -32,8 +32,8 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Rector - remove PSR_4 rule](https://github.com/Casrime/todolist/pull/74) on [Casrime/todolist](https://github.com/Casrime/todolist) (3 weeks ago)
-- [Remove composer/package-versions-deprecated](https://github.com/Casrime/todolist/pull/73) on [Casrime/todolist](https://github.com/Casrime/todolist) (3 weeks ago)
+- [Rector - remove PSR_4 rule](https://github.com/Casrime/todolist/pull/74) on [Casrime/todolist](https://github.com/Casrime/todolist) (4 weeks ago)
+- [Remove composer/package-versions-deprecated](https://github.com/Casrime/todolist/pull/73) on [Casrime/todolist](https://github.com/Casrime/todolist) (4 weeks ago)
 - [Improve Github CI](https://github.com/Casrime/todolist/pull/60) on [Casrime/todolist](https://github.com/Casrime/todolist) (1 month ago)
 - [Update Symfony recipes](https://github.com/Casrime/todolist/pull/59) on [Casrime/todolist](https://github.com/Casrime/todolist) (1 month ago)
 - [Makefile - Update docker compose](https://github.com/Casrime/todolist/pull/58) on [Casrime/todolist](https://github.com/Casrime/todolist) (1 month ago)
