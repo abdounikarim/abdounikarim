@@ -6,7 +6,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [abdounikarim/symfony-create-project-kernel-missing](https://github.com/abdounikarim/symfony-create-project-kernel-missing) -  (1 day ago)
+- [abdounikarim/poc-symfony-handle-assets](https://github.com/abdounikarim/poc-symfony-handle-assets) -  (today)
+- [abdounikarim/symfony-create-project-kernel-missing](https://github.com/abdounikarim/symfony-create-project-kernel-missing) -  (2 days ago)
 - [Casrime/snowtricks](https://github.com/Casrime/snowtricks) - OpenClassrooms - Projet 6 du parcours Développeur d&#39;Applications PHP / Symfony (1 month ago)
 - [Casrime/bilemo](https://github.com/Casrime/bilemo) - OpenClassrooms - Projet 7 du parcours Développeur d&#39;Applications PHP / Symfony (1 month ago)
 - [abdounikarim/poc-symfony](https://github.com/abdounikarim/poc-symfony) - Hello from Symfony!👋 application (2 months ago)
@@ -17,6 +18,7 @@
 #### 🌱 My latest projects
 
 - [abdounikarim/symfony-create-project-kernel-missing](https://github.com/abdounikarim/symfony-create-project-kernel-missing) - 
+- [abdounikarim/poc-symfony-handle-assets](https://github.com/abdounikarim/poc-symfony-handle-assets) - 
 - [abdounikarim/poc-symfony](https://github.com/abdounikarim/poc-symfony) - Hello from Symfony!👋 application
 - [abdounikarim/php-js-boilerplate](https://github.com/abdounikarim/php-js-boilerplate) - 
 - [abdounikarim/abdounikarim.github.io](https://github.com/abdounikarim/abdounikarim.github.io) - 
@@ -25,7 +27,6 @@
 - [abdounikarim/cmi](https://github.com/abdounikarim/cmi) - 
 - [abdounikarim/os](https://github.com/abdounikarim/os) - 
 - [abdounikarim/test_lfz](https://github.com/abdounikarim/test_lfz) - 
-- [abdounikarim/vue](https://github.com/abdounikarim/vue) - 
 
 #### 🔭 Latest releases I've contributed to
 
@@ -45,6 +46,8 @@
 
 #### 📓 Gists I wrote
 
+- [Handle your Symfony assets without WebpackEncoreBundle, ViteBundle or AssetMapper](https://gist.github.com/7c0177c7a71b1e6585183e320034e4dd) (1 day ago)
+- [Hello from Symfony](https://gist.github.com/d6b3e49ead0d8e0a4041c06fcc689307) (1 day ago)
 - [](https://gist.github.com/b237278802559acb0bcf1e2516ba718e) (3 years ago)
 
 #### ⭐ Recent Stars
