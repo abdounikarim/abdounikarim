@@ -6,8 +6,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [abdounikarim/poc-symfony-handle-assets](https://github.com/abdounikarim/poc-symfony-handle-assets) -  (2 days ago)
-- [abdounikarim/symfony-create-project-kernel-missing](https://github.com/abdounikarim/symfony-create-project-kernel-missing) -  (4 days ago)
+- [abdounikarim/poc-symfony-handle-assets](https://github.com/abdounikarim/poc-symfony-handle-assets) -  (3 days ago)
+- [abdounikarim/symfony-create-project-kernel-missing](https://github.com/abdounikarim/symfony-create-project-kernel-missing) -  (5 days ago)
 - [Casrime/snowtricks](https://github.com/Casrime/snowtricks) - OpenClassrooms - Projet 6 du parcours Développeur d&#39;Applications PHP / Symfony (1 month ago)
 - [Casrime/bilemo](https://github.com/Casrime/bilemo) - OpenClassrooms - Projet 7 du parcours Développeur d&#39;Applications PHP / Symfony (1 month ago)
 - [abdounikarim/poc-symfony](https://github.com/abdounikarim/poc-symfony) - Hello from Symfony!👋 application (2 months ago)
@@ -46,14 +46,14 @@
 
 #### 📓 Gists I wrote
 
-- [Handle your Symfony assets without WebpackEncoreBundle, ViteBundle or AssetMapper](https://gist.github.com/7c0177c7a71b1e6585183e320034e4dd) (3 days ago)
-- [Hello from Symfony](https://gist.github.com/d6b3e49ead0d8e0a4041c06fcc689307) (3 days ago)
+- [Handle your Symfony assets without WebpackEncoreBundle, ViteBundle or AssetMapper](https://gist.github.com/7c0177c7a71b1e6585183e320034e4dd) (4 days ago)
+- [Hello from Symfony](https://gist.github.com/d6b3e49ead0d8e0a4041c06fcc689307) (4 days ago)
 - [](https://gist.github.com/b237278802559acb0bcf1e2516ba718e) (3 years ago)
 
 #### ⭐ Recent Stars
 
 - [abdounikarim/poc-nginx](https://github.com/abdounikarim/poc-nginx) -  (2 months ago)
-- [abdounikarim/nahos](https://github.com/abdounikarim/nahos) -  (2 months ago)
+- [abdounikarim/nahos](https://github.com/abdounikarim/nahos) -  (3 months ago)
 - [msichterman/mac-setup](https://github.com/msichterman/mac-setup) - The commands and processes I run to setup a new Mac computer (3 months ago)
 - [geerlingguy/mac-dev-playbook](https://github.com/geerlingguy/mac-dev-playbook) - Mac setup and configuration via Ansible. (3 months ago)
 - [abdounikarim/poc](https://github.com/abdounikarim/poc) -  (7 months ago)
