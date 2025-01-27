@@ -13,22 +13,22 @@
 - [abdounikarim/poc-nuxt](https://github.com/abdounikarim/poc-nuxt) - Hello from Nuxt!👋 application  (2 months ago)
 - [abdounikarim/poc-vue](https://github.com/abdounikarim/poc-vue) - Hello from Vue!👋 application  (2 months ago)
 - [abdounikarim/poc-symfony](https://github.com/abdounikarim/poc-symfony) - Hello from Symfony!👋 application (2 months ago)
+- [abdounikarim/poc-nginx](https://github.com/abdounikarim/poc-nginx) -  (4 months ago)
 - [abdounikarim/poc-react](https://github.com/abdounikarim/poc-react) - Hello from React!👋 application (5 months ago)
-- [abdounikarim/abdounikarim.github.io](https://github.com/abdounikarim/abdounikarim.github.io) -  (8 months ago)
-- [abdounikarim/php-js-boilerplate](https://github.com/abdounikarim/php-js-boilerplate) -  (9 months ago)
+- [abdounikarim/poc-symfony-doctrine-mariadb](https://github.com/abdounikarim/poc-symfony-doctrine-mariadb) -  (7 months ago)
 
 #### 🌱 My latest projects
 
 - [abdounikarim/symfony-create-project-kernel-missing](https://github.com/abdounikarim/symfony-create-project-kernel-missing) - 
 - [abdounikarim/poc-symfony-handle-assets](https://github.com/abdounikarim/poc-symfony-handle-assets) - 
+- [abdounikarim/poc-nginx](https://github.com/abdounikarim/poc-nginx) - 
 - [abdounikarim/poc-nuxt](https://github.com/abdounikarim/poc-nuxt) - Hello from Nuxt!👋 application 
 - [abdounikarim/poc-vue](https://github.com/abdounikarim/poc-vue) - Hello from Vue!👋 application 
 - [abdounikarim/poc-react](https://github.com/abdounikarim/poc-react) - Hello from React!👋 application
+- [abdounikarim/poc-symfony-doctrine-mariadb](https://github.com/abdounikarim/poc-symfony-doctrine-mariadb) - 
+- [abdounikarim/poc-symfony-doctrine-mysql](https://github.com/abdounikarim/poc-symfony-doctrine-mysql) - 
+- [abdounikarim/poc-symfony-doctrine-postgresql](https://github.com/abdounikarim/poc-symfony-doctrine-postgresql) - 
 - [abdounikarim/poc-symfony](https://github.com/abdounikarim/poc-symfony) - Hello from Symfony!👋 application
-- [abdounikarim/php-js-boilerplate](https://github.com/abdounikarim/php-js-boilerplate) - 
-- [abdounikarim/abdounikarim.github.io](https://github.com/abdounikarim/abdounikarim.github.io) - 
-- [abdounikarim/demo-ansible](https://github.com/abdounikarim/demo-ansible) - 
-- [abdounikarim/lorem-ipsum-bundle](https://github.com/abdounikarim/lorem-ipsum-bundle) - 
 
 #### 🔭 Latest releases I've contributed to
 
