@@ -7,7 +7,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [abdounikarim/poc-symfony-handle-assets](https://github.com/abdounikarim/poc-symfony-handle-assets) -  (1 week ago)
-- [abdounikarim/symfony-create-project-kernel-missing](https://github.com/abdounikarim/symfony-create-project-kernel-missing) -  (1 week ago)
+- [abdounikarim/symfony-create-project-kernel-missing](https://github.com/abdounikarim/symfony-create-project-kernel-missing) -  (2 weeks ago)
 - [Casrime/snowtricks](https://github.com/Casrime/snowtricks) - OpenClassrooms - Projet 6 du parcours Développeur d&#39;Applications PHP / Symfony (1 month ago)
 - [Casrime/bilemo](https://github.com/Casrime/bilemo) - OpenClassrooms - Projet 7 du parcours Développeur d&#39;Applications PHP / Symfony (1 month ago)
 - [abdounikarim/poc-nuxt](https://github.com/abdounikarim/poc-nuxt) - Hello from Nuxt!👋 application  (2 months ago)
@@ -42,9 +42,9 @@
 - [Makefile - Update docker compose](https://github.com/Casrime/todolist/pull/58) on [Casrime/todolist](https://github.com/Casrime/todolist) (1 month ago)
 - [Symfony Insight](https://github.com/Casrime/todolist/pull/57) on [Casrime/todolist](https://github.com/Casrime/todolist) (1 month ago)
 - [Docker compose - remove version](https://github.com/Casrime/todolist/pull/56) on [Casrime/todolist](https://github.com/Casrime/todolist) (1 month ago)
-- [WIP - Redis for the cache](https://github.com/Casrime/todolist/pull/54) on [Casrime/todolist](https://github.com/Casrime/todolist) (1 month ago)
-- [WIP - Translations in tests](https://github.com/Casrime/todolist/pull/53) on [Casrime/todolist](https://github.com/Casrime/todolist) (1 month ago)
-- [WIP - Search with Algolia](https://github.com/Casrime/todolist/pull/52) on [Casrime/todolist](https://github.com/Casrime/todolist) (1 month ago)
+- [WIP - Redis for the cache](https://github.com/Casrime/todolist/pull/54) on [Casrime/todolist](https://github.com/Casrime/todolist) (2 months ago)
+- [WIP - Translations in tests](https://github.com/Casrime/todolist/pull/53) on [Casrime/todolist](https://github.com/Casrime/todolist) (2 months ago)
+- [WIP - Search with Algolia](https://github.com/Casrime/todolist/pull/52) on [Casrime/todolist](https://github.com/Casrime/todolist) (2 months ago)
 
 #### 📓 Gists I wrote
 
@@ -56,8 +56,8 @@
 
 - [abdounikarim/poc-nginx](https://github.com/abdounikarim/poc-nginx) -  (2 months ago)
 - [abdounikarim/nahos](https://github.com/abdounikarim/nahos) -  (3 months ago)
-- [msichterman/mac-setup](https://github.com/msichterman/mac-setup) - The commands and processes I run to setup a new Mac computer (3 months ago)
-- [geerlingguy/mac-dev-playbook](https://github.com/geerlingguy/mac-dev-playbook) - Mac setup and configuration via Ansible. (3 months ago)
+- [msichterman/mac-setup](https://github.com/msichterman/mac-setup) - The commands and processes I run to setup a new Mac computer (4 months ago)
+- [geerlingguy/mac-dev-playbook](https://github.com/geerlingguy/mac-dev-playbook) - Mac setup and configuration via Ansible. (4 months ago)
 - [abdounikarim/poc](https://github.com/abdounikarim/poc) -  (7 months ago)
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux) (11 months ago)
 - [drknzz/GitHub-Achievements](https://github.com/drknzz/GitHub-Achievements) - 🔥 A Complete List of GitHub Profile Badges and Achievements 🔥 (2 years ago)
