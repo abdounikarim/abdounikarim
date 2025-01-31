@@ -37,11 +37,11 @@
 
 - [Rector - remove PSR_4 rule](https://github.com/Casrime/todolist/pull/74) on [Casrime/todolist](https://github.com/Casrime/todolist) (1 month ago)
 - [Remove composer/package-versions-deprecated](https://github.com/Casrime/todolist/pull/73) on [Casrime/todolist](https://github.com/Casrime/todolist) (1 month ago)
-- [Improve Github CI](https://github.com/Casrime/todolist/pull/60) on [Casrime/todolist](https://github.com/Casrime/todolist) (1 month ago)
-- [Update Symfony recipes](https://github.com/Casrime/todolist/pull/59) on [Casrime/todolist](https://github.com/Casrime/todolist) (1 month ago)
-- [Makefile - Update docker compose](https://github.com/Casrime/todolist/pull/58) on [Casrime/todolist](https://github.com/Casrime/todolist) (1 month ago)
-- [Symfony Insight](https://github.com/Casrime/todolist/pull/57) on [Casrime/todolist](https://github.com/Casrime/todolist) (1 month ago)
-- [Docker compose - remove version](https://github.com/Casrime/todolist/pull/56) on [Casrime/todolist](https://github.com/Casrime/todolist) (1 month ago)
+- [Improve Github CI](https://github.com/Casrime/todolist/pull/60) on [Casrime/todolist](https://github.com/Casrime/todolist) (2 months ago)
+- [Update Symfony recipes](https://github.com/Casrime/todolist/pull/59) on [Casrime/todolist](https://github.com/Casrime/todolist) (2 months ago)
+- [Makefile - Update docker compose](https://github.com/Casrime/todolist/pull/58) on [Casrime/todolist](https://github.com/Casrime/todolist) (2 months ago)
+- [Symfony Insight](https://github.com/Casrime/todolist/pull/57) on [Casrime/todolist](https://github.com/Casrime/todolist) (2 months ago)
+- [Docker compose - remove version](https://github.com/Casrime/todolist/pull/56) on [Casrime/todolist](https://github.com/Casrime/todolist) (2 months ago)
 - [WIP - Redis for the cache](https://github.com/Casrime/todolist/pull/54) on [Casrime/todolist](https://github.com/Casrime/todolist) (2 months ago)
 - [WIP - Translations in tests](https://github.com/Casrime/todolist/pull/53) on [Casrime/todolist](https://github.com/Casrime/todolist) (2 months ago)
 - [WIP - Search with Algolia](https://github.com/Casrime/todolist/pull/52) on [Casrime/todolist](https://github.com/Casrime/todolist) (2 months ago)
@@ -54,7 +54,7 @@
 
 #### ⭐ Recent Stars
 
-- [abdounikarim/poc-nginx](https://github.com/abdounikarim/poc-nginx) -  (2 months ago)
+- [abdounikarim/poc-nginx](https://github.com/abdounikarim/poc-nginx) -  (3 months ago)
 - [abdounikarim/nahos](https://github.com/abdounikarim/nahos) -  (3 months ago)
 - [msichterman/mac-setup](https://github.com/msichterman/mac-setup) - The commands and processes I run to setup a new Mac computer (4 months ago)
 - [geerlingguy/mac-dev-playbook](https://github.com/geerlingguy/mac-dev-playbook) - Mac setup and configuration via Ansible. (4 months ago)
