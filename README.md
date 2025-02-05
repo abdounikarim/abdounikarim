@@ -6,7 +6,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [abdounikarim/poc-symfony-handle-assets](https://github.com/abdounikarim/poc-symfony-handle-assets) -  (2 weeks ago)
+- [abdounikarim/poc-angular](https://github.com/abdounikarim/poc-angular) -  (today)
+- [abdounikarim/poc-symfony-handle-assets](https://github.com/abdounikarim/poc-symfony-handle-assets) - Handle your Symfony assets without WebpackEncoreBundle, ViteBundle or AssetMapper (2 weeks ago)
 - [abdounikarim/symfony-create-project-kernel-missing](https://github.com/abdounikarim/symfony-create-project-kernel-missing) -  (3 weeks ago)
 - [Casrime/snowtricks](https://github.com/Casrime/snowtricks) - OpenClassrooms - Projet 6 du parcours Développeur d&#39;Applications PHP / Symfony (1 month ago)
 - [Casrime/bilemo](https://github.com/Casrime/bilemo) - OpenClassrooms - Projet 7 du parcours Développeur d&#39;Applications PHP / Symfony (2 months ago)
@@ -15,12 +16,12 @@
 - [abdounikarim/poc-symfony](https://github.com/abdounikarim/poc-symfony) - Hello from Symfony!👋 application (2 months ago)
 - [abdounikarim/poc-nginx](https://github.com/abdounikarim/poc-nginx) -  (4 months ago)
 - [abdounikarim/poc-react](https://github.com/abdounikarim/poc-react) - Hello from React!👋 application (5 months ago)
-- [abdounikarim/poc-symfony-doctrine-mariadb](https://github.com/abdounikarim/poc-symfony-doctrine-mariadb) -  (7 months ago)
 
 #### 🌱 My latest projects
 
+- [abdounikarim/poc-angular](https://github.com/abdounikarim/poc-angular) - 
 - [abdounikarim/symfony-create-project-kernel-missing](https://github.com/abdounikarim/symfony-create-project-kernel-missing) - 
-- [abdounikarim/poc-symfony-handle-assets](https://github.com/abdounikarim/poc-symfony-handle-assets) - 
+- [abdounikarim/poc-symfony-handle-assets](https://github.com/abdounikarim/poc-symfony-handle-assets) - Handle your Symfony assets without WebpackEncoreBundle, ViteBundle or AssetMapper
 - [abdounikarim/poc-nginx](https://github.com/abdounikarim/poc-nginx) - 
 - [abdounikarim/poc-nuxt](https://github.com/abdounikarim/poc-nuxt) - Hello from Nuxt!👋 application 
 - [abdounikarim/poc-vue](https://github.com/abdounikarim/poc-vue) - Hello from Vue!👋 application 
@@ -28,7 +29,6 @@
 - [abdounikarim/poc-symfony-doctrine-mariadb](https://github.com/abdounikarim/poc-symfony-doctrine-mariadb) - 
 - [abdounikarim/poc-symfony-doctrine-mysql](https://github.com/abdounikarim/poc-symfony-doctrine-mysql) - 
 - [abdounikarim/poc-symfony-doctrine-postgresql](https://github.com/abdounikarim/poc-symfony-doctrine-postgresql) - 
-- [abdounikarim/poc-symfony](https://github.com/abdounikarim/poc-symfony) - Hello from Symfony!👋 application
 
 #### 🔭 Latest releases I've contributed to
 
@@ -54,7 +54,6 @@
 
 #### ⭐ Recent Stars
 
-- [abdounikarim/poc-nginx](https://github.com/abdounikarim/poc-nginx) -  (3 months ago)
 - [abdounikarim/nahos](https://github.com/abdounikarim/nahos) -  (3 months ago)
 - [msichterman/mac-setup](https://github.com/msichterman/mac-setup) - The commands and processes I run to setup a new Mac computer (4 months ago)
 - [geerlingguy/mac-dev-playbook](https://github.com/geerlingguy/mac-dev-playbook) - Mac setup and configuration via Ansible. (4 months ago)
@@ -64,6 +63,7 @@
 - [philcook/brew-php-switcher](https://github.com/philcook/brew-php-switcher) - Brew PHP switcher is a simple shell script to switch your apache and CLI quickly between major versions of PHP. If you support multiple products/projects that are built using either brand new or old legacy PHP functionality. For users of Homebrew (or brew for short) currently only. (2 years ago)
 - [jobbsy-dev/jobbsy](https://github.com/jobbsy-dev/jobbsy) - Jobbsy - Job Board for Symfony (2 years ago)
 - [philipsharp/afieldguidetoelephpants](https://github.com/philipsharp/afieldguidetoelephpants) -  (2 years ago)
+- [symfony/monolog-bundle](https://github.com/symfony/monolog-bundle) - Symfony Monolog Bundle (2 years ago)
 
 #### 👯 Check out some of my recent followers
 
