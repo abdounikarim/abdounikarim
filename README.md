@@ -6,6 +6,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [abdounikarim/poc-svelte](https://github.com/abdounikarim/poc-svelte) - Hello from Svelte!👋 application (today)
 - [abdounikarim/poc-angular](https://github.com/abdounikarim/poc-angular) -  (1 day ago)
 - [abdounikarim/poc-symfony-handle-assets](https://github.com/abdounikarim/poc-symfony-handle-assets) - Handle your Symfony assets without WebpackEncoreBundle, ViteBundle or AssetMapper (3 weeks ago)
 - [abdounikarim/symfony-create-project-kernel-missing](https://github.com/abdounikarim/symfony-create-project-kernel-missing) -  (3 weeks ago)
@@ -15,7 +16,6 @@
 - [abdounikarim/poc-vue](https://github.com/abdounikarim/poc-vue) - Hello from Vue!👋 application  (2 months ago)
 - [abdounikarim/poc-symfony](https://github.com/abdounikarim/poc-symfony) - Hello from Symfony!👋 application (2 months ago)
 - [abdounikarim/poc-nginx](https://github.com/abdounikarim/poc-nginx) -  (4 months ago)
-- [abdounikarim/poc-react](https://github.com/abdounikarim/poc-react) - Hello from React!👋 application (5 months ago)
 
 #### 🌱 My latest projects
 
@@ -23,12 +23,12 @@
 - [abdounikarim/symfony-create-project-kernel-missing](https://github.com/abdounikarim/symfony-create-project-kernel-missing) - 
 - [abdounikarim/poc-symfony-handle-assets](https://github.com/abdounikarim/poc-symfony-handle-assets) - Handle your Symfony assets without WebpackEncoreBundle, ViteBundle or AssetMapper
 - [abdounikarim/poc-nginx](https://github.com/abdounikarim/poc-nginx) - 
+- [abdounikarim/poc-svelte](https://github.com/abdounikarim/poc-svelte) - Hello from Svelte!👋 application
 - [abdounikarim/poc-nuxt](https://github.com/abdounikarim/poc-nuxt) - Hello from Nuxt!👋 application 
 - [abdounikarim/poc-vue](https://github.com/abdounikarim/poc-vue) - Hello from Vue!👋 application 
 - [abdounikarim/poc-react](https://github.com/abdounikarim/poc-react) - Hello from React!👋 application
 - [abdounikarim/poc-symfony-doctrine-mariadb](https://github.com/abdounikarim/poc-symfony-doctrine-mariadb) - 
 - [abdounikarim/poc-symfony-doctrine-mysql](https://github.com/abdounikarim/poc-symfony-doctrine-mysql) - 
-- [abdounikarim/poc-symfony-doctrine-postgresql](https://github.com/abdounikarim/poc-symfony-doctrine-postgresql) - 
 
 #### 🔭 Latest releases I've contributed to
 
