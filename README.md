@@ -6,10 +6,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [abdounikarim/poc-angular](https://github.com/abdounikarim/poc-angular) -  (today)
-- [abdounikarim/poc-symfony-handle-assets](https://github.com/abdounikarim/poc-symfony-handle-assets) - Handle your Symfony assets without WebpackEncoreBundle, ViteBundle or AssetMapper (2 weeks ago)
+- [abdounikarim/poc-angular](https://github.com/abdounikarim/poc-angular) -  (1 day ago)
+- [abdounikarim/poc-symfony-handle-assets](https://github.com/abdounikarim/poc-symfony-handle-assets) - Handle your Symfony assets without WebpackEncoreBundle, ViteBundle or AssetMapper (3 weeks ago)
 - [abdounikarim/symfony-create-project-kernel-missing](https://github.com/abdounikarim/symfony-create-project-kernel-missing) -  (3 weeks ago)
-- [Casrime/snowtricks](https://github.com/Casrime/snowtricks) - OpenClassrooms - Projet 6 du parcours Développeur d&#39;Applications PHP / Symfony (1 month ago)
+- [Casrime/snowtricks](https://github.com/Casrime/snowtricks) - OpenClassrooms - Projet 6 du parcours Développeur d&#39;Applications PHP / Symfony (2 months ago)
 - [Casrime/bilemo](https://github.com/Casrime/bilemo) - OpenClassrooms - Projet 7 du parcours Développeur d&#39;Applications PHP / Symfony (2 months ago)
 - [abdounikarim/poc-nuxt](https://github.com/abdounikarim/poc-nuxt) - Hello from Nuxt!👋 application  (2 months ago)
 - [abdounikarim/poc-vue](https://github.com/abdounikarim/poc-vue) - Hello from Vue!👋 application  (2 months ago)
@@ -58,7 +58,7 @@
 - [msichterman/mac-setup](https://github.com/msichterman/mac-setup) - The commands and processes I run to setup a new Mac computer (4 months ago)
 - [geerlingguy/mac-dev-playbook](https://github.com/geerlingguy/mac-dev-playbook) - Mac setup and configuration via Ansible. (4 months ago)
 - [abdounikarim/poc](https://github.com/abdounikarim/poc) -  (7 months ago)
-- [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux) (11 months ago)
+- [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux) (1 year ago)
 - [drknzz/GitHub-Achievements](https://github.com/drknzz/GitHub-Achievements) - 🔥 A Complete List of GitHub Profile Badges and Achievements 🔥 (2 years ago)
 - [philcook/brew-php-switcher](https://github.com/philcook/brew-php-switcher) - Brew PHP switcher is a simple shell script to switch your apache and CLI quickly between major versions of PHP. If you support multiple products/projects that are built using either brand new or old legacy PHP functionality. For users of Homebrew (or brew for short) currently only. (2 years ago)
 - [jobbsy-dev/jobbsy](https://github.com/jobbsy-dev/jobbsy) - Jobbsy - Job Board for Symfony (2 years ago)
