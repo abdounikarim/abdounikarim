@@ -6,8 +6,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [abdounikarim/poc-svelte](https://github.com/abdounikarim/poc-svelte) - Hello from Svelte!👋 application (today)
-- [abdounikarim/poc-angular](https://github.com/abdounikarim/poc-angular) -  (1 day ago)
+- [abdounikarim/poc-svelte](https://github.com/abdounikarim/poc-svelte) - Hello from Svelte!👋 application (1 day ago)
+- [abdounikarim/poc-angular](https://github.com/abdounikarim/poc-angular) -  (2 days ago)
 - [abdounikarim/poc-symfony-handle-assets](https://github.com/abdounikarim/poc-symfony-handle-assets) - Handle your Symfony assets without WebpackEncoreBundle, ViteBundle or AssetMapper (3 weeks ago)
 - [abdounikarim/symfony-create-project-kernel-missing](https://github.com/abdounikarim/symfony-create-project-kernel-missing) -  (3 weeks ago)
 - [Casrime/snowtricks](https://github.com/Casrime/snowtricks) - OpenClassrooms - Projet 6 du parcours Développeur d&#39;Applications PHP / Symfony (2 months ago)
