@@ -7,6 +7,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [abdounikarim/poc-nestjs](https://github.com/abdounikarim/poc-nestjs) -  (today)
+- [abdounikarim/poc-next-js](https://github.com/abdounikarim/poc-next-js) -  (today)
 - [abdounikarim/poc-svelte](https://github.com/abdounikarim/poc-svelte) - Hello from Svelte!👋 application (4 days ago)
 - [abdounikarim/poc-angular](https://github.com/abdounikarim/poc-angular) -  (5 days ago)
 - [abdounikarim/poc-symfony-handle-assets](https://github.com/abdounikarim/poc-symfony-handle-assets) - Handle your Symfony assets without WebpackEncoreBundle, ViteBundle or AssetMapper (3 weeks ago)
@@ -15,10 +16,10 @@
 - [Casrime/bilemo](https://github.com/Casrime/bilemo) - OpenClassrooms - Projet 7 du parcours Développeur d&#39;Applications PHP / Symfony (2 months ago)
 - [abdounikarim/poc-nuxt](https://github.com/abdounikarim/poc-nuxt) - Hello from Nuxt!👋 application  (2 months ago)
 - [abdounikarim/poc-vue](https://github.com/abdounikarim/poc-vue) - Hello from Vue!👋 application  (2 months ago)
-- [abdounikarim/poc-symfony](https://github.com/abdounikarim/poc-symfony) - Hello from Symfony!👋 application (3 months ago)
 
 #### 🌱 My latest projects
 
+- [abdounikarim/poc-next-js](https://github.com/abdounikarim/poc-next-js) - 
 - [abdounikarim/poc-nestjs](https://github.com/abdounikarim/poc-nestjs) - 
 - [abdounikarim/poc-angular](https://github.com/abdounikarim/poc-angular) - 
 - [abdounikarim/symfony-create-project-kernel-missing](https://github.com/abdounikarim/symfony-create-project-kernel-missing) - 
@@ -28,7 +29,6 @@
 - [abdounikarim/poc-nuxt](https://github.com/abdounikarim/poc-nuxt) - Hello from Nuxt!👋 application 
 - [abdounikarim/poc-vue](https://github.com/abdounikarim/poc-vue) - Hello from Vue!👋 application 
 - [abdounikarim/poc-react](https://github.com/abdounikarim/poc-react) - Hello from React!👋 application
-- [abdounikarim/poc-symfony-doctrine-mariadb](https://github.com/abdounikarim/poc-symfony-doctrine-mariadb) - 
 
 #### 🔭 Latest releases I've contributed to
 
