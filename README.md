@@ -6,6 +6,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [abdounikarim/poc-nestjs](https://github.com/abdounikarim/poc-nestjs) -  (today)
 - [abdounikarim/poc-svelte](https://github.com/abdounikarim/poc-svelte) - Hello from Svelte!👋 application (4 days ago)
 - [abdounikarim/poc-angular](https://github.com/abdounikarim/poc-angular) -  (5 days ago)
 - [abdounikarim/poc-symfony-handle-assets](https://github.com/abdounikarim/poc-symfony-handle-assets) - Handle your Symfony assets without WebpackEncoreBundle, ViteBundle or AssetMapper (3 weeks ago)
@@ -15,10 +16,10 @@
 - [abdounikarim/poc-nuxt](https://github.com/abdounikarim/poc-nuxt) - Hello from Nuxt!👋 application  (2 months ago)
 - [abdounikarim/poc-vue](https://github.com/abdounikarim/poc-vue) - Hello from Vue!👋 application  (2 months ago)
 - [abdounikarim/poc-symfony](https://github.com/abdounikarim/poc-symfony) - Hello from Symfony!👋 application (3 months ago)
-- [abdounikarim/poc-nginx](https://github.com/abdounikarim/poc-nginx) -  (5 months ago)
 
 #### 🌱 My latest projects
 
+- [abdounikarim/poc-nestjs](https://github.com/abdounikarim/poc-nestjs) - 
 - [abdounikarim/poc-angular](https://github.com/abdounikarim/poc-angular) - 
 - [abdounikarim/symfony-create-project-kernel-missing](https://github.com/abdounikarim/symfony-create-project-kernel-missing) - 
 - [abdounikarim/poc-symfony-handle-assets](https://github.com/abdounikarim/poc-symfony-handle-assets) - Handle your Symfony assets without WebpackEncoreBundle, ViteBundle or AssetMapper
@@ -28,7 +29,6 @@
 - [abdounikarim/poc-vue](https://github.com/abdounikarim/poc-vue) - Hello from Vue!👋 application 
 - [abdounikarim/poc-react](https://github.com/abdounikarim/poc-react) - Hello from React!👋 application
 - [abdounikarim/poc-symfony-doctrine-mariadb](https://github.com/abdounikarim/poc-symfony-doctrine-mariadb) - 
-- [abdounikarim/poc-symfony-doctrine-mysql](https://github.com/abdounikarim/poc-symfony-doctrine-mysql) - 
 
 #### 🔭 Latest releases I've contributed to
 
