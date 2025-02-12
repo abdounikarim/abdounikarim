@@ -6,10 +6,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [abdounikarim/poc-nestjs](https://github.com/abdounikarim/poc-nestjs) -  (1 day ago)
-- [abdounikarim/poc-next-js](https://github.com/abdounikarim/poc-next-js) -  (1 day ago)
-- [abdounikarim/poc-svelte](https://github.com/abdounikarim/poc-svelte) - Hello from Svelte!👋 application (5 days ago)
-- [abdounikarim/poc-angular](https://github.com/abdounikarim/poc-angular) -  (6 days ago)
+- [abdounikarim/poc-nestjs](https://github.com/abdounikarim/poc-nestjs) -  (2 days ago)
+- [abdounikarim/poc-next-js](https://github.com/abdounikarim/poc-next-js) -  (2 days ago)
+- [abdounikarim/poc-svelte](https://github.com/abdounikarim/poc-svelte) - Hello from Svelte!👋 application (6 days ago)
+- [abdounikarim/poc-angular](https://github.com/abdounikarim/poc-angular) -  (1 week ago)
 - [abdounikarim/poc-symfony-handle-assets](https://github.com/abdounikarim/poc-symfony-handle-assets) - Handle your Symfony assets without WebpackEncoreBundle, ViteBundle or AssetMapper (3 weeks ago)
 - [abdounikarim/symfony-create-project-kernel-missing](https://github.com/abdounikarim/symfony-create-project-kernel-missing) -  (4 weeks ago)
 - [Casrime/snowtricks](https://github.com/Casrime/snowtricks) - OpenClassrooms - Projet 6 du parcours Développeur d&#39;Applications PHP / Symfony (2 months ago)
@@ -48,8 +48,8 @@
 
 #### 📓 Gists I wrote
 
-- [Handle your Symfony assets without WebpackEncoreBundle, ViteBundle or AssetMapper](https://gist.github.com/7c0177c7a71b1e6585183e320034e4dd) (3 weeks ago)
-- [Hello from Symfony](https://gist.github.com/d6b3e49ead0d8e0a4041c06fcc689307) (3 weeks ago)
+- [Handle your Symfony assets without WebpackEncoreBundle, ViteBundle or AssetMapper](https://gist.github.com/7c0177c7a71b1e6585183e320034e4dd) (4 weeks ago)
+- [Hello from Symfony](https://gist.github.com/d6b3e49ead0d8e0a4041c06fcc689307) (4 weeks ago)
 - [](https://gist.github.com/b237278802559acb0bcf1e2516ba718e) (3 years ago)
 
 #### ⭐ Recent Stars
