@@ -35,6 +35,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Update tls.md](https://github.com/dunglas/symfony-docker/pull/738) on [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) (today)
+- [Update tls.md](https://github.com/dunglas/symfony-docker/pull/737) on [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) (today)
 - [Rector - remove PSR_4 rule](https://github.com/Casrime/todolist/pull/74) on [Casrime/todolist](https://github.com/Casrime/todolist) (2 months ago)
 - [Remove composer/package-versions-deprecated](https://github.com/Casrime/todolist/pull/73) on [Casrime/todolist](https://github.com/Casrime/todolist) (2 months ago)
 - [Improve Github CI](https://github.com/Casrime/todolist/pull/60) on [Casrime/todolist](https://github.com/Casrime/todolist) (2 months ago)
@@ -43,8 +45,6 @@
 - [Symfony Insight](https://github.com/Casrime/todolist/pull/57) on [Casrime/todolist](https://github.com/Casrime/todolist) (2 months ago)
 - [Docker compose - remove version](https://github.com/Casrime/todolist/pull/56) on [Casrime/todolist](https://github.com/Casrime/todolist) (2 months ago)
 - [WIP - Redis for the cache](https://github.com/Casrime/todolist/pull/54) on [Casrime/todolist](https://github.com/Casrime/todolist) (2 months ago)
-- [WIP - Translations in tests](https://github.com/Casrime/todolist/pull/53) on [Casrime/todolist](https://github.com/Casrime/todolist) (2 months ago)
-- [WIP - Search with Algolia](https://github.com/Casrime/todolist/pull/52) on [Casrime/todolist](https://github.com/Casrime/todolist) (2 months ago)
 
 #### 📓 Gists I wrote
 
