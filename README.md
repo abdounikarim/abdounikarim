@@ -6,13 +6,13 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [abdounikarim/poc-react](https://github.com/abdounikarim/poc-react) - Hello from React!👋 application (today)
-- [abdounikarim/poc-next-js](https://github.com/abdounikarim/poc-next-js) -  (2 days ago)
-- [abdounikarim/poc-nestjs](https://github.com/abdounikarim/poc-nestjs) -  (2 days ago)
-- [abdounikarim/poc-svelte](https://github.com/abdounikarim/poc-svelte) - Hello from Svelte!👋 application (6 days ago)
+- [abdounikarim/poc-react](https://github.com/abdounikarim/poc-react) - Hello from React!👋 application (1 day ago)
+- [abdounikarim/poc-next-js](https://github.com/abdounikarim/poc-next-js) -  (3 days ago)
+- [abdounikarim/poc-nestjs](https://github.com/abdounikarim/poc-nestjs) -  (3 days ago)
+- [abdounikarim/poc-svelte](https://github.com/abdounikarim/poc-svelte) - Hello from Svelte!👋 application (1 week ago)
 - [abdounikarim/poc-angular](https://github.com/abdounikarim/poc-angular) -  (1 week ago)
-- [abdounikarim/poc-symfony-handle-assets](https://github.com/abdounikarim/poc-symfony-handle-assets) - Handle your Symfony assets without WebpackEncoreBundle, ViteBundle or AssetMapper (3 weeks ago)
-- [abdounikarim/symfony-create-project-kernel-missing](https://github.com/abdounikarim/symfony-create-project-kernel-missing) -  (4 weeks ago)
+- [abdounikarim/poc-symfony-handle-assets](https://github.com/abdounikarim/poc-symfony-handle-assets) - Handle your Symfony assets without WebpackEncoreBundle, ViteBundle or AssetMapper (4 weeks ago)
+- [abdounikarim/symfony-create-project-kernel-missing](https://github.com/abdounikarim/symfony-create-project-kernel-missing) -  (1 month ago)
 - [Casrime/snowtricks](https://github.com/Casrime/snowtricks) - OpenClassrooms - Projet 6 du parcours Développeur d&#39;Applications PHP / Symfony (2 months ago)
 - [Casrime/bilemo](https://github.com/Casrime/bilemo) - OpenClassrooms - Projet 7 du parcours Développeur d&#39;Applications PHP / Symfony (2 months ago)
 - [abdounikarim/poc-nuxt](https://github.com/abdounikarim/poc-nuxt) - Hello from Nuxt!👋 application  (2 months ago)
