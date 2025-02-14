@@ -6,10 +6,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker compose up`. (today)
-- [abdounikarim/poc-react](https://github.com/abdounikarim/poc-react) - Hello from React!👋 application (1 day ago)
-- [abdounikarim/poc-nestjs](https://github.com/abdounikarim/poc-nestjs) -  (3 days ago)
-- [abdounikarim/poc-next-js](https://github.com/abdounikarim/poc-next-js) -  (3 days ago)
+- [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker compose up`. (1 day ago)
+- [abdounikarim/poc-react](https://github.com/abdounikarim/poc-react) - Hello from React!👋 application (2 days ago)
+- [abdounikarim/poc-nestjs](https://github.com/abdounikarim/poc-nestjs) -  (4 days ago)
+- [abdounikarim/poc-next-js](https://github.com/abdounikarim/poc-next-js) -  (4 days ago)
 - [abdounikarim/poc-svelte](https://github.com/abdounikarim/poc-svelte) - Hello from Svelte!👋 application (1 week ago)
 - [abdounikarim/poc-angular](https://github.com/abdounikarim/poc-angular) -  (1 week ago)
 - [abdounikarim/poc-symfony-handle-assets](https://github.com/abdounikarim/poc-symfony-handle-assets) - Handle your Symfony assets without WebpackEncoreBundle, ViteBundle or AssetMapper (4 weeks ago)
@@ -35,8 +35,8 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Update tls.md](https://github.com/dunglas/symfony-docker/pull/738) on [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) (today)
-- [Update tls.md](https://github.com/dunglas/symfony-docker/pull/737) on [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) (today)
+- [Update tls.md](https://github.com/dunglas/symfony-docker/pull/738) on [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) (1 day ago)
+- [Update tls.md](https://github.com/dunglas/symfony-docker/pull/737) on [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) (1 day ago)
 - [Rector - remove PSR_4 rule](https://github.com/Casrime/todolist/pull/74) on [Casrime/todolist](https://github.com/Casrime/todolist) (2 months ago)
 - [Remove composer/package-versions-deprecated](https://github.com/Casrime/todolist/pull/73) on [Casrime/todolist](https://github.com/Casrime/todolist) (2 months ago)
 - [Improve Github CI](https://github.com/Casrime/todolist/pull/60) on [Casrime/todolist](https://github.com/Casrime/todolist) (2 months ago)
@@ -48,8 +48,8 @@
 
 #### 📓 Gists I wrote
 
-- [Handle your Symfony assets without WebpackEncoreBundle, ViteBundle or AssetMapper](https://gist.github.com/7c0177c7a71b1e6585183e320034e4dd) (4 weeks ago)
-- [Hello from Symfony](https://gist.github.com/d6b3e49ead0d8e0a4041c06fcc689307) (4 weeks ago)
+- [Handle your Symfony assets without WebpackEncoreBundle, ViteBundle or AssetMapper](https://gist.github.com/7c0177c7a71b1e6585183e320034e4dd) (1 month ago)
+- [Hello from Symfony](https://gist.github.com/d6b3e49ead0d8e0a4041c06fcc689307) (1 month ago)
 - [](https://gist.github.com/b237278802559acb0bcf1e2516ba718e) (3 years ago)
 
 #### ⭐ Recent Stars
