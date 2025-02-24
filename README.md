@@ -41,8 +41,6 @@
 - [Remove composer/package-versions-deprecated](https://github.com/Casrime/todolist/pull/73) on [Casrime/todolist](https://github.com/Casrime/todolist) (2 months ago)
 - [Improve Github CI](https://github.com/Casrime/todolist/pull/60) on [Casrime/todolist](https://github.com/Casrime/todolist) (2 months ago)
 - [Update Symfony recipes](https://github.com/Casrime/todolist/pull/59) on [Casrime/todolist](https://github.com/Casrime/todolist) (2 months ago)
-- [Makefile - Update docker compose](https://github.com/Casrime/todolist/pull/58) on [Casrime/todolist](https://github.com/Casrime/todolist) (2 months ago)
-- [Symfony Insight](https://github.com/Casrime/todolist/pull/57) on [Casrime/todolist](https://github.com/Casrime/todolist) (2 months ago)
 
 #### 📓 Gists I wrote
 
