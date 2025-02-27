@@ -39,7 +39,6 @@
 - [Update tls.md](https://github.com/dunglas/symfony-docker/pull/737) on [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) (2 weeks ago)
 - [Rector - remove PSR_4 rule](https://github.com/Casrime/todolist/pull/74) on [Casrime/todolist](https://github.com/Casrime/todolist) (2 months ago)
 - [Remove composer/package-versions-deprecated](https://github.com/Casrime/todolist/pull/73) on [Casrime/todolist](https://github.com/Casrime/todolist) (2 months ago)
-- [Improve Github CI](https://github.com/Casrime/todolist/pull/60) on [Casrime/todolist](https://github.com/Casrime/todolist) (2 months ago)
 
 #### 📓 Gists I wrote
 
