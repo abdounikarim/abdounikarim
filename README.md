@@ -6,7 +6,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker compose up`. (3 weeks ago)
+- [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker compose up`. (4 weeks ago)
 - [abdounikarim/poc-react](https://github.com/abdounikarim/poc-react) - Hello from React!👋 application (4 weeks ago)
 - [abdounikarim/poc-next-js](https://github.com/abdounikarim/poc-next-js) -  (1 month ago)
 - [abdounikarim/poc-nestjs](https://github.com/abdounikarim/poc-nestjs) -  (1 month ago)
@@ -35,8 +35,8 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Update tls.md](https://github.com/dunglas/symfony-docker/pull/738) on [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) (3 weeks ago)
-- [Update tls.md](https://github.com/dunglas/symfony-docker/pull/737) on [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) (3 weeks ago)
+- [Update tls.md](https://github.com/dunglas/symfony-docker/pull/738) on [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) (4 weeks ago)
+- [Update tls.md](https://github.com/dunglas/symfony-docker/pull/737) on [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) (4 weeks ago)
 
 #### 📓 Gists I wrote
 
@@ -49,7 +49,7 @@
 - [abdounikarim/nahos](https://github.com/abdounikarim/nahos) -  (4 months ago)
 - [msichterman/mac-setup](https://github.com/msichterman/mac-setup) - The commands and processes I run to setup a new Mac computer (5 months ago)
 - [geerlingguy/mac-dev-playbook](https://github.com/geerlingguy/mac-dev-playbook) - Mac setup and configuration via Ansible. (5 months ago)
-- [abdounikarim/poc](https://github.com/abdounikarim/poc) -  (8 months ago)
+- [abdounikarim/poc](https://github.com/abdounikarim/poc) -  (9 months ago)
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux) (1 year ago)
 - [drknzz/GitHub-Achievements](https://github.com/drknzz/GitHub-Achievements) - 🔥 A Complete List of GitHub Profile Badges and Achievements 🔥 (2 years ago)
 - [philcook/brew-php-switcher](https://github.com/philcook/brew-php-switcher) - Brew PHP switcher is a simple shell script to switch your apache and CLI quickly between major versions of PHP. If you support multiple products/projects that are built using either brand new or old legacy PHP functionality. For users of Homebrew (or brew for short) currently only. (2 years ago)
