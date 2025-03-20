@@ -6,16 +6,16 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [abdounikarim/poc-vue](https://github.com/abdounikarim/poc-vue) - Hello from Vue!👋 application  (today)
 - [abdounikarim/poc-react](https://github.com/abdounikarim/poc-react) - Hello from React!👋 application (1 day ago)
 - [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker compose up`. (1 month ago)
-- [abdounikarim/poc-nestjs](https://github.com/abdounikarim/poc-nestjs) -  (1 month ago)
 - [abdounikarim/poc-next-js](https://github.com/abdounikarim/poc-next-js) -  (1 month ago)
+- [abdounikarim/poc-nestjs](https://github.com/abdounikarim/poc-nestjs) -  (1 month ago)
 - [abdounikarim/poc-svelte](https://github.com/abdounikarim/poc-svelte) - Hello from Svelte!👋 application (1 month ago)
 - [abdounikarim/poc-angular](https://github.com/abdounikarim/poc-angular) -  (1 month ago)
 - [abdounikarim/poc-symfony-handle-assets](https://github.com/abdounikarim/poc-symfony-handle-assets) - Handle your Symfony assets without WebpackEncoreBundle, ViteBundle or AssetMapper (2 months ago)
 - [abdounikarim/symfony-create-project-kernel-missing](https://github.com/abdounikarim/symfony-create-project-kernel-missing) -  (2 months ago)
 - [Casrime/snowtricks](https://github.com/Casrime/snowtricks) - OpenClassrooms - Projet 6 du parcours Développeur d&#39;Applications PHP / Symfony (3 months ago)
-- [Casrime/bilemo](https://github.com/Casrime/bilemo) - OpenClassrooms - Projet 7 du parcours Développeur d&#39;Applications PHP / Symfony (3 months ago)
 
 #### 🌱 My latest projects
 
