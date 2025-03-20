@@ -6,7 +6,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [abdounikarim/poc-react](https://github.com/abdounikarim/poc-react) - Hello from React!👋 application (today)
+- [abdounikarim/poc-react](https://github.com/abdounikarim/poc-react) - Hello from React!👋 application (1 day ago)
 - [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker compose up`. (1 month ago)
 - [abdounikarim/poc-nestjs](https://github.com/abdounikarim/poc-nestjs) -  (1 month ago)
 - [abdounikarim/poc-next-js](https://github.com/abdounikarim/poc-next-js) -  (1 month ago)
@@ -46,7 +46,7 @@
 
 #### ⭐ Recent Stars
 
-- [abdounikarim/nahos](https://github.com/abdounikarim/nahos) -  (4 months ago)
+- [abdounikarim/nahos](https://github.com/abdounikarim/nahos) -  (5 months ago)
 - [msichterman/mac-setup](https://github.com/msichterman/mac-setup) - The commands and processes I run to setup a new Mac computer (5 months ago)
 - [geerlingguy/mac-dev-playbook](https://github.com/geerlingguy/mac-dev-playbook) - Mac setup and configuration via Ansible. (5 months ago)
 - [abdounikarim/poc](https://github.com/abdounikarim/poc) -  (9 months ago)
