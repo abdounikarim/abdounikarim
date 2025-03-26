@@ -35,8 +35,6 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Update tls.md](https://github.com/dunglas/symfony-docker/pull/738) on [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) (1 month ago)
-- [Update tls.md](https://github.com/dunglas/symfony-docker/pull/737) on [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) (1 month ago)
 
 #### 📓 Gists I wrote
 
