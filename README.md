@@ -6,7 +6,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [abdounikarim/nuxt-full-demo](https://github.com/abdounikarim/nuxt-full-demo) -  (6 days ago)
+- [abdounikarim/nuxt-full-demo](https://github.com/abdounikarim/nuxt-full-demo) -  (1 week ago)
 - [abdounikarim/poc-nuxt](https://github.com/abdounikarim/poc-nuxt) - Hello from Nuxt!👋 application  (1 week ago)
 - [abdounikarim/poc-vue](https://github.com/abdounikarim/poc-vue) - Hello from Vue!👋 application  (1 week ago)
 - [abdounikarim/poc-svelte](https://github.com/abdounikarim/poc-svelte) - Hello from Svelte!👋 application (1 week ago)
