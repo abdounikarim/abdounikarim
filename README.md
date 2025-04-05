@@ -7,9 +7,9 @@
 #### 👷 Check out what I'm currently working on
 
 - [abdounikarim/nuxt-full-demo](https://github.com/abdounikarim/nuxt-full-demo) -  (1 week ago)
-- [abdounikarim/poc-nuxt](https://github.com/abdounikarim/poc-nuxt) - Hello from Nuxt!👋 application  (1 week ago)
-- [abdounikarim/poc-vue](https://github.com/abdounikarim/poc-vue) - Hello from Vue!👋 application  (1 week ago)
-- [abdounikarim/poc-svelte](https://github.com/abdounikarim/poc-svelte) - Hello from Svelte!👋 application (1 week ago)
+- [abdounikarim/poc-nuxt](https://github.com/abdounikarim/poc-nuxt) - Hello from Nuxt!👋 application  (2 weeks ago)
+- [abdounikarim/poc-vue](https://github.com/abdounikarim/poc-vue) - Hello from Vue!👋 application  (2 weeks ago)
+- [abdounikarim/poc-svelte](https://github.com/abdounikarim/poc-svelte) - Hello from Svelte!👋 application (2 weeks ago)
 - [abdounikarim/poc-react](https://github.com/abdounikarim/poc-react) - Hello from React!👋 application (2 weeks ago)
 - [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker compose up`. (1 month ago)
 - [abdounikarim/poc-next-js](https://github.com/abdounikarim/poc-next-js) -  (1 month ago)
