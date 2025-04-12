@@ -7,9 +7,9 @@
 #### 👷 Check out what I'm currently working on
 
 - [abdounikarim/nuxt-full-demo](https://github.com/abdounikarim/nuxt-full-demo) -  (2 weeks ago)
-- [abdounikarim/poc-nuxt](https://github.com/abdounikarim/poc-nuxt) - Hello from Nuxt!👋 application  (2 weeks ago)
-- [abdounikarim/poc-vue](https://github.com/abdounikarim/poc-vue) - Hello from Vue!👋 application  (2 weeks ago)
-- [abdounikarim/poc-svelte](https://github.com/abdounikarim/poc-svelte) - Hello from Svelte!👋 application (2 weeks ago)
+- [abdounikarim/poc-nuxt](https://github.com/abdounikarim/poc-nuxt) - Hello from Nuxt!👋 application  (3 weeks ago)
+- [abdounikarim/poc-vue](https://github.com/abdounikarim/poc-vue) - Hello from Vue!👋 application  (3 weeks ago)
+- [abdounikarim/poc-svelte](https://github.com/abdounikarim/poc-svelte) - Hello from Svelte!👋 application (3 weeks ago)
 - [abdounikarim/poc-react](https://github.com/abdounikarim/poc-react) - Hello from React!👋 application (3 weeks ago)
 - [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker compose up`. (1 month ago)
 - [abdounikarim/poc-next-js](https://github.com/abdounikarim/poc-next-js) -  (2 months ago)
@@ -47,7 +47,7 @@
 - [abdounikarim/nahos](https://github.com/abdounikarim/nahos) -  (5 months ago)
 - [msichterman/mac-setup](https://github.com/msichterman/mac-setup) - The commands and processes I run to setup a new Mac computer (6 months ago)
 - [geerlingguy/mac-dev-playbook](https://github.com/geerlingguy/mac-dev-playbook) - Mac setup and configuration via Ansible. (6 months ago)
-- [ProofOfConceptFactory/poc](https://github.com/ProofOfConceptFactory/poc) -  (9 months ago)
+- [ProofOfConceptFactory/poc](https://github.com/ProofOfConceptFactory/poc) -  (10 months ago)
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux) (1 year ago)
 - [drknzz/GitHub-Achievements](https://github.com/drknzz/GitHub-Achievements) - 🔥 A Complete List of GitHub Profile Badges and Achievements 🔥 (2 years ago)
 - [philcook/brew-php-switcher](https://github.com/philcook/brew-php-switcher) - Brew PHP switcher is a simple shell script to switch your apache and CLI quickly between major versions of PHP. If you support multiple products/projects that are built using either brand new or old legacy PHP functionality. For users of Homebrew (or brew for short) currently only. (2 years ago)
