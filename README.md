@@ -15,7 +15,7 @@
 - [abdounikarim/poc-next-js](https://github.com/abdounikarim/poc-next-js) -  (2 months ago)
 - [abdounikarim/poc-nestjs](https://github.com/abdounikarim/poc-nestjs) -  (2 months ago)
 - [abdounikarim/poc-angular](https://github.com/abdounikarim/poc-angular) -  (2 months ago)
-- [abdounikarim/poc-symfony-handle-assets](https://github.com/abdounikarim/poc-symfony-handle-assets) - Handle your Symfony assets without WebpackEncoreBundle, ViteBundle or AssetMapper (2 months ago)
+- [abdounikarim/poc-symfony-handle-assets](https://github.com/abdounikarim/poc-symfony-handle-assets) - Handle your Symfony assets without WebpackEncoreBundle, ViteBundle or AssetMapper (3 months ago)
 
 #### 🌱 My latest projects
 
