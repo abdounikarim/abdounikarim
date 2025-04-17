@@ -6,16 +6,16 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [abdounikarim/os](https://github.com/abdounikarim/os) -  (today)
+- [ProofOfConceptFactory/poc-vue](https://github.com/ProofOfConceptFactory/poc-vue) - Hello from Vue!👋 application  (today)
 - [abdounikarim/nuxt-full-demo](https://github.com/abdounikarim/nuxt-full-demo) -  (3 weeks ago)
-- [abdounikarim/poc-nuxt](https://github.com/abdounikarim/poc-nuxt) - Hello from Nuxt!👋 application  (3 weeks ago)
-- [abdounikarim/poc-vue](https://github.com/abdounikarim/poc-vue) - Hello from Vue!👋 application  (3 weeks ago)
 - [abdounikarim/poc-svelte](https://github.com/abdounikarim/poc-svelte) - Hello from Svelte!👋 application (3 weeks ago)
+- [abdounikarim/poc-nuxt](https://github.com/abdounikarim/poc-nuxt) - Hello from Nuxt!👋 application  (3 weeks ago)
 - [abdounikarim/poc-react](https://github.com/abdounikarim/poc-react) - Hello from React!👋 application (4 weeks ago)
 - [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker compose up`. (2 months ago)
-- [abdounikarim/poc-next-js](https://github.com/abdounikarim/poc-next-js) -  (2 months ago)
 - [abdounikarim/poc-nestjs](https://github.com/abdounikarim/poc-nestjs) -  (2 months ago)
+- [abdounikarim/poc-next-js](https://github.com/abdounikarim/poc-next-js) -  (2 months ago)
 - [abdounikarim/poc-angular](https://github.com/abdounikarim/poc-angular) -  (2 months ago)
-- [abdounikarim/poc-symfony-handle-assets](https://github.com/abdounikarim/poc-symfony-handle-assets) - Handle your Symfony assets without WebpackEncoreBundle, ViteBundle or AssetMapper (3 months ago)
 
 #### 🌱 My latest projects
 
@@ -28,13 +28,14 @@
 - [abdounikarim/poc-nginx](https://github.com/abdounikarim/poc-nginx) - 
 - [abdounikarim/poc-svelte](https://github.com/abdounikarim/poc-svelte) - Hello from Svelte!👋 application
 - [abdounikarim/poc-nuxt](https://github.com/abdounikarim/poc-nuxt) - Hello from Nuxt!👋 application 
-- [abdounikarim/poc-vue](https://github.com/abdounikarim/poc-vue) - Hello from Vue!👋 application 
+- [abdounikarim/poc-react](https://github.com/abdounikarim/poc-react) - Hello from React!👋 application
 
 #### 🔭 Latest releases I've contributed to
 
 
 #### 🔨 My recent Pull Requests
 
+- [Taskfile](https://github.com/abdounikarim/os/pull/18) on [abdounikarim/os](https://github.com/abdounikarim/os) (today)
 
 #### 📓 Gists I wrote
 
