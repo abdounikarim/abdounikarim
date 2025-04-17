@@ -10,7 +10,7 @@
 - [abdounikarim/poc-nuxt](https://github.com/abdounikarim/poc-nuxt) - Hello from Nuxt!👋 application  (3 weeks ago)
 - [abdounikarim/poc-vue](https://github.com/abdounikarim/poc-vue) - Hello from Vue!👋 application  (3 weeks ago)
 - [abdounikarim/poc-svelte](https://github.com/abdounikarim/poc-svelte) - Hello from Svelte!👋 application (3 weeks ago)
-- [abdounikarim/poc-react](https://github.com/abdounikarim/poc-react) - Hello from React!👋 application (3 weeks ago)
+- [abdounikarim/poc-react](https://github.com/abdounikarim/poc-react) - Hello from React!👋 application (4 weeks ago)
 - [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker compose up`. (2 months ago)
 - [abdounikarim/poc-next-js](https://github.com/abdounikarim/poc-next-js) -  (2 months ago)
 - [abdounikarim/poc-nestjs](https://github.com/abdounikarim/poc-nestjs) -  (2 months ago)
