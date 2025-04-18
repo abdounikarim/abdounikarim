@@ -6,16 +6,16 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [abdounikarim/poc-nestjs](https://github.com/abdounikarim/poc-nestjs) -  (today)
+- [abdounikarim/poc-symfony-doctrine-mariadb](https://github.com/abdounikarim/poc-symfony-doctrine-mariadb) -  (today)
 - [abdounikarim/poc-next-js](https://github.com/abdounikarim/poc-next-js) -  (today)
+- [abdounikarim/poc-symfony-doctrine-postgresql](https://github.com/abdounikarim/poc-symfony-doctrine-postgresql) -  (today)
+- [abdounikarim/poc-svelte](https://github.com/abdounikarim/poc-svelte) - Hello from Svelte!👋 application (today)
 - [abdounikarim/poc-nuxt](https://github.com/abdounikarim/poc-nuxt) - Hello from Nuxt!👋 application  (today)
+- [abdounikarim/poc-symfony-handle-assets](https://github.com/abdounikarim/poc-symfony-handle-assets) - Handle your Symfony assets without WebpackEncoreBundle, ViteBundle or AssetMapper (today)
+- [abdounikarim/poc-symfony](https://github.com/abdounikarim/poc-symfony) - Hello from Symfony!👋 application (today)
+- [abdounikarim/poc-symfony-doctrine-mysql](https://github.com/abdounikarim/poc-symfony-doctrine-mysql) -  (today)
+- [abdounikarim/poc-nestjs](https://github.com/abdounikarim/poc-nestjs) -  (today)
 - [abdounikarim/poc-nginx](https://github.com/abdounikarim/poc-nginx) -  (today)
-- [ProofOfConceptFactory/poc-vue](https://github.com/ProofOfConceptFactory/poc-vue) - Hello from Vue!👋 application  (1 day ago)
-- [abdounikarim/os](https://github.com/abdounikarim/os) -  (1 day ago)
-- [ProofOfConceptFactory/poc-angular](https://github.com/ProofOfConceptFactory/poc-angular) -  (1 day ago)
-- [abdounikarim/nuxt-full-demo](https://github.com/abdounikarim/nuxt-full-demo) -  (3 weeks ago)
-- [abdounikarim/poc-svelte](https://github.com/abdounikarim/poc-svelte) - Hello from Svelte!👋 application (3 weeks ago)
-- [abdounikarim/poc-react](https://github.com/abdounikarim/poc-react) - Hello from React!👋 application (4 weeks ago)
 
 #### 🌱 My latest projects
 
