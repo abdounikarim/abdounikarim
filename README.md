@@ -6,9 +6,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ProofOfConceptFactory/poc-angular](https://github.com/ProofOfConceptFactory/poc-angular) -  (today)
-- [ProofOfConceptFactory/poc-vue](https://github.com/ProofOfConceptFactory/poc-vue) - Hello from Vue!👋 application  (today)
-- [abdounikarim/os](https://github.com/abdounikarim/os) -  (today)
+- [ProofOfConceptFactory/poc-angular](https://github.com/ProofOfConceptFactory/poc-angular) -  (1 day ago)
+- [ProofOfConceptFactory/poc-vue](https://github.com/ProofOfConceptFactory/poc-vue) - Hello from Vue!👋 application  (1 day ago)
+- [abdounikarim/os](https://github.com/abdounikarim/os) -  (1 day ago)
 - [abdounikarim/nuxt-full-demo](https://github.com/abdounikarim/nuxt-full-demo) -  (3 weeks ago)
 - [abdounikarim/poc-svelte](https://github.com/abdounikarim/poc-svelte) - Hello from Svelte!👋 application (3 weeks ago)
 - [abdounikarim/poc-nuxt](https://github.com/abdounikarim/poc-nuxt) - Hello from Nuxt!👋 application  (3 weeks ago)
@@ -35,9 +35,9 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Symfony autocompletion](https://github.com/abdounikarim/os/pull/20) on [abdounikarim/os](https://github.com/abdounikarim/os) (today)
-- [Dock synchronisation](https://github.com/abdounikarim/os/pull/19) on [abdounikarim/os](https://github.com/abdounikarim/os) (today)
-- [Taskfile](https://github.com/abdounikarim/os/pull/18) on [abdounikarim/os](https://github.com/abdounikarim/os) (today)
+- [Symfony autocompletion](https://github.com/abdounikarim/os/pull/20) on [abdounikarim/os](https://github.com/abdounikarim/os) (1 day ago)
+- [Dock synchronisation](https://github.com/abdounikarim/os/pull/19) on [abdounikarim/os](https://github.com/abdounikarim/os) (1 day ago)
+- [Taskfile](https://github.com/abdounikarim/os/pull/18) on [abdounikarim/os](https://github.com/abdounikarim/os) (1 day ago)
 
 #### 📓 Gists I wrote
 
