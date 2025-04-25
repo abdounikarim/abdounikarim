@@ -19,6 +19,7 @@
 
 #### 🌱 My latest projects
 
+- [abdounikarim/empty](https://github.com/abdounikarim/empty) - 
 - [abdounikarim/nuxt-full-demo](https://github.com/abdounikarim/nuxt-full-demo) - 
 - [abdounikarim/symfony-create-project-kernel-missing](https://github.com/abdounikarim/symfony-create-project-kernel-missing) - 
 - [abdounikarim/php-js-boilerplate](https://github.com/abdounikarim/php-js-boilerplate) - 
@@ -28,7 +29,6 @@
 - [abdounikarim/cmi](https://github.com/abdounikarim/cmi) - 
 - [abdounikarim/os](https://github.com/abdounikarim/os) - 
 - [abdounikarim/test_lfz](https://github.com/abdounikarim/test_lfz) - 
-- [abdounikarim/vue](https://github.com/abdounikarim/vue) - 
 
 #### 🔭 Latest releases I've contributed to
 
