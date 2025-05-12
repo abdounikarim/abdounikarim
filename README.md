@@ -6,9 +6,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [abdounikarim/os](https://github.com/abdounikarim/os) -  (6 days ago)
-- [ProofOfConceptFactory/poc-angular](https://github.com/ProofOfConceptFactory/poc-angular) -  (6 days ago)
-- [abdounikarim/multi-update-fixtures](https://github.com/abdounikarim/multi-update-fixtures) - Repository for multi update fixtures (6 days ago)
+- [abdounikarim/os](https://github.com/abdounikarim/os) -  (1 week ago)
+- [ProofOfConceptFactory/poc-angular](https://github.com/ProofOfConceptFactory/poc-angular) -  (1 week ago)
+- [abdounikarim/multi-update-fixtures](https://github.com/abdounikarim/multi-update-fixtures) - Repository for multi update fixtures (1 week ago)
 - [ProofOfConceptFactory/poc-go](https://github.com/ProofOfConceptFactory/poc-go) -  (1 week ago)
 - [ProofOfConceptFactory/poc-taskfile](https://github.com/ProofOfConceptFactory/poc-taskfile) -  (1 week ago)
 - [ProofOfConceptFactory/poc-makefile](https://github.com/ProofOfConceptFactory/poc-makefile) -  (1 week ago)
@@ -35,7 +35,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [GPG 🔐](https://github.com/abdounikarim/os/pull/22) on [abdounikarim/os](https://github.com/abdounikarim/os) (6 days ago)
+- [GPG 🔐](https://github.com/abdounikarim/os/pull/22) on [abdounikarim/os](https://github.com/abdounikarim/os) (1 week ago)
 - [zsh autoload in .zshrc file](https://github.com/abdounikarim/os/pull/21) on [abdounikarim/os](https://github.com/abdounikarim/os) (2 weeks ago)
 - [Symfony autocompletion](https://github.com/abdounikarim/os/pull/20) on [abdounikarim/os](https://github.com/abdounikarim/os) (3 weeks ago)
 - [Dock synchronisation](https://github.com/abdounikarim/os/pull/19) on [abdounikarim/os](https://github.com/abdounikarim/os) (3 weeks ago)
@@ -52,7 +52,7 @@
 - [abdounikarim/nahos](https://github.com/abdounikarim/nahos) -  (6 months ago)
 - [msichterman/mac-setup](https://github.com/msichterman/mac-setup) - The commands and processes I run to setup a new Mac computer (7 months ago)
 - [geerlingguy/mac-dev-playbook](https://github.com/geerlingguy/mac-dev-playbook) - Mac setup and configuration via Ansible. (7 months ago)
-- [ProofOfConceptFactory/poc](https://github.com/ProofOfConceptFactory/poc) -  (10 months ago)
+- [ProofOfConceptFactory/poc](https://github.com/ProofOfConceptFactory/poc) -  (11 months ago)
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux) (1 year ago)
 - [drknzz/GitHub-Achievements](https://github.com/drknzz/GitHub-Achievements) - 🔥 A Complete List of GitHub Profile Badges and Achievements 🔥 (2 years ago)
 - [philcook/brew-php-switcher](https://github.com/philcook/brew-php-switcher) - Brew PHP switcher is a simple shell script to switch your apache and CLI quickly between major versions of PHP. If you support multiple products/projects that are built using either brand new or old legacy PHP functionality. For users of Homebrew (or brew for short) currently only. (2 years ago)
