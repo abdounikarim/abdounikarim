@@ -6,9 +6,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [abdounikarim/os](https://github.com/abdounikarim/os) -  (1 week ago)
-- [ProofOfConceptFactory/poc-angular](https://github.com/ProofOfConceptFactory/poc-angular) -  (1 week ago)
-- [abdounikarim/multi-update-fixtures](https://github.com/abdounikarim/multi-update-fixtures) - Repository for multi update fixtures (1 week ago)
+- [abdounikarim/os](https://github.com/abdounikarim/os) -  (2 weeks ago)
+- [ProofOfConceptFactory/poc-angular](https://github.com/ProofOfConceptFactory/poc-angular) -  (2 weeks ago)
+- [abdounikarim/multi-update-fixtures](https://github.com/abdounikarim/multi-update-fixtures) - Repository for multi update fixtures (2 weeks ago)
 - [ProofOfConceptFactory/poc-go](https://github.com/ProofOfConceptFactory/poc-go) -  (2 weeks ago)
 - [ProofOfConceptFactory/poc-taskfile](https://github.com/ProofOfConceptFactory/poc-taskfile) -  (2 weeks ago)
 - [ProofOfConceptFactory/poc-ansible](https://github.com/ProofOfConceptFactory/poc-ansible) -  (2 weeks ago)
@@ -35,7 +35,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [GPG 🔐](https://github.com/abdounikarim/os/pull/22) on [abdounikarim/os](https://github.com/abdounikarim/os) (1 week ago)
+- [GPG 🔐](https://github.com/abdounikarim/os/pull/22) on [abdounikarim/os](https://github.com/abdounikarim/os) (2 weeks ago)
 - [zsh autoload in .zshrc file](https://github.com/abdounikarim/os/pull/21) on [abdounikarim/os](https://github.com/abdounikarim/os) (3 weeks ago)
 - [Symfony autocompletion](https://github.com/abdounikarim/os/pull/20) on [abdounikarim/os](https://github.com/abdounikarim/os) (1 month ago)
 - [Dock synchronisation](https://github.com/abdounikarim/os/pull/19) on [abdounikarim/os](https://github.com/abdounikarim/os) (1 month ago)
@@ -49,7 +49,7 @@
 
 #### ⭐ Recent Stars
 
-- [abdounikarim/nahos](https://github.com/abdounikarim/nahos) -  (6 months ago)
+- [abdounikarim/nahos](https://github.com/abdounikarim/nahos) -  (7 months ago)
 - [msichterman/mac-setup](https://github.com/msichterman/mac-setup) - The commands and processes I run to setup a new Mac computer (7 months ago)
 - [geerlingguy/mac-dev-playbook](https://github.com/geerlingguy/mac-dev-playbook) - Mac setup and configuration via Ansible. (7 months ago)
 - [ProofOfConceptFactory/poc](https://github.com/ProofOfConceptFactory/poc) -  (11 months ago)
