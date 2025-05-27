@@ -8,14 +8,14 @@
 
 - [abdounikarim/api-platform-full-demo](https://github.com/abdounikarim/api-platform-full-demo) -  (today)
 - [abdounikarim/abdounikarim.github.io](https://github.com/abdounikarim/abdounikarim.github.io) -  (1 day ago)
-- [ProofOfConceptFactory/poc-angular](https://github.com/ProofOfConceptFactory/poc-angular) -  (3 weeks ago)
 - [abdounikarim/multi-update-fixtures](https://github.com/abdounikarim/multi-update-fixtures) - Repository for multi update fixtures (3 weeks ago)
+- [ProofOfConceptFactory/poc-angular](https://github.com/ProofOfConceptFactory/poc-angular) -  (3 weeks ago)
 - [abdounikarim/os](https://github.com/abdounikarim/os) -  (3 weeks ago)
 - [ProofOfConceptFactory/poc-go](https://github.com/ProofOfConceptFactory/poc-go) -  (4 weeks ago)
+- [ProofOfConceptFactory/poc-taskfile](https://github.com/ProofOfConceptFactory/poc-taskfile) -  (4 weeks ago)
 - [ProofOfConceptFactory/poc-makefile](https://github.com/ProofOfConceptFactory/poc-makefile) -  (4 weeks ago)
 - [ProofOfConceptFactory/poc-ansible](https://github.com/ProofOfConceptFactory/poc-ansible) -  (4 weeks ago)
-- [ProofOfConceptFactory/poc-taskfile](https://github.com/ProofOfConceptFactory/poc-taskfile) -  (4 weeks ago)
-- [ProofOfConceptFactory/poc-symfony](https://github.com/ProofOfConceptFactory/poc-symfony) - Hello from Symfony!👋 application (1 month ago)
+- [ProofOfConceptFactory/poc-symfony-handle-assets](https://github.com/ProofOfConceptFactory/poc-symfony-handle-assets) - Handle your Symfony assets without WebpackEncoreBundle, ViteBundle or AssetMapper (1 month ago)
 
 #### 🌱 My latest projects
 
@@ -25,10 +25,10 @@
 - [abdounikarim/symfony-create-project-kernel-missing](https://github.com/abdounikarim/symfony-create-project-kernel-missing) - 
 - [abdounikarim/php-js-boilerplate](https://github.com/abdounikarim/php-js-boilerplate) - 
 - [abdounikarim/abdounikarim.github.io](https://github.com/abdounikarim/abdounikarim.github.io) - 
+- [abdounikarim/symfony-full-demo](https://github.com/abdounikarim/symfony-full-demo) - 
 - [abdounikarim/demo-ansible](https://github.com/abdounikarim/demo-ansible) - 
 - [abdounikarim/lorem-ipsum-bundle](https://github.com/abdounikarim/lorem-ipsum-bundle) - 
 - [abdounikarim/cmi](https://github.com/abdounikarim/cmi) - 
-- [abdounikarim/os](https://github.com/abdounikarim/os) - 
 
 #### 🔭 Latest releases I've contributed to
 
