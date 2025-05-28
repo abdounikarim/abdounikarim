@@ -7,7 +7,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [abdounikarim/api-platform-full-demo](https://github.com/abdounikarim/api-platform-full-demo) -  (today)
-- [abdounikarim/abdounikarim.github.io](https://github.com/abdounikarim/abdounikarim.github.io) -  (1 day ago)
+- [abdounikarim/abdounikarim.github.io](https://github.com/abdounikarim/abdounikarim.github.io) -  (2 days ago)
 - [abdounikarim/multi-update-fixtures](https://github.com/abdounikarim/multi-update-fixtures) - Repository for multi update fixtures (3 weeks ago)
 - [ProofOfConceptFactory/poc-angular](https://github.com/ProofOfConceptFactory/poc-angular) -  (3 weeks ago)
 - [abdounikarim/os](https://github.com/abdounikarim/os) -  (3 weeks ago)
@@ -35,8 +35,8 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Docker compose - remove version attribute](https://github.com/abdounikarim/api-platform-full-demo/pull/123) on [abdounikarim/api-platform-full-demo](https://github.com/abdounikarim/api-platform-full-demo) (today)
-- [Update](https://github.com/abdounikarim/abdounikarim.github.io/pull/3) on [abdounikarim/abdounikarim.github.io](https://github.com/abdounikarim/abdounikarim.github.io) (1 day ago)
+- [Docker compose - remove version attribute](https://github.com/abdounikarim/api-platform-full-demo/pull/123) on [abdounikarim/api-platform-full-demo](https://github.com/abdounikarim/api-platform-full-demo) (1 day ago)
+- [Update](https://github.com/abdounikarim/abdounikarim.github.io/pull/3) on [abdounikarim/abdounikarim.github.io](https://github.com/abdounikarim/abdounikarim.github.io) (2 days ago)
 - [GPG 🔐](https://github.com/abdounikarim/os/pull/22) on [abdounikarim/os](https://github.com/abdounikarim/os) (3 weeks ago)
 - [zsh autoload in .zshrc file](https://github.com/abdounikarim/os/pull/21) on [abdounikarim/os](https://github.com/abdounikarim/os) (1 month ago)
 - [Symfony autocompletion](https://github.com/abdounikarim/os/pull/20) on [abdounikarim/os](https://github.com/abdounikarim/os) (1 month ago)
@@ -52,8 +52,8 @@
 #### ⭐ Recent Stars
 
 - [abdounikarim/nahos](https://github.com/abdounikarim/nahos) -  (7 months ago)
-- [msichterman/mac-setup](https://github.com/msichterman/mac-setup) - The commands and processes I run to setup a new Mac computer (7 months ago)
-- [geerlingguy/mac-dev-playbook](https://github.com/geerlingguy/mac-dev-playbook) - Mac setup and configuration via Ansible. (7 months ago)
+- [msichterman/mac-setup](https://github.com/msichterman/mac-setup) - The commands and processes I run to setup a new Mac computer (8 months ago)
+- [geerlingguy/mac-dev-playbook](https://github.com/geerlingguy/mac-dev-playbook) - Mac setup and configuration via Ansible. (8 months ago)
 - [ProofOfConceptFactory/poc](https://github.com/ProofOfConceptFactory/poc) -  (11 months ago)
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux) (1 year ago)
 - [drknzz/GitHub-Achievements](https://github.com/drknzz/GitHub-Achievements) - 🔥 A Complete List of GitHub Profile Badges and Achievements 🔥 (2 years ago)
