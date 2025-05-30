@@ -65,7 +65,7 @@
 
 #### 👯 Check out some of my recent followers
 
-- [HElZOU](https://github.com/HElZOU)
+- [BERRYINKCEO](https://github.com/BERRYINKCEO)
 - [BuildDream18](https://github.com/BuildDream18)
 - [cumsoft](https://github.com/cumsoft)
 - [CStre](https://github.com/CStre)
