@@ -35,6 +35,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Symfony phpunit-bridge 7.3 recipe - Update manifest.json](https://github.com/symfony/recipes/pull/1424) on [symfony/recipes](https://github.com/symfony/recipes) (today)
 - [Update symfony recipes](https://github.com/abdounikarim/api-platform-full-demo/pull/134) on [abdounikarim/api-platform-full-demo](https://github.com/abdounikarim/api-platform-full-demo) (3 days ago)
 - [Docker compose - remove version attribute](https://github.com/abdounikarim/api-platform-full-demo/pull/123) on [abdounikarim/api-platform-full-demo](https://github.com/abdounikarim/api-platform-full-demo) (4 days ago)
 - [Update](https://github.com/abdounikarim/abdounikarim.github.io/pull/3) on [abdounikarim/abdounikarim.github.io](https://github.com/abdounikarim/abdounikarim.github.io) (5 days ago)
