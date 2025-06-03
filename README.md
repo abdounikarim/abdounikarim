@@ -7,13 +7,13 @@
 #### 👷 Check out what I'm currently working on
 
 - [ProofOfConceptFactory/poc-angular](https://github.com/ProofOfConceptFactory/poc-angular) -  (today)
-- [abdounikarim/api-platform-full-demo](https://github.com/abdounikarim/api-platform-full-demo) -  (today)
-- [ProofOfConceptFactory/poc-svelte](https://github.com/ProofOfConceptFactory/poc-svelte) - Hello from Svelte!👋 application (today)
-- [ProofOfConceptFactory/poc-react](https://github.com/ProofOfConceptFactory/poc-react) - Hello from React!👋 application (3 days ago)
-- [ProofOfConceptFactory/poc-vue](https://github.com/ProofOfConceptFactory/poc-vue) - Hello from Vue!👋 application  (3 days ago)
-- [ProofOfConceptFactory/poc-nuxt](https://github.com/ProofOfConceptFactory/poc-nuxt) - Hello from Nuxt!👋 application  (3 days ago)
-- [ProofOfConceptFactory/poc-next-js](https://github.com/ProofOfConceptFactory/poc-next-js) -  (4 days ago)
-- [abdounikarim/symfony-full-demo](https://github.com/abdounikarim/symfony-full-demo) -  (5 days ago)
+- [abdounikarim/api-platform-full-demo](https://github.com/abdounikarim/api-platform-full-demo) -  (1 day ago)
+- [ProofOfConceptFactory/poc-svelte](https://github.com/ProofOfConceptFactory/poc-svelte) - Hello from Svelte!👋 application (1 day ago)
+- [ProofOfConceptFactory/poc-react](https://github.com/ProofOfConceptFactory/poc-react) - Hello from React!👋 application (4 days ago)
+- [ProofOfConceptFactory/poc-vue](https://github.com/ProofOfConceptFactory/poc-vue) - Hello from Vue!👋 application  (4 days ago)
+- [ProofOfConceptFactory/poc-nuxt](https://github.com/ProofOfConceptFactory/poc-nuxt) - Hello from Nuxt!👋 application  (4 days ago)
+- [ProofOfConceptFactory/poc-next-js](https://github.com/ProofOfConceptFactory/poc-next-js) -  (5 days ago)
+- [abdounikarim/symfony-full-demo](https://github.com/abdounikarim/symfony-full-demo) -  (6 days ago)
 - [abdounikarim/abdounikarim.github.io](https://github.com/abdounikarim/abdounikarim.github.io) -  (1 week ago)
 - [abdounikarim/multi-update-fixtures](https://github.com/abdounikarim/multi-update-fixtures) - Repository for multi update fixtures (4 weeks ago)
 
@@ -35,10 +35,10 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Update docker configuration](https://github.com/abdounikarim/api-platform-full-demo/pull/138) on [abdounikarim/api-platform-full-demo](https://github.com/abdounikarim/api-platform-full-demo) (today)
-- [Symfony phpunit-bridge 7.3 recipe - Update manifest.json](https://github.com/symfony/recipes/pull/1424) on [symfony/recipes](https://github.com/symfony/recipes) (2 days ago)
-- [Update symfony recipes](https://github.com/abdounikarim/api-platform-full-demo/pull/134) on [abdounikarim/api-platform-full-demo](https://github.com/abdounikarim/api-platform-full-demo) (5 days ago)
-- [Docker compose - remove version attribute](https://github.com/abdounikarim/api-platform-full-demo/pull/123) on [abdounikarim/api-platform-full-demo](https://github.com/abdounikarim/api-platform-full-demo) (6 days ago)
+- [Update docker configuration](https://github.com/abdounikarim/api-platform-full-demo/pull/138) on [abdounikarim/api-platform-full-demo](https://github.com/abdounikarim/api-platform-full-demo) (1 day ago)
+- [Symfony phpunit-bridge 7.3 recipe - Update manifest.json](https://github.com/symfony/recipes/pull/1424) on [symfony/recipes](https://github.com/symfony/recipes) (3 days ago)
+- [Update symfony recipes](https://github.com/abdounikarim/api-platform-full-demo/pull/134) on [abdounikarim/api-platform-full-demo](https://github.com/abdounikarim/api-platform-full-demo) (6 days ago)
+- [Docker compose - remove version attribute](https://github.com/abdounikarim/api-platform-full-demo/pull/123) on [abdounikarim/api-platform-full-demo](https://github.com/abdounikarim/api-platform-full-demo) (1 week ago)
 - [Update](https://github.com/abdounikarim/abdounikarim.github.io/pull/3) on [abdounikarim/abdounikarim.github.io](https://github.com/abdounikarim/abdounikarim.github.io) (1 week ago)
 - [GPG 🔐](https://github.com/abdounikarim/os/pull/22) on [abdounikarim/os](https://github.com/abdounikarim/os) (4 weeks ago)
 - [zsh autoload in .zshrc file](https://github.com/abdounikarim/os/pull/21) on [abdounikarim/os](https://github.com/abdounikarim/os) (1 month ago)
