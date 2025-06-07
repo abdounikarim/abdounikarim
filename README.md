@@ -6,9 +6,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [abdounikarim/api-platform-full-demo](https://github.com/abdounikarim/api-platform-full-demo) -  (3 days ago)
-- [ProofOfConceptFactory/poc-angular](https://github.com/ProofOfConceptFactory/poc-angular) -  (3 days ago)
-- [ProofOfConceptFactory/poc-svelte](https://github.com/ProofOfConceptFactory/poc-svelte) - Hello from Svelte!👋 application (4 days ago)
+- [abdounikarim/api-platform-full-demo](https://github.com/abdounikarim/api-platform-full-demo) -  (4 days ago)
+- [ProofOfConceptFactory/poc-angular](https://github.com/ProofOfConceptFactory/poc-angular) -  (4 days ago)
+- [ProofOfConceptFactory/poc-svelte](https://github.com/ProofOfConceptFactory/poc-svelte) - Hello from Svelte!👋 application (5 days ago)
 - [ProofOfConceptFactory/poc-react](https://github.com/ProofOfConceptFactory/poc-react) - Hello from React!👋 application (1 week ago)
 - [ProofOfConceptFactory/poc-vue](https://github.com/ProofOfConceptFactory/poc-vue) - Hello from Vue!👋 application  (1 week ago)
 - [ProofOfConceptFactory/poc-nuxt](https://github.com/ProofOfConceptFactory/poc-nuxt) - Hello from Nuxt!👋 application  (1 week ago)
@@ -35,9 +35,9 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Use mkcert for local development](https://github.com/abdounikarim/api-platform-full-demo/pull/139) on [abdounikarim/api-platform-full-demo](https://github.com/abdounikarim/api-platform-full-demo) (3 days ago)
-- [Update docker configuration](https://github.com/abdounikarim/api-platform-full-demo/pull/138) on [abdounikarim/api-platform-full-demo](https://github.com/abdounikarim/api-platform-full-demo) (4 days ago)
-- [Symfony phpunit-bridge 7.3 recipe - Update manifest.json](https://github.com/symfony/recipes/pull/1424) on [symfony/recipes](https://github.com/symfony/recipes) (6 days ago)
+- [Use mkcert for local development](https://github.com/abdounikarim/api-platform-full-demo/pull/139) on [abdounikarim/api-platform-full-demo](https://github.com/abdounikarim/api-platform-full-demo) (4 days ago)
+- [Update docker configuration](https://github.com/abdounikarim/api-platform-full-demo/pull/138) on [abdounikarim/api-platform-full-demo](https://github.com/abdounikarim/api-platform-full-demo) (5 days ago)
+- [Symfony phpunit-bridge 7.3 recipe - Update manifest.json](https://github.com/symfony/recipes/pull/1424) on [symfony/recipes](https://github.com/symfony/recipes) (1 week ago)
 - [Update symfony recipes](https://github.com/abdounikarim/api-platform-full-demo/pull/134) on [abdounikarim/api-platform-full-demo](https://github.com/abdounikarim/api-platform-full-demo) (1 week ago)
 - [Docker compose - remove version attribute](https://github.com/abdounikarim/api-platform-full-demo/pull/123) on [abdounikarim/api-platform-full-demo](https://github.com/abdounikarim/api-platform-full-demo) (1 week ago)
 - [Update](https://github.com/abdounikarim/abdounikarim.github.io/pull/3) on [abdounikarim/abdounikarim.github.io](https://github.com/abdounikarim/abdounikarim.github.io) (1 week ago)
