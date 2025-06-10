@@ -35,6 +35,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [PHPStan level 6](https://github.com/abdounikarim/api-platform-full-demo/pull/143) on [abdounikarim/api-platform-full-demo](https://github.com/abdounikarim/api-platform-full-demo) (today)
 - [Use mkcert for local development](https://github.com/abdounikarim/api-platform-full-demo/pull/139) on [abdounikarim/api-platform-full-demo](https://github.com/abdounikarim/api-platform-full-demo) (1 week ago)
 - [Update docker configuration](https://github.com/abdounikarim/api-platform-full-demo/pull/138) on [abdounikarim/api-platform-full-demo](https://github.com/abdounikarim/api-platform-full-demo) (1 week ago)
 - [Symfony phpunit-bridge 7.3 recipe - Update manifest.json](https://github.com/symfony/recipes/pull/1424) on [symfony/recipes](https://github.com/symfony/recipes) (1 week ago)
@@ -44,7 +45,6 @@
 - [GPG 🔐](https://github.com/abdounikarim/os/pull/22) on [abdounikarim/os](https://github.com/abdounikarim/os) (1 month ago)
 - [zsh autoload in .zshrc file](https://github.com/abdounikarim/os/pull/21) on [abdounikarim/os](https://github.com/abdounikarim/os) (1 month ago)
 - [Symfony autocompletion](https://github.com/abdounikarim/os/pull/20) on [abdounikarim/os](https://github.com/abdounikarim/os) (1 month ago)
-- [Dock synchronisation](https://github.com/abdounikarim/os/pull/19) on [abdounikarim/os](https://github.com/abdounikarim/os) (1 month ago)
 
 #### 📓 Gists I wrote
 
