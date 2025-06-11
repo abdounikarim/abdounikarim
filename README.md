@@ -35,16 +35,16 @@
 
 #### 🔨 My recent Pull Requests
 
+- [PHP CS Fixer - add parallel runner config](https://github.com/abdounikarim/api-platform-full-demo/pull/152) on [abdounikarim/api-platform-full-demo](https://github.com/abdounikarim/api-platform-full-demo) (today)
+- [Taskfile - update coverage-html path](https://github.com/abdounikarim/api-platform-full-demo/pull/151) on [abdounikarim/api-platform-full-demo](https://github.com/abdounikarim/api-platform-full-demo) (today)
+- [Taskfile - db commands - add APP_ENV](https://github.com/abdounikarim/api-platform-full-demo/pull/150) on [abdounikarim/api-platform-full-demo](https://github.com/abdounikarim/api-platform-full-demo) (today)
+- [Symfony session - add name](https://github.com/abdounikarim/api-platform-full-demo/pull/149) on [abdounikarim/api-platform-full-demo](https://github.com/abdounikarim/api-platform-full-demo) (today)
+- [Doctrine - remove server_version in doctrine yaml file](https://github.com/abdounikarim/api-platform-full-demo/pull/148) on [abdounikarim/api-platform-full-demo](https://github.com/abdounikarim/api-platform-full-demo) (today)
 - [Switch from Makefile to Taskfile](https://github.com/abdounikarim/api-platform-full-demo/pull/146) on [abdounikarim/api-platform-full-demo](https://github.com/abdounikarim/api-platform-full-demo) (today)
 - [Update editorconfig](https://github.com/abdounikarim/api-platform-full-demo/pull/145) on [abdounikarim/api-platform-full-demo](https://github.com/abdounikarim/api-platform-full-demo) (1 day ago)
 - [PHPstan level max](https://github.com/abdounikarim/api-platform-full-demo/pull/144) on [abdounikarim/api-platform-full-demo](https://github.com/abdounikarim/api-platform-full-demo) (1 day ago)
 - [PHPStan level 6](https://github.com/abdounikarim/api-platform-full-demo/pull/143) on [abdounikarim/api-platform-full-demo](https://github.com/abdounikarim/api-platform-full-demo) (1 day ago)
 - [Use mkcert for local development](https://github.com/abdounikarim/api-platform-full-demo/pull/139) on [abdounikarim/api-platform-full-demo](https://github.com/abdounikarim/api-platform-full-demo) (1 week ago)
-- [Update docker configuration](https://github.com/abdounikarim/api-platform-full-demo/pull/138) on [abdounikarim/api-platform-full-demo](https://github.com/abdounikarim/api-platform-full-demo) (1 week ago)
-- [Symfony phpunit-bridge 7.3 recipe - Update manifest.json](https://github.com/symfony/recipes/pull/1424) on [symfony/recipes](https://github.com/symfony/recipes) (1 week ago)
-- [Update symfony recipes](https://github.com/abdounikarim/api-platform-full-demo/pull/134) on [abdounikarim/api-platform-full-demo](https://github.com/abdounikarim/api-platform-full-demo) (2 weeks ago)
-- [Docker compose - remove version attribute](https://github.com/abdounikarim/api-platform-full-demo/pull/123) on [abdounikarim/api-platform-full-demo](https://github.com/abdounikarim/api-platform-full-demo) (2 weeks ago)
-- [Update](https://github.com/abdounikarim/abdounikarim.github.io/pull/3) on [abdounikarim/abdounikarim.github.io](https://github.com/abdounikarim/abdounikarim.github.io) (2 weeks ago)
 
 #### 📓 Gists I wrote
 
