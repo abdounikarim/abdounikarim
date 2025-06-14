@@ -6,7 +6,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [abdounikarim/api-platform-full-demo](https://github.com/abdounikarim/api-platform-full-demo) -  (1 day ago)
+- [abdounikarim/api-platform-full-demo](https://github.com/abdounikarim/api-platform-full-demo) -  (2 days ago)
 - [ProofOfConceptFactory/poc-angular](https://github.com/ProofOfConceptFactory/poc-angular) -  (1 week ago)
 - [ProofOfConceptFactory/poc-svelte](https://github.com/ProofOfConceptFactory/poc-svelte) - Hello from Svelte!👋 application (1 week ago)
 - [ProofOfConceptFactory/poc-react](https://github.com/ProofOfConceptFactory/poc-react) - Hello from React!👋 application (2 weeks ago)
@@ -35,21 +35,21 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Use COMPOSE_BAKE=true for better performance](https://github.com/dunglas/symfony-docker/pull/803) on [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) (today)
-- [Rector update configuration](https://github.com/abdounikarim/api-platform-full-demo/pull/153) on [abdounikarim/api-platform-full-demo](https://github.com/abdounikarim/api-platform-full-demo) (1 day ago)
-- [PHP CS Fixer - add parallel runner config](https://github.com/abdounikarim/api-platform-full-demo/pull/152) on [abdounikarim/api-platform-full-demo](https://github.com/abdounikarim/api-platform-full-demo) (2 days ago)
-- [Taskfile - update coverage-html path](https://github.com/abdounikarim/api-platform-full-demo/pull/151) on [abdounikarim/api-platform-full-demo](https://github.com/abdounikarim/api-platform-full-demo) (2 days ago)
-- [Taskfile - db commands - add APP_ENV](https://github.com/abdounikarim/api-platform-full-demo/pull/150) on [abdounikarim/api-platform-full-demo](https://github.com/abdounikarim/api-platform-full-demo) (2 days ago)
-- [Symfony session - add name](https://github.com/abdounikarim/api-platform-full-demo/pull/149) on [abdounikarim/api-platform-full-demo](https://github.com/abdounikarim/api-platform-full-demo) (2 days ago)
-- [Doctrine - remove server_version in doctrine yaml file](https://github.com/abdounikarim/api-platform-full-demo/pull/148) on [abdounikarim/api-platform-full-demo](https://github.com/abdounikarim/api-platform-full-demo) (2 days ago)
-- [Switch from Makefile to Taskfile](https://github.com/abdounikarim/api-platform-full-demo/pull/146) on [abdounikarim/api-platform-full-demo](https://github.com/abdounikarim/api-platform-full-demo) (2 days ago)
-- [Update editorconfig](https://github.com/abdounikarim/api-platform-full-demo/pull/145) on [abdounikarim/api-platform-full-demo](https://github.com/abdounikarim/api-platform-full-demo) (3 days ago)
-- [PHPstan level max](https://github.com/abdounikarim/api-platform-full-demo/pull/144) on [abdounikarim/api-platform-full-demo](https://github.com/abdounikarim/api-platform-full-demo) (3 days ago)
+- [Use COMPOSE_BAKE=true for better performance](https://github.com/dunglas/symfony-docker/pull/803) on [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) (1 day ago)
+- [Rector update configuration](https://github.com/abdounikarim/api-platform-full-demo/pull/153) on [abdounikarim/api-platform-full-demo](https://github.com/abdounikarim/api-platform-full-demo) (2 days ago)
+- [PHP CS Fixer - add parallel runner config](https://github.com/abdounikarim/api-platform-full-demo/pull/152) on [abdounikarim/api-platform-full-demo](https://github.com/abdounikarim/api-platform-full-demo) (3 days ago)
+- [Taskfile - update coverage-html path](https://github.com/abdounikarim/api-platform-full-demo/pull/151) on [abdounikarim/api-platform-full-demo](https://github.com/abdounikarim/api-platform-full-demo) (3 days ago)
+- [Taskfile - db commands - add APP_ENV](https://github.com/abdounikarim/api-platform-full-demo/pull/150) on [abdounikarim/api-platform-full-demo](https://github.com/abdounikarim/api-platform-full-demo) (3 days ago)
+- [Symfony session - add name](https://github.com/abdounikarim/api-platform-full-demo/pull/149) on [abdounikarim/api-platform-full-demo](https://github.com/abdounikarim/api-platform-full-demo) (3 days ago)
+- [Doctrine - remove server_version in doctrine yaml file](https://github.com/abdounikarim/api-platform-full-demo/pull/148) on [abdounikarim/api-platform-full-demo](https://github.com/abdounikarim/api-platform-full-demo) (3 days ago)
+- [Switch from Makefile to Taskfile](https://github.com/abdounikarim/api-platform-full-demo/pull/146) on [abdounikarim/api-platform-full-demo](https://github.com/abdounikarim/api-platform-full-demo) (3 days ago)
+- [Update editorconfig](https://github.com/abdounikarim/api-platform-full-demo/pull/145) on [abdounikarim/api-platform-full-demo](https://github.com/abdounikarim/api-platform-full-demo) (4 days ago)
+- [PHPstan level max](https://github.com/abdounikarim/api-platform-full-demo/pull/144) on [abdounikarim/api-platform-full-demo](https://github.com/abdounikarim/api-platform-full-demo) (4 days ago)
 
 #### 📓 Gists I wrote
 
-- [Handle your Symfony assets without WebpackEncoreBundle, ViteBundle or AssetMapper](https://gist.github.com/7c0177c7a71b1e6585183e320034e4dd) (4 months ago)
-- [Hello from Symfony](https://gist.github.com/d6b3e49ead0d8e0a4041c06fcc689307) (4 months ago)
+- [Handle your Symfony assets without WebpackEncoreBundle, ViteBundle or AssetMapper](https://gist.github.com/7c0177c7a71b1e6585183e320034e4dd) (5 months ago)
+- [Hello from Symfony](https://gist.github.com/d6b3e49ead0d8e0a4041c06fcc689307) (5 months ago)
 - [](https://gist.github.com/b237278802559acb0bcf1e2516ba718e) (4 years ago)
 
 #### ⭐ Recent Stars
