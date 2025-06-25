@@ -6,7 +6,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [abdounikarim/api-platform-full-demo](https://github.com/abdounikarim/api-platform-full-demo) -  (1 week ago)
+- [abdounikarim/api-platform-full-demo](https://github.com/abdounikarim/api-platform-full-demo) -  (today)
 - [ProofOfConceptFactory/poc-angular](https://github.com/ProofOfConceptFactory/poc-angular) -  (3 weeks ago)
 - [ProofOfConceptFactory/poc-svelte](https://github.com/ProofOfConceptFactory/poc-svelte) - Hello from Svelte!👋 application (3 weeks ago)
 - [ProofOfConceptFactory/poc-react](https://github.com/ProofOfConceptFactory/poc-react) - Hello from React!👋 application (3 weeks ago)
@@ -35,6 +35,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Wip](https://github.com/abdounikarim/nuxt-full-demo/pull/1) on [abdounikarim/nuxt-full-demo](https://github.com/abdounikarim/nuxt-full-demo) (today)
 - [Update docker configuration](https://github.com/abdounikarim/api-platform-full-demo/pull/163) on [abdounikarim/api-platform-full-demo](https://github.com/abdounikarim/api-platform-full-demo) (today)
 - [Use COMPOSE_BAKE=true for better performance](https://github.com/dunglas/symfony-docker/pull/803) on [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) (1 week ago)
 - [Rector update configuration](https://github.com/abdounikarim/api-platform-full-demo/pull/153) on [abdounikarim/api-platform-full-demo](https://github.com/abdounikarim/api-platform-full-demo) (1 week ago)
@@ -44,7 +45,6 @@
 - [Symfony session - add name](https://github.com/abdounikarim/api-platform-full-demo/pull/149) on [abdounikarim/api-platform-full-demo](https://github.com/abdounikarim/api-platform-full-demo) (2 weeks ago)
 - [Doctrine - remove server_version in doctrine yaml file](https://github.com/abdounikarim/api-platform-full-demo/pull/148) on [abdounikarim/api-platform-full-demo](https://github.com/abdounikarim/api-platform-full-demo) (2 weeks ago)
 - [Switch from Makefile to Taskfile](https://github.com/abdounikarim/api-platform-full-demo/pull/146) on [abdounikarim/api-platform-full-demo](https://github.com/abdounikarim/api-platform-full-demo) (2 weeks ago)
-- [Update editorconfig](https://github.com/abdounikarim/api-platform-full-demo/pull/145) on [abdounikarim/api-platform-full-demo](https://github.com/abdounikarim/api-platform-full-demo) (2 weeks ago)
 
 #### 📓 Gists I wrote
 
