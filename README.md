@@ -6,6 +6,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [ProofOfConceptFactory/poc-symfony](https://github.com/ProofOfConceptFactory/poc-symfony) - Hello from Symfony!👋 application (today)
 - [abdounikarim/api-platform-full-demo](https://github.com/abdounikarim/api-platform-full-demo) -  (1 day ago)
 - [ProofOfConceptFactory/poc-angular](https://github.com/ProofOfConceptFactory/poc-angular) -  (3 weeks ago)
 - [ProofOfConceptFactory/poc-svelte](https://github.com/ProofOfConceptFactory/poc-svelte) - Hello from Svelte!👋 application (3 weeks ago)
@@ -15,7 +16,6 @@
 - [ProofOfConceptFactory/poc-next-js](https://github.com/ProofOfConceptFactory/poc-next-js) -  (4 weeks ago)
 - [abdounikarim/symfony-full-demo](https://github.com/abdounikarim/symfony-full-demo) -  (4 weeks ago)
 - [abdounikarim/abdounikarim.github.io](https://github.com/abdounikarim/abdounikarim.github.io) -  (1 month ago)
-- [abdounikarim/os](https://github.com/abdounikarim/os) -  (1 month ago)
 
 #### 🌱 My latest projects
 
