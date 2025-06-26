@@ -54,6 +54,7 @@
 
 #### ⭐ Recent Stars
 
+- [php/frankenphp](https://github.com/php/frankenphp) - 🧟 The modern PHP app server (today)
 - [abdounikarim/nahos](https://github.com/abdounikarim/nahos) -  (8 months ago)
 - [msichterman/mac-setup](https://github.com/msichterman/mac-setup) - The commands and processes I run to setup a new Mac computer (8 months ago)
 - [geerlingguy/mac-dev-playbook](https://github.com/geerlingguy/mac-dev-playbook) - Mac setup and configuration via Ansible. (8 months ago)
@@ -63,7 +64,6 @@
 - [philcook/brew-php-switcher](https://github.com/philcook/brew-php-switcher) - Brew PHP switcher is a simple shell script to switch your apache and CLI quickly between major versions of PHP. If you support multiple products/projects that are built using either brand new or old legacy PHP functionality. For users of Homebrew (or brew for short) currently only. (2 years ago)
 - [jobbsy-dev/jobbsy](https://github.com/jobbsy-dev/jobbsy) - Jobbsy - Job Board for Symfony (2 years ago)
 - [philipsharp/afieldguidetoelephpants](https://github.com/philipsharp/afieldguidetoelephpants) -  (2 years ago)
-- [symfony/monolog-bundle](https://github.com/symfony/monolog-bundle) - Symfony Monolog Bundle (2 years ago)
 
 #### 👯 Check out some of my recent followers
 
