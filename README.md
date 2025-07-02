@@ -6,13 +6,13 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ProofOfConceptFactory/poc-symfony](https://github.com/ProofOfConceptFactory/poc-symfony) - Hello from Symfony!👋 application (6 days ago)
+- [ProofOfConceptFactory/poc-symfony](https://github.com/ProofOfConceptFactory/poc-symfony) - Hello from Symfony!👋 application (today)
 - [abdounikarim/api-platform-full-demo](https://github.com/abdounikarim/api-platform-full-demo) -  (1 week ago)
 - [ProofOfConceptFactory/poc-angular](https://github.com/ProofOfConceptFactory/poc-angular) -  (4 weeks ago)
 - [ProofOfConceptFactory/poc-svelte](https://github.com/ProofOfConceptFactory/poc-svelte) - Hello from Svelte!👋 application (1 month ago)
 - [ProofOfConceptFactory/poc-react](https://github.com/ProofOfConceptFactory/poc-react) - Hello from React!👋 application (1 month ago)
-- [ProofOfConceptFactory/poc-vue](https://github.com/ProofOfConceptFactory/poc-vue) - Hello from Vue!👋 application  (1 month ago)
 - [ProofOfConceptFactory/poc-nuxt](https://github.com/ProofOfConceptFactory/poc-nuxt) - Hello from Nuxt!👋 application  (1 month ago)
+- [ProofOfConceptFactory/poc-vue](https://github.com/ProofOfConceptFactory/poc-vue) - Hello from Vue!👋 application  (1 month ago)
 - [ProofOfConceptFactory/poc-next-js](https://github.com/ProofOfConceptFactory/poc-next-js) -  (1 month ago)
 - [abdounikarim/symfony-full-demo](https://github.com/abdounikarim/symfony-full-demo) -  (1 month ago)
 - [abdounikarim/abdounikarim.github.io](https://github.com/abdounikarim/abdounikarim.github.io) -  (1 month ago)
