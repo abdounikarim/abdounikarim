@@ -7,15 +7,15 @@
 #### 👷 Check out what I'm currently working on
 
 - [ProofOfConceptFactory/poc-vue](https://github.com/ProofOfConceptFactory/poc-vue) - Hello from Vue!👋 application  (today)
-- [ProofOfConceptFactory/poc-ansible](https://github.com/ProofOfConceptFactory/poc-ansible) -  (today)
-- [ProofOfConceptFactory/poc-symfony-doctrine-postgresql](https://github.com/ProofOfConceptFactory/poc-symfony-doctrine-postgresql) -  (today)
-- [ProofOfConceptFactory/poc-symfony-doctrine-mysql](https://github.com/ProofOfConceptFactory/poc-symfony-doctrine-mysql) -  (today)
-- [ProofOfConceptFactory/poc-symfony-doctrine-mariadb](https://github.com/ProofOfConceptFactory/poc-symfony-doctrine-mariadb) -  (today)
-- [ProofOfConceptFactory/poc-go](https://github.com/ProofOfConceptFactory/poc-go) -  (today)
-- [ProofOfConceptFactory/poc-nuxt](https://github.com/ProofOfConceptFactory/poc-nuxt) - Hello from Nuxt!👋 application  (today)
-- [ProofOfConceptFactory/poc-taskfile](https://github.com/ProofOfConceptFactory/poc-taskfile) -  (today)
-- [ProofOfConceptFactory/poc-nginx](https://github.com/ProofOfConceptFactory/poc-nginx) -  (today)
-- [ProofOfConceptFactory/poc-symfony-handle-assets](https://github.com/ProofOfConceptFactory/poc-symfony-handle-assets) - Handle your Symfony assets without WebpackEncoreBundle, ViteBundle or AssetMapper (today)
+- [ProofOfConceptFactory/poc-ansible](https://github.com/ProofOfConceptFactory/poc-ansible) -  (1 day ago)
+- [ProofOfConceptFactory/poc-symfony-doctrine-postgresql](https://github.com/ProofOfConceptFactory/poc-symfony-doctrine-postgresql) -  (1 day ago)
+- [ProofOfConceptFactory/poc-symfony-doctrine-mysql](https://github.com/ProofOfConceptFactory/poc-symfony-doctrine-mysql) -  (1 day ago)
+- [ProofOfConceptFactory/poc-symfony-doctrine-mariadb](https://github.com/ProofOfConceptFactory/poc-symfony-doctrine-mariadb) -  (1 day ago)
+- [ProofOfConceptFactory/poc-go](https://github.com/ProofOfConceptFactory/poc-go) -  (1 day ago)
+- [ProofOfConceptFactory/poc-nuxt](https://github.com/ProofOfConceptFactory/poc-nuxt) - Hello from Nuxt!👋 application  (1 day ago)
+- [ProofOfConceptFactory/poc-taskfile](https://github.com/ProofOfConceptFactory/poc-taskfile) -  (1 day ago)
+- [ProofOfConceptFactory/poc-nginx](https://github.com/ProofOfConceptFactory/poc-nginx) -  (1 day ago)
+- [ProofOfConceptFactory/poc-symfony-handle-assets](https://github.com/ProofOfConceptFactory/poc-symfony-handle-assets) - Handle your Symfony assets without WebpackEncoreBundle, ViteBundle or AssetMapper (1 day ago)
 
 #### 🌱 My latest projects
 
@@ -37,7 +37,7 @@
 
 - [Wip](https://github.com/abdounikarim/nuxt-full-demo/pull/1) on [abdounikarim/nuxt-full-demo](https://github.com/abdounikarim/nuxt-full-demo) (1 week ago)
 - [Update docker configuration](https://github.com/abdounikarim/api-platform-full-demo/pull/163) on [abdounikarim/api-platform-full-demo](https://github.com/abdounikarim/api-platform-full-demo) (1 week ago)
-- [Use COMPOSE_BAKE=true for better performance](https://github.com/dunglas/symfony-docker/pull/803) on [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) (2 weeks ago)
+- [Use COMPOSE_BAKE=true for better performance](https://github.com/dunglas/symfony-docker/pull/803) on [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) (3 weeks ago)
 - [Rector update configuration](https://github.com/abdounikarim/api-platform-full-demo/pull/153) on [abdounikarim/api-platform-full-demo](https://github.com/abdounikarim/api-platform-full-demo) (3 weeks ago)
 - [PHP CS Fixer - add parallel runner config](https://github.com/abdounikarim/api-platform-full-demo/pull/152) on [abdounikarim/api-platform-full-demo](https://github.com/abdounikarim/api-platform-full-demo) (3 weeks ago)
 - [Taskfile - update coverage-html path](https://github.com/abdounikarim/api-platform-full-demo/pull/151) on [abdounikarim/api-platform-full-demo](https://github.com/abdounikarim/api-platform-full-demo) (3 weeks ago)
