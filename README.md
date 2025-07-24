@@ -8,14 +8,14 @@
 
 - [abdounikarim/symfony-full-demo](https://github.com/abdounikarim/symfony-full-demo) -  (today)
 - [ProofOfConceptFactory/poc-symfony](https://github.com/ProofOfConceptFactory/poc-symfony) - Hello from Symfony!👋 application (today)
-- [ProofOfConceptFactory/poc-symfony-handle-assets](https://github.com/ProofOfConceptFactory/poc-symfony-handle-assets) - Handle your Symfony assets without WebpackEncoreBundle, ViteBundle or AssetMapper (today)
-- [ProofOfConceptFactory/poc-symfony-doctrine-mariadb](https://github.com/ProofOfConceptFactory/poc-symfony-doctrine-mariadb) -  (1 day ago)
-- [ProofOfConceptFactory/poc-symfony-doctrine-postgresql](https://github.com/ProofOfConceptFactory/poc-symfony-doctrine-postgresql) -  (1 day ago)
-- [ProofOfConceptFactory/poc-symfony-doctrine-mysql](https://github.com/ProofOfConceptFactory/poc-symfony-doctrine-mysql) -  (1 day ago)
-- [ProofOfConceptFactory/poc-next-js](https://github.com/ProofOfConceptFactory/poc-next-js) -  (1 day ago)
-- [ProofOfConceptFactory/poc-nestjs](https://github.com/ProofOfConceptFactory/poc-nestjs) -  (1 day ago)
-- [ProofOfConceptFactory/poc-svelte](https://github.com/ProofOfConceptFactory/poc-svelte) - Hello from Svelte!👋 application (4 days ago)
-- [ProofOfConceptFactory/poc-react](https://github.com/ProofOfConceptFactory/poc-react) - Hello from React!👋 application (5 days ago)
+- [ProofOfConceptFactory/poc-symfony-handle-assets](https://github.com/ProofOfConceptFactory/poc-symfony-handle-assets) - Handle your Symfony assets without WebpackEncoreBundle, ViteBundle or AssetMapper (1 day ago)
+- [ProofOfConceptFactory/poc-symfony-doctrine-mariadb](https://github.com/ProofOfConceptFactory/poc-symfony-doctrine-mariadb) -  (2 days ago)
+- [ProofOfConceptFactory/poc-symfony-doctrine-postgresql](https://github.com/ProofOfConceptFactory/poc-symfony-doctrine-postgresql) -  (2 days ago)
+- [ProofOfConceptFactory/poc-symfony-doctrine-mysql](https://github.com/ProofOfConceptFactory/poc-symfony-doctrine-mysql) -  (2 days ago)
+- [ProofOfConceptFactory/poc-next-js](https://github.com/ProofOfConceptFactory/poc-next-js) -  (2 days ago)
+- [ProofOfConceptFactory/poc-nestjs](https://github.com/ProofOfConceptFactory/poc-nestjs) -  (2 days ago)
+- [ProofOfConceptFactory/poc-svelte](https://github.com/ProofOfConceptFactory/poc-svelte) - Hello from Svelte!👋 application (5 days ago)
+- [ProofOfConceptFactory/poc-react](https://github.com/ProofOfConceptFactory/poc-react) - Hello from React!👋 application (6 days ago)
 
 #### 🌱 My latest projects
 
@@ -35,9 +35,9 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Renovate - remove commitMessage (renovate warning)](https://github.com/abdounikarim/symfony-full-demo/pull/140) on [abdounikarim/symfony-full-demo](https://github.com/abdounikarim/symfony-full-demo) (today)
-- [switch prHourlyLimit from 10 to 0](https://github.com/abdounikarim/symfony-full-demo/pull/138) on [abdounikarim/symfony-full-demo](https://github.com/abdounikarim/symfony-full-demo) (today)
-- [Update renovate configuration file](https://github.com/abdounikarim/symfony-full-demo/pull/127) on [abdounikarim/symfony-full-demo](https://github.com/abdounikarim/symfony-full-demo) (today)
+- [Renovate - remove commitMessage (renovate warning)](https://github.com/abdounikarim/symfony-full-demo/pull/140) on [abdounikarim/symfony-full-demo](https://github.com/abdounikarim/symfony-full-demo) (1 day ago)
+- [switch prHourlyLimit from 10 to 0](https://github.com/abdounikarim/symfony-full-demo/pull/138) on [abdounikarim/symfony-full-demo](https://github.com/abdounikarim/symfony-full-demo) (1 day ago)
+- [Update renovate configuration file](https://github.com/abdounikarim/symfony-full-demo/pull/127) on [abdounikarim/symfony-full-demo](https://github.com/abdounikarim/symfony-full-demo) (1 day ago)
 - [Docker compose override - fix indent](https://github.com/abdounikarim/api-platform-full-demo/pull/181) on [abdounikarim/api-platform-full-demo](https://github.com/abdounikarim/api-platform-full-demo) (2 weeks ago)
 - [Improve installation](https://github.com/abdounikarim/api-platform-full-demo/pull/180) on [abdounikarim/api-platform-full-demo](https://github.com/abdounikarim/api-platform-full-demo) (2 weeks ago)
 - [Wip](https://github.com/abdounikarim/nuxt-full-demo/pull/1) on [abdounikarim/nuxt-full-demo](https://github.com/abdounikarim/nuxt-full-demo) (4 weeks ago)
@@ -54,7 +54,7 @@
 
 #### ⭐ Recent Stars
 
-- [php/frankenphp](https://github.com/php/frankenphp) - 🧟 The modern PHP app server (3 weeks ago)
+- [php/frankenphp](https://github.com/php/frankenphp) - 🧟 The modern PHP app server (4 weeks ago)
 - [abdounikarim/nahos](https://github.com/abdounikarim/nahos) -  (9 months ago)
 - [msichterman/mac-setup](https://github.com/msichterman/mac-setup) - The commands and processes I run to setup a new Mac computer (9 months ago)
 - [geerlingguy/mac-dev-playbook](https://github.com/geerlingguy/mac-dev-playbook) - Mac setup and configuration via Ansible. (9 months ago)
