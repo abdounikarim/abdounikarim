@@ -67,11 +67,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [visionary330](https://github.com/visionary330)
 - [BERRYINKCEO](https://github.com/BERRYINKCEO)
 - [BuildDream18](https://github.com/BuildDream18)
 - [cumsoft](https://github.com/cumsoft)
 - [CStre](https://github.com/CStre)
-- [Pierstoval](https://github.com/Pierstoval)
 
 #### 💬 Feedback
 
