@@ -44,7 +44,6 @@
 - [Wip](https://github.com/abdounikarim/nuxt-full-demo/pull/1) on [abdounikarim/nuxt-full-demo](https://github.com/abdounikarim/nuxt-full-demo) (1 month ago)
 - [Update docker configuration](https://github.com/abdounikarim/api-platform-full-demo/pull/163) on [abdounikarim/api-platform-full-demo](https://github.com/abdounikarim/api-platform-full-demo) (1 month ago)
 - [Use COMPOSE_BAKE=true for better performance](https://github.com/dunglas/symfony-docker/pull/803) on [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) (1 month ago)
-- [Rector update configuration](https://github.com/abdounikarim/api-platform-full-demo/pull/153) on [abdounikarim/api-platform-full-demo](https://github.com/abdounikarim/api-platform-full-demo) (1 month ago)
 
 #### 📓 Gists I wrote
 
