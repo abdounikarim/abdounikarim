@@ -35,6 +35,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Revert &#34;Update dependency symfony/runtime to v7.3.1 - abandoned&#34;](https://github.com/ProofOfConceptFactory/poc-symfony-handle-assets/pull/38) on [ProofOfConceptFactory/poc-symfony-handle-assets](https://github.com/ProofOfConceptFactory/poc-symfony-handle-assets) (today)
 - [Renovate - remove commitMessage (renovate warning)](https://github.com/abdounikarim/symfony-full-demo/pull/140) on [abdounikarim/symfony-full-demo](https://github.com/abdounikarim/symfony-full-demo) (6 days ago)
 - [switch prHourlyLimit from 10 to 0](https://github.com/abdounikarim/symfony-full-demo/pull/138) on [abdounikarim/symfony-full-demo](https://github.com/abdounikarim/symfony-full-demo) (6 days ago)
 - [Update renovate configuration file](https://github.com/abdounikarim/symfony-full-demo/pull/127) on [abdounikarim/symfony-full-demo](https://github.com/abdounikarim/symfony-full-demo) (6 days ago)
@@ -44,7 +45,6 @@
 - [Update docker configuration](https://github.com/abdounikarim/api-platform-full-demo/pull/163) on [abdounikarim/api-platform-full-demo](https://github.com/abdounikarim/api-platform-full-demo) (1 month ago)
 - [Use COMPOSE_BAKE=true for better performance](https://github.com/dunglas/symfony-docker/pull/803) on [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) (1 month ago)
 - [Rector update configuration](https://github.com/abdounikarim/api-platform-full-demo/pull/153) on [abdounikarim/api-platform-full-demo](https://github.com/abdounikarim/api-platform-full-demo) (1 month ago)
-- [PHP CS Fixer - add parallel runner config](https://github.com/abdounikarim/api-platform-full-demo/pull/152) on [abdounikarim/api-platform-full-demo](https://github.com/abdounikarim/api-platform-full-demo) (1 month ago)
 
 #### 📓 Gists I wrote
 
