@@ -41,7 +41,6 @@
 - [switch prHourlyLimit from 10 to 0](https://github.com/abdounikarim/symfony-full-demo/pull/138) on [abdounikarim/symfony-full-demo](https://github.com/abdounikarim/symfony-full-demo) (1 week ago)
 - [Update renovate configuration file](https://github.com/abdounikarim/symfony-full-demo/pull/127) on [abdounikarim/symfony-full-demo](https://github.com/abdounikarim/symfony-full-demo) (1 week ago)
 - [Docker compose override - fix indent](https://github.com/abdounikarim/api-platform-full-demo/pull/181) on [abdounikarim/api-platform-full-demo](https://github.com/abdounikarim/api-platform-full-demo) (3 weeks ago)
-- [Improve installation](https://github.com/abdounikarim/api-platform-full-demo/pull/180) on [abdounikarim/api-platform-full-demo](https://github.com/abdounikarim/api-platform-full-demo) (3 weeks ago)
 
 #### 📓 Gists I wrote
 
