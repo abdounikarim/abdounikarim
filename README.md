@@ -6,16 +6,16 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [abdounikarim/symfony-full-demo](https://github.com/abdounikarim/symfony-full-demo) -  (1 day ago)
-- [ProofOfConceptFactory/poc-symfony-handle-assets](https://github.com/ProofOfConceptFactory/poc-symfony-handle-assets) - Handle your Symfony assets without WebpackEncoreBundle, ViteBundle or AssetMapper (2 days ago)
-- [ProofOfConceptFactory/poc-next-js](https://github.com/ProofOfConceptFactory/poc-next-js) -  (2 days ago)
-- [ProofOfConceptFactory/poc-svelte](https://github.com/ProofOfConceptFactory/poc-svelte) - Hello from Svelte!👋 application (2 days ago)
+- [abdounikarim/symfony-full-demo](https://github.com/abdounikarim/symfony-full-demo) -  (2 days ago)
+- [ProofOfConceptFactory/poc-symfony-handle-assets](https://github.com/ProofOfConceptFactory/poc-symfony-handle-assets) - Handle your Symfony assets without WebpackEncoreBundle, ViteBundle or AssetMapper (3 days ago)
+- [ProofOfConceptFactory/poc-next-js](https://github.com/ProofOfConceptFactory/poc-next-js) -  (3 days ago)
+- [ProofOfConceptFactory/poc-svelte](https://github.com/ProofOfConceptFactory/poc-svelte) - Hello from Svelte!👋 application (3 days ago)
 - [ProofOfConceptFactory/poc-symfony](https://github.com/ProofOfConceptFactory/poc-symfony) - Hello from Symfony!👋 application (1 week ago)
 - [ProofOfConceptFactory/poc-symfony-doctrine-postgresql](https://github.com/ProofOfConceptFactory/poc-symfony-doctrine-postgresql) -  (1 week ago)
 - [ProofOfConceptFactory/poc-symfony-doctrine-mariadb](https://github.com/ProofOfConceptFactory/poc-symfony-doctrine-mariadb) -  (1 week ago)
 - [ProofOfConceptFactory/poc-symfony-doctrine-mysql](https://github.com/ProofOfConceptFactory/poc-symfony-doctrine-mysql) -  (1 week ago)
 - [ProofOfConceptFactory/poc-nestjs](https://github.com/ProofOfConceptFactory/poc-nestjs) -  (1 week ago)
-- [ProofOfConceptFactory/poc-react](https://github.com/ProofOfConceptFactory/poc-react) - Hello from React!👋 application (1 week ago)
+- [ProofOfConceptFactory/poc-react](https://github.com/ProofOfConceptFactory/poc-react) - Hello from React!👋 application (2 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -35,12 +35,11 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Update symfony recipes](https://github.com/abdounikarim/symfony-full-demo/pull/160) on [abdounikarim/symfony-full-demo](https://github.com/abdounikarim/symfony-full-demo) (2 days ago)
-- [Revert &#34;Update dependency symfony/runtime to v7.3.1 - abandoned&#34;](https://github.com/ProofOfConceptFactory/poc-symfony-handle-assets/pull/38) on [ProofOfConceptFactory/poc-symfony-handle-assets](https://github.com/ProofOfConceptFactory/poc-symfony-handle-assets) (2 days ago)
+- [Update symfony recipes](https://github.com/abdounikarim/symfony-full-demo/pull/160) on [abdounikarim/symfony-full-demo](https://github.com/abdounikarim/symfony-full-demo) (3 days ago)
+- [Revert &#34;Update dependency symfony/runtime to v7.3.1 - abandoned&#34;](https://github.com/ProofOfConceptFactory/poc-symfony-handle-assets/pull/38) on [ProofOfConceptFactory/poc-symfony-handle-assets](https://github.com/ProofOfConceptFactory/poc-symfony-handle-assets) (3 days ago)
 - [Renovate - remove commitMessage (renovate warning)](https://github.com/abdounikarim/symfony-full-demo/pull/140) on [abdounikarim/symfony-full-demo](https://github.com/abdounikarim/symfony-full-demo) (1 week ago)
 - [switch prHourlyLimit from 10 to 0](https://github.com/abdounikarim/symfony-full-demo/pull/138) on [abdounikarim/symfony-full-demo](https://github.com/abdounikarim/symfony-full-demo) (1 week ago)
 - [Update renovate configuration file](https://github.com/abdounikarim/symfony-full-demo/pull/127) on [abdounikarim/symfony-full-demo](https://github.com/abdounikarim/symfony-full-demo) (1 week ago)
-- [Docker compose override - fix indent](https://github.com/abdounikarim/api-platform-full-demo/pull/181) on [abdounikarim/api-platform-full-demo](https://github.com/abdounikarim/api-platform-full-demo) (3 weeks ago)
 
 #### 📓 Gists I wrote
 
