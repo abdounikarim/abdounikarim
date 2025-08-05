@@ -7,14 +7,14 @@
 #### 👷 Check out what I'm currently working on
 
 - [ProofOfConceptFactory/poc-symfony-handle-assets](https://github.com/ProofOfConceptFactory/poc-symfony-handle-assets) - Handle your Symfony assets without WebpackEncoreBundle, ViteBundle or AssetMapper (today)
-- [ProofOfConceptFactory/poc-symfony-doctrine-mariadb](https://github.com/ProofOfConceptFactory/poc-symfony-doctrine-mariadb) -  (today)
-- [ProofOfConceptFactory/poc-symfony-doctrine-postgresql](https://github.com/ProofOfConceptFactory/poc-symfony-doctrine-postgresql) -  (today)
-- [abdounikarim/symfony-full-demo](https://github.com/abdounikarim/symfony-full-demo) -  (3 days ago)
-- [ProofOfConceptFactory/poc-next-js](https://github.com/ProofOfConceptFactory/poc-next-js) -  (6 days ago)
-- [ProofOfConceptFactory/poc-svelte](https://github.com/ProofOfConceptFactory/poc-svelte) - Hello from Svelte!👋 application (6 days ago)
+- [ProofOfConceptFactory/poc-symfony-doctrine-mariadb](https://github.com/ProofOfConceptFactory/poc-symfony-doctrine-mariadb) -  (1 day ago)
+- [ProofOfConceptFactory/poc-symfony-doctrine-postgresql](https://github.com/ProofOfConceptFactory/poc-symfony-doctrine-postgresql) -  (1 day ago)
+- [abdounikarim/symfony-full-demo](https://github.com/abdounikarim/symfony-full-demo) -  (4 days ago)
+- [ProofOfConceptFactory/poc-next-js](https://github.com/ProofOfConceptFactory/poc-next-js) -  (1 week ago)
+- [ProofOfConceptFactory/poc-svelte](https://github.com/ProofOfConceptFactory/poc-svelte) - Hello from Svelte!👋 application (1 week ago)
 - [ProofOfConceptFactory/poc-symfony](https://github.com/ProofOfConceptFactory/poc-symfony) - Hello from Symfony!👋 application (1 week ago)
-- [ProofOfConceptFactory/poc-symfony-doctrine-mysql](https://github.com/ProofOfConceptFactory/poc-symfony-doctrine-mysql) -  (1 week ago)
-- [ProofOfConceptFactory/poc-nestjs](https://github.com/ProofOfConceptFactory/poc-nestjs) -  (1 week ago)
+- [ProofOfConceptFactory/poc-symfony-doctrine-mysql](https://github.com/ProofOfConceptFactory/poc-symfony-doctrine-mysql) -  (2 weeks ago)
+- [ProofOfConceptFactory/poc-nestjs](https://github.com/ProofOfConceptFactory/poc-nestjs) -  (2 weeks ago)
 - [ProofOfConceptFactory/poc-react](https://github.com/ProofOfConceptFactory/poc-react) - Hello from React!👋 application (2 weeks ago)
 
 #### 🌱 My latest projects
@@ -35,8 +35,8 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Update symfony recipes](https://github.com/abdounikarim/symfony-full-demo/pull/160) on [abdounikarim/symfony-full-demo](https://github.com/abdounikarim/symfony-full-demo) (6 days ago)
-- [Revert &#34;Update dependency symfony/runtime to v7.3.1 - abandoned&#34;](https://github.com/ProofOfConceptFactory/poc-symfony-handle-assets/pull/38) on [ProofOfConceptFactory/poc-symfony-handle-assets](https://github.com/ProofOfConceptFactory/poc-symfony-handle-assets) (6 days ago)
+- [Update symfony recipes](https://github.com/abdounikarim/symfony-full-demo/pull/160) on [abdounikarim/symfony-full-demo](https://github.com/abdounikarim/symfony-full-demo) (1 week ago)
+- [Revert &#34;Update dependency symfony/runtime to v7.3.1 - abandoned&#34;](https://github.com/ProofOfConceptFactory/poc-symfony-handle-assets/pull/38) on [ProofOfConceptFactory/poc-symfony-handle-assets](https://github.com/ProofOfConceptFactory/poc-symfony-handle-assets) (1 week ago)
 - [Renovate - remove commitMessage (renovate warning)](https://github.com/abdounikarim/symfony-full-demo/pull/140) on [abdounikarim/symfony-full-demo](https://github.com/abdounikarim/symfony-full-demo) (1 week ago)
 - [switch prHourlyLimit from 10 to 0](https://github.com/abdounikarim/symfony-full-demo/pull/138) on [abdounikarim/symfony-full-demo](https://github.com/abdounikarim/symfony-full-demo) (1 week ago)
 - [Update renovate configuration file](https://github.com/abdounikarim/symfony-full-demo/pull/127) on [abdounikarim/symfony-full-demo](https://github.com/abdounikarim/symfony-full-demo) (1 week ago)
@@ -54,7 +54,7 @@
 - [msichterman/mac-setup](https://github.com/msichterman/mac-setup) - The commands and processes I run to setup a new Mac computer (10 months ago)
 - [geerlingguy/mac-dev-playbook](https://github.com/geerlingguy/mac-dev-playbook) - Mac setup and configuration via Ansible. (10 months ago)
 - [ProofOfConceptFactory/poc](https://github.com/ProofOfConceptFactory/poc) -  (1 year ago)
-- [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux) (1 year ago)
+- [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux) (2 years ago)
 - [drknzz/GitHub-Achievements](https://github.com/drknzz/GitHub-Achievements) - 🔥 A Complete List of GitHub Profile Badges and Achievements 🔥 (2 years ago)
 - [philcook/brew-php-switcher](https://github.com/philcook/brew-php-switcher) - Brew PHP switcher is a simple shell script to switch your apache and CLI quickly between major versions of PHP. If you support multiple products/projects that are built using either brand new or old legacy PHP functionality. For users of Homebrew (or brew for short) currently only. (2 years ago)
 - [jobbsy-dev/jobbsy](https://github.com/jobbsy-dev/jobbsy) - Jobbsy - Job Board for Symfony (2 years ago)
