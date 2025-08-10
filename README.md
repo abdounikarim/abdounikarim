@@ -38,7 +38,6 @@
 - [add webapp packages](https://github.com/ProofOfConceptFactory/poc-symfony/pull/20) on [ProofOfConceptFactory/poc-symfony](https://github.com/ProofOfConceptFactory/poc-symfony) (1 day ago)
 - [Update symfony recipes](https://github.com/abdounikarim/symfony-full-demo/pull/160) on [abdounikarim/symfony-full-demo](https://github.com/abdounikarim/symfony-full-demo) (1 week ago)
 - [Revert &#34;Update dependency symfony/runtime to v7.3.1 - abandoned&#34;](https://github.com/ProofOfConceptFactory/poc-symfony-handle-assets/pull/38) on [ProofOfConceptFactory/poc-symfony-handle-assets](https://github.com/ProofOfConceptFactory/poc-symfony-handle-assets) (1 week ago)
-- [Renovate - remove commitMessage (renovate warning)](https://github.com/abdounikarim/symfony-full-demo/pull/140) on [abdounikarim/symfony-full-demo](https://github.com/abdounikarim/symfony-full-demo) (2 weeks ago)
 
 #### 📓 Gists I wrote
 
