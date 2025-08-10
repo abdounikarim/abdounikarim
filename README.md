@@ -6,11 +6,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ProofOfConceptFactory/poc-symfony](https://github.com/ProofOfConceptFactory/poc-symfony) - Hello from Symfony!👋 application (today)
-- [ProofOfConceptFactory/poc-symfony-handle-assets](https://github.com/ProofOfConceptFactory/poc-symfony-handle-assets) - Handle your Symfony assets without WebpackEncoreBundle, ViteBundle or AssetMapper (today)
-- [ProofOfConceptFactory/poc-symfony-doctrine-mysql](https://github.com/ProofOfConceptFactory/poc-symfony-doctrine-mysql) -  (today)
-- [ProofOfConceptFactory/poc-symfony-doctrine-mariadb](https://github.com/ProofOfConceptFactory/poc-symfony-doctrine-mariadb) -  (5 days ago)
-- [ProofOfConceptFactory/poc-symfony-doctrine-postgresql](https://github.com/ProofOfConceptFactory/poc-symfony-doctrine-postgresql) -  (5 days ago)
+- [ProofOfConceptFactory/poc-symfony](https://github.com/ProofOfConceptFactory/poc-symfony) - Hello from Symfony!👋 application (1 day ago)
+- [ProofOfConceptFactory/poc-symfony-handle-assets](https://github.com/ProofOfConceptFactory/poc-symfony-handle-assets) - Handle your Symfony assets without WebpackEncoreBundle, ViteBundle or AssetMapper (1 day ago)
+- [ProofOfConceptFactory/poc-symfony-doctrine-mysql](https://github.com/ProofOfConceptFactory/poc-symfony-doctrine-mysql) -  (1 day ago)
+- [ProofOfConceptFactory/poc-symfony-doctrine-mariadb](https://github.com/ProofOfConceptFactory/poc-symfony-doctrine-mariadb) -  (6 days ago)
+- [ProofOfConceptFactory/poc-symfony-doctrine-postgresql](https://github.com/ProofOfConceptFactory/poc-symfony-doctrine-postgresql) -  (6 days ago)
 - [abdounikarim/symfony-full-demo](https://github.com/abdounikarim/symfony-full-demo) -  (1 week ago)
 - [ProofOfConceptFactory/poc-next-js](https://github.com/ProofOfConceptFactory/poc-next-js) -  (1 week ago)
 - [ProofOfConceptFactory/poc-svelte](https://github.com/ProofOfConceptFactory/poc-svelte) - Hello from Svelte!👋 application (1 week ago)
@@ -35,7 +35,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [add webapp packages](https://github.com/ProofOfConceptFactory/poc-symfony/pull/20) on [ProofOfConceptFactory/poc-symfony](https://github.com/ProofOfConceptFactory/poc-symfony) (today)
+- [add webapp packages](https://github.com/ProofOfConceptFactory/poc-symfony/pull/20) on [ProofOfConceptFactory/poc-symfony](https://github.com/ProofOfConceptFactory/poc-symfony) (1 day ago)
 - [Update symfony recipes](https://github.com/abdounikarim/symfony-full-demo/pull/160) on [abdounikarim/symfony-full-demo](https://github.com/abdounikarim/symfony-full-demo) (1 week ago)
 - [Revert &#34;Update dependency symfony/runtime to v7.3.1 - abandoned&#34;](https://github.com/ProofOfConceptFactory/poc-symfony-handle-assets/pull/38) on [ProofOfConceptFactory/poc-symfony-handle-assets](https://github.com/ProofOfConceptFactory/poc-symfony-handle-assets) (1 week ago)
 - [Renovate - remove commitMessage (renovate warning)](https://github.com/abdounikarim/symfony-full-demo/pull/140) on [abdounikarim/symfony-full-demo](https://github.com/abdounikarim/symfony-full-demo) (2 weeks ago)
