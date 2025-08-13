@@ -6,12 +6,12 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ProofOfConceptFactory/poc-symfony-handle-assets](https://github.com/ProofOfConceptFactory/poc-symfony-handle-assets) - Handle your Symfony assets without WebpackEncoreBundle, ViteBundle or AssetMapper (1 day ago)
-- [ProofOfConceptFactory/poc-symfony-doctrine-postgresql](https://github.com/ProofOfConceptFactory/poc-symfony-doctrine-postgresql) -  (1 day ago)
-- [ProofOfConceptFactory/poc-symfony-doctrine-mariadb](https://github.com/ProofOfConceptFactory/poc-symfony-doctrine-mariadb) -  (1 day ago)
-- [ProofOfConceptFactory/poc-symfony-doctrine-mysql](https://github.com/ProofOfConceptFactory/poc-symfony-doctrine-mysql) -  (1 day ago)
-- [abdounikarim/api-platform-full-demo](https://github.com/abdounikarim/api-platform-full-demo) -  (1 day ago)
-- [ProofOfConceptFactory/poc-symfony](https://github.com/ProofOfConceptFactory/poc-symfony) - Hello from Symfony!👋 application (3 days ago)
+- [ProofOfConceptFactory/poc-symfony-handle-assets](https://github.com/ProofOfConceptFactory/poc-symfony-handle-assets) - Handle your Symfony assets without WebpackEncoreBundle, ViteBundle or AssetMapper (2 days ago)
+- [ProofOfConceptFactory/poc-symfony-doctrine-postgresql](https://github.com/ProofOfConceptFactory/poc-symfony-doctrine-postgresql) -  (2 days ago)
+- [ProofOfConceptFactory/poc-symfony-doctrine-mariadb](https://github.com/ProofOfConceptFactory/poc-symfony-doctrine-mariadb) -  (2 days ago)
+- [ProofOfConceptFactory/poc-symfony-doctrine-mysql](https://github.com/ProofOfConceptFactory/poc-symfony-doctrine-mysql) -  (2 days ago)
+- [abdounikarim/api-platform-full-demo](https://github.com/abdounikarim/api-platform-full-demo) -  (2 days ago)
+- [ProofOfConceptFactory/poc-symfony](https://github.com/ProofOfConceptFactory/poc-symfony) - Hello from Symfony!👋 application (4 days ago)
 - [abdounikarim/symfony-full-demo](https://github.com/abdounikarim/symfony-full-demo) -  (1 week ago)
 - [ProofOfConceptFactory/poc-svelte](https://github.com/ProofOfConceptFactory/poc-svelte) - Hello from Svelte!👋 application (2 weeks ago)
 - [ProofOfConceptFactory/poc-next-js](https://github.com/ProofOfConceptFactory/poc-next-js) -  (2 weeks ago)
@@ -35,15 +35,15 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Add webapp packages](https://github.com/ProofOfConceptFactory/poc-symfony-doctrine-mariadb/pull/29) on [ProofOfConceptFactory/poc-symfony-doctrine-mariadb](https://github.com/ProofOfConceptFactory/poc-symfony-doctrine-mariadb) (2 days ago)
-- [Add webapp packages](https://github.com/ProofOfConceptFactory/poc-symfony-doctrine-mysql/pull/32) on [ProofOfConceptFactory/poc-symfony-doctrine-mysql](https://github.com/ProofOfConceptFactory/poc-symfony-doctrine-mysql) (2 days ago)
-- [Add webapp packages](https://github.com/ProofOfConceptFactory/poc-symfony-doctrine-postgresql/pull/31) on [ProofOfConceptFactory/poc-symfony-doctrine-postgresql](https://github.com/ProofOfConceptFactory/poc-symfony-doctrine-postgresql) (2 days ago)
-- [add webapp packages](https://github.com/ProofOfConceptFactory/poc-symfony/pull/20) on [ProofOfConceptFactory/poc-symfony](https://github.com/ProofOfConceptFactory/poc-symfony) (3 days ago)
+- [Add webapp packages](https://github.com/ProofOfConceptFactory/poc-symfony-doctrine-mariadb/pull/29) on [ProofOfConceptFactory/poc-symfony-doctrine-mariadb](https://github.com/ProofOfConceptFactory/poc-symfony-doctrine-mariadb) (3 days ago)
+- [Add webapp packages](https://github.com/ProofOfConceptFactory/poc-symfony-doctrine-mysql/pull/32) on [ProofOfConceptFactory/poc-symfony-doctrine-mysql](https://github.com/ProofOfConceptFactory/poc-symfony-doctrine-mysql) (3 days ago)
+- [Add webapp packages](https://github.com/ProofOfConceptFactory/poc-symfony-doctrine-postgresql/pull/31) on [ProofOfConceptFactory/poc-symfony-doctrine-postgresql](https://github.com/ProofOfConceptFactory/poc-symfony-doctrine-postgresql) (3 days ago)
+- [add webapp packages](https://github.com/ProofOfConceptFactory/poc-symfony/pull/20) on [ProofOfConceptFactory/poc-symfony](https://github.com/ProofOfConceptFactory/poc-symfony) (4 days ago)
 
 #### 📓 Gists I wrote
 
-- [Handle your Symfony assets without WebpackEncoreBundle, ViteBundle or AssetMapper](https://gist.github.com/7c0177c7a71b1e6585183e320034e4dd) (6 months ago)
-- [Hello from Symfony](https://gist.github.com/d6b3e49ead0d8e0a4041c06fcc689307) (6 months ago)
+- [Handle your Symfony assets without WebpackEncoreBundle, ViteBundle or AssetMapper](https://gist.github.com/7c0177c7a71b1e6585183e320034e4dd) (7 months ago)
+- [Hello from Symfony](https://gist.github.com/d6b3e49ead0d8e0a4041c06fcc689307) (7 months ago)
 - [](https://gist.github.com/b237278802559acb0bcf1e2516ba718e) (4 years ago)
 
 #### ⭐ Recent Stars
