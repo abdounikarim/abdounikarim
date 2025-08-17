@@ -6,12 +6,12 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [abdounikarim/symfony-full-demo](https://github.com/abdounikarim/symfony-full-demo) -  (1 day ago)
-- [ProofOfConceptFactory/poc-symfony-doctrine-mysql](https://github.com/ProofOfConceptFactory/poc-symfony-doctrine-mysql) -  (5 days ago)
-- [ProofOfConceptFactory/poc-symfony-doctrine-postgresql](https://github.com/ProofOfConceptFactory/poc-symfony-doctrine-postgresql) -  (5 days ago)
-- [ProofOfConceptFactory/poc-symfony-doctrine-mariadb](https://github.com/ProofOfConceptFactory/poc-symfony-doctrine-mariadb) -  (5 days ago)
-- [ProofOfConceptFactory/poc-symfony-handle-assets](https://github.com/ProofOfConceptFactory/poc-symfony-handle-assets) - Handle your Symfony assets without WebpackEncoreBundle, ViteBundle or AssetMapper (5 days ago)
-- [abdounikarim/api-platform-full-demo](https://github.com/abdounikarim/api-platform-full-demo) -  (5 days ago)
+- [abdounikarim/symfony-full-demo](https://github.com/abdounikarim/symfony-full-demo) -  (2 days ago)
+- [ProofOfConceptFactory/poc-symfony-doctrine-mysql](https://github.com/ProofOfConceptFactory/poc-symfony-doctrine-mysql) -  (6 days ago)
+- [ProofOfConceptFactory/poc-symfony-doctrine-postgresql](https://github.com/ProofOfConceptFactory/poc-symfony-doctrine-postgresql) -  (6 days ago)
+- [ProofOfConceptFactory/poc-symfony-doctrine-mariadb](https://github.com/ProofOfConceptFactory/poc-symfony-doctrine-mariadb) -  (6 days ago)
+- [ProofOfConceptFactory/poc-symfony-handle-assets](https://github.com/ProofOfConceptFactory/poc-symfony-handle-assets) - Handle your Symfony assets without WebpackEncoreBundle, ViteBundle or AssetMapper (6 days ago)
+- [abdounikarim/api-platform-full-demo](https://github.com/abdounikarim/api-platform-full-demo) -  (6 days ago)
 - [ProofOfConceptFactory/poc-symfony](https://github.com/ProofOfConceptFactory/poc-symfony) - Hello from Symfony!👋 application (1 week ago)
 - [ProofOfConceptFactory/poc-svelte](https://github.com/ProofOfConceptFactory/poc-svelte) - Hello from Svelte!👋 application (2 weeks ago)
 - [ProofOfConceptFactory/poc-next-js](https://github.com/ProofOfConceptFactory/poc-next-js) -  (2 weeks ago)
@@ -35,10 +35,10 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Update recipes](https://github.com/abdounikarim/symfony-full-demo/pull/197) on [abdounikarim/symfony-full-demo](https://github.com/abdounikarim/symfony-full-demo) (1 day ago)
-- [Add webapp packages](https://github.com/ProofOfConceptFactory/poc-symfony-doctrine-mariadb/pull/29) on [ProofOfConceptFactory/poc-symfony-doctrine-mariadb](https://github.com/ProofOfConceptFactory/poc-symfony-doctrine-mariadb) (6 days ago)
-- [Add webapp packages](https://github.com/ProofOfConceptFactory/poc-symfony-doctrine-mysql/pull/32) on [ProofOfConceptFactory/poc-symfony-doctrine-mysql](https://github.com/ProofOfConceptFactory/poc-symfony-doctrine-mysql) (6 days ago)
-- [Add webapp packages](https://github.com/ProofOfConceptFactory/poc-symfony-doctrine-postgresql/pull/31) on [ProofOfConceptFactory/poc-symfony-doctrine-postgresql](https://github.com/ProofOfConceptFactory/poc-symfony-doctrine-postgresql) (6 days ago)
+- [Update recipes](https://github.com/abdounikarim/symfony-full-demo/pull/197) on [abdounikarim/symfony-full-demo](https://github.com/abdounikarim/symfony-full-demo) (2 days ago)
+- [Add webapp packages](https://github.com/ProofOfConceptFactory/poc-symfony-doctrine-mariadb/pull/29) on [ProofOfConceptFactory/poc-symfony-doctrine-mariadb](https://github.com/ProofOfConceptFactory/poc-symfony-doctrine-mariadb) (1 week ago)
+- [Add webapp packages](https://github.com/ProofOfConceptFactory/poc-symfony-doctrine-mysql/pull/32) on [ProofOfConceptFactory/poc-symfony-doctrine-mysql](https://github.com/ProofOfConceptFactory/poc-symfony-doctrine-mysql) (1 week ago)
+- [Add webapp packages](https://github.com/ProofOfConceptFactory/poc-symfony-doctrine-postgresql/pull/31) on [ProofOfConceptFactory/poc-symfony-doctrine-postgresql](https://github.com/ProofOfConceptFactory/poc-symfony-doctrine-postgresql) (1 week ago)
 - [add webapp packages](https://github.com/ProofOfConceptFactory/poc-symfony/pull/20) on [ProofOfConceptFactory/poc-symfony](https://github.com/ProofOfConceptFactory/poc-symfony) (1 week ago)
 
 #### 📓 Gists I wrote
@@ -50,7 +50,7 @@
 #### ⭐ Recent Stars
 
 - [php/frankenphp](https://github.com/php/frankenphp) - 🧟 The modern PHP app server (1 month ago)
-- [abdounikarim/nahos](https://github.com/abdounikarim/nahos) -  (9 months ago)
+- [abdounikarim/nahos](https://github.com/abdounikarim/nahos) -  (10 months ago)
 - [msichterman/mac-setup](https://github.com/msichterman/mac-setup) - The commands and processes I run to setup a new Mac computer (10 months ago)
 - [geerlingguy/mac-dev-playbook](https://github.com/geerlingguy/mac-dev-playbook) - Mac setup and configuration via Ansible. (10 months ago)
 - [ProofOfConceptFactory/poc](https://github.com/ProofOfConceptFactory/poc) -  (1 year ago)
