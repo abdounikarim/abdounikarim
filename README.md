@@ -6,7 +6,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [abdounikarim/api-platform-full-demo](https://github.com/abdounikarim/api-platform-full-demo) -  (1 day ago)
+- [abdounikarim/api-platform-full-demo](https://github.com/abdounikarim/api-platform-full-demo) -  (2 days ago)
 - [abdounikarim/symfony-full-demo](https://github.com/abdounikarim/symfony-full-demo) -  (1 week ago)
 - [ProofOfConceptFactory/poc-symfony-doctrine-mysql](https://github.com/ProofOfConceptFactory/poc-symfony-doctrine-mysql) -  (2 weeks ago)
 - [ProofOfConceptFactory/poc-symfony-doctrine-postgresql](https://github.com/ProofOfConceptFactory/poc-symfony-doctrine-postgresql) -  (2 weeks ago)
@@ -35,7 +35,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Symfony Insight](https://github.com/abdounikarim/api-platform-full-demo/pull/205) on [abdounikarim/api-platform-full-demo](https://github.com/abdounikarim/api-platform-full-demo) (1 day ago)
+- [Symfony Insight](https://github.com/abdounikarim/api-platform-full-demo/pull/205) on [abdounikarim/api-platform-full-demo](https://github.com/abdounikarim/api-platform-full-demo) (2 days ago)
 - [Update recipes](https://github.com/abdounikarim/symfony-full-demo/pull/197) on [abdounikarim/symfony-full-demo](https://github.com/abdounikarim/symfony-full-demo) (1 week ago)
 - [Add webapp packages](https://github.com/ProofOfConceptFactory/poc-symfony-doctrine-mariadb/pull/29) on [ProofOfConceptFactory/poc-symfony-doctrine-mariadb](https://github.com/ProofOfConceptFactory/poc-symfony-doctrine-mariadb) (2 weeks ago)
 - [Add webapp packages](https://github.com/ProofOfConceptFactory/poc-symfony-doctrine-mysql/pull/32) on [ProofOfConceptFactory/poc-symfony-doctrine-mysql](https://github.com/ProofOfConceptFactory/poc-symfony-doctrine-mysql) (2 weeks ago)
@@ -50,7 +50,7 @@
 
 #### ⭐ Recent Stars
 
-- [thanhdevapp/jetbrains-reset-trial-evaluation-mac](https://github.com/thanhdevapp/jetbrains-reset-trial-evaluation-mac) - Reset Intellij IDEA, WebStorm, DataGrip, PhpStorm, CLion, PyCharm, RubyMine, GoLand and Rider evaluation (2019 / 2020 / Mac OS) (5 days ago)
+- [thanhdevapp/jetbrains-reset-trial-evaluation-mac](https://github.com/thanhdevapp/jetbrains-reset-trial-evaluation-mac) - Reset Intellij IDEA, WebStorm, DataGrip, PhpStorm, CLion, PyCharm, RubyMine, GoLand and Rider evaluation (2019 / 2020 / Mac OS) (6 days ago)
 - [php/frankenphp](https://github.com/php/frankenphp) - 🧟 The modern PHP app server (2 months ago)
 - [abdounikarim/nahos](https://github.com/abdounikarim/nahos) -  (10 months ago)
 - [msichterman/mac-setup](https://github.com/msichterman/mac-setup) - The commands and processes I run to setup a new Mac computer (11 months ago)
