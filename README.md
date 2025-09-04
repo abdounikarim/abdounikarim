@@ -50,7 +50,7 @@
 
 #### ⭐ Recent Stars
 
-- [thanhdevapp/jetbrains-reset-trial-evaluation-mac](https://github.com/thanhdevapp/jetbrains-reset-trial-evaluation-mac) - Reset Intellij IDEA, WebStorm, DataGrip, PhpStorm, CLion, PyCharm, RubyMine, GoLand and Rider evaluation (2019 / 2020 / Mac OS) (1 week ago)
+- [thanhdevapp/jetbrains-reset-trial-evaluation-mac](https://github.com/thanhdevapp/jetbrains-reset-trial-evaluation-mac) - Reset Intellij IDEA, WebStorm, DataGrip, PhpStorm, CLion, PyCharm, RubyMine, GoLand and Rider evaluation (2019 / 2020 / Mac OS) (2 weeks ago)
 - [php/frankenphp](https://github.com/php/frankenphp) - 🧟 The modern PHP app server (2 months ago)
 - [abdounikarim/nahos](https://github.com/abdounikarim/nahos) -  (10 months ago)
 - [msichterman/mac-setup](https://github.com/msichterman/mac-setup) - The commands and processes I run to setup a new Mac computer (11 months ago)
