@@ -35,6 +35,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Tailwind and flowbite](https://github.com/abdounikarim/symfony-full-demo/pull/220) on [abdounikarim/symfony-full-demo](https://github.com/abdounikarim/symfony-full-demo) (today)
 - [Symfony Insight](https://github.com/abdounikarim/api-platform-full-demo/pull/205) on [abdounikarim/api-platform-full-demo](https://github.com/abdounikarim/api-platform-full-demo) (2 weeks ago)
 - [Update recipes](https://github.com/abdounikarim/symfony-full-demo/pull/197) on [abdounikarim/symfony-full-demo](https://github.com/abdounikarim/symfony-full-demo) (3 weeks ago)
 - [Add webapp packages](https://github.com/ProofOfConceptFactory/poc-symfony-doctrine-mariadb/pull/29) on [ProofOfConceptFactory/poc-symfony-doctrine-mariadb](https://github.com/ProofOfConceptFactory/poc-symfony-doctrine-mariadb) (4 weeks ago)
