@@ -7,7 +7,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [abdounikarim/api-platform-full-demo](https://github.com/abdounikarim/api-platform-full-demo) -  (2 weeks ago)
-- [abdounikarim/symfony-full-demo](https://github.com/abdounikarim/symfony-full-demo) -  (3 weeks ago)
+- [abdounikarim/symfony-full-demo](https://github.com/abdounikarim/symfony-full-demo) -  (4 weeks ago)
 - [ProofOfConceptFactory/poc-symfony-doctrine-mysql](https://github.com/ProofOfConceptFactory/poc-symfony-doctrine-mysql) -  (1 month ago)
 - [ProofOfConceptFactory/poc-symfony-doctrine-postgresql](https://github.com/ProofOfConceptFactory/poc-symfony-doctrine-postgresql) -  (1 month ago)
 - [ProofOfConceptFactory/poc-symfony-handle-assets](https://github.com/ProofOfConceptFactory/poc-symfony-handle-assets) - Handle your Symfony assets without WebpackEncoreBundle, ViteBundle or AssetMapper (1 month ago)
@@ -35,9 +35,9 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Tailwind and flowbite](https://github.com/abdounikarim/symfony-full-demo/pull/220) on [abdounikarim/symfony-full-demo](https://github.com/abdounikarim/symfony-full-demo) (3 days ago)
+- [Tailwind and flowbite](https://github.com/abdounikarim/symfony-full-demo/pull/220) on [abdounikarim/symfony-full-demo](https://github.com/abdounikarim/symfony-full-demo) (4 days ago)
 - [Symfony Insight](https://github.com/abdounikarim/api-platform-full-demo/pull/205) on [abdounikarim/api-platform-full-demo](https://github.com/abdounikarim/api-platform-full-demo) (2 weeks ago)
-- [Update recipes](https://github.com/abdounikarim/symfony-full-demo/pull/197) on [abdounikarim/symfony-full-demo](https://github.com/abdounikarim/symfony-full-demo) (3 weeks ago)
+- [Update recipes](https://github.com/abdounikarim/symfony-full-demo/pull/197) on [abdounikarim/symfony-full-demo](https://github.com/abdounikarim/symfony-full-demo) (4 weeks ago)
 - [Add webapp packages](https://github.com/ProofOfConceptFactory/poc-symfony-doctrine-mariadb/pull/29) on [ProofOfConceptFactory/poc-symfony-doctrine-mariadb](https://github.com/ProofOfConceptFactory/poc-symfony-doctrine-mariadb) (1 month ago)
 - [Add webapp packages](https://github.com/ProofOfConceptFactory/poc-symfony-doctrine-mysql/pull/32) on [ProofOfConceptFactory/poc-symfony-doctrine-mysql](https://github.com/ProofOfConceptFactory/poc-symfony-doctrine-mysql) (1 month ago)
 - [Add webapp packages](https://github.com/ProofOfConceptFactory/poc-symfony-doctrine-postgresql/pull/31) on [ProofOfConceptFactory/poc-symfony-doctrine-postgresql](https://github.com/ProofOfConceptFactory/poc-symfony-doctrine-postgresql) (1 month ago)
@@ -45,8 +45,8 @@
 
 #### 📓 Gists I wrote
 
-- [Handle your Symfony assets without WebpackEncoreBundle, ViteBundle or AssetMapper](https://gist.github.com/7c0177c7a71b1e6585183e320034e4dd) (7 months ago)
-- [Hello from Symfony](https://gist.github.com/d6b3e49ead0d8e0a4041c06fcc689307) (7 months ago)
+- [Handle your Symfony assets without WebpackEncoreBundle, ViteBundle or AssetMapper](https://gist.github.com/7c0177c7a71b1e6585183e320034e4dd) (8 months ago)
+- [Hello from Symfony](https://gist.github.com/d6b3e49ead0d8e0a4041c06fcc689307) (8 months ago)
 - [](https://gist.github.com/b237278802559acb0bcf1e2516ba718e) (4 years ago)
 
 #### ⭐ Recent Stars
