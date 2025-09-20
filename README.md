@@ -15,7 +15,7 @@
 - [ProofOfConceptFactory/poc-symfony](https://github.com/ProofOfConceptFactory/poc-symfony) - Hello from Symfony!👋 application (1 month ago)
 - [ProofOfConceptFactory/poc-svelte](https://github.com/ProofOfConceptFactory/poc-svelte) - Hello from Svelte!👋 application (1 month ago)
 - [ProofOfConceptFactory/poc-next-js](https://github.com/ProofOfConceptFactory/poc-next-js) -  (1 month ago)
-- [ProofOfConceptFactory/poc-nestjs](https://github.com/ProofOfConceptFactory/poc-nestjs) -  (1 month ago)
+- [ProofOfConceptFactory/poc-nestjs](https://github.com/ProofOfConceptFactory/poc-nestjs) -  (2 months ago)
 
 #### 🌱 My latest projects
 
@@ -51,7 +51,7 @@
 
 #### ⭐ Recent Stars
 
-- [thanhdevapp/jetbrains-reset-trial-evaluation-mac](https://github.com/thanhdevapp/jetbrains-reset-trial-evaluation-mac) - Reset Intellij IDEA, WebStorm, DataGrip, PhpStorm, CLion, PyCharm, RubyMine, GoLand and Rider evaluation (2019 / 2020 / Mac OS) (4 weeks ago)
+- [thanhdevapp/jetbrains-reset-trial-evaluation-mac](https://github.com/thanhdevapp/jetbrains-reset-trial-evaluation-mac) - Reset Intellij IDEA, WebStorm, DataGrip, PhpStorm, CLion, PyCharm, RubyMine, GoLand and Rider evaluation (2019 / 2020 / Mac OS) (1 month ago)
 - [php/frankenphp](https://github.com/php/frankenphp) - 🧟 The modern PHP app server (2 months ago)
 - [abdounikarim/nahos](https://github.com/abdounikarim/nahos) -  (11 months ago)
 - [msichterman/mac-setup](https://github.com/msichterman/mac-setup) - The commands and processes I run to setup a new Mac computer (11 months ago)
