@@ -35,13 +35,15 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Make checks](https://github.com/abdounikarim/symfony-full-demo/pull/256) on [abdounikarim/symfony-full-demo](https://github.com/abdounikarim/symfony-full-demo) (today)
+- [Makefile - update checks command](https://github.com/abdounikarim/symfony-full-demo/pull/255) on [abdounikarim/symfony-full-demo](https://github.com/abdounikarim/symfony-full-demo) (today)
+- [Makefile - Update tests command](https://github.com/abdounikarim/symfony-full-demo/pull/254) on [abdounikarim/symfony-full-demo](https://github.com/abdounikarim/symfony-full-demo) (today)
+- [Trick - set user on creation](https://github.com/abdounikarim/symfony-full-demo/pull/253) on [abdounikarim/symfony-full-demo](https://github.com/abdounikarim/symfony-full-demo) (today)
 - [Export OpenAPI](https://github.com/abdounikarim/api-platform-full-demo/pull/219) on [abdounikarim/api-platform-full-demo](https://github.com/abdounikarim/api-platform-full-demo) (2 weeks ago)
 - [Tailwind and flowbite](https://github.com/abdounikarim/symfony-full-demo/pull/220) on [abdounikarim/symfony-full-demo](https://github.com/abdounikarim/symfony-full-demo) (1 month ago)
 - [Symfony Insight](https://github.com/abdounikarim/api-platform-full-demo/pull/205) on [abdounikarim/api-platform-full-demo](https://github.com/abdounikarim/api-platform-full-demo) (1 month ago)
 - [Update recipes](https://github.com/abdounikarim/symfony-full-demo/pull/197) on [abdounikarim/symfony-full-demo](https://github.com/abdounikarim/symfony-full-demo) (1 month ago)
 - [Add webapp packages](https://github.com/ProofOfConceptFactory/poc-symfony-doctrine-mariadb/pull/29) on [ProofOfConceptFactory/poc-symfony-doctrine-mariadb](https://github.com/ProofOfConceptFactory/poc-symfony-doctrine-mariadb) (2 months ago)
-- [Add webapp packages](https://github.com/ProofOfConceptFactory/poc-symfony-doctrine-mysql/pull/32) on [ProofOfConceptFactory/poc-symfony-doctrine-mysql](https://github.com/ProofOfConceptFactory/poc-symfony-doctrine-mysql) (2 months ago)
-- [Add webapp packages](https://github.com/ProofOfConceptFactory/poc-symfony-doctrine-postgresql/pull/31) on [ProofOfConceptFactory/poc-symfony-doctrine-postgresql](https://github.com/ProofOfConceptFactory/poc-symfony-doctrine-postgresql) (2 months ago)
 
 #### 📓 Gists I wrote
 
