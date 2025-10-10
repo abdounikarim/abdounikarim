@@ -35,6 +35,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Use custom certificate](https://github.com/abdounikarim/symfony-full-demo/pull/263) on [abdounikarim/symfony-full-demo](https://github.com/abdounikarim/symfony-full-demo) (today)
+- [Update Makefile docker configuration](https://github.com/abdounikarim/symfony-full-demo/pull/262) on [abdounikarim/symfony-full-demo](https://github.com/abdounikarim/symfony-full-demo) (today)
 - [Update Makefile docker configuration](https://github.com/abdounikarim/symfony-full-demo/pull/261) on [abdounikarim/symfony-full-demo](https://github.com/abdounikarim/symfony-full-demo) (today)
 - [Gitattributes configuration file](https://github.com/abdounikarim/symfony-full-demo/pull/260) on [abdounikarim/symfony-full-demo](https://github.com/abdounikarim/symfony-full-demo) (today)
 - [Github Actions - support multiple PHP versions](https://github.com/abdounikarim/symfony-full-demo/pull/259) on [abdounikarim/symfony-full-demo](https://github.com/abdounikarim/symfony-full-demo) (today)
@@ -43,8 +45,6 @@
 - [Makefile - update checks command](https://github.com/abdounikarim/symfony-full-demo/pull/255) on [abdounikarim/symfony-full-demo](https://github.com/abdounikarim/symfony-full-demo) (1 day ago)
 - [Makefile - Update tests command](https://github.com/abdounikarim/symfony-full-demo/pull/254) on [abdounikarim/symfony-full-demo](https://github.com/abdounikarim/symfony-full-demo) (1 day ago)
 - [Trick - set user on creation](https://github.com/abdounikarim/symfony-full-demo/pull/253) on [abdounikarim/symfony-full-demo](https://github.com/abdounikarim/symfony-full-demo) (1 day ago)
-- [Export OpenAPI](https://github.com/abdounikarim/api-platform-full-demo/pull/219) on [abdounikarim/api-platform-full-demo](https://github.com/abdounikarim/api-platform-full-demo) (2 weeks ago)
-- [Tailwind and flowbite](https://github.com/abdounikarim/symfony-full-demo/pull/220) on [abdounikarim/symfony-full-demo](https://github.com/abdounikarim/symfony-full-demo) (1 month ago)
 
 #### 📓 Gists I wrote
 
