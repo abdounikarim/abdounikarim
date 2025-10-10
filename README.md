@@ -35,15 +35,16 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Update Makefile docker configuration](https://github.com/abdounikarim/symfony-full-demo/pull/261) on [abdounikarim/symfony-full-demo](https://github.com/abdounikarim/symfony-full-demo) (today)
+- [Gitattributes configuration file](https://github.com/abdounikarim/symfony-full-demo/pull/260) on [abdounikarim/symfony-full-demo](https://github.com/abdounikarim/symfony-full-demo) (today)
+- [Github Actions - support multiple PHP versions](https://github.com/abdounikarim/symfony-full-demo/pull/259) on [abdounikarim/symfony-full-demo](https://github.com/abdounikarim/symfony-full-demo) (today)
+- [Update Docker configuration](https://github.com/abdounikarim/symfony-full-demo/pull/258) on [abdounikarim/symfony-full-demo](https://github.com/abdounikarim/symfony-full-demo) (today)
 - [Make checks](https://github.com/abdounikarim/symfony-full-demo/pull/256) on [abdounikarim/symfony-full-demo](https://github.com/abdounikarim/symfony-full-demo) (1 day ago)
 - [Makefile - update checks command](https://github.com/abdounikarim/symfony-full-demo/pull/255) on [abdounikarim/symfony-full-demo](https://github.com/abdounikarim/symfony-full-demo) (1 day ago)
 - [Makefile - Update tests command](https://github.com/abdounikarim/symfony-full-demo/pull/254) on [abdounikarim/symfony-full-demo](https://github.com/abdounikarim/symfony-full-demo) (1 day ago)
 - [Trick - set user on creation](https://github.com/abdounikarim/symfony-full-demo/pull/253) on [abdounikarim/symfony-full-demo](https://github.com/abdounikarim/symfony-full-demo) (1 day ago)
 - [Export OpenAPI](https://github.com/abdounikarim/api-platform-full-demo/pull/219) on [abdounikarim/api-platform-full-demo](https://github.com/abdounikarim/api-platform-full-demo) (2 weeks ago)
 - [Tailwind and flowbite](https://github.com/abdounikarim/symfony-full-demo/pull/220) on [abdounikarim/symfony-full-demo](https://github.com/abdounikarim/symfony-full-demo) (1 month ago)
-- [Symfony Insight](https://github.com/abdounikarim/api-platform-full-demo/pull/205) on [abdounikarim/api-platform-full-demo](https://github.com/abdounikarim/api-platform-full-demo) (1 month ago)
-- [Update recipes](https://github.com/abdounikarim/symfony-full-demo/pull/197) on [abdounikarim/symfony-full-demo](https://github.com/abdounikarim/symfony-full-demo) (1 month ago)
-- [Add webapp packages](https://github.com/ProofOfConceptFactory/poc-symfony-doctrine-mariadb/pull/29) on [ProofOfConceptFactory/poc-symfony-doctrine-mariadb](https://github.com/ProofOfConceptFactory/poc-symfony-doctrine-mariadb) (2 months ago)
 
 #### 📓 Gists I wrote
 
