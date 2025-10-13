@@ -6,16 +6,16 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [ProofOfConceptFactory/poc-symfony](https://github.com/ProofOfConceptFactory/poc-symfony) - Hello from Symfony!👋 application (today)
+- [ProofOfConceptFactory/poc-sveltekit](https://github.com/ProofOfConceptFactory/poc-sveltekit) -  (today)
 - [abdounikarim/symfony-full-demo](https://github.com/abdounikarim/symfony-full-demo) -  (3 days ago)
 - [abdounikarim/22003-doctrine-numeric-value-reproducer](https://github.com/abdounikarim/22003-doctrine-numeric-value-reproducer) -  (3 days ago)
-- [ProofOfConceptFactory/poc-sveltekit](https://github.com/ProofOfConceptFactory/poc-sveltekit) -  (1 week ago)
 - [abdounikarim/os](https://github.com/abdounikarim/os) -  (2 weeks ago)
 - [abdounikarim/api-platform-full-demo](https://github.com/abdounikarim/api-platform-full-demo) -  (3 weeks ago)
 - [ProofOfConceptFactory/poc-symfony-handle-assets](https://github.com/ProofOfConceptFactory/poc-symfony-handle-assets) - Handle your Symfony assets without WebpackEncoreBundle, ViteBundle or AssetMapper (2 months ago)
-- [ProofOfConceptFactory/poc-symfony-doctrine-mysql](https://github.com/ProofOfConceptFactory/poc-symfony-doctrine-mysql) -  (2 months ago)
 - [ProofOfConceptFactory/poc-symfony-doctrine-mariadb](https://github.com/ProofOfConceptFactory/poc-symfony-doctrine-mariadb) -  (2 months ago)
+- [ProofOfConceptFactory/poc-symfony-doctrine-mysql](https://github.com/ProofOfConceptFactory/poc-symfony-doctrine-mysql) -  (2 months ago)
 - [ProofOfConceptFactory/poc-symfony-doctrine-postgresql](https://github.com/ProofOfConceptFactory/poc-symfony-doctrine-postgresql) -  (2 months ago)
-- [ProofOfConceptFactory/poc-symfony](https://github.com/ProofOfConceptFactory/poc-symfony) - Hello from Symfony!👋 application (2 months ago)
 
 #### 🌱 My latest projects
 
