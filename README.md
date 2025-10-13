@@ -6,16 +6,16 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [ProofOfConceptFactory/poc-makefile](https://github.com/ProofOfConceptFactory/poc-makefile) -  (today)
+- [ProofOfConceptFactory/poc-nginx](https://github.com/ProofOfConceptFactory/poc-nginx) -  (today)
+- [ProofOfConceptFactory/poc-react](https://github.com/ProofOfConceptFactory/poc-react) - Hello from React!👋 application (today)
+- [ProofOfConceptFactory/poc-vue](https://github.com/ProofOfConceptFactory/poc-vue) - Hello from Vue!👋 application  (today)
+- [ProofOfConceptFactory/poc-symfony-handle-assets](https://github.com/ProofOfConceptFactory/poc-symfony-handle-assets) - Handle your Symfony assets without WebpackEncoreBundle, ViteBundle or AssetMapper (today)
+- [ProofOfConceptFactory/poc-nestjs](https://github.com/ProofOfConceptFactory/poc-nestjs) -  (today)
+- [ProofOfConceptFactory/poc-angular](https://github.com/ProofOfConceptFactory/poc-angular) -  (today)
+- [ProofOfConceptFactory/poc-svelte](https://github.com/ProofOfConceptFactory/poc-svelte) - Hello from Svelte!👋 application (today)
+- [ProofOfConceptFactory/poc-next-js](https://github.com/ProofOfConceptFactory/poc-next-js) -  (today)
 - [ProofOfConceptFactory/poc-symfony](https://github.com/ProofOfConceptFactory/poc-symfony) - Hello from Symfony!👋 application (today)
-- [ProofOfConceptFactory/poc-sveltekit](https://github.com/ProofOfConceptFactory/poc-sveltekit) -  (today)
-- [abdounikarim/symfony-full-demo](https://github.com/abdounikarim/symfony-full-demo) -  (3 days ago)
-- [abdounikarim/22003-doctrine-numeric-value-reproducer](https://github.com/abdounikarim/22003-doctrine-numeric-value-reproducer) -  (3 days ago)
-- [abdounikarim/os](https://github.com/abdounikarim/os) -  (2 weeks ago)
-- [abdounikarim/api-platform-full-demo](https://github.com/abdounikarim/api-platform-full-demo) -  (3 weeks ago)
-- [ProofOfConceptFactory/poc-symfony-handle-assets](https://github.com/ProofOfConceptFactory/poc-symfony-handle-assets) - Handle your Symfony assets without WebpackEncoreBundle, ViteBundle or AssetMapper (2 months ago)
-- [ProofOfConceptFactory/poc-symfony-doctrine-mariadb](https://github.com/ProofOfConceptFactory/poc-symfony-doctrine-mariadb) -  (2 months ago)
-- [ProofOfConceptFactory/poc-symfony-doctrine-mysql](https://github.com/ProofOfConceptFactory/poc-symfony-doctrine-mysql) -  (2 months ago)
-- [ProofOfConceptFactory/poc-symfony-doctrine-postgresql](https://github.com/ProofOfConceptFactory/poc-symfony-doctrine-postgresql) -  (2 months ago)
 
 #### 🌱 My latest projects
 
