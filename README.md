@@ -7,7 +7,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [ProofOfConceptFactory/poc-makefile](https://github.com/ProofOfConceptFactory/poc-makefile) -  (today)
-- [ProofOfConceptFactory/poc-nginx](https://github.com/ProofOfConceptFactory/poc-nginx) -  (today)
+- [abdounikarim/api-platform-full-demo](https://github.com/abdounikarim/api-platform-full-demo) -  (today)
 - [ProofOfConceptFactory/poc-react](https://github.com/ProofOfConceptFactory/poc-react) - Hello from React!👋 application (today)
 - [ProofOfConceptFactory/poc-vue](https://github.com/ProofOfConceptFactory/poc-vue) - Hello from Vue!👋 application  (today)
 - [ProofOfConceptFactory/poc-symfony-handle-assets](https://github.com/ProofOfConceptFactory/poc-symfony-handle-assets) - Handle your Symfony assets without WebpackEncoreBundle, ViteBundle or AssetMapper (today)
