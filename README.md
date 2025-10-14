@@ -6,16 +6,16 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ProofOfConceptFactory/poc-makefile](https://github.com/ProofOfConceptFactory/poc-makefile) -  (today)
-- [abdounikarim/api-platform-full-demo](https://github.com/abdounikarim/api-platform-full-demo) -  (today)
-- [ProofOfConceptFactory/poc-react](https://github.com/ProofOfConceptFactory/poc-react) - Hello from React!👋 application (today)
-- [ProofOfConceptFactory/poc-vue](https://github.com/ProofOfConceptFactory/poc-vue) - Hello from Vue!👋 application  (today)
-- [ProofOfConceptFactory/poc-symfony-handle-assets](https://github.com/ProofOfConceptFactory/poc-symfony-handle-assets) - Handle your Symfony assets without WebpackEncoreBundle, ViteBundle or AssetMapper (today)
-- [ProofOfConceptFactory/poc-nestjs](https://github.com/ProofOfConceptFactory/poc-nestjs) -  (today)
-- [ProofOfConceptFactory/poc-angular](https://github.com/ProofOfConceptFactory/poc-angular) -  (today)
-- [ProofOfConceptFactory/poc-svelte](https://github.com/ProofOfConceptFactory/poc-svelte) - Hello from Svelte!👋 application (today)
-- [ProofOfConceptFactory/poc-next-js](https://github.com/ProofOfConceptFactory/poc-next-js) -  (today)
-- [ProofOfConceptFactory/poc-symfony](https://github.com/ProofOfConceptFactory/poc-symfony) - Hello from Symfony!👋 application (today)
+- [ProofOfConceptFactory/poc-makefile](https://github.com/ProofOfConceptFactory/poc-makefile) -  (1 day ago)
+- [abdounikarim/api-platform-full-demo](https://github.com/abdounikarim/api-platform-full-demo) -  (1 day ago)
+- [ProofOfConceptFactory/poc-react](https://github.com/ProofOfConceptFactory/poc-react) - Hello from React!👋 application (1 day ago)
+- [ProofOfConceptFactory/poc-vue](https://github.com/ProofOfConceptFactory/poc-vue) - Hello from Vue!👋 application  (1 day ago)
+- [ProofOfConceptFactory/poc-symfony-handle-assets](https://github.com/ProofOfConceptFactory/poc-symfony-handle-assets) - Handle your Symfony assets without WebpackEncoreBundle, ViteBundle or AssetMapper (1 day ago)
+- [ProofOfConceptFactory/poc-nestjs](https://github.com/ProofOfConceptFactory/poc-nestjs) -  (1 day ago)
+- [ProofOfConceptFactory/poc-angular](https://github.com/ProofOfConceptFactory/poc-angular) -  (1 day ago)
+- [ProofOfConceptFactory/poc-svelte](https://github.com/ProofOfConceptFactory/poc-svelte) - Hello from Svelte!👋 application (1 day ago)
+- [ProofOfConceptFactory/poc-next-js](https://github.com/ProofOfConceptFactory/poc-next-js) -  (1 day ago)
+- [ProofOfConceptFactory/poc-symfony](https://github.com/ProofOfConceptFactory/poc-symfony) - Hello from Symfony!👋 application (1 day ago)
 
 #### 🌱 My latest projects
 
@@ -35,16 +35,16 @@
 
 #### 🔨 My recent Pull Requests
 
-- [WIP - Queries optimization](https://github.com/abdounikarim/symfony-full-demo/pull/264) on [abdounikarim/symfony-full-demo](https://github.com/abdounikarim/symfony-full-demo) (3 days ago)
-- [Use custom certificate](https://github.com/abdounikarim/symfony-full-demo/pull/263) on [abdounikarim/symfony-full-demo](https://github.com/abdounikarim/symfony-full-demo) (3 days ago)
-- [Update Makefile docker configuration](https://github.com/abdounikarim/symfony-full-demo/pull/262) on [abdounikarim/symfony-full-demo](https://github.com/abdounikarim/symfony-full-demo) (3 days ago)
-- [Update Makefile docker configuration](https://github.com/abdounikarim/symfony-full-demo/pull/261) on [abdounikarim/symfony-full-demo](https://github.com/abdounikarim/symfony-full-demo) (3 days ago)
-- [Gitattributes configuration file](https://github.com/abdounikarim/symfony-full-demo/pull/260) on [abdounikarim/symfony-full-demo](https://github.com/abdounikarim/symfony-full-demo) (3 days ago)
-- [Github Actions - support multiple PHP versions](https://github.com/abdounikarim/symfony-full-demo/pull/259) on [abdounikarim/symfony-full-demo](https://github.com/abdounikarim/symfony-full-demo) (3 days ago)
-- [Update Docker configuration](https://github.com/abdounikarim/symfony-full-demo/pull/258) on [abdounikarim/symfony-full-demo](https://github.com/abdounikarim/symfony-full-demo) (3 days ago)
-- [Make checks](https://github.com/abdounikarim/symfony-full-demo/pull/256) on [abdounikarim/symfony-full-demo](https://github.com/abdounikarim/symfony-full-demo) (4 days ago)
-- [Makefile - update checks command](https://github.com/abdounikarim/symfony-full-demo/pull/255) on [abdounikarim/symfony-full-demo](https://github.com/abdounikarim/symfony-full-demo) (4 days ago)
-- [Makefile - Update tests command](https://github.com/abdounikarim/symfony-full-demo/pull/254) on [abdounikarim/symfony-full-demo](https://github.com/abdounikarim/symfony-full-demo) (4 days ago)
+- [WIP - Queries optimization](https://github.com/abdounikarim/symfony-full-demo/pull/264) on [abdounikarim/symfony-full-demo](https://github.com/abdounikarim/symfony-full-demo) (4 days ago)
+- [Use custom certificate](https://github.com/abdounikarim/symfony-full-demo/pull/263) on [abdounikarim/symfony-full-demo](https://github.com/abdounikarim/symfony-full-demo) (4 days ago)
+- [Update Makefile docker configuration](https://github.com/abdounikarim/symfony-full-demo/pull/262) on [abdounikarim/symfony-full-demo](https://github.com/abdounikarim/symfony-full-demo) (4 days ago)
+- [Update Makefile docker configuration](https://github.com/abdounikarim/symfony-full-demo/pull/261) on [abdounikarim/symfony-full-demo](https://github.com/abdounikarim/symfony-full-demo) (4 days ago)
+- [Gitattributes configuration file](https://github.com/abdounikarim/symfony-full-demo/pull/260) on [abdounikarim/symfony-full-demo](https://github.com/abdounikarim/symfony-full-demo) (4 days ago)
+- [Github Actions - support multiple PHP versions](https://github.com/abdounikarim/symfony-full-demo/pull/259) on [abdounikarim/symfony-full-demo](https://github.com/abdounikarim/symfony-full-demo) (4 days ago)
+- [Update Docker configuration](https://github.com/abdounikarim/symfony-full-demo/pull/258) on [abdounikarim/symfony-full-demo](https://github.com/abdounikarim/symfony-full-demo) (4 days ago)
+- [Make checks](https://github.com/abdounikarim/symfony-full-demo/pull/256) on [abdounikarim/symfony-full-demo](https://github.com/abdounikarim/symfony-full-demo) (5 days ago)
+- [Makefile - update checks command](https://github.com/abdounikarim/symfony-full-demo/pull/255) on [abdounikarim/symfony-full-demo](https://github.com/abdounikarim/symfony-full-demo) (5 days ago)
+- [Makefile - Update tests command](https://github.com/abdounikarim/symfony-full-demo/pull/254) on [abdounikarim/symfony-full-demo](https://github.com/abdounikarim/symfony-full-demo) (5 days ago)
 
 #### 📓 Gists I wrote
 
