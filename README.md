@@ -35,6 +35,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Remove unused MustVerifyEmail import from User model](https://github.com/laravel/laravel/pull/6696) on [laravel/laravel](https://github.com/laravel/laravel) (today)
 - [WIP - Queries optimization](https://github.com/abdounikarim/symfony-full-demo/pull/264) on [abdounikarim/symfony-full-demo](https://github.com/abdounikarim/symfony-full-demo) (2 weeks ago)
 - [Use custom certificate](https://github.com/abdounikarim/symfony-full-demo/pull/263) on [abdounikarim/symfony-full-demo](https://github.com/abdounikarim/symfony-full-demo) (2 weeks ago)
 - [Update Makefile docker configuration](https://github.com/abdounikarim/symfony-full-demo/pull/262) on [abdounikarim/symfony-full-demo](https://github.com/abdounikarim/symfony-full-demo) (2 weeks ago)
@@ -44,7 +45,6 @@
 - [Update Docker configuration](https://github.com/abdounikarim/symfony-full-demo/pull/258) on [abdounikarim/symfony-full-demo](https://github.com/abdounikarim/symfony-full-demo) (2 weeks ago)
 - [Make checks](https://github.com/abdounikarim/symfony-full-demo/pull/256) on [abdounikarim/symfony-full-demo](https://github.com/abdounikarim/symfony-full-demo) (2 weeks ago)
 - [Makefile - update checks command](https://github.com/abdounikarim/symfony-full-demo/pull/255) on [abdounikarim/symfony-full-demo](https://github.com/abdounikarim/symfony-full-demo) (2 weeks ago)
-- [Makefile - Update tests command](https://github.com/abdounikarim/symfony-full-demo/pull/254) on [abdounikarim/symfony-full-demo](https://github.com/abdounikarim/symfony-full-demo) (2 weeks ago)
 
 #### 📓 Gists I wrote
 
