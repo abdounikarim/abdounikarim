@@ -15,7 +15,7 @@
 - [ProofOfConceptFactory/poc-svelte](https://github.com/ProofOfConceptFactory/poc-svelte) - Hello from Svelte!👋 application (1 week ago)
 - [ProofOfConceptFactory/poc-angular](https://github.com/ProofOfConceptFactory/poc-angular) -  (1 week ago)
 - [ProofOfConceptFactory/poc-symfony-handle-assets](https://github.com/ProofOfConceptFactory/poc-symfony-handle-assets) - Handle your Symfony assets without WebpackEncoreBundle, ViteBundle or AssetMapper (1 week ago)
-- [ProofOfConceptFactory/poc-symfony](https://github.com/ProofOfConceptFactory/poc-symfony) - Hello from Symfony!👋 application (1 week ago)
+- [ProofOfConceptFactory/poc-nuxt](https://github.com/ProofOfConceptFactory/poc-nuxt) - Hello from Nuxt!👋 application  (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -35,6 +35,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Update PostgreSQL version to 18](https://github.com/laravel/sail/pull/824) on [laravel/sail](https://github.com/laravel/sail) (today)
+- [Fix typo in PLAYWRIGHT_BROWSERS_PATH - remove space at the EOL](https://github.com/laravel/sail/pull/823) on [laravel/sail](https://github.com/laravel/sail) (today)
 - [Remove unused MustVerifyEmail import from User model](https://github.com/laravel/laravel/pull/6696) on [laravel/laravel](https://github.com/laravel/laravel) (today)
 - [WIP - Queries optimization](https://github.com/abdounikarim/symfony-full-demo/pull/264) on [abdounikarim/symfony-full-demo](https://github.com/abdounikarim/symfony-full-demo) (2 weeks ago)
 - [Use custom certificate](https://github.com/abdounikarim/symfony-full-demo/pull/263) on [abdounikarim/symfony-full-demo](https://github.com/abdounikarim/symfony-full-demo) (2 weeks ago)
@@ -43,8 +45,6 @@
 - [Gitattributes configuration file](https://github.com/abdounikarim/symfony-full-demo/pull/260) on [abdounikarim/symfony-full-demo](https://github.com/abdounikarim/symfony-full-demo) (2 weeks ago)
 - [Github Actions - support multiple PHP versions](https://github.com/abdounikarim/symfony-full-demo/pull/259) on [abdounikarim/symfony-full-demo](https://github.com/abdounikarim/symfony-full-demo) (2 weeks ago)
 - [Update Docker configuration](https://github.com/abdounikarim/symfony-full-demo/pull/258) on [abdounikarim/symfony-full-demo](https://github.com/abdounikarim/symfony-full-demo) (2 weeks ago)
-- [Make checks](https://github.com/abdounikarim/symfony-full-demo/pull/256) on [abdounikarim/symfony-full-demo](https://github.com/abdounikarim/symfony-full-demo) (2 weeks ago)
-- [Makefile - update checks command](https://github.com/abdounikarim/symfony-full-demo/pull/255) on [abdounikarim/symfony-full-demo](https://github.com/abdounikarim/symfony-full-demo) (2 weeks ago)
 
 #### 📓 Gists I wrote
 
