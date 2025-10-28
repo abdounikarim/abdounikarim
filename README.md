@@ -6,9 +6,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [laravel/sail](https://github.com/laravel/sail) - Docker files for running a basic Laravel application. (today)
-- [ProofOfConceptFactory/poc-symfony-doctrine-mariadb](https://github.com/ProofOfConceptFactory/poc-symfony-doctrine-mariadb) -  (2 days ago)
-- [ProofOfConceptFactory/poc-symfony-doctrine-postgresql](https://github.com/ProofOfConceptFactory/poc-symfony-doctrine-postgresql) -  (3 days ago)
+- [laravel/sail](https://github.com/laravel/sail) - Docker files for running a basic Laravel application. (1 day ago)
+- [ProofOfConceptFactory/poc-symfony-doctrine-mariadb](https://github.com/ProofOfConceptFactory/poc-symfony-doctrine-mariadb) -  (3 days ago)
+- [ProofOfConceptFactory/poc-symfony-doctrine-postgresql](https://github.com/ProofOfConceptFactory/poc-symfony-doctrine-postgresql) -  (4 days ago)
 - [ProofOfConceptFactory/poc-symfony-doctrine-mysql](https://github.com/ProofOfConceptFactory/poc-symfony-doctrine-mysql) -  (1 week ago)
 - [ProofOfConceptFactory/poc-next-js](https://github.com/ProofOfConceptFactory/poc-next-js) -  (1 week ago)
 - [ProofOfConceptFactory/poc-nginx](https://github.com/ProofOfConceptFactory/poc-nginx) -  (2 weeks ago)
@@ -36,16 +36,16 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Update PostgreSQL version to 18](https://github.com/laravel/sail/pull/824) on [laravel/sail](https://github.com/laravel/sail) (1 day ago)
-- [Fix typo in PLAYWRIGHT_BROWSERS_PATH - remove space at the EOL](https://github.com/laravel/sail/pull/823) on [laravel/sail](https://github.com/laravel/sail) (1 day ago)
-- [Remove unused MustVerifyEmail import from User model](https://github.com/laravel/laravel/pull/6696) on [laravel/laravel](https://github.com/laravel/laravel) (1 day ago)
+- [Update phpstan to version 2](https://github.com/laravel/sail/pull/826) on [laravel/sail](https://github.com/laravel/sail) (today)
+- [Update actions/checkout to v5](https://github.com/laravel/sail/pull/825) on [laravel/sail](https://github.com/laravel/sail) (1 day ago)
+- [Update PostgreSQL version to 18](https://github.com/laravel/sail/pull/824) on [laravel/sail](https://github.com/laravel/sail) (2 days ago)
+- [Fix typo in PLAYWRIGHT_BROWSERS_PATH - remove space at the EOL](https://github.com/laravel/sail/pull/823) on [laravel/sail](https://github.com/laravel/sail) (2 days ago)
+- [Remove unused MustVerifyEmail import from User model](https://github.com/laravel/laravel/pull/6696) on [laravel/laravel](https://github.com/laravel/laravel) (2 days ago)
 - [WIP - Queries optimization](https://github.com/abdounikarim/symfony-full-demo/pull/264) on [abdounikarim/symfony-full-demo](https://github.com/abdounikarim/symfony-full-demo) (2 weeks ago)
 - [Use custom certificate](https://github.com/abdounikarim/symfony-full-demo/pull/263) on [abdounikarim/symfony-full-demo](https://github.com/abdounikarim/symfony-full-demo) (2 weeks ago)
 - [Update Makefile docker configuration](https://github.com/abdounikarim/symfony-full-demo/pull/262) on [abdounikarim/symfony-full-demo](https://github.com/abdounikarim/symfony-full-demo) (2 weeks ago)
 - [Update Makefile docker configuration](https://github.com/abdounikarim/symfony-full-demo/pull/261) on [abdounikarim/symfony-full-demo](https://github.com/abdounikarim/symfony-full-demo) (2 weeks ago)
 - [Gitattributes configuration file](https://github.com/abdounikarim/symfony-full-demo/pull/260) on [abdounikarim/symfony-full-demo](https://github.com/abdounikarim/symfony-full-demo) (2 weeks ago)
-- [Github Actions - support multiple PHP versions](https://github.com/abdounikarim/symfony-full-demo/pull/259) on [abdounikarim/symfony-full-demo](https://github.com/abdounikarim/symfony-full-demo) (2 weeks ago)
-- [Update Docker configuration](https://github.com/abdounikarim/symfony-full-demo/pull/258) on [abdounikarim/symfony-full-demo](https://github.com/abdounikarim/symfony-full-demo) (2 weeks ago)
 
 #### 📓 Gists I wrote
 
