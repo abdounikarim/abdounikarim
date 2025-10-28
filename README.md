@@ -8,11 +8,11 @@
 
 - [ProofOfConceptFactory/poc-angular](https://github.com/ProofOfConceptFactory/poc-angular) -  (today)
 - [laravel/sail](https://github.com/laravel/sail) - Docker files for running a basic Laravel application. (today)
+- [ProofOfConceptFactory/poc-next-js](https://github.com/ProofOfConceptFactory/poc-next-js) -  (today)
 - [ProofOfConceptFactory/poc-symfony-doctrine-mariadb](https://github.com/ProofOfConceptFactory/poc-symfony-doctrine-mariadb) -  (3 days ago)
 - [ProofOfConceptFactory/poc-symfony-doctrine-postgresql](https://github.com/ProofOfConceptFactory/poc-symfony-doctrine-postgresql) -  (4 days ago)
 - [ProofOfConceptFactory/poc-symfony-doctrine-mysql](https://github.com/ProofOfConceptFactory/poc-symfony-doctrine-mysql) -  (1 week ago)
-- [ProofOfConceptFactory/poc-next-js](https://github.com/ProofOfConceptFactory/poc-next-js) -  (1 week ago)
-- [ProofOfConceptFactory/poc-vue](https://github.com/ProofOfConceptFactory/poc-vue) - Hello from Vue!👋 application  (2 weeks ago)
+- [ProofOfConceptFactory/poc-symfony-handle-assets](https://github.com/ProofOfConceptFactory/poc-symfony-handle-assets) - Handle your Symfony assets without WebpackEncoreBundle, ViteBundle or AssetMapper (2 weeks ago)
 - [ProofOfConceptFactory/poc-svelte](https://github.com/ProofOfConceptFactory/poc-svelte) - Hello from Svelte!👋 application (2 weeks ago)
 - [ProofOfConceptFactory/poc-react](https://github.com/ProofOfConceptFactory/poc-react) - Hello from React!👋 application (2 weeks ago)
 - [ProofOfConceptFactory/poc-nuxt](https://github.com/ProofOfConceptFactory/poc-nuxt) - Hello from Nuxt!👋 application  (2 weeks ago)
