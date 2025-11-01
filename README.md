@@ -6,11 +6,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ProofOfConceptFactory/poc-next-js](https://github.com/ProofOfConceptFactory/poc-next-js) -  (3 days ago)
-- [laravel/sail](https://github.com/laravel/sail) - Docker files for running a basic Laravel application. (3 days ago)
-- [ProofOfConceptFactory/poc-sveltekit](https://github.com/ProofOfConceptFactory/poc-sveltekit) -  (3 days ago)
-- [ProofOfConceptFactory/poc-angular](https://github.com/ProofOfConceptFactory/poc-angular) -  (3 days ago)
-- [ProofOfConceptFactory/poc-symfony-doctrine-mariadb](https://github.com/ProofOfConceptFactory/poc-symfony-doctrine-mariadb) -  (6 days ago)
+- [ProofOfConceptFactory/poc-next-js](https://github.com/ProofOfConceptFactory/poc-next-js) -  (4 days ago)
+- [laravel/sail](https://github.com/laravel/sail) - Docker files for running a basic Laravel application. (4 days ago)
+- [ProofOfConceptFactory/poc-sveltekit](https://github.com/ProofOfConceptFactory/poc-sveltekit) -  (4 days ago)
+- [ProofOfConceptFactory/poc-angular](https://github.com/ProofOfConceptFactory/poc-angular) -  (4 days ago)
+- [ProofOfConceptFactory/poc-symfony-doctrine-mariadb](https://github.com/ProofOfConceptFactory/poc-symfony-doctrine-mariadb) -  (1 week ago)
 - [ProofOfConceptFactory/poc-symfony-doctrine-postgresql](https://github.com/ProofOfConceptFactory/poc-symfony-doctrine-postgresql) -  (1 week ago)
 - [ProofOfConceptFactory/poc-symfony-doctrine-mysql](https://github.com/ProofOfConceptFactory/poc-symfony-doctrine-mysql) -  (1 week ago)
 - [ProofOfConceptFactory/poc-taskfile](https://github.com/ProofOfConceptFactory/poc-taskfile) -  (2 weeks ago)
@@ -32,15 +32,15 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [laravel/sail](https://github.com/laravel/sail) ([v1.47.0](https://github.com/laravel/sail/releases/tag/v1.47.0), 3 days ago) - Docker files for running a basic Laravel application.
+- [laravel/sail](https://github.com/laravel/sail) ([v1.47.0](https://github.com/laravel/sail/releases/tag/v1.47.0), 4 days ago) - Docker files for running a basic Laravel application.
 
 #### 🔨 My recent Pull Requests
 
-- [Update phpstan to version 2](https://github.com/laravel/sail/pull/826) on [laravel/sail](https://github.com/laravel/sail) (3 days ago)
-- [Update actions/checkout to v5](https://github.com/laravel/sail/pull/825) on [laravel/sail](https://github.com/laravel/sail) (4 days ago)
-- [Update PostgreSQL version to 18](https://github.com/laravel/sail/pull/824) on [laravel/sail](https://github.com/laravel/sail) (5 days ago)
-- [Fix typo in PLAYWRIGHT_BROWSERS_PATH - remove space at the EOL](https://github.com/laravel/sail/pull/823) on [laravel/sail](https://github.com/laravel/sail) (5 days ago)
-- [Remove unused MustVerifyEmail import from User model](https://github.com/laravel/laravel/pull/6696) on [laravel/laravel](https://github.com/laravel/laravel) (5 days ago)
+- [Update phpstan to version 2](https://github.com/laravel/sail/pull/826) on [laravel/sail](https://github.com/laravel/sail) (4 days ago)
+- [Update actions/checkout to v5](https://github.com/laravel/sail/pull/825) on [laravel/sail](https://github.com/laravel/sail) (5 days ago)
+- [Update PostgreSQL version to 18](https://github.com/laravel/sail/pull/824) on [laravel/sail](https://github.com/laravel/sail) (6 days ago)
+- [Fix typo in PLAYWRIGHT_BROWSERS_PATH - remove space at the EOL](https://github.com/laravel/sail/pull/823) on [laravel/sail](https://github.com/laravel/sail) (6 days ago)
+- [Remove unused MustVerifyEmail import from User model](https://github.com/laravel/laravel/pull/6696) on [laravel/laravel](https://github.com/laravel/laravel) (6 days ago)
 - [WIP - Queries optimization](https://github.com/abdounikarim/symfony-full-demo/pull/264) on [abdounikarim/symfony-full-demo](https://github.com/abdounikarim/symfony-full-demo) (3 weeks ago)
 - [Use custom certificate](https://github.com/abdounikarim/symfony-full-demo/pull/263) on [abdounikarim/symfony-full-demo](https://github.com/abdounikarim/symfony-full-demo) (3 weeks ago)
 - [Update Makefile docker configuration](https://github.com/abdounikarim/symfony-full-demo/pull/262) on [abdounikarim/symfony-full-demo](https://github.com/abdounikarim/symfony-full-demo) (3 weeks ago)
@@ -63,7 +63,7 @@
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux) (2 years ago)
 - [drknzz/GitHub-Achievements](https://github.com/drknzz/GitHub-Achievements) - 🔥 A Complete List of GitHub Profile Badges and Achievements 🔥 (2 years ago)
 - [philcook/brew-php-switcher](https://github.com/philcook/brew-php-switcher) - Brew PHP switcher is a simple shell script to switch your apache and CLI quickly between major versions of PHP. If you support multiple products/projects that are built using either brand new or old legacy PHP functionality. For users of Homebrew (or brew for short) currently only. (2 years ago)
-- [jobbsy-dev/jobbsy](https://github.com/jobbsy-dev/jobbsy) - Jobbsy - Job Board for Symfony (2 years ago)
+- [jobbsy-dev/jobbsy](https://github.com/jobbsy-dev/jobbsy) - Jobbsy - Job Board for Symfony (3 years ago)
 - [philipsharp/afieldguidetoelephpants](https://github.com/philipsharp/afieldguidetoelephpants) -  (3 years ago)
 
 #### 👯 Check out some of my recent followers
