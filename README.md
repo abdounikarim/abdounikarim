@@ -19,6 +19,7 @@
 
 #### 🌱 My latest projects
 
+- [abdounikarim/symfony-docs](https://github.com/abdounikarim/symfony-docs) - 
 - [abdounikarim/22003-doctrine-numeric-value-reproducer](https://github.com/abdounikarim/22003-doctrine-numeric-value-reproducer) - 
 - [abdounikarim/multi-update-fixtures](https://github.com/abdounikarim/multi-update-fixtures) - Repository for multi update fixtures
 - [abdounikarim/empty](https://github.com/abdounikarim/empty) - 
@@ -28,7 +29,6 @@
 - [abdounikarim/abdounikarim.github.io](https://github.com/abdounikarim/abdounikarim.github.io) - 
 - [abdounikarim/symfony-full-demo](https://github.com/abdounikarim/symfony-full-demo) - 
 - [abdounikarim/demo-ansible](https://github.com/abdounikarim/demo-ansible) - 
-- [abdounikarim/lorem-ipsum-bundle](https://github.com/abdounikarim/lorem-ipsum-bundle) - 
 
 #### 🔭 Latest releases I've contributed to
 
