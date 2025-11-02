@@ -6,14 +6,14 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [abdounikarim/symfony-docs](https://github.com/abdounikarim/symfony-docs) -  (today)
-- [ProofOfConceptFactory/poc-next-js](https://github.com/ProofOfConceptFactory/poc-next-js) -  (4 days ago)
-- [laravel/sail](https://github.com/laravel/sail) - Docker files for running a basic Laravel application. (4 days ago)
-- [ProofOfConceptFactory/poc-sveltekit](https://github.com/ProofOfConceptFactory/poc-sveltekit) -  (4 days ago)
-- [ProofOfConceptFactory/poc-angular](https://github.com/ProofOfConceptFactory/poc-angular) -  (4 days ago)
+- [abdounikarim/symfony-docs](https://github.com/abdounikarim/symfony-docs) -  (1 day ago)
+- [ProofOfConceptFactory/poc-next-js](https://github.com/ProofOfConceptFactory/poc-next-js) -  (5 days ago)
+- [laravel/sail](https://github.com/laravel/sail) - Docker files for running a basic Laravel application. (5 days ago)
+- [ProofOfConceptFactory/poc-sveltekit](https://github.com/ProofOfConceptFactory/poc-sveltekit) -  (5 days ago)
+- [ProofOfConceptFactory/poc-angular](https://github.com/ProofOfConceptFactory/poc-angular) -  (5 days ago)
 - [ProofOfConceptFactory/poc-symfony-doctrine-mariadb](https://github.com/ProofOfConceptFactory/poc-symfony-doctrine-mariadb) -  (1 week ago)
 - [ProofOfConceptFactory/poc-symfony-doctrine-postgresql](https://github.com/ProofOfConceptFactory/poc-symfony-doctrine-postgresql) -  (1 week ago)
-- [ProofOfConceptFactory/poc-symfony-doctrine-mysql](https://github.com/ProofOfConceptFactory/poc-symfony-doctrine-mysql) -  (1 week ago)
+- [ProofOfConceptFactory/poc-symfony-doctrine-mysql](https://github.com/ProofOfConceptFactory/poc-symfony-doctrine-mysql) -  (2 weeks ago)
 - [ProofOfConceptFactory/poc-ansible](https://github.com/ProofOfConceptFactory/poc-ansible) -  (2 weeks ago)
 - [ProofOfConceptFactory/poc-nuxt](https://github.com/ProofOfConceptFactory/poc-nuxt) - Hello from Nuxt!👋 application  (2 weeks ago)
 
@@ -32,15 +32,15 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [laravel/sail](https://github.com/laravel/sail) ([v1.47.0](https://github.com/laravel/sail/releases/tag/v1.47.0), 4 days ago) - Docker files for running a basic Laravel application.
+- [laravel/sail](https://github.com/laravel/sail) ([v1.47.0](https://github.com/laravel/sail/releases/tag/v1.47.0), 5 days ago) - Docker files for running a basic Laravel application.
 
 #### 🔨 My recent Pull Requests
 
-- [Update phpstan to version 2](https://github.com/laravel/sail/pull/826) on [laravel/sail](https://github.com/laravel/sail) (4 days ago)
-- [Update actions/checkout to v5](https://github.com/laravel/sail/pull/825) on [laravel/sail](https://github.com/laravel/sail) (5 days ago)
-- [Update PostgreSQL version to 18](https://github.com/laravel/sail/pull/824) on [laravel/sail](https://github.com/laravel/sail) (6 days ago)
-- [Fix typo in PLAYWRIGHT_BROWSERS_PATH - remove space at the EOL](https://github.com/laravel/sail/pull/823) on [laravel/sail](https://github.com/laravel/sail) (6 days ago)
-- [Remove unused MustVerifyEmail import from User model](https://github.com/laravel/laravel/pull/6696) on [laravel/laravel](https://github.com/laravel/laravel) (6 days ago)
+- [Update phpstan to version 2](https://github.com/laravel/sail/pull/826) on [laravel/sail](https://github.com/laravel/sail) (5 days ago)
+- [Update actions/checkout to v5](https://github.com/laravel/sail/pull/825) on [laravel/sail](https://github.com/laravel/sail) (6 days ago)
+- [Update PostgreSQL version to 18](https://github.com/laravel/sail/pull/824) on [laravel/sail](https://github.com/laravel/sail) (1 week ago)
+- [Fix typo in PLAYWRIGHT_BROWSERS_PATH - remove space at the EOL](https://github.com/laravel/sail/pull/823) on [laravel/sail](https://github.com/laravel/sail) (1 week ago)
+- [Remove unused MustVerifyEmail import from User model](https://github.com/laravel/laravel/pull/6696) on [laravel/laravel](https://github.com/laravel/laravel) (1 week ago)
 - [WIP - Queries optimization](https://github.com/abdounikarim/symfony-full-demo/pull/264) on [abdounikarim/symfony-full-demo](https://github.com/abdounikarim/symfony-full-demo) (3 weeks ago)
 - [Use custom certificate](https://github.com/abdounikarim/symfony-full-demo/pull/263) on [abdounikarim/symfony-full-demo](https://github.com/abdounikarim/symfony-full-demo) (3 weeks ago)
 - [Update Makefile docker configuration](https://github.com/abdounikarim/symfony-full-demo/pull/262) on [abdounikarim/symfony-full-demo](https://github.com/abdounikarim/symfony-full-demo) (3 weeks ago)
