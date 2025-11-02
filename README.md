@@ -6,7 +6,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [abdounikarim/symfony-docs](https://github.com/abdounikarim/symfony-docs) -  (1 day ago)
+- [abdounikarim/symfony-docs](https://github.com/abdounikarim/symfony-docs) -  (today)
 - [ProofOfConceptFactory/poc-next-js](https://github.com/ProofOfConceptFactory/poc-next-js) -  (5 days ago)
 - [laravel/sail](https://github.com/laravel/sail) - Docker files for running a basic Laravel application. (5 days ago)
 - [ProofOfConceptFactory/poc-sveltekit](https://github.com/ProofOfConceptFactory/poc-sveltekit) -  (5 days ago)
