@@ -6,10 +6,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ProofOfConceptFactory/poc-next-js](https://github.com/ProofOfConceptFactory/poc-next-js) -  (6 days ago)
-- [laravel/sail](https://github.com/laravel/sail) - Docker files for running a basic Laravel application. (6 days ago)
-- [ProofOfConceptFactory/poc-sveltekit](https://github.com/ProofOfConceptFactory/poc-sveltekit) -  (6 days ago)
-- [ProofOfConceptFactory/poc-angular](https://github.com/ProofOfConceptFactory/poc-angular) -  (6 days ago)
+- [ProofOfConceptFactory/poc-next-js](https://github.com/ProofOfConceptFactory/poc-next-js) -  (1 week ago)
+- [laravel/sail](https://github.com/laravel/sail) - Docker files for running a basic Laravel application. (1 week ago)
+- [ProofOfConceptFactory/poc-sveltekit](https://github.com/ProofOfConceptFactory/poc-sveltekit) -  (1 week ago)
+- [ProofOfConceptFactory/poc-angular](https://github.com/ProofOfConceptFactory/poc-angular) -  (1 week ago)
 - [ProofOfConceptFactory/poc-symfony-doctrine-mariadb](https://github.com/ProofOfConceptFactory/poc-symfony-doctrine-mariadb) -  (1 week ago)
 - [ProofOfConceptFactory/poc-symfony-doctrine-postgresql](https://github.com/ProofOfConceptFactory/poc-symfony-doctrine-postgresql) -  (1 week ago)
 - [ProofOfConceptFactory/poc-symfony-doctrine-mysql](https://github.com/ProofOfConceptFactory/poc-symfony-doctrine-mysql) -  (2 weeks ago)
@@ -32,11 +32,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [laravel/sail](https://github.com/laravel/sail) ([v1.47.0](https://github.com/laravel/sail/releases/tag/v1.47.0), 6 days ago) - Docker files for running a basic Laravel application.
+- [laravel/sail](https://github.com/laravel/sail) ([v1.47.0](https://github.com/laravel/sail/releases/tag/v1.47.0), 1 week ago) - Docker files for running a basic Laravel application.
 
 #### 🔨 My recent Pull Requests
 
-- [Update phpstan to version 2](https://github.com/laravel/sail/pull/826) on [laravel/sail](https://github.com/laravel/sail) (6 days ago)
+- [Update phpstan to version 2](https://github.com/laravel/sail/pull/826) on [laravel/sail](https://github.com/laravel/sail) (1 week ago)
 - [Update actions/checkout to v5](https://github.com/laravel/sail/pull/825) on [laravel/sail](https://github.com/laravel/sail) (1 week ago)
 - [Update PostgreSQL version to 18](https://github.com/laravel/sail/pull/824) on [laravel/sail](https://github.com/laravel/sail) (1 week ago)
 - [Fix typo in PLAYWRIGHT_BROWSERS_PATH - remove space at the EOL](https://github.com/laravel/sail/pull/823) on [laravel/sail](https://github.com/laravel/sail) (1 week ago)
