@@ -32,12 +32,12 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [laravel/sail](https://github.com/laravel/sail) ([v1.48.0](https://github.com/laravel/sail/releases/tag/v1.48.0), 4 days ago) - Docker files for running a basic Laravel application.
+- [laravel/sail](https://github.com/laravel/sail) ([v1.48.0](https://github.com/laravel/sail/releases/tag/v1.48.0), 5 days ago) - Docker files for running a basic Laravel application.
 
 #### 🔨 My recent Pull Requests
 
 - [Update phpstan to version 2](https://github.com/laravel/sail/pull/826) on [laravel/sail](https://github.com/laravel/sail) (2 weeks ago)
-- [Update actions/checkout to v5](https://github.com/laravel/sail/pull/825) on [laravel/sail](https://github.com/laravel/sail) (2 weeks ago)
+- [Update actions/checkout to v5](https://github.com/laravel/sail/pull/825) on [laravel/sail](https://github.com/laravel/sail) (3 weeks ago)
 - [Update PostgreSQL version to 18](https://github.com/laravel/sail/pull/824) on [laravel/sail](https://github.com/laravel/sail) (3 weeks ago)
 - [Fix typo in PLAYWRIGHT_BROWSERS_PATH - remove space at the EOL](https://github.com/laravel/sail/pull/823) on [laravel/sail](https://github.com/laravel/sail) (3 weeks ago)
 - [Remove unused MustVerifyEmail import from User model](https://github.com/laravel/laravel/pull/6696) on [laravel/laravel](https://github.com/laravel/laravel) (3 weeks ago)
