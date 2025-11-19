@@ -32,7 +32,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [laravel/sail](https://github.com/laravel/sail) ([v1.48.1](https://github.com/laravel/sail/releases/tag/v1.48.1), today) - Docker files for running a basic Laravel application.
+- [laravel/sail](https://github.com/laravel/sail) ([v1.48.1](https://github.com/laravel/sail/releases/tag/v1.48.1), 1 day ago) - Docker files for running a basic Laravel application.
 
 #### 🔨 My recent Pull Requests
 
