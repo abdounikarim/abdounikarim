@@ -6,15 +6,15 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ProofOfConceptFactory/poc-svelte](https://github.com/ProofOfConceptFactory/poc-svelte) - Hello from Svelte!👋 application (3 days ago)
-- [ProofOfConceptFactory/poc-react](https://github.com/ProofOfConceptFactory/poc-react) - Hello from React!👋 application (3 days ago)
-- [ProofOfConceptFactory/poc-vue](https://github.com/ProofOfConceptFactory/poc-vue) - Hello from Vue!👋 application  (3 days ago)
+- [ProofOfConceptFactory/poc-svelte](https://github.com/ProofOfConceptFactory/poc-svelte) - Hello from Svelte!👋 application (4 days ago)
+- [ProofOfConceptFactory/poc-react](https://github.com/ProofOfConceptFactory/poc-react) - Hello from React!👋 application (4 days ago)
+- [ProofOfConceptFactory/poc-vue](https://github.com/ProofOfConceptFactory/poc-vue) - Hello from Vue!👋 application  (4 days ago)
 - [ProofOfConceptFactory/poc-angular](https://github.com/ProofOfConceptFactory/poc-angular) -  (3 weeks ago)
 - [ProofOfConceptFactory/poc-sveltekit](https://github.com/ProofOfConceptFactory/poc-sveltekit) -  (3 weeks ago)
 - [laravel/sail](https://github.com/laravel/sail) - Docker files for running a basic Laravel application. (3 weeks ago)
 - [ProofOfConceptFactory/poc-next-js](https://github.com/ProofOfConceptFactory/poc-next-js) -  (3 weeks ago)
 - [ProofOfConceptFactory/poc-symfony-doctrine-mariadb](https://github.com/ProofOfConceptFactory/poc-symfony-doctrine-mariadb) -  (4 weeks ago)
-- [ProofOfConceptFactory/poc-symfony-doctrine-postgresql](https://github.com/ProofOfConceptFactory/poc-symfony-doctrine-postgresql) -  (4 weeks ago)
+- [ProofOfConceptFactory/poc-symfony-doctrine-postgresql](https://github.com/ProofOfConceptFactory/poc-symfony-doctrine-postgresql) -  (1 month ago)
 - [ProofOfConceptFactory/poc-symfony-doctrine-mysql](https://github.com/ProofOfConceptFactory/poc-symfony-doctrine-mysql) -  (1 month ago)
 
 #### 🌱 My latest projects
@@ -32,13 +32,13 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [laravel/sail](https://github.com/laravel/sail) ([v1.48.1](https://github.com/laravel/sail/releases/tag/v1.48.1), 4 days ago) - Docker files for running a basic Laravel application.
+- [laravel/sail](https://github.com/laravel/sail) ([v1.48.1](https://github.com/laravel/sail/releases/tag/v1.48.1), 5 days ago) - Docker files for running a basic Laravel application.
 
 #### 🔨 My recent Pull Requests
 
 - [Update phpstan to version 2](https://github.com/laravel/sail/pull/826) on [laravel/sail](https://github.com/laravel/sail) (3 weeks ago)
 - [Update actions/checkout to v5](https://github.com/laravel/sail/pull/825) on [laravel/sail](https://github.com/laravel/sail) (3 weeks ago)
-- [Update PostgreSQL version to 18](https://github.com/laravel/sail/pull/824) on [laravel/sail](https://github.com/laravel/sail) (3 weeks ago)
+- [Update PostgreSQL version to 18](https://github.com/laravel/sail/pull/824) on [laravel/sail](https://github.com/laravel/sail) (4 weeks ago)
 
 #### 📓 Gists I wrote
 
@@ -48,7 +48,7 @@
 
 #### ⭐ Recent Stars
 
-- [php/frankenphp](https://github.com/php/frankenphp) - 🧟 The modern PHP app server (4 months ago)
+- [php/frankenphp](https://github.com/php/frankenphp) - 🧟 The modern PHP app server (5 months ago)
 - [abdounikarim/nahos](https://github.com/abdounikarim/nahos) -  (1 year ago)
 - [msichterman/mac-setup](https://github.com/msichterman/mac-setup) - The commands and processes I run to setup a new Mac computer (1 year ago)
 - [geerlingguy/mac-dev-playbook](https://github.com/geerlingguy/mac-dev-playbook) - Mac setup and configuration via Ansible. (1 year ago)
