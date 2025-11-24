@@ -37,8 +37,6 @@
 #### 🔨 My recent Pull Requests
 
 - [Update phpstan to version 2](https://github.com/laravel/sail/pull/826) on [laravel/sail](https://github.com/laravel/sail) (3 weeks ago)
-- [Update actions/checkout to v5](https://github.com/laravel/sail/pull/825) on [laravel/sail](https://github.com/laravel/sail) (4 weeks ago)
-- [Update PostgreSQL version to 18](https://github.com/laravel/sail/pull/824) on [laravel/sail](https://github.com/laravel/sail) (4 weeks ago)
 
 #### 📓 Gists I wrote
 
