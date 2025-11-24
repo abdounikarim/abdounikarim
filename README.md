@@ -36,6 +36,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [PHP 8.5 compatibility](https://github.com/laravel/nightwatch/pull/305) on [laravel/nightwatch](https://github.com/laravel/nightwatch) (today)
+- [PHP 8.5 compatibility](https://github.com/laravel/sail/pull/831) on [laravel/sail](https://github.com/laravel/sail) (today)
 - [Translation](https://github.com/abdounikarim/symfony-full-demo/pull/289) on [abdounikarim/symfony-full-demo](https://github.com/abdounikarim/symfony-full-demo) (today)
 
 #### 📓 Gists I wrote
