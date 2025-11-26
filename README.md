@@ -6,10 +6,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [abdounikarim/os](https://github.com/abdounikarim/os) -  (1 day ago)
-- [ProofOfConceptFactory/poc-svelte](https://github.com/ProofOfConceptFactory/poc-svelte) - Hello from Svelte!👋 application (6 days ago)
-- [ProofOfConceptFactory/poc-react](https://github.com/ProofOfConceptFactory/poc-react) - Hello from React!👋 application (6 days ago)
-- [ProofOfConceptFactory/poc-vue](https://github.com/ProofOfConceptFactory/poc-vue) - Hello from Vue!👋 application  (6 days ago)
+- [abdounikarim/os](https://github.com/abdounikarim/os) -  (2 days ago)
+- [ProofOfConceptFactory/poc-svelte](https://github.com/ProofOfConceptFactory/poc-svelte) - Hello from Svelte!👋 application (1 week ago)
+- [ProofOfConceptFactory/poc-react](https://github.com/ProofOfConceptFactory/poc-react) - Hello from React!👋 application (1 week ago)
+- [ProofOfConceptFactory/poc-vue](https://github.com/ProofOfConceptFactory/poc-vue) - Hello from Vue!👋 application  (1 week ago)
 - [laravel/sail](https://github.com/laravel/sail) - Docker files for running a basic Laravel application. (4 weeks ago)
 - [ProofOfConceptFactory/poc-sveltekit](https://github.com/ProofOfConceptFactory/poc-sveltekit) -  (4 weeks ago)
 - [ProofOfConceptFactory/poc-angular](https://github.com/ProofOfConceptFactory/poc-angular) -  (4 weeks ago)
@@ -36,9 +36,9 @@
 
 #### 🔨 My recent Pull Requests
 
-- [PHP 8.5 compatibility](https://github.com/laravel/nightwatch/pull/305) on [laravel/nightwatch](https://github.com/laravel/nightwatch) (1 day ago)
-- [PHP 8.5 compatibility](https://github.com/laravel/sail/pull/831) on [laravel/sail](https://github.com/laravel/sail) (1 day ago)
-- [Translation](https://github.com/abdounikarim/symfony-full-demo/pull/289) on [abdounikarim/symfony-full-demo](https://github.com/abdounikarim/symfony-full-demo) (1 day ago)
+- [PHP 8.5 compatibility](https://github.com/laravel/nightwatch/pull/305) on [laravel/nightwatch](https://github.com/laravel/nightwatch) (2 days ago)
+- [PHP 8.5 compatibility](https://github.com/laravel/sail/pull/831) on [laravel/sail](https://github.com/laravel/sail) (2 days ago)
+- [Translation](https://github.com/abdounikarim/symfony-full-demo/pull/289) on [abdounikarim/symfony-full-demo](https://github.com/abdounikarim/symfony-full-demo) (2 days ago)
 
 #### 📓 Gists I wrote
 
