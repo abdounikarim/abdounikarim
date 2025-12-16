@@ -6,11 +6,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ProofOfConceptFactory/poc-symfony-doctrine-postgresql](https://github.com/ProofOfConceptFactory/poc-symfony-doctrine-postgresql) -  (today)
-- [abdounikarim/api-platform-full-demo](https://github.com/abdounikarim/api-platform-full-demo) -  (today)
-- [ProofOfConceptFactory/poc-symfony-doctrine-mariadb](https://github.com/ProofOfConceptFactory/poc-symfony-doctrine-mariadb) -  (today)
-- [ProofOfConceptFactory/poc-symfony-handle-assets](https://github.com/ProofOfConceptFactory/poc-symfony-handle-assets) - Handle your Symfony assets without WebpackEncoreBundle, ViteBundle or AssetMapper (today)
-- [ProofOfConceptFactory/poc-symfony-doctrine-mysql](https://github.com/ProofOfConceptFactory/poc-symfony-doctrine-mysql) -  (today)
+- [ProofOfConceptFactory/poc-symfony-doctrine-postgresql](https://github.com/ProofOfConceptFactory/poc-symfony-doctrine-postgresql) -  (1 day ago)
+- [abdounikarim/api-platform-full-demo](https://github.com/abdounikarim/api-platform-full-demo) -  (1 day ago)
+- [ProofOfConceptFactory/poc-symfony-doctrine-mariadb](https://github.com/ProofOfConceptFactory/poc-symfony-doctrine-mariadb) -  (1 day ago)
+- [ProofOfConceptFactory/poc-symfony-handle-assets](https://github.com/ProofOfConceptFactory/poc-symfony-handle-assets) - Handle your Symfony assets without WebpackEncoreBundle, ViteBundle or AssetMapper (1 day ago)
+- [ProofOfConceptFactory/poc-symfony-doctrine-mysql](https://github.com/ProofOfConceptFactory/poc-symfony-doctrine-mysql) -  (1 day ago)
 - [ProofOfConceptFactory/poc-symfony](https://github.com/ProofOfConceptFactory/poc-symfony) - Hello from Symfony!👋 application (1 week ago)
 - [abdounikarim/os](https://github.com/abdounikarim/os) -  (3 weeks ago)
 - [ProofOfConceptFactory/poc-svelte](https://github.com/ProofOfConceptFactory/poc-svelte) - Hello from Svelte!👋 application (3 weeks ago)
@@ -32,12 +32,12 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [laravel/sail](https://github.com/laravel/sail) ([v1.51.0](https://github.com/laravel/sail/releases/tag/v1.51.0), 6 days ago) - Docker files for running a basic Laravel application.
+- [laravel/sail](https://github.com/laravel/sail) ([v1.51.0](https://github.com/laravel/sail/releases/tag/v1.51.0), 1 week ago) - Docker files for running a basic Laravel application.
 
 #### 🔨 My recent Pull Requests
 
-- [Update framework.yaml config file](https://github.com/ProofOfConceptFactory/poc-symfony-doctrine-postgresql/pull/89) on [ProofOfConceptFactory/poc-symfony-doctrine-postgresql](https://github.com/ProofOfConceptFactory/poc-symfony-doctrine-postgresql) (today)
-- [Update symfony packages to v8.0.0](https://github.com/ProofOfConceptFactory/poc-symfony-doctrine-postgresql/pull/88) on [ProofOfConceptFactory/poc-symfony-doctrine-postgresql](https://github.com/ProofOfConceptFactory/poc-symfony-doctrine-postgresql) (today)
+- [Update framework.yaml config file](https://github.com/ProofOfConceptFactory/poc-symfony-doctrine-postgresql/pull/89) on [ProofOfConceptFactory/poc-symfony-doctrine-postgresql](https://github.com/ProofOfConceptFactory/poc-symfony-doctrine-postgresql) (1 day ago)
+- [Update symfony packages to v8.0.0](https://github.com/ProofOfConceptFactory/poc-symfony-doctrine-postgresql/pull/88) on [ProofOfConceptFactory/poc-symfony-doctrine-postgresql](https://github.com/ProofOfConceptFactory/poc-symfony-doctrine-postgresql) (1 day ago)
 - [Renovate/3.0.0 doctrine/doctrine bundle](https://github.com/ProofOfConceptFactory/poc-symfony-doctrine-mysql/pull/82) on [ProofOfConceptFactory/poc-symfony-doctrine-mysql](https://github.com/ProofOfConceptFactory/poc-symfony-doctrine-mysql) (1 week ago)
 - [Remove webapp packages](https://github.com/ProofOfConceptFactory/poc-symfony/pull/79) on [ProofOfConceptFactory/poc-symfony](https://github.com/ProofOfConceptFactory/poc-symfony) (1 week ago)
 - [PHP 8.5 compatibility](https://github.com/laravel/nightwatch/pull/305) on [laravel/nightwatch](https://github.com/laravel/nightwatch) (3 weeks ago)
