@@ -36,6 +36,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Update options.md with Symfony 6.4 installation steps](https://github.com/dunglas/symfony-docker/pull/881) on [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) (today)
 - [Update framework.yaml config file](https://github.com/ProofOfConceptFactory/poc-symfony-doctrine-postgresql/pull/89) on [ProofOfConceptFactory/poc-symfony-doctrine-postgresql](https://github.com/ProofOfConceptFactory/poc-symfony-doctrine-postgresql) (4 days ago)
 - [Update symfony packages to v8.0.0](https://github.com/ProofOfConceptFactory/poc-symfony-doctrine-postgresql/pull/88) on [ProofOfConceptFactory/poc-symfony-doctrine-postgresql](https://github.com/ProofOfConceptFactory/poc-symfony-doctrine-postgresql) (4 days ago)
 - [Renovate/3.0.0 doctrine/doctrine bundle](https://github.com/ProofOfConceptFactory/poc-symfony-doctrine-mysql/pull/82) on [ProofOfConceptFactory/poc-symfony-doctrine-mysql](https://github.com/ProofOfConceptFactory/poc-symfony-doctrine-mysql) (2 weeks ago)
