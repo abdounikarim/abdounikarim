@@ -6,16 +6,16 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ProofOfConceptFactory/poc-symfony-doctrine-postgresql](https://github.com/ProofOfConceptFactory/poc-symfony-doctrine-postgresql) -  (3 days ago)
-- [abdounikarim/api-platform-full-demo](https://github.com/abdounikarim/api-platform-full-demo) -  (3 days ago)
-- [ProofOfConceptFactory/poc-symfony-doctrine-mariadb](https://github.com/ProofOfConceptFactory/poc-symfony-doctrine-mariadb) -  (3 days ago)
-- [ProofOfConceptFactory/poc-symfony-handle-assets](https://github.com/ProofOfConceptFactory/poc-symfony-handle-assets) - Handle your Symfony assets without WebpackEncoreBundle, ViteBundle or AssetMapper (3 days ago)
-- [ProofOfConceptFactory/poc-symfony-doctrine-mysql](https://github.com/ProofOfConceptFactory/poc-symfony-doctrine-mysql) -  (3 days ago)
+- [ProofOfConceptFactory/poc-symfony-doctrine-postgresql](https://github.com/ProofOfConceptFactory/poc-symfony-doctrine-postgresql) -  (4 days ago)
+- [abdounikarim/api-platform-full-demo](https://github.com/abdounikarim/api-platform-full-demo) -  (4 days ago)
+- [ProofOfConceptFactory/poc-symfony-doctrine-mariadb](https://github.com/ProofOfConceptFactory/poc-symfony-doctrine-mariadb) -  (4 days ago)
+- [ProofOfConceptFactory/poc-symfony-handle-assets](https://github.com/ProofOfConceptFactory/poc-symfony-handle-assets) - Handle your Symfony assets without WebpackEncoreBundle, ViteBundle or AssetMapper (4 days ago)
+- [ProofOfConceptFactory/poc-symfony-doctrine-mysql](https://github.com/ProofOfConceptFactory/poc-symfony-doctrine-mysql) -  (4 days ago)
 - [ProofOfConceptFactory/poc-symfony](https://github.com/ProofOfConceptFactory/poc-symfony) - Hello from Symfony!👋 application (2 weeks ago)
 - [abdounikarim/os](https://github.com/abdounikarim/os) -  (3 weeks ago)
-- [ProofOfConceptFactory/poc-svelte](https://github.com/ProofOfConceptFactory/poc-svelte) - Hello from Svelte!👋 application (4 weeks ago)
-- [ProofOfConceptFactory/poc-vue](https://github.com/ProofOfConceptFactory/poc-vue) - Hello from Vue!👋 application  (4 weeks ago)
-- [ProofOfConceptFactory/poc-react](https://github.com/ProofOfConceptFactory/poc-react) - Hello from React!👋 application (4 weeks ago)
+- [ProofOfConceptFactory/poc-svelte](https://github.com/ProofOfConceptFactory/poc-svelte) - Hello from Svelte!👋 application (1 month ago)
+- [ProofOfConceptFactory/poc-vue](https://github.com/ProofOfConceptFactory/poc-vue) - Hello from Vue!👋 application  (1 month ago)
+- [ProofOfConceptFactory/poc-react](https://github.com/ProofOfConceptFactory/poc-react) - Hello from React!👋 application (1 month ago)
 
 #### 🌱 My latest projects
 
@@ -36,8 +36,8 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Update framework.yaml config file](https://github.com/ProofOfConceptFactory/poc-symfony-doctrine-postgresql/pull/89) on [ProofOfConceptFactory/poc-symfony-doctrine-postgresql](https://github.com/ProofOfConceptFactory/poc-symfony-doctrine-postgresql) (3 days ago)
-- [Update symfony packages to v8.0.0](https://github.com/ProofOfConceptFactory/poc-symfony-doctrine-postgresql/pull/88) on [ProofOfConceptFactory/poc-symfony-doctrine-postgresql](https://github.com/ProofOfConceptFactory/poc-symfony-doctrine-postgresql) (3 days ago)
+- [Update framework.yaml config file](https://github.com/ProofOfConceptFactory/poc-symfony-doctrine-postgresql/pull/89) on [ProofOfConceptFactory/poc-symfony-doctrine-postgresql](https://github.com/ProofOfConceptFactory/poc-symfony-doctrine-postgresql) (4 days ago)
+- [Update symfony packages to v8.0.0](https://github.com/ProofOfConceptFactory/poc-symfony-doctrine-postgresql/pull/88) on [ProofOfConceptFactory/poc-symfony-doctrine-postgresql](https://github.com/ProofOfConceptFactory/poc-symfony-doctrine-postgresql) (4 days ago)
 - [Renovate/3.0.0 doctrine/doctrine bundle](https://github.com/ProofOfConceptFactory/poc-symfony-doctrine-mysql/pull/82) on [ProofOfConceptFactory/poc-symfony-doctrine-mysql](https://github.com/ProofOfConceptFactory/poc-symfony-doctrine-mysql) (2 weeks ago)
 - [Remove webapp packages](https://github.com/ProofOfConceptFactory/poc-symfony/pull/79) on [ProofOfConceptFactory/poc-symfony](https://github.com/ProofOfConceptFactory/poc-symfony) (2 weeks ago)
 - [PHP 8.5 compatibility](https://github.com/laravel/nightwatch/pull/305) on [laravel/nightwatch](https://github.com/laravel/nightwatch) (3 weeks ago)
