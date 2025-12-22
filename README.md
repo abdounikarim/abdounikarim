@@ -52,6 +52,7 @@
 
 #### ⭐ Recent Stars
 
+- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Deep clean and optimize your Mac. (today)
 - [php/frankenphp](https://github.com/php/frankenphp) - 🧟 The modern PHP app server (5 months ago)
 - [abdounikarim/nahos](https://github.com/abdounikarim/nahos) -  (1 year ago)
 - [msichterman/mac-setup](https://github.com/msichterman/mac-setup) - The commands and processes I run to setup a new Mac computer (1 year ago)
@@ -61,7 +62,6 @@
 - [drknzz/GitHub-Achievements](https://github.com/drknzz/GitHub-Achievements) - 🔥 A Complete List of GitHub Profile Badges and Achievements 🔥 (3 years ago)
 - [philcook/brew-php-switcher](https://github.com/philcook/brew-php-switcher) - Brew PHP switcher is a simple shell script to switch your apache and CLI quickly between major versions of PHP. If you support multiple products/projects that are built using either brand new or old legacy PHP functionality. For users of Homebrew (or brew for short) currently only. (3 years ago)
 - [jobbsy-dev/jobbsy](https://github.com/jobbsy-dev/jobbsy) - Jobbsy - Job Board for Symfony (3 years ago)
-- [philipsharp/afieldguidetoelephpants](https://github.com/philipsharp/afieldguidetoelephpants) -  (3 years ago)
 
 #### 👯 Check out some of my recent followers
 
