@@ -11,7 +11,7 @@
 - [ProofOfConceptFactory/poc-symfony-doctrine-mariadb](https://github.com/ProofOfConceptFactory/poc-symfony-doctrine-mariadb) -  (1 week ago)
 - [ProofOfConceptFactory/poc-symfony-handle-assets](https://github.com/ProofOfConceptFactory/poc-symfony-handle-assets) - Handle your Symfony assets without WebpackEncoreBundle, ViteBundle or AssetMapper (1 week ago)
 - [ProofOfConceptFactory/poc-symfony-doctrine-mysql](https://github.com/ProofOfConceptFactory/poc-symfony-doctrine-mysql) -  (1 week ago)
-- [ProofOfConceptFactory/poc-symfony](https://github.com/ProofOfConceptFactory/poc-symfony) - Hello from Symfony!👋 application (2 weeks ago)
+- [ProofOfConceptFactory/poc-symfony](https://github.com/ProofOfConceptFactory/poc-symfony) - Hello from Symfony!👋 application (3 weeks ago)
 - [abdounikarim/os](https://github.com/abdounikarim/os) -  (1 month ago)
 - [ProofOfConceptFactory/poc-svelte](https://github.com/ProofOfConceptFactory/poc-svelte) - Hello from Svelte!👋 application (1 month ago)
 - [ProofOfConceptFactory/poc-vue](https://github.com/ProofOfConceptFactory/poc-vue) - Hello from Vue!👋 application  (1 month ago)
@@ -36,10 +36,10 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Update options.md with Symfony 6.4 installation steps](https://github.com/dunglas/symfony-docker/pull/881) on [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) (5 days ago)
+- [Update options.md with Symfony 6.4 installation steps](https://github.com/dunglas/symfony-docker/pull/881) on [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) (6 days ago)
 - [Update framework.yaml config file](https://github.com/ProofOfConceptFactory/poc-symfony-doctrine-postgresql/pull/89) on [ProofOfConceptFactory/poc-symfony-doctrine-postgresql](https://github.com/ProofOfConceptFactory/poc-symfony-doctrine-postgresql) (1 week ago)
 - [Update symfony packages to v8.0.0](https://github.com/ProofOfConceptFactory/poc-symfony-doctrine-postgresql/pull/88) on [ProofOfConceptFactory/poc-symfony-doctrine-postgresql](https://github.com/ProofOfConceptFactory/poc-symfony-doctrine-postgresql) (1 week ago)
-- [Renovate/3.0.0 doctrine/doctrine bundle](https://github.com/ProofOfConceptFactory/poc-symfony-doctrine-mysql/pull/82) on [ProofOfConceptFactory/poc-symfony-doctrine-mysql](https://github.com/ProofOfConceptFactory/poc-symfony-doctrine-mysql) (2 weeks ago)
+- [Renovate/3.0.0 doctrine/doctrine bundle](https://github.com/ProofOfConceptFactory/poc-symfony-doctrine-mysql/pull/82) on [ProofOfConceptFactory/poc-symfony-doctrine-mysql](https://github.com/ProofOfConceptFactory/poc-symfony-doctrine-mysql) (3 weeks ago)
 - [Remove webapp packages](https://github.com/ProofOfConceptFactory/poc-symfony/pull/79) on [ProofOfConceptFactory/poc-symfony](https://github.com/ProofOfConceptFactory/poc-symfony) (3 weeks ago)
 - [PHP 8.5 compatibility](https://github.com/laravel/nightwatch/pull/305) on [laravel/nightwatch](https://github.com/laravel/nightwatch) (1 month ago)
 - [PHP 8.5 compatibility](https://github.com/laravel/sail/pull/831) on [laravel/sail](https://github.com/laravel/sail) (1 month ago)
@@ -52,7 +52,7 @@
 
 #### ⭐ Recent Stars
 
-- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Deep clean and optimize your Mac. (2 days ago)
+- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Deep clean and optimize your Mac. (3 days ago)
 - [php/frankenphp](https://github.com/php/frankenphp) - 🧟 The modern PHP app server (6 months ago)
 - [abdounikarim/nahos](https://github.com/abdounikarim/nahos) -  (1 year ago)
 - [msichterman/mac-setup](https://github.com/msichterman/mac-setup) - The commands and processes I run to setup a new Mac computer (1 year ago)
