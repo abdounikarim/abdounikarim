@@ -52,7 +52,7 @@
 
 #### ⭐ Recent Stars
 
-- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Deep clean and optimize your Mac. (5 days ago)
+- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Deep clean and optimize your Mac. (6 days ago)
 - [php/frankenphp](https://github.com/php/frankenphp) - 🧟 The modern PHP app server (6 months ago)
 - [abdounikarim/nahos](https://github.com/abdounikarim/nahos) -  (1 year ago)
 - [msichterman/mac-setup](https://github.com/msichterman/mac-setup) - The commands and processes I run to setup a new Mac computer (1 year ago)
