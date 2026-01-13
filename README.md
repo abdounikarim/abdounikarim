@@ -26,9 +26,9 @@
 - [abdounikarim/symfony-create-project-kernel-missing](https://github.com/abdounikarim/symfony-create-project-kernel-missing) - 
 - [abdounikarim/php-js-boilerplate](https://github.com/abdounikarim/php-js-boilerplate) - 
 - [abdounikarim/abdounikarim.github.io](https://github.com/abdounikarim/abdounikarim.github.io) - 
-- [abdounikarim/symfony-full-demo](https://github.com/abdounikarim/symfony-full-demo) - 
 - [abdounikarim/demo-ansible](https://github.com/abdounikarim/demo-ansible) - 
 - [abdounikarim/lorem-ipsum-bundle](https://github.com/abdounikarim/lorem-ipsum-bundle) - 
+- [abdounikarim/cmi](https://github.com/abdounikarim/cmi) - 
 
 #### 🔭 Latest releases I've contributed to
 
