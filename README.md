@@ -36,6 +36,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Application don&#39;t start - Upgrade to Symfony 7.3](https://github.com/api-platform/api-platform/pull/2970) on [api-platform/api-platform](https://github.com/api-platform/api-platform) (today)
 - [Homepage - remove webpack files from RecipeFileTree](https://github.com/symfony/ux.symfony.com/pull/1) on [symfony/ux.symfony.com](https://github.com/symfony/ux.symfony.com) (1 day ago)
 - [Update tls.md - Using Custom TLS Certificates](https://github.com/dunglas/symfony-docker/pull/883) on [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) (1 week ago)
 - [Update options.md with Symfony 6.4 installation steps](https://github.com/dunglas/symfony-docker/pull/881) on [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) (3 weeks ago)
