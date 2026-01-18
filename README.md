@@ -13,9 +13,9 @@
 - [ProofOfConceptFactory/poc-symfony-doctrine-mysql](https://github.com/ProofOfConceptFactory/poc-symfony-doctrine-mysql) -  (1 month ago)
 - [ProofOfConceptFactory/poc-symfony](https://github.com/ProofOfConceptFactory/poc-symfony) - Hello from Symfony!👋 application (1 month ago)
 - [abdounikarim/os](https://github.com/abdounikarim/os) -  (1 month ago)
-- [ProofOfConceptFactory/poc-svelte](https://github.com/ProofOfConceptFactory/poc-svelte) - Hello from Svelte!👋 application (1 month ago)
-- [ProofOfConceptFactory/poc-vue](https://github.com/ProofOfConceptFactory/poc-vue) - Hello from Vue!👋 application  (1 month ago)
-- [ProofOfConceptFactory/poc-react](https://github.com/ProofOfConceptFactory/poc-react) - Hello from React!👋 application (1 month ago)
+- [ProofOfConceptFactory/poc-svelte](https://github.com/ProofOfConceptFactory/poc-svelte) - Hello from Svelte!👋 application (2 months ago)
+- [ProofOfConceptFactory/poc-vue](https://github.com/ProofOfConceptFactory/poc-vue) - Hello from Vue!👋 application  (2 months ago)
+- [ProofOfConceptFactory/poc-react](https://github.com/ProofOfConceptFactory/poc-react) - Hello from React!👋 application (2 months ago)
 
 #### 🌱 My latest projects
 
@@ -36,10 +36,10 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Application don&#39;t start - Upgrade to Symfony 7.3](https://github.com/api-platform/api-platform/pull/2970) on [api-platform/api-platform](https://github.com/api-platform/api-platform) (3 days ago)
-- [Homepage - remove webpack files from RecipeFileTree](https://github.com/symfony/ux.symfony.com/pull/1) on [symfony/ux.symfony.com](https://github.com/symfony/ux.symfony.com) (4 days ago)
-- [Update tls.md - Using Custom TLS Certificates](https://github.com/dunglas/symfony-docker/pull/883) on [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) (1 week ago)
-- [Update options.md with Symfony 6.4 installation steps](https://github.com/dunglas/symfony-docker/pull/881) on [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) (4 weeks ago)
+- [Application don&#39;t start - Upgrade to Symfony 7.3](https://github.com/api-platform/api-platform/pull/2970) on [api-platform/api-platform](https://github.com/api-platform/api-platform) (4 days ago)
+- [Homepage - remove webpack files from RecipeFileTree](https://github.com/symfony/ux.symfony.com/pull/1) on [symfony/ux.symfony.com](https://github.com/symfony/ux.symfony.com) (5 days ago)
+- [Update tls.md - Using Custom TLS Certificates](https://github.com/dunglas/symfony-docker/pull/883) on [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) (2 weeks ago)
+- [Update options.md with Symfony 6.4 installation steps](https://github.com/dunglas/symfony-docker/pull/881) on [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) (1 month ago)
 - [Update framework.yaml config file](https://github.com/ProofOfConceptFactory/poc-symfony-doctrine-postgresql/pull/89) on [ProofOfConceptFactory/poc-symfony-doctrine-postgresql](https://github.com/ProofOfConceptFactory/poc-symfony-doctrine-postgresql) (1 month ago)
 - [Update symfony packages to v8.0.0](https://github.com/ProofOfConceptFactory/poc-symfony-doctrine-postgresql/pull/88) on [ProofOfConceptFactory/poc-symfony-doctrine-postgresql](https://github.com/ProofOfConceptFactory/poc-symfony-doctrine-postgresql) (1 month ago)
 - [Renovate/3.0.0 doctrine/doctrine bundle](https://github.com/ProofOfConceptFactory/poc-symfony-doctrine-mysql/pull/82) on [ProofOfConceptFactory/poc-symfony-doctrine-mysql](https://github.com/ProofOfConceptFactory/poc-symfony-doctrine-mysql) (1 month ago)
