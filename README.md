@@ -32,12 +32,12 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [laravel/sail](https://github.com/laravel/sail) ([v1.52.0](https://github.com/laravel/sail/releases/tag/v1.52.0), 1 week ago) - Docker files for running a basic Laravel application.
+- [laravel/sail](https://github.com/laravel/sail) ([v1.52.0](https://github.com/laravel/sail/releases/tag/v1.52.0), 2 weeks ago) - Docker files for running a basic Laravel application.
 
 #### 🔨 My recent Pull Requests
 
-- [Application don&#39;t start - Upgrade to Symfony 7.3](https://github.com/api-platform/api-platform/pull/2970) on [api-platform/api-platform](https://github.com/api-platform/api-platform) (5 days ago)
-- [Homepage - remove webpack files from RecipeFileTree](https://github.com/symfony/ux.symfony.com/pull/1) on [symfony/ux.symfony.com](https://github.com/symfony/ux.symfony.com) (6 days ago)
+- [Application don&#39;t start - Upgrade to Symfony 7.3](https://github.com/api-platform/api-platform/pull/2970) on [api-platform/api-platform](https://github.com/api-platform/api-platform) (6 days ago)
+- [Homepage - remove webpack files from RecipeFileTree](https://github.com/symfony/ux.symfony.com/pull/1) on [symfony/ux.symfony.com](https://github.com/symfony/ux.symfony.com) (1 week ago)
 - [Update tls.md - Using Custom TLS Certificates](https://github.com/dunglas/symfony-docker/pull/883) on [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) (2 weeks ago)
 - [Update options.md with Symfony 6.4 installation steps](https://github.com/dunglas/symfony-docker/pull/881) on [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) (1 month ago)
 - [Update framework.yaml config file](https://github.com/ProofOfConceptFactory/poc-symfony-doctrine-postgresql/pull/89) on [ProofOfConceptFactory/poc-symfony-doctrine-postgresql](https://github.com/ProofOfConceptFactory/poc-symfony-doctrine-postgresql) (1 month ago)
