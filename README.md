@@ -66,11 +66,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [jroussel](https://github.com/jroussel)
 - [darlyss](https://github.com/darlyss)
 - [BuildDream18](https://github.com/BuildDream18)
 - [cumsoft](https://github.com/cumsoft)
 - [CStre](https://github.com/CStre)
-- [Pierstoval](https://github.com/Pierstoval)
 
 #### 💬 Feedback
 
