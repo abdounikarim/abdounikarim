@@ -6,13 +6,13 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker compose up`. (3 days ago)
-- [abdounikarim/os](https://github.com/abdounikarim/os) -  (3 days ago)
-- [ProofOfConceptFactory/poc-symfony-doctrine-postgresql](https://github.com/ProofOfConceptFactory/poc-symfony-doctrine-postgresql) -  (1 month ago)
-- [Casrime/bilemo](https://github.com/Casrime/bilemo) -  (1 month ago)
-- [ProofOfConceptFactory/poc-symfony-doctrine-mariadb](https://github.com/ProofOfConceptFactory/poc-symfony-doctrine-mariadb) -  (1 month ago)
-- [ProofOfConceptFactory/poc-symfony-handle-assets](https://github.com/ProofOfConceptFactory/poc-symfony-handle-assets) - Handle your Symfony assets without WebpackEncoreBundle, ViteBundle or AssetMapper (1 month ago)
-- [ProofOfConceptFactory/poc-symfony-doctrine-mysql](https://github.com/ProofOfConceptFactory/poc-symfony-doctrine-mysql) -  (1 month ago)
+- [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker compose up`. (4 days ago)
+- [abdounikarim/os](https://github.com/abdounikarim/os) -  (4 days ago)
+- [ProofOfConceptFactory/poc-symfony-doctrine-postgresql](https://github.com/ProofOfConceptFactory/poc-symfony-doctrine-postgresql) -  (2 months ago)
+- [Casrime/bilemo](https://github.com/Casrime/bilemo) -  (2 months ago)
+- [ProofOfConceptFactory/poc-symfony-doctrine-mariadb](https://github.com/ProofOfConceptFactory/poc-symfony-doctrine-mariadb) -  (2 months ago)
+- [ProofOfConceptFactory/poc-symfony-handle-assets](https://github.com/ProofOfConceptFactory/poc-symfony-handle-assets) - Handle your Symfony assets without WebpackEncoreBundle, ViteBundle or AssetMapper (2 months ago)
+- [ProofOfConceptFactory/poc-symfony-doctrine-mysql](https://github.com/ProofOfConceptFactory/poc-symfony-doctrine-mysql) -  (2 months ago)
 - [ProofOfConceptFactory/poc-symfony](https://github.com/ProofOfConceptFactory/poc-symfony) - Hello from Symfony!👋 application (2 months ago)
 - [ProofOfConceptFactory/poc-react](https://github.com/ProofOfConceptFactory/poc-react) - Hello from React!👋 application (2 months ago)
 - [ProofOfConceptFactory/poc-vue](https://github.com/ProofOfConceptFactory/poc-vue) - Hello from Vue!👋 application  (2 months ago)
@@ -32,17 +32,17 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [laravel/sail](https://github.com/laravel/sail) ([v1.53.0](https://github.com/laravel/sail/releases/tag/v1.53.0), 2 days ago) - Docker files for running a basic Laravel application.
+- [laravel/sail](https://github.com/laravel/sail) ([v1.53.0](https://github.com/laravel/sail/releases/tag/v1.53.0), 3 days ago) - Docker files for running a basic Laravel application.
 
 #### 🔨 My recent Pull Requests
 
-- [Brewfile](https://github.com/abdounikarim/os/pull/25) on [abdounikarim/os](https://github.com/abdounikarim/os) (4 days ago)
-- [Application don&#39;t start - Upgrade to Symfony 7.3](https://github.com/api-platform/api-platform/pull/2970) on [api-platform/api-platform](https://github.com/api-platform/api-platform) (4 weeks ago)
+- [Brewfile](https://github.com/abdounikarim/os/pull/25) on [abdounikarim/os](https://github.com/abdounikarim/os) (5 days ago)
+- [Application don&#39;t start - Upgrade to Symfony 7.3](https://github.com/api-platform/api-platform/pull/2970) on [api-platform/api-platform](https://github.com/api-platform/api-platform) (1 month ago)
 - [Homepage - remove webpack files from RecipeFileTree](https://github.com/symfony/ux.symfony.com/pull/1) on [symfony/ux.symfony.com](https://github.com/symfony/ux.symfony.com) (1 month ago)
 - [Update tls.md - Using Custom TLS Certificates](https://github.com/dunglas/symfony-docker/pull/883) on [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) (1 month ago)
 - [docs: update options.md with Symfony 6.4 installation steps](https://github.com/dunglas/symfony-docker/pull/881) on [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) (1 month ago)
-- [Update framework.yaml config file](https://github.com/ProofOfConceptFactory/poc-symfony-doctrine-postgresql/pull/89) on [ProofOfConceptFactory/poc-symfony-doctrine-postgresql](https://github.com/ProofOfConceptFactory/poc-symfony-doctrine-postgresql) (1 month ago)
-- [Update symfony packages to v8.0.0](https://github.com/ProofOfConceptFactory/poc-symfony-doctrine-postgresql/pull/88) on [ProofOfConceptFactory/poc-symfony-doctrine-postgresql](https://github.com/ProofOfConceptFactory/poc-symfony-doctrine-postgresql) (1 month ago)
+- [Update framework.yaml config file](https://github.com/ProofOfConceptFactory/poc-symfony-doctrine-postgresql/pull/89) on [ProofOfConceptFactory/poc-symfony-doctrine-postgresql](https://github.com/ProofOfConceptFactory/poc-symfony-doctrine-postgresql) (2 months ago)
+- [Update symfony packages to v8.0.0](https://github.com/ProofOfConceptFactory/poc-symfony-doctrine-postgresql/pull/88) on [ProofOfConceptFactory/poc-symfony-doctrine-postgresql](https://github.com/ProofOfConceptFactory/poc-symfony-doctrine-postgresql) (2 months ago)
 
 #### 📓 Gists I wrote
 
