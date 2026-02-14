@@ -6,8 +6,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker compose up`. (4 days ago)
-- [abdounikarim/os](https://github.com/abdounikarim/os) -  (4 days ago)
+- [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker compose up`. (5 days ago)
+- [abdounikarim/os](https://github.com/abdounikarim/os) -  (5 days ago)
 - [ProofOfConceptFactory/poc-symfony-doctrine-postgresql](https://github.com/ProofOfConceptFactory/poc-symfony-doctrine-postgresql) -  (2 months ago)
 - [Casrime/bilemo](https://github.com/Casrime/bilemo) -  (2 months ago)
 - [ProofOfConceptFactory/poc-symfony-doctrine-mariadb](https://github.com/ProofOfConceptFactory/poc-symfony-doctrine-mariadb) -  (2 months ago)
@@ -32,11 +32,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [laravel/sail](https://github.com/laravel/sail) ([v1.53.0](https://github.com/laravel/sail/releases/tag/v1.53.0), 3 days ago) - Docker files for running a basic Laravel application.
+- [laravel/sail](https://github.com/laravel/sail) ([v1.53.0](https://github.com/laravel/sail/releases/tag/v1.53.0), 4 days ago) - Docker files for running a basic Laravel application.
 
 #### 🔨 My recent Pull Requests
 
-- [Brewfile](https://github.com/abdounikarim/os/pull/25) on [abdounikarim/os](https://github.com/abdounikarim/os) (5 days ago)
+- [Brewfile](https://github.com/abdounikarim/os/pull/25) on [abdounikarim/os](https://github.com/abdounikarim/os) (6 days ago)
 - [Application don&#39;t start - Upgrade to Symfony 7.3](https://github.com/api-platform/api-platform/pull/2970) on [api-platform/api-platform](https://github.com/api-platform/api-platform) (1 month ago)
 - [Homepage - remove webpack files from RecipeFileTree](https://github.com/symfony/ux.symfony.com/pull/1) on [symfony/ux.symfony.com](https://github.com/symfony/ux.symfony.com) (1 month ago)
 - [Update tls.md - Using Custom TLS Certificates](https://github.com/dunglas/symfony-docker/pull/883) on [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) (1 month ago)
