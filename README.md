@@ -48,7 +48,7 @@
 #### ⭐ Recent Stars
 
 - [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Deep clean and optimize your Mac. (2 months ago)
-- [php/frankenphp](https://github.com/php/frankenphp) - 🧟 The modern PHP app server (7 months ago)
+- [php/frankenphp](https://github.com/php/frankenphp) - 🧟 The modern PHP app server (8 months ago)
 - [abdounikarim/nahos](https://github.com/abdounikarim/nahos) -  (1 year ago)
 - [msichterman/mac-setup](https://github.com/msichterman/mac-setup) - The commands and processes I run to setup a new Mac computer (1 year ago)
 - [geerlingguy/mac-dev-playbook](https://github.com/geerlingguy/mac-dev-playbook) - Mac setup and configuration via Ansible. (1 year ago)
