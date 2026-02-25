@@ -37,7 +37,6 @@
 #### 🔨 My recent Pull Requests
 
 - [Brewfile](https://github.com/abdounikarim/os/pull/25) on [abdounikarim/os](https://github.com/abdounikarim/os) (2 weeks ago)
-- [Application don&#39;t start - Upgrade to Symfony 7.3](https://github.com/api-platform/api-platform/pull/2970) on [api-platform/api-platform](https://github.com/api-platform/api-platform) (1 month ago)
 
 #### 📓 Gists I wrote
 
