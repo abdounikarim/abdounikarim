@@ -36,7 +36,6 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Brewfile](https://github.com/abdounikarim/os/pull/25) on [abdounikarim/os](https://github.com/abdounikarim/os) (2 weeks ago)
 
 #### 📓 Gists I wrote
 
