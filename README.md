@@ -32,7 +32,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [laravel/sail](https://github.com/laravel/sail) ([v1.54.0](https://github.com/laravel/sail/releases/tag/v1.54.0), 4 days ago) - Docker files for running a basic Laravel application.
+- [laravel/sail](https://github.com/laravel/sail) ([v1.54.0](https://github.com/laravel/sail/releases/tag/v1.54.0), 5 days ago) - Docker files for running a basic Laravel application.
 
 #### 🔨 My recent Pull Requests
 
@@ -45,7 +45,7 @@
 
 #### ⭐ Recent Stars
 
-- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Deep clean and optimize your Mac. (2 months ago)
+- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Deep clean and optimize your Mac. (3 months ago)
 - [php/frankenphp](https://github.com/php/frankenphp) - 🧟 The modern PHP app server (8 months ago)
 - [abdounikarim/nahos](https://github.com/abdounikarim/nahos) -  (1 year ago)
 - [msichterman/mac-setup](https://github.com/msichterman/mac-setup) - The commands and processes I run to setup a new Mac computer (1 year ago)
