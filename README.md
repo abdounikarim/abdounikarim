@@ -32,7 +32,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [laravel/sail](https://github.com/laravel/sail) ([v1.58.0](https://github.com/laravel/sail/releases/tag/v1.58.0), today) - Docker files for running a basic Laravel application.
+- [laravel/sail](https://github.com/laravel/sail) ([v1.58.0](https://github.com/laravel/sail/releases/tag/v1.58.0), 1 day ago) - Docker files for running a basic Laravel application.
 
 #### 🔨 My recent Pull Requests
 
@@ -41,7 +41,7 @@
 
 - [Handle your Symfony assets without WebpackEncoreBundle, ViteBundle or AssetMapper](https://gist.github.com/7c0177c7a71b1e6585183e320034e4dd) (1 year ago)
 - [Hello from Symfony](https://gist.github.com/d6b3e49ead0d8e0a4041c06fcc689307) (1 year ago)
-- [](https://gist.github.com/b237278802559acb0bcf1e2516ba718e) (4 years ago)
+- [](https://gist.github.com/b237278802559acb0bcf1e2516ba718e) (5 years ago)
 
 #### ⭐ Recent Stars
 
