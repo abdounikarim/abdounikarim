@@ -32,11 +32,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [laravel/sail](https://github.com/laravel/sail) ([v1.59.0](https://github.com/laravel/sail/releases/tag/v1.59.0), 2 days ago) - Docker files for running a basic Laravel application.
+- [laravel/sail](https://github.com/laravel/sail) ([v1.59.0](https://github.com/laravel/sail/releases/tag/v1.59.0), 3 days ago) - Docker files for running a basic Laravel application.
 
 #### 🔨 My recent Pull Requests
 
-- [ Define brochures_directory in services.yaml](https://github.com/symfony/symfony-docs/pull/22347) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (today)
+- [ Define brochures_directory in services.yaml](https://github.com/symfony/symfony-docs/pull/22347) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 day ago)
 
 #### 📓 Gists I wrote
 
