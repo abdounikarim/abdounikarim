@@ -32,11 +32,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [laravel/sail](https://github.com/laravel/sail) ([v1.60.0](https://github.com/laravel/sail/releases/tag/v1.60.0), 1 day ago) - Docker files for running a basic Laravel application.
+- [laravel/sail](https://github.com/laravel/sail) ([v1.60.0](https://github.com/laravel/sail/releases/tag/v1.60.0), 2 days ago) - Docker files for running a basic Laravel application.
 
 #### 🔨 My recent Pull Requests
 
-- [ Define brochures_directory in services.yaml](https://github.com/symfony/symfony-docs/pull/22347) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (5 days ago)
+- [ Define brochures_directory in services.yaml](https://github.com/symfony/symfony-docs/pull/22347) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (6 days ago)
 
 #### 📓 Gists I wrote
 
@@ -46,7 +46,7 @@
 
 #### ⭐ Recent Stars
 
-- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Deep clean and optimize your Mac. (4 months ago)
+- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Deep clean and optimize your Mac. (5 months ago)
 - [php/frankenphp](https://github.com/php/frankenphp) - 🧟 The modern PHP app server (10 months ago)
 - [abdounikarim/nahos](https://github.com/abdounikarim/nahos) -  (2 years ago)
 - [msichterman/mac-setup](https://github.com/msichterman/mac-setup) - The commands and processes I run to setup a new Mac computer (2 years ago)
