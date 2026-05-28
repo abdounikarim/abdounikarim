@@ -36,7 +36,6 @@
 
 #### 🔨 My recent Pull Requests
 
-- [ Define brochures_directory in services.yaml](https://github.com/symfony/symfony-docs/pull/22347) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 week ago)
 
 #### 📓 Gists I wrote
 
