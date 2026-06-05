@@ -32,11 +32,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [laravel/sail](https://github.com/laravel/sail) ([v1.62.0](https://github.com/laravel/sail/releases/tag/v1.62.0), 1 day ago) - Docker files for running a basic Laravel application.
+- [laravel/sail](https://github.com/laravel/sail) ([v1.62.0](https://github.com/laravel/sail/releases/tag/v1.62.0), 2 days ago) - Docker files for running a basic Laravel application.
 
 #### 🔨 My recent Pull Requests
 
-- [ Update installation command for Stopwatch component](https://github.com/symfony/symfony/pull/64435) on [symfony/symfony](https://github.com/symfony/symfony) (2 days ago)
+- [ Update installation command for Stopwatch component](https://github.com/symfony/symfony/pull/64435) on [symfony/symfony](https://github.com/symfony/symfony) (3 days ago)
 
 #### 📓 Gists I wrote
 
