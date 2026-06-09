@@ -6,9 +6,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (6 days ago)
-- [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker compose up`. (3 months ago)
-- [abdounikarim/os](https://github.com/abdounikarim/os) -  (3 months ago)
+- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (1 week ago)
+- [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker compose up`. (4 months ago)
+- [abdounikarim/os](https://github.com/abdounikarim/os) -  (4 months ago)
 - [Casrime/bilemo](https://github.com/Casrime/bilemo) -  (5 months ago)
 - [ProofOfConceptFactory/poc-symfony-doctrine-mysql](https://github.com/ProofOfConceptFactory/poc-symfony-doctrine-mysql) -  (5 months ago)
 - [ProofOfConceptFactory/poc-symfony-doctrine-mariadb](https://github.com/ProofOfConceptFactory/poc-symfony-doctrine-mariadb) -  (5 months ago)
@@ -32,12 +32,12 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [laravel/sail](https://github.com/laravel/sail) ([v1.62.0](https://github.com/laravel/sail/releases/tag/v1.62.0), 5 days ago) - Docker files for running a basic Laravel application.
+- [laravel/sail](https://github.com/laravel/sail) ([v1.62.0](https://github.com/laravel/sail/releases/tag/v1.62.0), 6 days ago) - Docker files for running a basic Laravel application.
 - [symfony/symfony](https://github.com/symfony/symfony) ([v8.1.0](https://github.com/symfony/symfony/releases/tag/v8.1.0), 1 week ago) - The Symfony PHP framework
 
 #### 🔨 My recent Pull Requests
 
-- [ Update installation command for Stopwatch component](https://github.com/symfony/symfony/pull/64435) on [symfony/symfony](https://github.com/symfony/symfony) (6 days ago)
+- [ Update installation command for Stopwatch component](https://github.com/symfony/symfony/pull/64435) on [symfony/symfony](https://github.com/symfony/symfony) (1 week ago)
 
 #### 📓 Gists I wrote
 
