@@ -37,7 +37,6 @@
 
 #### 🔨 My recent Pull Requests
 
-- [ Update installation command for Stopwatch component](https://github.com/symfony/symfony/pull/64435) on [symfony/symfony](https://github.com/symfony/symfony) (1 week ago)
 
 #### 📓 Gists I wrote
 
