@@ -15,7 +15,7 @@
 - [Casrime/bilemo](https://github.com/Casrime/bilemo) -  (6 months ago)
 - [ProofOfConceptFactory/poc-symfony-handle-assets](https://github.com/ProofOfConceptFactory/poc-symfony-handle-assets) - Handle your Symfony assets without WebpackEncoreBundle, ViteBundle or AssetMapper (6 months ago)
 - [ProofOfConceptFactory/poc-symfony](https://github.com/ProofOfConceptFactory/poc-symfony) - Hello from Symfony!👋 application (6 months ago)
-- [ProofOfConceptFactory/poc-react](https://github.com/ProofOfConceptFactory/poc-react) - Hello from React!👋 application (6 months ago)
+- [ProofOfConceptFactory/poc-react](https://github.com/ProofOfConceptFactory/poc-react) - Hello from React!👋 application (7 months ago)
 
 #### 🌱 My latest projects
 
@@ -32,7 +32,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [laravel/sail](https://github.com/laravel/sail) ([v1.62.0](https://github.com/laravel/sail/releases/tag/v1.62.0), 1 week ago) - Docker files for running a basic Laravel application.
+- [laravel/sail](https://github.com/laravel/sail) ([v1.62.0](https://github.com/laravel/sail/releases/tag/v1.62.0), 2 weeks ago) - Docker files for running a basic Laravel application.
 - [symfony/symfony](https://github.com/symfony/symfony) ([v8.1.0](https://github.com/symfony/symfony/releases/tag/v8.1.0), 2 weeks ago) - The Symfony PHP framework
 
 #### 🔨 My recent Pull Requests
