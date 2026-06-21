@@ -47,7 +47,7 @@
 #### ⭐ Recent Stars
 
 - [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac from the terminal. (6 months ago)
-- [php/frankenphp](https://github.com/php/frankenphp) - 🧟 The modern PHP app server (11 months ago)
+- [php/frankenphp](https://github.com/php/frankenphp) - 🧟 The modern PHP app server (1 year ago)
 - [abdounikarim/nahos](https://github.com/abdounikarim/nahos) -  (2 years ago)
 - [msichterman/mac-setup](https://github.com/msichterman/mac-setup) - The commands and processes I run to setup a new Mac computer (2 years ago)
 - [geerlingguy/mac-dev-playbook](https://github.com/geerlingguy/mac-dev-playbook) - Mac setup and configuration via Ansible. (2 years ago)
