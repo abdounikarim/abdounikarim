@@ -37,14 +37,16 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Add pinentry-mac to install target](https://github.com/abdounikarim/os/pull/33) on [abdounikarim/os](https://github.com/abdounikarim/os) (1 day ago)
-- [Add idempotency guards to install target](https://github.com/abdounikarim/os/pull/32) on [abdounikarim/os](https://github.com/abdounikarim/os) (1 day ago)
-- [Upgrade installed formulae in update target](https://github.com/abdounikarim/os/pull/31) on [abdounikarim/os](https://github.com/abdounikarim/os) (1 day ago)
-- [Remove hub formula, superseded by gh](https://github.com/abdounikarim/os/pull/30) on [abdounikarim/os](https://github.com/abdounikarim/os) (1 day ago)
-- [Remove docker brew formula](https://github.com/abdounikarim/os/pull/29) on [abdounikarim/os](https://github.com/abdounikarim/os) (1 day ago)
-- [Fix brew shellenv](https://github.com/abdounikarim/os/pull/28) on [abdounikarim/os](https://github.com/abdounikarim/os) (1 day ago)
-- [Blackfire trust](https://github.com/abdounikarim/os/pull/27) on [abdounikarim/os](https://github.com/abdounikarim/os) (1 day ago)
-- [Remove docker completion](https://github.com/abdounikarim/os/pull/26) on [abdounikarim/os](https://github.com/abdounikarim/os) (1 day ago)
+- [Expand macOS defaults in install target](https://github.com/abdounikarim/os/pull/43) on [abdounikarim/os](https://github.com/abdounikarim/os) (today)
+- [Add GitHub Actions CI workflow](https://github.com/abdounikarim/os/pull/42) on [abdounikarim/os](https://github.com/abdounikarim/os) (today)
+- [Add topgrade.toml config template](https://github.com/abdounikarim/os/pull/41) on [abdounikarim/os](https://github.com/abdounikarim/os) (today)
+- [Add .editorconfig for consistent formatting](https://github.com/abdounikarim/os/pull/40) on [abdounikarim/os](https://github.com/abdounikarim/os) (today)
+- [Add git aliases to .gitconfig template](https://github.com/abdounikarim/os/pull/39) on [abdounikarim/os](https://github.com/abdounikarim/os) (today)
+- [Add SSH setup documentation and config template](https://github.com/abdounikarim/os/pull/38) on [abdounikarim/os](https://github.com/abdounikarim/os) (today)
+- [Add make backup target](https://github.com/abdounikarim/os/pull/37) on [abdounikarim/os](https://github.com/abdounikarim/os) (today)
+- [Add make check target](https://github.com/abdounikarim/os/pull/36) on [abdounikarim/os](https://github.com/abdounikarim/os) (today)
+- [Add Brewfile.local override support](https://github.com/abdounikarim/os/pull/35) on [abdounikarim/os](https://github.com/abdounikarim/os) (today)
+- [Add claude-code cask to Brewfile](https://github.com/abdounikarim/os/pull/34) on [abdounikarim/os](https://github.com/abdounikarim/os) (today)
 
 #### 📓 Gists I wrote
 
