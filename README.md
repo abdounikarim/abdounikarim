@@ -7,8 +7,8 @@
 #### 👷 Check out what I'm currently working on
 
 - [abdounikarim/os](https://github.com/abdounikarim/os) -  (today)
-- [abdounikarim/velib](https://github.com/abdounikarim/velib) -  (2 days ago)
-- [ProofOfConceptFactory/poc-taskfile](https://github.com/ProofOfConceptFactory/poc-taskfile) -  (5 days ago)
+- [abdounikarim/velib](https://github.com/abdounikarim/velib) -  (3 days ago)
+- [ProofOfConceptFactory/poc-taskfile](https://github.com/ProofOfConceptFactory/poc-taskfile) -  (6 days ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (1 month ago)
 - [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker compose up`. (4 months ago)
 - [ProofOfConceptFactory/poc-symfony-doctrine-mariadb](https://github.com/ProofOfConceptFactory/poc-symfony-doctrine-mariadb) -  (6 months ago)
@@ -33,13 +33,18 @@
 #### 🔭 Latest releases I've contributed to
 
 - [symfony/symfony](https://github.com/symfony/symfony) ([v8.1.1](https://github.com/symfony/symfony/releases/tag/v8.1.1), 1 week ago) - The Symfony PHP framework
-- [laravel/sail](https://github.com/laravel/sail) ([v1.63.0](https://github.com/laravel/sail/releases/tag/v1.63.0), 1 week ago) - Docker files for running a basic Laravel application.
+- [laravel/sail](https://github.com/laravel/sail) ([v1.63.0](https://github.com/laravel/sail/releases/tag/v1.63.0), 2 weeks ago) - Docker files for running a basic Laravel application.
 
 #### 🔨 My recent Pull Requests
 
-- [Fix brew shellenv](https://github.com/abdounikarim/os/pull/28) on [abdounikarim/os](https://github.com/abdounikarim/os) (today)
-- [Blackfire trust](https://github.com/abdounikarim/os/pull/27) on [abdounikarim/os](https://github.com/abdounikarim/os) (today)
-- [Remove docker completion](https://github.com/abdounikarim/os/pull/26) on [abdounikarim/os](https://github.com/abdounikarim/os) (today)
+- [Add pinentry-mac to install target](https://github.com/abdounikarim/os/pull/33) on [abdounikarim/os](https://github.com/abdounikarim/os) (1 day ago)
+- [Add idempotency guards to install target](https://github.com/abdounikarim/os/pull/32) on [abdounikarim/os](https://github.com/abdounikarim/os) (1 day ago)
+- [Upgrade installed formulae in update target](https://github.com/abdounikarim/os/pull/31) on [abdounikarim/os](https://github.com/abdounikarim/os) (1 day ago)
+- [Remove hub formula, superseded by gh](https://github.com/abdounikarim/os/pull/30) on [abdounikarim/os](https://github.com/abdounikarim/os) (1 day ago)
+- [Remove docker brew formula](https://github.com/abdounikarim/os/pull/29) on [abdounikarim/os](https://github.com/abdounikarim/os) (1 day ago)
+- [Fix brew shellenv](https://github.com/abdounikarim/os/pull/28) on [abdounikarim/os](https://github.com/abdounikarim/os) (1 day ago)
+- [Blackfire trust](https://github.com/abdounikarim/os/pull/27) on [abdounikarim/os](https://github.com/abdounikarim/os) (1 day ago)
+- [Remove docker completion](https://github.com/abdounikarim/os/pull/26) on [abdounikarim/os](https://github.com/abdounikarim/os) (1 day ago)
 
 #### 📓 Gists I wrote
 
