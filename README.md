@@ -6,11 +6,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [abdounikarim/os](https://github.com/abdounikarim/os) -  (1 day ago)
-- [abdounikarim/velib](https://github.com/abdounikarim/velib) -  (4 days ago)
+- [abdounikarim/os](https://github.com/abdounikarim/os) -  (2 days ago)
+- [abdounikarim/velib](https://github.com/abdounikarim/velib) -  (5 days ago)
 - [ProofOfConceptFactory/poc-taskfile](https://github.com/ProofOfConceptFactory/poc-taskfile) -  (1 week ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (1 month ago)
-- [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker compose up`. (4 months ago)
+- [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker compose up`. (5 months ago)
 - [ProofOfConceptFactory/poc-symfony-doctrine-mariadb](https://github.com/ProofOfConceptFactory/poc-symfony-doctrine-mariadb) -  (6 months ago)
 - [ProofOfConceptFactory/poc-symfony-handle-assets](https://github.com/ProofOfConceptFactory/poc-symfony-handle-assets) - Handle your Symfony assets without WebpackEncoreBundle, ViteBundle or AssetMapper (6 months ago)
 - [ProofOfConceptFactory/poc-symfony-doctrine-postgresql](https://github.com/ProofOfConceptFactory/poc-symfony-doctrine-postgresql) -  (6 months ago)
@@ -37,21 +37,21 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Improve README](https://github.com/abdounikarim/os/pull/45) on [abdounikarim/os](https://github.com/abdounikarim/os) (today)
-- [Add glow to Brewfile](https://github.com/abdounikarim/os/pull/44) on [abdounikarim/os](https://github.com/abdounikarim/os) (today)
-- [Expand macOS defaults in install target](https://github.com/abdounikarim/os/pull/43) on [abdounikarim/os](https://github.com/abdounikarim/os) (1 day ago)
-- [Add GitHub Actions CI workflow](https://github.com/abdounikarim/os/pull/42) on [abdounikarim/os](https://github.com/abdounikarim/os) (1 day ago)
-- [Add topgrade.toml config template](https://github.com/abdounikarim/os/pull/41) on [abdounikarim/os](https://github.com/abdounikarim/os) (1 day ago)
-- [Add .editorconfig for consistent formatting](https://github.com/abdounikarim/os/pull/40) on [abdounikarim/os](https://github.com/abdounikarim/os) (1 day ago)
-- [Add git aliases to .gitconfig template](https://github.com/abdounikarim/os/pull/39) on [abdounikarim/os](https://github.com/abdounikarim/os) (1 day ago)
-- [Add SSH setup documentation and config template](https://github.com/abdounikarim/os/pull/38) on [abdounikarim/os](https://github.com/abdounikarim/os) (1 day ago)
-- [Add make backup target](https://github.com/abdounikarim/os/pull/37) on [abdounikarim/os](https://github.com/abdounikarim/os) (1 day ago)
-- [Add make check target](https://github.com/abdounikarim/os/pull/36) on [abdounikarim/os](https://github.com/abdounikarim/os) (1 day ago)
+- [Improve README](https://github.com/abdounikarim/os/pull/45) on [abdounikarim/os](https://github.com/abdounikarim/os) (1 day ago)
+- [Add glow to Brewfile](https://github.com/abdounikarim/os/pull/44) on [abdounikarim/os](https://github.com/abdounikarim/os) (1 day ago)
+- [Expand macOS defaults in install target](https://github.com/abdounikarim/os/pull/43) on [abdounikarim/os](https://github.com/abdounikarim/os) (2 days ago)
+- [Add GitHub Actions CI workflow](https://github.com/abdounikarim/os/pull/42) on [abdounikarim/os](https://github.com/abdounikarim/os) (2 days ago)
+- [Add topgrade.toml config template](https://github.com/abdounikarim/os/pull/41) on [abdounikarim/os](https://github.com/abdounikarim/os) (2 days ago)
+- [Add .editorconfig for consistent formatting](https://github.com/abdounikarim/os/pull/40) on [abdounikarim/os](https://github.com/abdounikarim/os) (2 days ago)
+- [Add git aliases to .gitconfig template](https://github.com/abdounikarim/os/pull/39) on [abdounikarim/os](https://github.com/abdounikarim/os) (2 days ago)
+- [Add SSH setup documentation and config template](https://github.com/abdounikarim/os/pull/38) on [abdounikarim/os](https://github.com/abdounikarim/os) (2 days ago)
+- [Add make backup target](https://github.com/abdounikarim/os/pull/37) on [abdounikarim/os](https://github.com/abdounikarim/os) (2 days ago)
+- [Add make check target](https://github.com/abdounikarim/os/pull/36) on [abdounikarim/os](https://github.com/abdounikarim/os) (2 days ago)
 
 #### 📓 Gists I wrote
 
-- [Handle your Symfony assets without WebpackEncoreBundle, ViteBundle or AssetMapper](https://gist.github.com/7c0177c7a71b1e6585183e320034e4dd) (1 year ago)
-- [Hello from Symfony](https://gist.github.com/d6b3e49ead0d8e0a4041c06fcc689307) (1 year ago)
+- [Handle your Symfony assets without WebpackEncoreBundle, ViteBundle or AssetMapper](https://gist.github.com/7c0177c7a71b1e6585183e320034e4dd) (2 years ago)
+- [Hello from Symfony](https://gist.github.com/d6b3e49ead0d8e0a4041c06fcc689307) (2 years ago)
 - [](https://gist.github.com/b237278802559acb0bcf1e2516ba718e) (5 years ago)
 
 #### ⭐ Recent Stars
