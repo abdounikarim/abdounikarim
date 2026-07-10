@@ -37,6 +37,9 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix gmake alias to work outside the repo directory](https://github.com/abdounikarim/os/pull/49) on [abdounikarim/os](https://github.com/abdounikarim/os) (today)
+- [Pin Homebrew/actions/setup-homebrew to a fixed release](https://github.com/abdounikarim/os/pull/48) on [abdounikarim/os](https://github.com/abdounikarim/os) (today)
+- [feat: brew upgrade - don&#39;t ask for confirmation](https://github.com/abdounikarim/os/pull/47) on [abdounikarim/os](https://github.com/abdounikarim/os) (today)
 - [fix: Error: Cask &#39;#&#39; is unavailable: No Cask with this name exists.](https://github.com/abdounikarim/os/pull/46) on [abdounikarim/os](https://github.com/abdounikarim/os) (today)
 - [Improve README](https://github.com/abdounikarim/os/pull/45) on [abdounikarim/os](https://github.com/abdounikarim/os) (2 days ago)
 - [Add glow to Brewfile](https://github.com/abdounikarim/os/pull/44) on [abdounikarim/os](https://github.com/abdounikarim/os) (2 days ago)
@@ -44,9 +47,6 @@
 - [Add GitHub Actions CI workflow](https://github.com/abdounikarim/os/pull/42) on [abdounikarim/os](https://github.com/abdounikarim/os) (3 days ago)
 - [Add topgrade.toml config template](https://github.com/abdounikarim/os/pull/41) on [abdounikarim/os](https://github.com/abdounikarim/os) (3 days ago)
 - [Add .editorconfig for consistent formatting](https://github.com/abdounikarim/os/pull/40) on [abdounikarim/os](https://github.com/abdounikarim/os) (3 days ago)
-- [Add git aliases to .gitconfig template](https://github.com/abdounikarim/os/pull/39) on [abdounikarim/os](https://github.com/abdounikarim/os) (3 days ago)
-- [Add SSH setup documentation and config template](https://github.com/abdounikarim/os/pull/38) on [abdounikarim/os](https://github.com/abdounikarim/os) (3 days ago)
-- [Add make backup target](https://github.com/abdounikarim/os/pull/37) on [abdounikarim/os](https://github.com/abdounikarim/os) (3 days ago)
 
 #### 📓 Gists I wrote
 
