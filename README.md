@@ -37,6 +37,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix: Error: Cask &#39;#&#39; is unavailable: No Cask with this name exists.](https://github.com/abdounikarim/os/pull/46) on [abdounikarim/os](https://github.com/abdounikarim/os) (today)
 - [Improve README](https://github.com/abdounikarim/os/pull/45) on [abdounikarim/os](https://github.com/abdounikarim/os) (2 days ago)
 - [Add glow to Brewfile](https://github.com/abdounikarim/os/pull/44) on [abdounikarim/os](https://github.com/abdounikarim/os) (2 days ago)
 - [Expand macOS defaults in install target](https://github.com/abdounikarim/os/pull/43) on [abdounikarim/os](https://github.com/abdounikarim/os) (3 days ago)
@@ -46,7 +47,6 @@
 - [Add git aliases to .gitconfig template](https://github.com/abdounikarim/os/pull/39) on [abdounikarim/os](https://github.com/abdounikarim/os) (3 days ago)
 - [Add SSH setup documentation and config template](https://github.com/abdounikarim/os/pull/38) on [abdounikarim/os](https://github.com/abdounikarim/os) (3 days ago)
 - [Add make backup target](https://github.com/abdounikarim/os/pull/37) on [abdounikarim/os](https://github.com/abdounikarim/os) (3 days ago)
-- [Add make check target](https://github.com/abdounikarim/os/pull/36) on [abdounikarim/os](https://github.com/abdounikarim/os) (3 days ago)
 
 #### 📓 Gists I wrote
 
