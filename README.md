@@ -7,7 +7,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [abdounikarim/os](https://github.com/abdounikarim/os) -  (today)
-- [abdounikarim/velib](https://github.com/abdounikarim/velib) -  (6 days ago)
+- [abdounikarim/velib](https://github.com/abdounikarim/velib) -  (1 week ago)
 - [ProofOfConceptFactory/poc-taskfile](https://github.com/ProofOfConceptFactory/poc-taskfile) -  (1 week ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (1 month ago)
 - [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker compose up`. (5 months ago)
@@ -32,21 +32,21 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v8.1.1](https://github.com/symfony/symfony/releases/tag/v8.1.1), 1 week ago) - The Symfony PHP framework
+- [symfony/symfony](https://github.com/symfony/symfony) ([v8.1.1](https://github.com/symfony/symfony/releases/tag/v8.1.1), 2 weeks ago) - The Symfony PHP framework
 - [laravel/sail](https://github.com/laravel/sail) ([v1.63.0](https://github.com/laravel/sail/releases/tag/v1.63.0), 2 weeks ago) - Docker files for running a basic Laravel application.
 
 #### 🔨 My recent Pull Requests
 
-- [Fix gmake alias to work outside the repo directory](https://github.com/abdounikarim/os/pull/49) on [abdounikarim/os](https://github.com/abdounikarim/os) (today)
-- [Pin Homebrew/actions/setup-homebrew to a fixed release](https://github.com/abdounikarim/os/pull/48) on [abdounikarim/os](https://github.com/abdounikarim/os) (today)
-- [feat: brew upgrade - don&#39;t ask for confirmation](https://github.com/abdounikarim/os/pull/47) on [abdounikarim/os](https://github.com/abdounikarim/os) (today)
-- [fix: Error: Cask &#39;#&#39; is unavailable: No Cask with this name exists.](https://github.com/abdounikarim/os/pull/46) on [abdounikarim/os](https://github.com/abdounikarim/os) (today)
-- [Improve README](https://github.com/abdounikarim/os/pull/45) on [abdounikarim/os](https://github.com/abdounikarim/os) (2 days ago)
-- [Add glow to Brewfile](https://github.com/abdounikarim/os/pull/44) on [abdounikarim/os](https://github.com/abdounikarim/os) (2 days ago)
-- [Expand macOS defaults in install target](https://github.com/abdounikarim/os/pull/43) on [abdounikarim/os](https://github.com/abdounikarim/os) (3 days ago)
-- [Add GitHub Actions CI workflow](https://github.com/abdounikarim/os/pull/42) on [abdounikarim/os](https://github.com/abdounikarim/os) (3 days ago)
-- [Add topgrade.toml config template](https://github.com/abdounikarim/os/pull/41) on [abdounikarim/os](https://github.com/abdounikarim/os) (3 days ago)
-- [Add .editorconfig for consistent formatting](https://github.com/abdounikarim/os/pull/40) on [abdounikarim/os](https://github.com/abdounikarim/os) (3 days ago)
+- [Fix gmake alias to work outside the repo directory](https://github.com/abdounikarim/os/pull/49) on [abdounikarim/os](https://github.com/abdounikarim/os) (1 day ago)
+- [Pin Homebrew/actions/setup-homebrew to a fixed release](https://github.com/abdounikarim/os/pull/48) on [abdounikarim/os](https://github.com/abdounikarim/os) (1 day ago)
+- [feat: brew upgrade - don&#39;t ask for confirmation](https://github.com/abdounikarim/os/pull/47) on [abdounikarim/os](https://github.com/abdounikarim/os) (1 day ago)
+- [fix: Error: Cask &#39;#&#39; is unavailable: No Cask with this name exists.](https://github.com/abdounikarim/os/pull/46) on [abdounikarim/os](https://github.com/abdounikarim/os) (1 day ago)
+- [Improve README](https://github.com/abdounikarim/os/pull/45) on [abdounikarim/os](https://github.com/abdounikarim/os) (3 days ago)
+- [Add glow to Brewfile](https://github.com/abdounikarim/os/pull/44) on [abdounikarim/os](https://github.com/abdounikarim/os) (3 days ago)
+- [Expand macOS defaults in install target](https://github.com/abdounikarim/os/pull/43) on [abdounikarim/os](https://github.com/abdounikarim/os) (4 days ago)
+- [Add GitHub Actions CI workflow](https://github.com/abdounikarim/os/pull/42) on [abdounikarim/os](https://github.com/abdounikarim/os) (4 days ago)
+- [Add topgrade.toml config template](https://github.com/abdounikarim/os/pull/41) on [abdounikarim/os](https://github.com/abdounikarim/os) (4 days ago)
+- [Add .editorconfig for consistent formatting](https://github.com/abdounikarim/os/pull/40) on [abdounikarim/os](https://github.com/abdounikarim/os) (4 days ago)
 
 #### 📓 Gists I wrote
 
