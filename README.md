@@ -33,20 +33,20 @@
 #### 🔭 Latest releases I've contributed to
 
 - [symfony/symfony](https://github.com/symfony/symfony) ([v8.1.1](https://github.com/symfony/symfony/releases/tag/v8.1.1), 2 weeks ago) - The Symfony PHP framework
-- [laravel/sail](https://github.com/laravel/sail) ([v1.63.0](https://github.com/laravel/sail/releases/tag/v1.63.0), 2 weeks ago) - Docker files for running a basic Laravel application.
+- [laravel/sail](https://github.com/laravel/sail) ([v1.63.0](https://github.com/laravel/sail/releases/tag/v1.63.0), 3 weeks ago) - Docker files for running a basic Laravel application.
 
 #### 🔨 My recent Pull Requests
 
-- [Add bats-core to the common package](https://github.com/abdounikarim/os/pull/54) on [abdounikarim/os](https://github.com/abdounikarim/os) (today)
-- [Add rclone to the common package](https://github.com/abdounikarim/os/pull/53) on [abdounikarim/os](https://github.com/abdounikarim/os) (today)
-- [Add maccy to the common package](https://github.com/abdounikarim/os/pull/52) on [abdounikarim/os](https://github.com/abdounikarim/os) (today)
-- [Use make install on CI](https://github.com/abdounikarim/os/pull/51) on [abdounikarim/os](https://github.com/abdounikarim/os) (today)
-- [Split Makefile into multiple packages](https://github.com/abdounikarim/os/pull/50) on [abdounikarim/os](https://github.com/abdounikarim/os) (today)
-- [Fix gmake alias to work outside the repo directory](https://github.com/abdounikarim/os/pull/49) on [abdounikarim/os](https://github.com/abdounikarim/os) (3 days ago)
-- [Pin Homebrew/actions/setup-homebrew to a fixed release](https://github.com/abdounikarim/os/pull/48) on [abdounikarim/os](https://github.com/abdounikarim/os) (3 days ago)
-- [feat: brew upgrade - don&#39;t ask for confirmation](https://github.com/abdounikarim/os/pull/47) on [abdounikarim/os](https://github.com/abdounikarim/os) (3 days ago)
-- [fix: Error: Cask &#39;#&#39; is unavailable: No Cask with this name exists.](https://github.com/abdounikarim/os/pull/46) on [abdounikarim/os](https://github.com/abdounikarim/os) (3 days ago)
-- [Improve README](https://github.com/abdounikarim/os/pull/45) on [abdounikarim/os](https://github.com/abdounikarim/os) (5 days ago)
+- [Create renovate.json file](https://github.com/abdounikarim/os/pull/55) on [abdounikarim/os](https://github.com/abdounikarim/os) (1 day ago)
+- [Add bats-core to the common package](https://github.com/abdounikarim/os/pull/54) on [abdounikarim/os](https://github.com/abdounikarim/os) (1 day ago)
+- [Add rclone to the common package](https://github.com/abdounikarim/os/pull/53) on [abdounikarim/os](https://github.com/abdounikarim/os) (1 day ago)
+- [Add maccy to the common package](https://github.com/abdounikarim/os/pull/52) on [abdounikarim/os](https://github.com/abdounikarim/os) (1 day ago)
+- [Use make install on CI](https://github.com/abdounikarim/os/pull/51) on [abdounikarim/os](https://github.com/abdounikarim/os) (1 day ago)
+- [Split Makefile into multiple packages](https://github.com/abdounikarim/os/pull/50) on [abdounikarim/os](https://github.com/abdounikarim/os) (1 day ago)
+- [Fix gmake alias to work outside the repo directory](https://github.com/abdounikarim/os/pull/49) on [abdounikarim/os](https://github.com/abdounikarim/os) (4 days ago)
+- [Pin Homebrew/actions/setup-homebrew to a fixed release](https://github.com/abdounikarim/os/pull/48) on [abdounikarim/os](https://github.com/abdounikarim/os) (4 days ago)
+- [feat: brew upgrade - don&#39;t ask for confirmation](https://github.com/abdounikarim/os/pull/47) on [abdounikarim/os](https://github.com/abdounikarim/os) (4 days ago)
+- [fix: Error: Cask &#39;#&#39; is unavailable: No Cask with this name exists.](https://github.com/abdounikarim/os/pull/46) on [abdounikarim/os](https://github.com/abdounikarim/os) (4 days ago)
 
 #### 📓 Gists I wrote
 
