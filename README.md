@@ -37,6 +37,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Move all package installation and configuration to Ansible](https://github.com/abdounikarim/os/pull/58) on [abdounikarim/os](https://github.com/abdounikarim/os) (today)
 - [Remove git-delta pager and its Homebrew install](https://github.com/abdounikarim/os/pull/57) on [abdounikarim/os](https://github.com/abdounikarim/os) (today)
 - [Install zsh-autosuggestions, zsh-vi-mode and fast-syntax-highlighting…](https://github.com/abdounikarim/os/pull/56) on [abdounikarim/os](https://github.com/abdounikarim/os) (today)
 - [Create renovate.json file](https://github.com/abdounikarim/os/pull/55) on [abdounikarim/os](https://github.com/abdounikarim/os) (2 days ago)
@@ -46,7 +47,6 @@
 - [Use make install on CI](https://github.com/abdounikarim/os/pull/51) on [abdounikarim/os](https://github.com/abdounikarim/os) (2 days ago)
 - [Split Makefile into multiple packages](https://github.com/abdounikarim/os/pull/50) on [abdounikarim/os](https://github.com/abdounikarim/os) (2 days ago)
 - [Fix gmake alias to work outside the repo directory](https://github.com/abdounikarim/os/pull/49) on [abdounikarim/os](https://github.com/abdounikarim/os) (5 days ago)
-- [Pin Homebrew/actions/setup-homebrew to a fixed release](https://github.com/abdounikarim/os/pull/48) on [abdounikarim/os](https://github.com/abdounikarim/os) (5 days ago)
 
 #### 📓 Gists I wrote
 
