@@ -6,7 +6,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [abdounikarim/os](https://github.com/abdounikarim/os) -  (today)
+- [abdounikarim/os](https://github.com/abdounikarim/os) -  (1 day ago)
 - [abdounikarim/velib](https://github.com/abdounikarim/velib) -  (1 week ago)
 - [ProofOfConceptFactory/poc-taskfile](https://github.com/ProofOfConceptFactory/poc-taskfile) -  (2 weeks ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (1 month ago)
@@ -37,16 +37,16 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Move all package installation and configuration to Ansible](https://github.com/abdounikarim/os/pull/58) on [abdounikarim/os](https://github.com/abdounikarim/os) (today)
-- [Remove git-delta pager and its Homebrew install](https://github.com/abdounikarim/os/pull/57) on [abdounikarim/os](https://github.com/abdounikarim/os) (today)
-- [Install zsh-autosuggestions, zsh-vi-mode and fast-syntax-highlighting…](https://github.com/abdounikarim/os/pull/56) on [abdounikarim/os](https://github.com/abdounikarim/os) (today)
-- [Create renovate.json file](https://github.com/abdounikarim/os/pull/55) on [abdounikarim/os](https://github.com/abdounikarim/os) (2 days ago)
-- [Add bats-core to the common package](https://github.com/abdounikarim/os/pull/54) on [abdounikarim/os](https://github.com/abdounikarim/os) (2 days ago)
-- [Add rclone to the common package](https://github.com/abdounikarim/os/pull/53) on [abdounikarim/os](https://github.com/abdounikarim/os) (2 days ago)
-- [Add maccy to the common package](https://github.com/abdounikarim/os/pull/52) on [abdounikarim/os](https://github.com/abdounikarim/os) (2 days ago)
-- [Use make install on CI](https://github.com/abdounikarim/os/pull/51) on [abdounikarim/os](https://github.com/abdounikarim/os) (2 days ago)
-- [Split Makefile into multiple packages](https://github.com/abdounikarim/os/pull/50) on [abdounikarim/os](https://github.com/abdounikarim/os) (2 days ago)
-- [Fix gmake alias to work outside the repo directory](https://github.com/abdounikarim/os/pull/49) on [abdounikarim/os](https://github.com/abdounikarim/os) (5 days ago)
+- [Move all package installation and configuration to Ansible](https://github.com/abdounikarim/os/pull/58) on [abdounikarim/os](https://github.com/abdounikarim/os) (1 day ago)
+- [Remove git-delta pager and its Homebrew install](https://github.com/abdounikarim/os/pull/57) on [abdounikarim/os](https://github.com/abdounikarim/os) (1 day ago)
+- [Install zsh-autosuggestions, zsh-vi-mode and fast-syntax-highlighting…](https://github.com/abdounikarim/os/pull/56) on [abdounikarim/os](https://github.com/abdounikarim/os) (1 day ago)
+- [Create renovate.json file](https://github.com/abdounikarim/os/pull/55) on [abdounikarim/os](https://github.com/abdounikarim/os) (3 days ago)
+- [Add bats-core to the common package](https://github.com/abdounikarim/os/pull/54) on [abdounikarim/os](https://github.com/abdounikarim/os) (3 days ago)
+- [Add rclone to the common package](https://github.com/abdounikarim/os/pull/53) on [abdounikarim/os](https://github.com/abdounikarim/os) (3 days ago)
+- [Add maccy to the common package](https://github.com/abdounikarim/os/pull/52) on [abdounikarim/os](https://github.com/abdounikarim/os) (3 days ago)
+- [Use make install on CI](https://github.com/abdounikarim/os/pull/51) on [abdounikarim/os](https://github.com/abdounikarim/os) (3 days ago)
+- [Split Makefile into multiple packages](https://github.com/abdounikarim/os/pull/50) on [abdounikarim/os](https://github.com/abdounikarim/os) (3 days ago)
+- [Fix gmake alias to work outside the repo directory](https://github.com/abdounikarim/os/pull/49) on [abdounikarim/os](https://github.com/abdounikarim/os) (6 days ago)
 
 #### 📓 Gists I wrote
 
