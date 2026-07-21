@@ -6,7 +6,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [abdounikarim/os](https://github.com/abdounikarim/os) -  (5 days ago)
+- [abdounikarim/os](https://github.com/abdounikarim/os) -  (6 days ago)
 - [abdounikarim/velib](https://github.com/abdounikarim/velib) -  (2 weeks ago)
 - [ProofOfConceptFactory/poc-taskfile](https://github.com/ProofOfConceptFactory/poc-taskfile) -  (2 weeks ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (1 month ago)
@@ -33,13 +33,13 @@
 #### 🔭 Latest releases I've contributed to
 
 - [symfony/symfony](https://github.com/symfony/symfony) ([v8.1.1](https://github.com/symfony/symfony/releases/tag/v8.1.1), 3 weeks ago) - The Symfony PHP framework
-- [laravel/sail](https://github.com/laravel/sail) ([v1.63.0](https://github.com/laravel/sail/releases/tag/v1.63.0), 3 weeks ago) - Docker files for running a basic Laravel application.
+- [laravel/sail](https://github.com/laravel/sail) ([v1.63.0](https://github.com/laravel/sail/releases/tag/v1.63.0), 4 weeks ago) - Docker files for running a basic Laravel application.
 
 #### 🔨 My recent Pull Requests
 
-- [Move all package installation and configuration to Ansible](https://github.com/abdounikarim/os/pull/58) on [abdounikarim/os](https://github.com/abdounikarim/os) (5 days ago)
-- [Remove git-delta pager and its Homebrew install](https://github.com/abdounikarim/os/pull/57) on [abdounikarim/os](https://github.com/abdounikarim/os) (5 days ago)
-- [Install zsh-autosuggestions, zsh-vi-mode and fast-syntax-highlighting…](https://github.com/abdounikarim/os/pull/56) on [abdounikarim/os](https://github.com/abdounikarim/os) (5 days ago)
+- [Move all package installation and configuration to Ansible](https://github.com/abdounikarim/os/pull/58) on [abdounikarim/os](https://github.com/abdounikarim/os) (6 days ago)
+- [Remove git-delta pager and its Homebrew install](https://github.com/abdounikarim/os/pull/57) on [abdounikarim/os](https://github.com/abdounikarim/os) (6 days ago)
+- [Install zsh-autosuggestions, zsh-vi-mode and fast-syntax-highlighting…](https://github.com/abdounikarim/os/pull/56) on [abdounikarim/os](https://github.com/abdounikarim/os) (6 days ago)
 - [Create renovate.json file](https://github.com/abdounikarim/os/pull/55) on [abdounikarim/os](https://github.com/abdounikarim/os) (1 week ago)
 - [Add bats-core to the common package](https://github.com/abdounikarim/os/pull/54) on [abdounikarim/os](https://github.com/abdounikarim/os) (1 week ago)
 - [Add rclone to the common package](https://github.com/abdounikarim/os/pull/53) on [abdounikarim/os](https://github.com/abdounikarim/os) (1 week ago)
