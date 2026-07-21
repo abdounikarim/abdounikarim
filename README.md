@@ -6,16 +6,16 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [ProofOfConceptFactory/poc-angular](https://github.com/ProofOfConceptFactory/poc-angular) -  (today)
 - [abdounikarim/os](https://github.com/abdounikarim/os) -  (6 days ago)
 - [abdounikarim/velib](https://github.com/abdounikarim/velib) -  (2 weeks ago)
 - [ProofOfConceptFactory/poc-taskfile](https://github.com/ProofOfConceptFactory/poc-taskfile) -  (2 weeks ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (1 month ago)
 - [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker compose up`. (5 months ago)
-- [ProofOfConceptFactory/poc-symfony-doctrine-mariadb](https://github.com/ProofOfConceptFactory/poc-symfony-doctrine-mariadb) -  (7 months ago)
-- [ProofOfConceptFactory/poc-symfony-doctrine-postgresql](https://github.com/ProofOfConceptFactory/poc-symfony-doctrine-postgresql) -  (7 months ago)
 - [ProofOfConceptFactory/poc-symfony-doctrine-mysql](https://github.com/ProofOfConceptFactory/poc-symfony-doctrine-mysql) -  (7 months ago)
+- [ProofOfConceptFactory/poc-symfony-doctrine-postgresql](https://github.com/ProofOfConceptFactory/poc-symfony-doctrine-postgresql) -  (7 months ago)
+- [ProofOfConceptFactory/poc-symfony-doctrine-mariadb](https://github.com/ProofOfConceptFactory/poc-symfony-doctrine-mariadb) -  (7 months ago)
 - [ProofOfConceptFactory/poc-symfony-handle-assets](https://github.com/ProofOfConceptFactory/poc-symfony-handle-assets) - Handle your Symfony assets without WebpackEncoreBundle, ViteBundle or AssetMapper (7 months ago)
-- [Casrime/bilemo](https://github.com/Casrime/bilemo) -  (7 months ago)
 
 #### 🌱 My latest projects
 
@@ -37,6 +37,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Github Actions - Update requirements for testing command](https://github.com/ProofOfConceptFactory/poc-angular/pull/204) on [ProofOfConceptFactory/poc-angular](https://github.com/ProofOfConceptFactory/poc-angular) (today)
 - [Move all package installation and configuration to Ansible](https://github.com/abdounikarim/os/pull/58) on [abdounikarim/os](https://github.com/abdounikarim/os) (6 days ago)
 - [Remove git-delta pager and its Homebrew install](https://github.com/abdounikarim/os/pull/57) on [abdounikarim/os](https://github.com/abdounikarim/os) (6 days ago)
 - [Install zsh-autosuggestions, zsh-vi-mode and fast-syntax-highlighting…](https://github.com/abdounikarim/os/pull/56) on [abdounikarim/os](https://github.com/abdounikarim/os) (6 days ago)
@@ -46,7 +47,6 @@
 - [Add maccy to the common package](https://github.com/abdounikarim/os/pull/52) on [abdounikarim/os](https://github.com/abdounikarim/os) (1 week ago)
 - [Use make install on CI](https://github.com/abdounikarim/os/pull/51) on [abdounikarim/os](https://github.com/abdounikarim/os) (1 week ago)
 - [Split Makefile into multiple packages](https://github.com/abdounikarim/os/pull/50) on [abdounikarim/os](https://github.com/abdounikarim/os) (1 week ago)
-- [Fix gmake alias to work outside the repo directory](https://github.com/abdounikarim/os/pull/49) on [abdounikarim/os](https://github.com/abdounikarim/os) (1 week ago)
 
 #### 📓 Gists I wrote
 
