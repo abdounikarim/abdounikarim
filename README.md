@@ -37,6 +37,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Upgrade to Angular 21](https://github.com/ProofOfConceptFactory/poc-angular/pull/210) on [ProofOfConceptFactory/poc-angular](https://github.com/ProofOfConceptFactory/poc-angular) (today)
 - [TypeScript - downgrade to 5.9.0](https://github.com/ProofOfConceptFactory/poc-angular/pull/208) on [ProofOfConceptFactory/poc-angular](https://github.com/ProofOfConceptFactory/poc-angular) (today)
 - [Github Actions - Update requirements for testing command](https://github.com/ProofOfConceptFactory/poc-angular/pull/204) on [ProofOfConceptFactory/poc-angular](https://github.com/ProofOfConceptFactory/poc-angular) (1 day ago)
 - [Move all package installation and configuration to Ansible](https://github.com/abdounikarim/os/pull/58) on [abdounikarim/os](https://github.com/abdounikarim/os) (1 week ago)
@@ -46,7 +47,6 @@
 - [Add bats-core to the common package](https://github.com/abdounikarim/os/pull/54) on [abdounikarim/os](https://github.com/abdounikarim/os) (1 week ago)
 - [Add rclone to the common package](https://github.com/abdounikarim/os/pull/53) on [abdounikarim/os](https://github.com/abdounikarim/os) (1 week ago)
 - [Add maccy to the common package](https://github.com/abdounikarim/os/pull/52) on [abdounikarim/os](https://github.com/abdounikarim/os) (1 week ago)
-- [Use make install on CI](https://github.com/abdounikarim/os/pull/51) on [abdounikarim/os](https://github.com/abdounikarim/os) (1 week ago)
 
 #### 📓 Gists I wrote
 
