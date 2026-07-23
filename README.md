@@ -32,14 +32,14 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [laravel/sail](https://github.com/laravel/sail) ([v1.64.0](https://github.com/laravel/sail/releases/tag/v1.64.0), 1 day ago) - Docker files for running a basic Laravel application.
+- [laravel/sail](https://github.com/laravel/sail) ([v1.64.0](https://github.com/laravel/sail/releases/tag/v1.64.0), 2 days ago) - Docker files for running a basic Laravel application.
 - [symfony/symfony](https://github.com/symfony/symfony) ([v8.1.1](https://github.com/symfony/symfony/releases/tag/v8.1.1), 3 weeks ago) - The Symfony PHP framework
 
 #### 🔨 My recent Pull Requests
 
-- [Upgrade to Angular 21](https://github.com/ProofOfConceptFactory/poc-angular/pull/210) on [ProofOfConceptFactory/poc-angular](https://github.com/ProofOfConceptFactory/poc-angular) (today)
-- [TypeScript - downgrade to 5.9.0](https://github.com/ProofOfConceptFactory/poc-angular/pull/208) on [ProofOfConceptFactory/poc-angular](https://github.com/ProofOfConceptFactory/poc-angular) (today)
-- [Github Actions - Update requirements for testing command](https://github.com/ProofOfConceptFactory/poc-angular/pull/204) on [ProofOfConceptFactory/poc-angular](https://github.com/ProofOfConceptFactory/poc-angular) (1 day ago)
+- [Upgrade to Angular 21](https://github.com/ProofOfConceptFactory/poc-angular/pull/210) on [ProofOfConceptFactory/poc-angular](https://github.com/ProofOfConceptFactory/poc-angular) (1 day ago)
+- [TypeScript - downgrade to 5.9.0](https://github.com/ProofOfConceptFactory/poc-angular/pull/208) on [ProofOfConceptFactory/poc-angular](https://github.com/ProofOfConceptFactory/poc-angular) (1 day ago)
+- [Github Actions - Update requirements for testing command](https://github.com/ProofOfConceptFactory/poc-angular/pull/204) on [ProofOfConceptFactory/poc-angular](https://github.com/ProofOfConceptFactory/poc-angular) (2 days ago)
 - [Move all package installation and configuration to Ansible](https://github.com/abdounikarim/os/pull/58) on [abdounikarim/os](https://github.com/abdounikarim/os) (1 week ago)
 - [Remove git-delta pager and its Homebrew install](https://github.com/abdounikarim/os/pull/57) on [abdounikarim/os](https://github.com/abdounikarim/os) (1 week ago)
 - [Install zsh-autosuggestions, zsh-vi-mode and fast-syntax-highlighting…](https://github.com/abdounikarim/os/pull/56) on [abdounikarim/os](https://github.com/abdounikarim/os) (1 week ago)
