@@ -6,12 +6,12 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [ProofOfConceptFactory/poc-symfony-doctrine-mariadb](https://github.com/ProofOfConceptFactory/poc-symfony-doctrine-mariadb) -  (1 day ago)
 - [ProofOfConceptFactory/poc-next-js](https://github.com/ProofOfConceptFactory/poc-next-js) -  (1 day ago)
-- [ProofOfConceptFactory/poc-nestjs](https://github.com/ProofOfConceptFactory/poc-nestjs) -  (1 day ago)
 - [ProofOfConceptFactory/poc-nuxt](https://github.com/ProofOfConceptFactory/poc-nuxt) - Hello from Nuxt!👋 application  (1 day ago)
 - [ProofOfConceptFactory/poc-symfony-doctrine-mysql](https://github.com/ProofOfConceptFactory/poc-symfony-doctrine-mysql) -  (1 day ago)
 - [ProofOfConceptFactory/poc-symfony-doctrine-postgresql](https://github.com/ProofOfConceptFactory/poc-symfony-doctrine-postgresql) -  (1 day ago)
-- [ProofOfConceptFactory/poc-symfony-doctrine-mariadb](https://github.com/ProofOfConceptFactory/poc-symfony-doctrine-mariadb) -  (1 day ago)
+- [ProofOfConceptFactory/poc-nestjs](https://github.com/ProofOfConceptFactory/poc-nestjs) -  (1 day ago)
 - [ProofOfConceptFactory/poc-angular](https://github.com/ProofOfConceptFactory/poc-angular) -  (3 days ago)
 - [abdounikarim/os](https://github.com/abdounikarim/os) -  (1 week ago)
 - [abdounikarim/velib](https://github.com/abdounikarim/velib) -  (3 weeks ago)
