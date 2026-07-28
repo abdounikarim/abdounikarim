@@ -6,13 +6,13 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ProofOfConceptFactory/poc-symfony-doctrine-mariadb](https://github.com/ProofOfConceptFactory/poc-symfony-doctrine-mariadb) -  (2 days ago)
-- [ProofOfConceptFactory/poc-next-js](https://github.com/ProofOfConceptFactory/poc-next-js) -  (2 days ago)
-- [ProofOfConceptFactory/poc-nuxt](https://github.com/ProofOfConceptFactory/poc-nuxt) - Hello from Nuxt!👋 application  (2 days ago)
-- [ProofOfConceptFactory/poc-symfony-doctrine-mysql](https://github.com/ProofOfConceptFactory/poc-symfony-doctrine-mysql) -  (2 days ago)
-- [ProofOfConceptFactory/poc-symfony-doctrine-postgresql](https://github.com/ProofOfConceptFactory/poc-symfony-doctrine-postgresql) -  (2 days ago)
-- [ProofOfConceptFactory/poc-nestjs](https://github.com/ProofOfConceptFactory/poc-nestjs) -  (2 days ago)
-- [ProofOfConceptFactory/poc-angular](https://github.com/ProofOfConceptFactory/poc-angular) -  (4 days ago)
+- [ProofOfConceptFactory/poc-symfony-doctrine-mariadb](https://github.com/ProofOfConceptFactory/poc-symfony-doctrine-mariadb) -  (3 days ago)
+- [ProofOfConceptFactory/poc-next-js](https://github.com/ProofOfConceptFactory/poc-next-js) -  (3 days ago)
+- [ProofOfConceptFactory/poc-nuxt](https://github.com/ProofOfConceptFactory/poc-nuxt) - Hello from Nuxt!👋 application  (3 days ago)
+- [ProofOfConceptFactory/poc-symfony-doctrine-mysql](https://github.com/ProofOfConceptFactory/poc-symfony-doctrine-mysql) -  (3 days ago)
+- [ProofOfConceptFactory/poc-symfony-doctrine-postgresql](https://github.com/ProofOfConceptFactory/poc-symfony-doctrine-postgresql) -  (3 days ago)
+- [ProofOfConceptFactory/poc-nestjs](https://github.com/ProofOfConceptFactory/poc-nestjs) -  (3 days ago)
+- [ProofOfConceptFactory/poc-angular](https://github.com/ProofOfConceptFactory/poc-angular) -  (5 days ago)
 - [abdounikarim/os](https://github.com/abdounikarim/os) -  (1 week ago)
 - [abdounikarim/velib](https://github.com/abdounikarim/velib) -  (3 weeks ago)
 - [ProofOfConceptFactory/poc-taskfile](https://github.com/ProofOfConceptFactory/poc-taskfile) -  (3 weeks ago)
@@ -32,15 +32,15 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [laravel/sail](https://github.com/laravel/sail) ([v1.64.0](https://github.com/laravel/sail/releases/tag/v1.64.0), 6 days ago) - Docker files for running a basic Laravel application.
+- [laravel/sail](https://github.com/laravel/sail) ([v1.64.0](https://github.com/laravel/sail/releases/tag/v1.64.0), 1 week ago) - Docker files for running a basic Laravel application.
 - [symfony/symfony](https://github.com/symfony/symfony) ([v8.1.1](https://github.com/symfony/symfony/releases/tag/v8.1.1), 1 month ago) - The Symfony PHP framework
 
 #### 🔨 My recent Pull Requests
 
-- [Upgrade to Angular 22](https://github.com/ProofOfConceptFactory/poc-angular/pull/211) on [ProofOfConceptFactory/poc-angular](https://github.com/ProofOfConceptFactory/poc-angular) (4 days ago)
-- [Upgrade to Angular 21](https://github.com/ProofOfConceptFactory/poc-angular/pull/210) on [ProofOfConceptFactory/poc-angular](https://github.com/ProofOfConceptFactory/poc-angular) (5 days ago)
-- [TypeScript - downgrade to 5.9.0](https://github.com/ProofOfConceptFactory/poc-angular/pull/208) on [ProofOfConceptFactory/poc-angular](https://github.com/ProofOfConceptFactory/poc-angular) (5 days ago)
-- [Github Actions - Update requirements for testing command](https://github.com/ProofOfConceptFactory/poc-angular/pull/204) on [ProofOfConceptFactory/poc-angular](https://github.com/ProofOfConceptFactory/poc-angular) (6 days ago)
+- [Upgrade to Angular 22](https://github.com/ProofOfConceptFactory/poc-angular/pull/211) on [ProofOfConceptFactory/poc-angular](https://github.com/ProofOfConceptFactory/poc-angular) (5 days ago)
+- [Upgrade to Angular 21](https://github.com/ProofOfConceptFactory/poc-angular/pull/210) on [ProofOfConceptFactory/poc-angular](https://github.com/ProofOfConceptFactory/poc-angular) (6 days ago)
+- [TypeScript - downgrade to 5.9.0](https://github.com/ProofOfConceptFactory/poc-angular/pull/208) on [ProofOfConceptFactory/poc-angular](https://github.com/ProofOfConceptFactory/poc-angular) (6 days ago)
+- [Github Actions - Update requirements for testing command](https://github.com/ProofOfConceptFactory/poc-angular/pull/204) on [ProofOfConceptFactory/poc-angular](https://github.com/ProofOfConceptFactory/poc-angular) (1 week ago)
 - [Move all package installation and configuration to Ansible](https://github.com/abdounikarim/os/pull/58) on [abdounikarim/os](https://github.com/abdounikarim/os) (1 week ago)
 - [Remove git-delta pager and its Homebrew install](https://github.com/abdounikarim/os/pull/57) on [abdounikarim/os](https://github.com/abdounikarim/os) (1 week ago)
 - [Install zsh-autosuggestions, zsh-vi-mode and fast-syntax-highlighting…](https://github.com/abdounikarim/os/pull/56) on [abdounikarim/os](https://github.com/abdounikarim/os) (1 week ago)
