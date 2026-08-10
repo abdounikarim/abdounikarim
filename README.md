@@ -6,7 +6,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [abdounikarim/22003-doctrine-numeric-value-reproducer](https://github.com/abdounikarim/22003-doctrine-numeric-value-reproducer) -  (6 days ago)
+- [abdounikarim/22003-doctrine-numeric-value-reproducer](https://github.com/abdounikarim/22003-doctrine-numeric-value-reproducer) -  (1 week ago)
 - [ProofOfConceptFactory/poc-next-js](https://github.com/ProofOfConceptFactory/poc-next-js) -  (2 weeks ago)
 - [ProofOfConceptFactory/poc-nestjs](https://github.com/ProofOfConceptFactory/poc-nestjs) -  (2 weeks ago)
 - [ProofOfConceptFactory/poc-symfony-doctrine-postgresql](https://github.com/ProofOfConceptFactory/poc-symfony-doctrine-postgresql) -  (2 weeks ago)
@@ -32,8 +32,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v8.1.4](https://github.com/symfony/symfony/releases/tag/v8.1.4), 2 days ago) - The Symfony PHP framework
-- [laravel/sail](https://github.com/laravel/sail) ([v1.65.0](https://github.com/laravel/sail/releases/tag/v1.65.0), 5 days ago) - Docker files for running a basic Laravel application.
+- [symfony/symfony](https://github.com/symfony/symfony) ([v8.1.4](https://github.com/symfony/symfony/releases/tag/v8.1.4), 3 days ago) - The Symfony PHP framework
+- [laravel/sail](https://github.com/laravel/sail) ([v1.65.0](https://github.com/laravel/sail/releases/tag/v1.65.0), 6 days ago) - Docker files for running a basic Laravel application.
 
 #### 🔨 My recent Pull Requests
 
@@ -44,9 +44,9 @@
 - [Move all package installation and configuration to Ansible](https://github.com/abdounikarim/os/pull/58) on [abdounikarim/os](https://github.com/abdounikarim/os) (3 weeks ago)
 - [Remove git-delta pager and its Homebrew install](https://github.com/abdounikarim/os/pull/57) on [abdounikarim/os](https://github.com/abdounikarim/os) (3 weeks ago)
 - [Install zsh-autosuggestions, zsh-vi-mode and fast-syntax-highlighting…](https://github.com/abdounikarim/os/pull/56) on [abdounikarim/os](https://github.com/abdounikarim/os) (3 weeks ago)
-- [Create renovate.json file](https://github.com/abdounikarim/os/pull/55) on [abdounikarim/os](https://github.com/abdounikarim/os) (3 weeks ago)
-- [Add bats-core to the common package](https://github.com/abdounikarim/os/pull/54) on [abdounikarim/os](https://github.com/abdounikarim/os) (3 weeks ago)
-- [Add rclone to the common package](https://github.com/abdounikarim/os/pull/53) on [abdounikarim/os](https://github.com/abdounikarim/os) (3 weeks ago)
+- [Create renovate.json file](https://github.com/abdounikarim/os/pull/55) on [abdounikarim/os](https://github.com/abdounikarim/os) (4 weeks ago)
+- [Add bats-core to the common package](https://github.com/abdounikarim/os/pull/54) on [abdounikarim/os](https://github.com/abdounikarim/os) (4 weeks ago)
+- [Add rclone to the common package](https://github.com/abdounikarim/os/pull/53) on [abdounikarim/os](https://github.com/abdounikarim/os) (4 weeks ago)
 
 #### 📓 Gists I wrote
 
