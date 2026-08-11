@@ -32,8 +32,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [laravel/sail](https://github.com/laravel/sail) ([v1.66.0](https://github.com/laravel/sail/releases/tag/v1.66.0), today) - Docker files for running a basic Laravel application.
 - [symfony/symfony](https://github.com/symfony/symfony) ([v8.1.4](https://github.com/symfony/symfony/releases/tag/v8.1.4), 4 days ago) - The Symfony PHP framework
-- [laravel/sail](https://github.com/laravel/sail) ([v1.65.0](https://github.com/laravel/sail/releases/tag/v1.65.0), 1 week ago) - Docker files for running a basic Laravel application.
 
 #### 🔨 My recent Pull Requests
 
