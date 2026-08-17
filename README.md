@@ -6,7 +6,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [abdounikarim/22003-doctrine-numeric-value-reproducer](https://github.com/abdounikarim/22003-doctrine-numeric-value-reproducer) -  (1 week ago)
+- [abdounikarim/22003-doctrine-numeric-value-reproducer](https://github.com/abdounikarim/22003-doctrine-numeric-value-reproducer) -  (2 weeks ago)
 - [ProofOfConceptFactory/poc-next-js](https://github.com/ProofOfConceptFactory/poc-next-js) -  (3 weeks ago)
 - [ProofOfConceptFactory/poc-symfony-doctrine-mariadb](https://github.com/ProofOfConceptFactory/poc-symfony-doctrine-mariadb) -  (3 weeks ago)
 - [ProofOfConceptFactory/poc-nestjs](https://github.com/ProofOfConceptFactory/poc-nestjs) -  (3 weeks ago)
@@ -32,7 +32,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [laravel/sail](https://github.com/laravel/sail) ([v1.66.0](https://github.com/laravel/sail/releases/tag/v1.66.0), 5 days ago) - Docker files for running a basic Laravel application.
+- [laravel/sail](https://github.com/laravel/sail) ([v1.66.0](https://github.com/laravel/sail/releases/tag/v1.66.0), 6 days ago) - Docker files for running a basic Laravel application.
 - [symfony/symfony](https://github.com/symfony/symfony) ([v8.1.4](https://github.com/symfony/symfony/releases/tag/v8.1.4), 1 week ago) - The Symfony PHP framework
 
 #### 🔨 My recent Pull Requests
