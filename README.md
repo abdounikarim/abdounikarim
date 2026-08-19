@@ -32,14 +32,14 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [laravel/sail](https://github.com/laravel/sail) ([v1.67.0](https://github.com/laravel/sail/releases/tag/v1.67.0), today) - Docker files for running a basic Laravel application.
+- [laravel/sail](https://github.com/laravel/sail) ([v1.67.0](https://github.com/laravel/sail/releases/tag/v1.67.0), 1 day ago) - Docker files for running a basic Laravel application.
 - [symfony/symfony](https://github.com/symfony/symfony) ([v8.1.4](https://github.com/symfony/symfony/releases/tag/v8.1.4), 1 week ago) - The Symfony PHP framework
 
 #### 🔨 My recent Pull Requests
 
 - [Upgrade to Angular 22](https://github.com/ProofOfConceptFactory/poc-angular/pull/211) on [ProofOfConceptFactory/poc-angular](https://github.com/ProofOfConceptFactory/poc-angular) (3 weeks ago)
-- [Upgrade to Angular 21](https://github.com/ProofOfConceptFactory/poc-angular/pull/210) on [ProofOfConceptFactory/poc-angular](https://github.com/ProofOfConceptFactory/poc-angular) (3 weeks ago)
-- [TypeScript - downgrade to 5.9.0](https://github.com/ProofOfConceptFactory/poc-angular/pull/208) on [ProofOfConceptFactory/poc-angular](https://github.com/ProofOfConceptFactory/poc-angular) (3 weeks ago)
+- [Upgrade to Angular 21](https://github.com/ProofOfConceptFactory/poc-angular/pull/210) on [ProofOfConceptFactory/poc-angular](https://github.com/ProofOfConceptFactory/poc-angular) (4 weeks ago)
+- [TypeScript - downgrade to 5.9.0](https://github.com/ProofOfConceptFactory/poc-angular/pull/208) on [ProofOfConceptFactory/poc-angular](https://github.com/ProofOfConceptFactory/poc-angular) (4 weeks ago)
 - [Github Actions - Update requirements for testing command](https://github.com/ProofOfConceptFactory/poc-angular/pull/204) on [ProofOfConceptFactory/poc-angular](https://github.com/ProofOfConceptFactory/poc-angular) (4 weeks ago)
 - [Move all package installation and configuration to Ansible](https://github.com/abdounikarim/os/pull/58) on [abdounikarim/os](https://github.com/abdounikarim/os) (1 month ago)
 - [Remove git-delta pager and its Homebrew install](https://github.com/abdounikarim/os/pull/57) on [abdounikarim/os](https://github.com/abdounikarim/os) (1 month ago)
@@ -56,7 +56,7 @@
 
 #### ⭐ Recent Stars
 
-- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac. (7 months ago)
+- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac. (8 months ago)
 - [php/frankenphp](https://github.com/php/frankenphp) - 🧟 The modern PHP app server (1 year ago)
 - [abdounikarim/nahos](https://github.com/abdounikarim/nahos) -  (2 years ago)
 - [msichterman/mac-setup](https://github.com/msichterman/mac-setup) - The commands and processes I run to setup a new Mac computer (2 years ago)
