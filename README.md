@@ -32,14 +32,14 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [laravel/sail](https://github.com/laravel/sail) ([v1.67.0](https://github.com/laravel/sail/releases/tag/v1.67.0), 2 days ago) - Docker files for running a basic Laravel application.
-- [symfony/symfony](https://github.com/symfony/symfony) ([v8.1.4](https://github.com/symfony/symfony/releases/tag/v8.1.4), 1 week ago) - The Symfony PHP framework
+- [laravel/sail](https://github.com/laravel/sail) ([v1.67.0](https://github.com/laravel/sail/releases/tag/v1.67.0), 3 days ago) - Docker files for running a basic Laravel application.
+- [symfony/symfony](https://github.com/symfony/symfony) ([v8.1.4](https://github.com/symfony/symfony/releases/tag/v8.1.4), 2 weeks ago) - The Symfony PHP framework
 
 #### 🔨 My recent Pull Requests
 
 - [Upgrade to Angular 22](https://github.com/ProofOfConceptFactory/poc-angular/pull/211) on [ProofOfConceptFactory/poc-angular](https://github.com/ProofOfConceptFactory/poc-angular) (4 weeks ago)
-- [Upgrade to Angular 21](https://github.com/ProofOfConceptFactory/poc-angular/pull/210) on [ProofOfConceptFactory/poc-angular](https://github.com/ProofOfConceptFactory/poc-angular) (4 weeks ago)
-- [TypeScript - downgrade to 5.9.0](https://github.com/ProofOfConceptFactory/poc-angular/pull/208) on [ProofOfConceptFactory/poc-angular](https://github.com/ProofOfConceptFactory/poc-angular) (4 weeks ago)
+- [Upgrade to Angular 21](https://github.com/ProofOfConceptFactory/poc-angular/pull/210) on [ProofOfConceptFactory/poc-angular](https://github.com/ProofOfConceptFactory/poc-angular) (1 month ago)
+- [TypeScript - downgrade to 5.9.0](https://github.com/ProofOfConceptFactory/poc-angular/pull/208) on [ProofOfConceptFactory/poc-angular](https://github.com/ProofOfConceptFactory/poc-angular) (1 month ago)
 - [Github Actions - Update requirements for testing command](https://github.com/ProofOfConceptFactory/poc-angular/pull/204) on [ProofOfConceptFactory/poc-angular](https://github.com/ProofOfConceptFactory/poc-angular) (1 month ago)
 - [Move all package installation and configuration to Ansible](https://github.com/abdounikarim/os/pull/58) on [abdounikarim/os](https://github.com/abdounikarim/os) (1 month ago)
 - [Remove git-delta pager and its Homebrew install](https://github.com/abdounikarim/os/pull/57) on [abdounikarim/os](https://github.com/abdounikarim/os) (1 month ago)
