@@ -32,7 +32,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v8.1.6](https://github.com/symfony/symfony/releases/tag/v8.1.6), 4 days ago) - The Symfony PHP framework
+- [symfony/symfony](https://github.com/symfony/symfony) ([v8.1.6](https://github.com/symfony/symfony/releases/tag/v8.1.6), 5 days ago) - The Symfony PHP framework
 - [laravel/sail](https://github.com/laravel/sail) ([v1.67.0](https://github.com/laravel/sail/releases/tag/v1.67.0), 2 weeks ago) - Docker files for running a basic Laravel application.
 
 #### 🔨 My recent Pull Requests
