@@ -33,11 +33,11 @@
 #### 🔭 Latest releases I've contributed to
 
 - [symfony/symfony](https://github.com/symfony/symfony) ([v8.1.6](https://github.com/symfony/symfony/releases/tag/v8.1.6), 2 weeks ago) - The Symfony PHP framework
-- [laravel/sail](https://github.com/laravel/sail) ([v1.67.0](https://github.com/laravel/sail/releases/tag/v1.67.0), 3 weeks ago) - Docker files for running a basic Laravel application.
+- [laravel/sail](https://github.com/laravel/sail) ([v1.67.0](https://github.com/laravel/sail/releases/tag/v1.67.0), 4 weeks ago) - Docker files for running a basic Laravel application.
 
 #### 🔨 My recent Pull Requests
 
-- [Create CLAUDE.md](https://github.com/abdounikarim/os/pull/59) on [abdounikarim/os](https://github.com/abdounikarim/os) (today)
+- [Create CLAUDE.md](https://github.com/abdounikarim/os/pull/59) on [abdounikarim/os](https://github.com/abdounikarim/os) (1 day ago)
 - [Upgrade to Angular 22](https://github.com/ProofOfConceptFactory/poc-angular/pull/211) on [ProofOfConceptFactory/poc-angular](https://github.com/ProofOfConceptFactory/poc-angular) (1 month ago)
 - [Upgrade to Angular 21](https://github.com/ProofOfConceptFactory/poc-angular/pull/210) on [ProofOfConceptFactory/poc-angular](https://github.com/ProofOfConceptFactory/poc-angular) (1 month ago)
 - [TypeScript - downgrade to 5.9.0](https://github.com/ProofOfConceptFactory/poc-angular/pull/208) on [ProofOfConceptFactory/poc-angular](https://github.com/ProofOfConceptFactory/poc-angular) (1 month ago)
@@ -50,15 +50,15 @@
 
 #### 📓 Gists I wrote
 
-- [](https://gist.github.com/84e8b7722ddd879a7a6be33f8bca64da) (today)
-- [](https://gist.github.com/f25565cfbf91c7817d4010adc9d3dd54) (today)
+- [](https://gist.github.com/84e8b7722ddd879a7a6be33f8bca64da) (1 day ago)
+- [](https://gist.github.com/f25565cfbf91c7817d4010adc9d3dd54) (1 day ago)
 - [Handle your Symfony assets without WebpackEncoreBundle, ViteBundle or AssetMapper](https://gist.github.com/7c0177c7a71b1e6585183e320034e4dd) (2 years ago)
 - [Hello from Symfony](https://gist.github.com/d6b3e49ead0d8e0a4041c06fcc689307) (2 years ago)
 - [](https://gist.github.com/b237278802559acb0bcf1e2516ba718e) (5 years ago)
 
 #### ⭐ Recent Stars
 
-- [reactive-resume/reactive-resume](https://github.com/reactive-resume/reactive-resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today! (today)
+- [reactive-resume/reactive-resume](https://github.com/reactive-resume/reactive-resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today! (1 day ago)
 - [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac. Free open-source CLI, plus a native Mac app. (8 months ago)
 - [php/frankenphp](https://github.com/php/frankenphp) - 🧟 The modern PHP app server (1 year ago)
 - [abdounikarim/nahos](https://github.com/abdounikarim/nahos) -  (2 years ago)
