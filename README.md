@@ -6,29 +6,29 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [abdounikarim/resume](https://github.com/abdounikarim/resume) -  (today)
+- [abdounikarim/resume-content-demo](https://github.com/abdounikarim/resume-content-demo) -  (today)
 - [abdounikarim/22003-doctrine-numeric-value-reproducer](https://github.com/abdounikarim/22003-doctrine-numeric-value-reproducer) -  (1 month ago)
-- [ProofOfConceptFactory/poc-symfony-doctrine-mysql](https://github.com/ProofOfConceptFactory/poc-symfony-doctrine-mysql) -  (1 month ago)
-- [ProofOfConceptFactory/poc-symfony-doctrine-mariadb](https://github.com/ProofOfConceptFactory/poc-symfony-doctrine-mariadb) -  (1 month ago)
-- [ProofOfConceptFactory/poc-nestjs](https://github.com/ProofOfConceptFactory/poc-nestjs) -  (1 month ago)
 - [ProofOfConceptFactory/poc-nuxt](https://github.com/ProofOfConceptFactory/poc-nuxt) - Hello from Nuxt!👋 application  (1 month ago)
 - [ProofOfConceptFactory/poc-symfony-doctrine-postgresql](https://github.com/ProofOfConceptFactory/poc-symfony-doctrine-postgresql) -  (1 month ago)
 - [ProofOfConceptFactory/poc-next-js](https://github.com/ProofOfConceptFactory/poc-next-js) -  (1 month ago)
+- [ProofOfConceptFactory/poc-symfony-doctrine-mysql](https://github.com/ProofOfConceptFactory/poc-symfony-doctrine-mysql) -  (1 month ago)
+- [ProofOfConceptFactory/poc-symfony-doctrine-mariadb](https://github.com/ProofOfConceptFactory/poc-symfony-doctrine-mariadb) -  (1 month ago)
+- [ProofOfConceptFactory/poc-nestjs](https://github.com/ProofOfConceptFactory/poc-nestjs) -  (1 month ago)
 - [ProofOfConceptFactory/poc-angular](https://github.com/ProofOfConceptFactory/poc-angular) -  (1 month ago)
-- [abdounikarim/os](https://github.com/abdounikarim/os) -  (2 months ago)
-- [abdounikarim/velib](https://github.com/abdounikarim/velib) -  (2 months ago)
 
 #### 🌱 My latest projects
 
+- [abdounikarim/resume](https://github.com/abdounikarim/resume) - 
+- [abdounikarim/resume-content-demo](https://github.com/abdounikarim/resume-content-demo) - 
 - [abdounikarim/22003-doctrine-numeric-value-reproducer](https://github.com/abdounikarim/22003-doctrine-numeric-value-reproducer) - 
 - [abdounikarim/multi-update-fixtures](https://github.com/abdounikarim/multi-update-fixtures) - Repository for multi update fixtures
 - [abdounikarim/empty](https://github.com/abdounikarim/empty) - 
 - [abdounikarim/nuxt-full-demo](https://github.com/abdounikarim/nuxt-full-demo) - 
 - [abdounikarim/symfony-create-project-kernel-missing](https://github.com/abdounikarim/symfony-create-project-kernel-missing) - 
 - [abdounikarim/php-js-boilerplate](https://github.com/abdounikarim/php-js-boilerplate) - 
-- [abdounikarim/resume](https://github.com/abdounikarim/resume) - 
 - [abdounikarim/demo-ansible](https://github.com/abdounikarim/demo-ansible) - 
 - [abdounikarim/lorem-ipsum-bundle](https://github.com/abdounikarim/lorem-ipsum-bundle) - 
-- [abdounikarim/cmi](https://github.com/abdounikarim/cmi) - 
 
 #### 🔭 Latest releases I've contributed to
 
