@@ -37,16 +37,16 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Create CLAUDE.md](https://github.com/abdounikarim/os/pull/59) on [abdounikarim/os](https://github.com/abdounikarim/os) (1 week ago)
-- [Upgrade to Angular 22](https://github.com/ProofOfConceptFactory/poc-angular/pull/211) on [ProofOfConceptFactory/poc-angular](https://github.com/ProofOfConceptFactory/poc-angular) (2 months ago)
-- [Upgrade to Angular 21](https://github.com/ProofOfConceptFactory/poc-angular/pull/210) on [ProofOfConceptFactory/poc-angular](https://github.com/ProofOfConceptFactory/poc-angular) (2 months ago)
-- [TypeScript - downgrade to 5.9.0](https://github.com/ProofOfConceptFactory/poc-angular/pull/208) on [ProofOfConceptFactory/poc-angular](https://github.com/ProofOfConceptFactory/poc-angular) (2 months ago)
-- [Github Actions - Update requirements for testing command](https://github.com/ProofOfConceptFactory/poc-angular/pull/204) on [ProofOfConceptFactory/poc-angular](https://github.com/ProofOfConceptFactory/poc-angular) (2 months ago)
-- [Move all package installation and configuration to Ansible](https://github.com/abdounikarim/os/pull/58) on [abdounikarim/os](https://github.com/abdounikarim/os) (2 months ago)
-- [Remove git-delta pager and its Homebrew install](https://github.com/abdounikarim/os/pull/57) on [abdounikarim/os](https://github.com/abdounikarim/os) (2 months ago)
-- [Install zsh-autosuggestions, zsh-vi-mode and fast-syntax-highlighting…](https://github.com/abdounikarim/os/pull/56) on [abdounikarim/os](https://github.com/abdounikarim/os) (2 months ago)
-- [Create renovate.json file](https://github.com/abdounikarim/os/pull/55) on [abdounikarim/os](https://github.com/abdounikarim/os) (2 months ago)
-- [Add bats-core to the common package](https://github.com/abdounikarim/os/pull/54) on [abdounikarim/os](https://github.com/abdounikarim/os) (2 months ago)
+- [Migrate ESLint to flat config and fix broken airbnb-base dependency](https://github.com/abdounikarim/linkedin-to-jsonresume/pull/15) on [abdounikarim/linkedin-to-jsonresume](https://github.com/abdounikarim/linkedin-to-jsonresume) (today)
+- [Add cross-browser (Firefox/Edge) WebExtension support](https://github.com/abdounikarim/linkedin-to-jsonresume/pull/14) on [abdounikarim/linkedin-to-jsonresume](https://github.com/abdounikarim/linkedin-to-jsonresume) (today)
+- [Add in-app resume preview render to export modal](https://github.com/abdounikarim/linkedin-to-jsonresume/pull/13) on [abdounikarim/linkedin-to-jsonresume](https://github.com/abdounikarim/linkedin-to-jsonresume) (today)
+- [Improve parse-failure error messages and add failure tracking](https://github.com/abdounikarim/linkedin-to-jsonresume/pull/12) on [abdounikarim/linkedin-to-jsonresume](https://github.com/abdounikarim/linkedin-to-jsonresume) (today)
+- [Add unit tests for utilities.js and the LI schema DB engine](https://github.com/abdounikarim/linkedin-to-jsonresume/pull/11) on [abdounikarim/linkedin-to-jsonresume](https://github.com/abdounikarim/linkedin-to-jsonresume) (today)
+- [Add section-exclusion checklist to export modal](https://github.com/abdounikarim/linkedin-to-jsonresume/pull/10) on [abdounikarim/linkedin-to-jsonresume](https://github.com/abdounikarim/linkedin-to-jsonresume) (today)
+- [Fix unreliable portfolio-URL guessing heuristic](https://github.com/abdounikarim/linkedin-to-jsonresume/pull/9) on [abdounikarim/linkedin-to-jsonresume](https://github.com/abdounikarim/linkedin-to-jsonresume) (today)
+- [Migrate Chrome extension to Manifest V3](https://github.com/abdounikarim/linkedin-to-jsonresume/pull/8) on [abdounikarim/linkedin-to-jsonresume](https://github.com/abdounikarim/linkedin-to-jsonresume) (today)
+- [Surface parse-failure warnings in the export modal](https://github.com/abdounikarim/linkedin-to-jsonresume/pull/7) on [abdounikarim/linkedin-to-jsonresume](https://github.com/abdounikarim/linkedin-to-jsonresume) (today)
+- [Add optional anonymous GitHub Gist export](https://github.com/abdounikarim/linkedin-to-jsonresume/pull/6) on [abdounikarim/linkedin-to-jsonresume](https://github.com/abdounikarim/linkedin-to-jsonresume) (today)
 
 #### 📓 Gists I wrote
 
