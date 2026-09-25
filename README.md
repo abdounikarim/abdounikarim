@@ -6,16 +6,16 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [abdounikarim/symfony-book](https://github.com/abdounikarim/symfony-book) - Symfony Book - The fast track (today)
 - [abdounikarim/resume](https://github.com/abdounikarim/resume) -  (4 days ago)
 - [abdounikarim/resume-content-demo](https://github.com/abdounikarim/resume-content-demo) -  (5 days ago)
 - [abdounikarim/22003-doctrine-numeric-value-reproducer](https://github.com/abdounikarim/22003-doctrine-numeric-value-reproducer) -  (1 month ago)
-- [ProofOfConceptFactory/poc-nuxt](https://github.com/ProofOfConceptFactory/poc-nuxt) - Hello from Nuxt!👋 application  (2 months ago)
-- [ProofOfConceptFactory/poc-symfony-doctrine-postgresql](https://github.com/ProofOfConceptFactory/poc-symfony-doctrine-postgresql) -  (2 months ago)
-- [ProofOfConceptFactory/poc-next-js](https://github.com/ProofOfConceptFactory/poc-next-js) -  (2 months ago)
-- [ProofOfConceptFactory/poc-symfony-doctrine-mysql](https://github.com/ProofOfConceptFactory/poc-symfony-doctrine-mysql) -  (2 months ago)
-- [ProofOfConceptFactory/poc-symfony-doctrine-mariadb](https://github.com/ProofOfConceptFactory/poc-symfony-doctrine-mariadb) -  (2 months ago)
 - [ProofOfConceptFactory/poc-nestjs](https://github.com/ProofOfConceptFactory/poc-nestjs) -  (2 months ago)
-- [ProofOfConceptFactory/poc-angular](https://github.com/ProofOfConceptFactory/poc-angular) -  (2 months ago)
+- [ProofOfConceptFactory/poc-symfony-doctrine-postgresql](https://github.com/ProofOfConceptFactory/poc-symfony-doctrine-postgresql) -  (2 months ago)
+- [ProofOfConceptFactory/poc-symfony-doctrine-mysql](https://github.com/ProofOfConceptFactory/poc-symfony-doctrine-mysql) -  (2 months ago)
+- [ProofOfConceptFactory/poc-nuxt](https://github.com/ProofOfConceptFactory/poc-nuxt) - Hello from Nuxt!👋 application  (2 months ago)
+- [ProofOfConceptFactory/poc-symfony-doctrine-mariadb](https://github.com/ProofOfConceptFactory/poc-symfony-doctrine-mariadb) -  (2 months ago)
+- [ProofOfConceptFactory/poc-next-js](https://github.com/ProofOfConceptFactory/poc-next-js) -  (2 months ago)
 
 #### 🌱 My latest projects
 
@@ -37,6 +37,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix CI lint and type-check failures on main](https://github.com/abdounikarim/linkedin-to-jsonresume/pull/16) on [abdounikarim/linkedin-to-jsonresume](https://github.com/abdounikarim/linkedin-to-jsonresume) (today)
 - [Migrate ESLint to flat config and fix broken airbnb-base dependency](https://github.com/abdounikarim/linkedin-to-jsonresume/pull/15) on [abdounikarim/linkedin-to-jsonresume](https://github.com/abdounikarim/linkedin-to-jsonresume) (today)
 - [Add cross-browser (Firefox/Edge) WebExtension support](https://github.com/abdounikarim/linkedin-to-jsonresume/pull/14) on [abdounikarim/linkedin-to-jsonresume](https://github.com/abdounikarim/linkedin-to-jsonresume) (today)
 - [Add in-app resume preview render to export modal](https://github.com/abdounikarim/linkedin-to-jsonresume/pull/13) on [abdounikarim/linkedin-to-jsonresume](https://github.com/abdounikarim/linkedin-to-jsonresume) (today)
@@ -46,7 +47,6 @@
 - [Fix unreliable portfolio-URL guessing heuristic](https://github.com/abdounikarim/linkedin-to-jsonresume/pull/9) on [abdounikarim/linkedin-to-jsonresume](https://github.com/abdounikarim/linkedin-to-jsonresume) (today)
 - [Migrate Chrome extension to Manifest V3](https://github.com/abdounikarim/linkedin-to-jsonresume/pull/8) on [abdounikarim/linkedin-to-jsonresume](https://github.com/abdounikarim/linkedin-to-jsonresume) (today)
 - [Surface parse-failure warnings in the export modal](https://github.com/abdounikarim/linkedin-to-jsonresume/pull/7) on [abdounikarim/linkedin-to-jsonresume](https://github.com/abdounikarim/linkedin-to-jsonresume) (today)
-- [Add optional anonymous GitHub Gist export](https://github.com/abdounikarim/linkedin-to-jsonresume/pull/6) on [abdounikarim/linkedin-to-jsonresume](https://github.com/abdounikarim/linkedin-to-jsonresume) (today)
 
 #### 📓 Gists I wrote
 
