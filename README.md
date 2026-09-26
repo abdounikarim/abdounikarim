@@ -19,6 +19,7 @@
 
 #### 🌱 My latest projects
 
+- [abdounikarim/learning-symfony-docs](https://github.com/abdounikarim/learning-symfony-docs) - The Symfony Documentation!
 - [abdounikarim/resume](https://github.com/abdounikarim/resume) - 
 - [abdounikarim/resume-content-demo](https://github.com/abdounikarim/resume-content-demo) - 
 - [abdounikarim/22003-doctrine-numeric-value-reproducer](https://github.com/abdounikarim/22003-doctrine-numeric-value-reproducer) - 
@@ -28,7 +29,6 @@
 - [abdounikarim/symfony-create-project-kernel-missing](https://github.com/abdounikarim/symfony-create-project-kernel-missing) - 
 - [abdounikarim/php-js-boilerplate](https://github.com/abdounikarim/php-js-boilerplate) - 
 - [abdounikarim/demo-ansible](https://github.com/abdounikarim/demo-ansible) - 
-- [abdounikarim/lorem-ipsum-bundle](https://github.com/abdounikarim/lorem-ipsum-bundle) - 
 
 #### 🔭 Latest releases I've contributed to
 
