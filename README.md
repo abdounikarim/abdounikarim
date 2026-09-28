@@ -6,9 +6,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [abdounikarim/learning-symfony-docs](https://github.com/abdounikarim/learning-symfony-docs) - The Symfony Documentation! (today)
-- [abdounikarim/symfony-book](https://github.com/abdounikarim/symfony-book) - Symfony Book - The fast track (1 day ago)
-- [abdounikarim/resume](https://github.com/abdounikarim/resume) -  (6 days ago)
+- [abdounikarim/learning-symfony-docs](https://github.com/abdounikarim/learning-symfony-docs) - The Symfony Documentation! (1 day ago)
+- [abdounikarim/symfony-book](https://github.com/abdounikarim/symfony-book) - Symfony Book - The fast track (2 days ago)
+- [abdounikarim/resume](https://github.com/abdounikarim/resume) -  (1 week ago)
 - [abdounikarim/resume-content-demo](https://github.com/abdounikarim/resume-content-demo) -  (1 week ago)
 - [abdounikarim/22003-doctrine-numeric-value-reproducer](https://github.com/abdounikarim/22003-doctrine-numeric-value-reproducer) -  (1 month ago)
 - [ProofOfConceptFactory/poc-nestjs](https://github.com/ProofOfConceptFactory/poc-nestjs) -  (2 months ago)
@@ -32,33 +32,33 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [laravel/sail](https://github.com/laravel/sail) ([v1.68.0](https://github.com/laravel/sail/releases/tag/v1.68.0), 5 days ago) - Docker files for running a basic Laravel application.
+- [laravel/sail](https://github.com/laravel/sail) ([v1.68.0](https://github.com/laravel/sail/releases/tag/v1.68.0), 6 days ago) - Docker files for running a basic Laravel application.
 - [symfony/symfony](https://github.com/symfony/symfony) ([v8.1.7](https://github.com/symfony/symfony/releases/tag/v8.1.7), 1 week ago) - The Symfony PHP framework
 
 #### 🔨 My recent Pull Requests
 
-- [Fix CI lint and type-check failures on main](https://github.com/abdounikarim/linkedin-to-jsonresume/pull/16) on [abdounikarim/linkedin-to-jsonresume](https://github.com/abdounikarim/linkedin-to-jsonresume) (2 days ago)
-- [Migrate ESLint to flat config and fix broken airbnb-base dependency](https://github.com/abdounikarim/linkedin-to-jsonresume/pull/15) on [abdounikarim/linkedin-to-jsonresume](https://github.com/abdounikarim/linkedin-to-jsonresume) (2 days ago)
-- [Add cross-browser (Firefox/Edge) WebExtension support](https://github.com/abdounikarim/linkedin-to-jsonresume/pull/14) on [abdounikarim/linkedin-to-jsonresume](https://github.com/abdounikarim/linkedin-to-jsonresume) (2 days ago)
-- [Add in-app resume preview render to export modal](https://github.com/abdounikarim/linkedin-to-jsonresume/pull/13) on [abdounikarim/linkedin-to-jsonresume](https://github.com/abdounikarim/linkedin-to-jsonresume) (2 days ago)
-- [Improve parse-failure error messages and add failure tracking](https://github.com/abdounikarim/linkedin-to-jsonresume/pull/12) on [abdounikarim/linkedin-to-jsonresume](https://github.com/abdounikarim/linkedin-to-jsonresume) (2 days ago)
-- [Add unit tests for utilities.js and the LI schema DB engine](https://github.com/abdounikarim/linkedin-to-jsonresume/pull/11) on [abdounikarim/linkedin-to-jsonresume](https://github.com/abdounikarim/linkedin-to-jsonresume) (2 days ago)
-- [Add section-exclusion checklist to export modal](https://github.com/abdounikarim/linkedin-to-jsonresume/pull/10) on [abdounikarim/linkedin-to-jsonresume](https://github.com/abdounikarim/linkedin-to-jsonresume) (2 days ago)
-- [Fix unreliable portfolio-URL guessing heuristic](https://github.com/abdounikarim/linkedin-to-jsonresume/pull/9) on [abdounikarim/linkedin-to-jsonresume](https://github.com/abdounikarim/linkedin-to-jsonresume) (2 days ago)
-- [Migrate Chrome extension to Manifest V3](https://github.com/abdounikarim/linkedin-to-jsonresume/pull/8) on [abdounikarim/linkedin-to-jsonresume](https://github.com/abdounikarim/linkedin-to-jsonresume) (2 days ago)
-- [Surface parse-failure warnings in the export modal](https://github.com/abdounikarim/linkedin-to-jsonresume/pull/7) on [abdounikarim/linkedin-to-jsonresume](https://github.com/abdounikarim/linkedin-to-jsonresume) (2 days ago)
+- [Fix CI lint and type-check failures on main](https://github.com/abdounikarim/linkedin-to-jsonresume/pull/16) on [abdounikarim/linkedin-to-jsonresume](https://github.com/abdounikarim/linkedin-to-jsonresume) (3 days ago)
+- [Migrate ESLint to flat config and fix broken airbnb-base dependency](https://github.com/abdounikarim/linkedin-to-jsonresume/pull/15) on [abdounikarim/linkedin-to-jsonresume](https://github.com/abdounikarim/linkedin-to-jsonresume) (3 days ago)
+- [Add cross-browser (Firefox/Edge) WebExtension support](https://github.com/abdounikarim/linkedin-to-jsonresume/pull/14) on [abdounikarim/linkedin-to-jsonresume](https://github.com/abdounikarim/linkedin-to-jsonresume) (3 days ago)
+- [Add in-app resume preview render to export modal](https://github.com/abdounikarim/linkedin-to-jsonresume/pull/13) on [abdounikarim/linkedin-to-jsonresume](https://github.com/abdounikarim/linkedin-to-jsonresume) (3 days ago)
+- [Improve parse-failure error messages and add failure tracking](https://github.com/abdounikarim/linkedin-to-jsonresume/pull/12) on [abdounikarim/linkedin-to-jsonresume](https://github.com/abdounikarim/linkedin-to-jsonresume) (3 days ago)
+- [Add unit tests for utilities.js and the LI schema DB engine](https://github.com/abdounikarim/linkedin-to-jsonresume/pull/11) on [abdounikarim/linkedin-to-jsonresume](https://github.com/abdounikarim/linkedin-to-jsonresume) (3 days ago)
+- [Add section-exclusion checklist to export modal](https://github.com/abdounikarim/linkedin-to-jsonresume/pull/10) on [abdounikarim/linkedin-to-jsonresume](https://github.com/abdounikarim/linkedin-to-jsonresume) (3 days ago)
+- [Fix unreliable portfolio-URL guessing heuristic](https://github.com/abdounikarim/linkedin-to-jsonresume/pull/9) on [abdounikarim/linkedin-to-jsonresume](https://github.com/abdounikarim/linkedin-to-jsonresume) (3 days ago)
+- [Migrate Chrome extension to Manifest V3](https://github.com/abdounikarim/linkedin-to-jsonresume/pull/8) on [abdounikarim/linkedin-to-jsonresume](https://github.com/abdounikarim/linkedin-to-jsonresume) (3 days ago)
+- [Surface parse-failure warnings in the export modal](https://github.com/abdounikarim/linkedin-to-jsonresume/pull/7) on [abdounikarim/linkedin-to-jsonresume](https://github.com/abdounikarim/linkedin-to-jsonresume) (3 days ago)
 
 #### 📓 Gists I wrote
 
-- [](https://gist.github.com/84e8b7722ddd879a7a6be33f8bca64da) (1 week ago)
-- [](https://gist.github.com/f25565cfbf91c7817d4010adc9d3dd54) (1 week ago)
+- [](https://gist.github.com/84e8b7722ddd879a7a6be33f8bca64da) (2 weeks ago)
+- [](https://gist.github.com/f25565cfbf91c7817d4010adc9d3dd54) (2 weeks ago)
 - [Handle your Symfony assets without WebpackEncoreBundle, ViteBundle or AssetMapper](https://gist.github.com/7c0177c7a71b1e6585183e320034e4dd) (2 years ago)
 - [Hello from Symfony](https://gist.github.com/d6b3e49ead0d8e0a4041c06fcc689307) (2 years ago)
 - [](https://gist.github.com/b237278802559acb0bcf1e2516ba718e) (5 years ago)
 
 #### ⭐ Recent Stars
 
-- [reactive-resume/reactive-resume](https://github.com/reactive-resume/reactive-resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today! (1 week ago)
+- [reactive-resume/reactive-resume](https://github.com/reactive-resume/reactive-resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today! (2 weeks ago)
 - [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac. Free open-source CLI, plus a native Mac app. (9 months ago)
 - [php/frankenphp](https://github.com/php/frankenphp) - 🧟 The modern PHP app server (1 year ago)
 - [abdounikarim/nahos](https://github.com/abdounikarim/nahos) -  (2 years ago)
