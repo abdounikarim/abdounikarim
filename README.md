@@ -6,16 +6,16 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [abdounikarim/learning-symfony-docs](https://github.com/abdounikarim/learning-symfony-docs) - The Symfony Documentation! (1 day ago)
+- [abdounikarim/learning-symfony-docs](https://github.com/abdounikarim/learning-symfony-docs) - The Symfony Documentation! (today)
 - [abdounikarim/symfony-book](https://github.com/abdounikarim/symfony-book) - Symfony Book - The fast track (3 days ago)
 - [abdounikarim/resume](https://github.com/abdounikarim/resume) -  (1 week ago)
 - [abdounikarim/resume-content-demo](https://github.com/abdounikarim/resume-content-demo) -  (1 week ago)
 - [abdounikarim/22003-doctrine-numeric-value-reproducer](https://github.com/abdounikarim/22003-doctrine-numeric-value-reproducer) -  (1 month ago)
 - [ProofOfConceptFactory/poc-next-js](https://github.com/ProofOfConceptFactory/poc-next-js) -  (2 months ago)
 - [ProofOfConceptFactory/poc-symfony-doctrine-postgresql](https://github.com/ProofOfConceptFactory/poc-symfony-doctrine-postgresql) -  (2 months ago)
-- [ProofOfConceptFactory/poc-nuxt](https://github.com/ProofOfConceptFactory/poc-nuxt) - Hello from Nuxt!👋 application  (2 months ago)
 - [ProofOfConceptFactory/poc-symfony-doctrine-mysql](https://github.com/ProofOfConceptFactory/poc-symfony-doctrine-mysql) -  (2 months ago)
 - [ProofOfConceptFactory/poc-symfony-doctrine-mariadb](https://github.com/ProofOfConceptFactory/poc-symfony-doctrine-mariadb) -  (2 months ago)
+- [ProofOfConceptFactory/poc-nestjs](https://github.com/ProofOfConceptFactory/poc-nestjs) -  (2 months ago)
 
 #### 🌱 My latest projects
 
@@ -37,6 +37,10 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Move note-adding into a modal, opened from a floating button](https://github.com/abdounikarim/learning-symfony-docs/pull/4) on [abdounikarim/learning-symfony-docs](https://github.com/abdounikarim/learning-symfony-docs) (today)
+- [Simplify page nav menu: drop previous/next, fix read/unread toggle](https://github.com/abdounikarim/learning-symfony-docs/pull/3) on [abdounikarim/learning-symfony-docs](https://github.com/abdounikarim/learning-symfony-docs) (today)
+- [Add PWA support: installable manifest, offline service worker](https://github.com/abdounikarim/learning-symfony-docs/pull/2) on [abdounikarim/learning-symfony-docs](https://github.com/abdounikarim/learning-symfony-docs) (today)
+- [Show each link&#39;s target-page read/total internal-link counts](https://github.com/abdounikarim/learning-symfony-docs/pull/1) on [abdounikarim/learning-symfony-docs](https://github.com/abdounikarim/learning-symfony-docs) (today)
 
 #### 📓 Gists I wrote
 
