@@ -6,8 +6,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [abdounikarim/learning-symfony-docs](https://github.com/abdounikarim/learning-symfony-docs) - The Symfony Documentation! (1 day ago)
-- [abdounikarim/symfony-book](https://github.com/abdounikarim/symfony-book) - Symfony Book - The fast track (4 days ago)
+- [abdounikarim/learning-symfony-docs](https://github.com/abdounikarim/learning-symfony-docs) - The Symfony Documentation! (2 days ago)
+- [abdounikarim/symfony-book](https://github.com/abdounikarim/symfony-book) - Symfony Book - The fast track (5 days ago)
 - [abdounikarim/resume](https://github.com/abdounikarim/resume) -  (1 week ago)
 - [abdounikarim/resume-content-demo](https://github.com/abdounikarim/resume-content-demo) -  (1 week ago)
 - [abdounikarim/22003-doctrine-numeric-value-reproducer](https://github.com/abdounikarim/22003-doctrine-numeric-value-reproducer) -  (1 month ago)
@@ -32,15 +32,15 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v8.1.8](https://github.com/symfony/symfony/releases/tag/v8.1.8), 1 day ago) - The Symfony PHP framework
+- [symfony/symfony](https://github.com/symfony/symfony) ([v8.1.8](https://github.com/symfony/symfony/releases/tag/v8.1.8), 2 days ago) - The Symfony PHP framework
 - [laravel/sail](https://github.com/laravel/sail) ([v1.68.0](https://github.com/laravel/sail/releases/tag/v1.68.0), 1 week ago) - Docker files for running a basic Laravel application.
 
 #### 🔨 My recent Pull Requests
 
-- [Move note-adding into a modal, opened from a floating button](https://github.com/abdounikarim/learning-symfony-docs/pull/4) on [abdounikarim/learning-symfony-docs](https://github.com/abdounikarim/learning-symfony-docs) (1 day ago)
-- [Simplify page nav menu: drop previous/next, fix read/unread toggle](https://github.com/abdounikarim/learning-symfony-docs/pull/3) on [abdounikarim/learning-symfony-docs](https://github.com/abdounikarim/learning-symfony-docs) (1 day ago)
-- [Add PWA support: installable manifest, offline service worker](https://github.com/abdounikarim/learning-symfony-docs/pull/2) on [abdounikarim/learning-symfony-docs](https://github.com/abdounikarim/learning-symfony-docs) (1 day ago)
-- [Show each link&#39;s target-page read/total internal-link counts](https://github.com/abdounikarim/learning-symfony-docs/pull/1) on [abdounikarim/learning-symfony-docs](https://github.com/abdounikarim/learning-symfony-docs) (1 day ago)
+- [Move note-adding into a modal, opened from a floating button](https://github.com/abdounikarim/learning-symfony-docs/pull/4) on [abdounikarim/learning-symfony-docs](https://github.com/abdounikarim/learning-symfony-docs) (2 days ago)
+- [Simplify page nav menu: drop previous/next, fix read/unread toggle](https://github.com/abdounikarim/learning-symfony-docs/pull/3) on [abdounikarim/learning-symfony-docs](https://github.com/abdounikarim/learning-symfony-docs) (2 days ago)
+- [Add PWA support: installable manifest, offline service worker](https://github.com/abdounikarim/learning-symfony-docs/pull/2) on [abdounikarim/learning-symfony-docs](https://github.com/abdounikarim/learning-symfony-docs) (2 days ago)
+- [Show each link&#39;s target-page read/total internal-link counts](https://github.com/abdounikarim/learning-symfony-docs/pull/1) on [abdounikarim/learning-symfony-docs](https://github.com/abdounikarim/learning-symfony-docs) (2 days ago)
 
 #### 📓 Gists I wrote
 
