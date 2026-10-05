@@ -6,9 +6,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [abdounikarim/learning-symfony-docs](https://github.com/abdounikarim/learning-symfony-docs) - The Symfony Documentation! (5 days ago)
+- [abdounikarim/learning-symfony-docs](https://github.com/abdounikarim/learning-symfony-docs) - The Symfony Documentation! (6 days ago)
 - [abdounikarim/symfony-book](https://github.com/abdounikarim/symfony-book) - Symfony Book - The fast track (1 week ago)
-- [abdounikarim/resume](https://github.com/abdounikarim/resume) -  (1 week ago)
+- [abdounikarim/resume](https://github.com/abdounikarim/resume) -  (2 weeks ago)
 - [abdounikarim/resume-content-demo](https://github.com/abdounikarim/resume-content-demo) -  (2 weeks ago)
 - [abdounikarim/22003-doctrine-numeric-value-reproducer](https://github.com/abdounikarim/22003-doctrine-numeric-value-reproducer) -  (2 months ago)
 - [ProofOfConceptFactory/poc-next-js](https://github.com/ProofOfConceptFactory/poc-next-js) -  (2 months ago)
@@ -32,27 +32,27 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v8.1.8](https://github.com/symfony/symfony/releases/tag/v8.1.8), 5 days ago) - The Symfony PHP framework
+- [symfony/symfony](https://github.com/symfony/symfony) ([v8.1.8](https://github.com/symfony/symfony/releases/tag/v8.1.8), 6 days ago) - The Symfony PHP framework
 - [laravel/sail](https://github.com/laravel/sail) ([v1.68.0](https://github.com/laravel/sail/releases/tag/v1.68.0), 1 week ago) - Docker files for running a basic Laravel application.
 
 #### 🔨 My recent Pull Requests
 
-- [Move note-adding into a modal, opened from a floating button](https://github.com/abdounikarim/learning-symfony-docs/pull/4) on [abdounikarim/learning-symfony-docs](https://github.com/abdounikarim/learning-symfony-docs) (5 days ago)
-- [Simplify page nav menu: drop previous/next, fix read/unread toggle](https://github.com/abdounikarim/learning-symfony-docs/pull/3) on [abdounikarim/learning-symfony-docs](https://github.com/abdounikarim/learning-symfony-docs) (5 days ago)
-- [Add PWA support: installable manifest, offline service worker](https://github.com/abdounikarim/learning-symfony-docs/pull/2) on [abdounikarim/learning-symfony-docs](https://github.com/abdounikarim/learning-symfony-docs) (5 days ago)
-- [Show each link&#39;s target-page read/total internal-link counts](https://github.com/abdounikarim/learning-symfony-docs/pull/1) on [abdounikarim/learning-symfony-docs](https://github.com/abdounikarim/learning-symfony-docs) (5 days ago)
+- [Move note-adding into a modal, opened from a floating button](https://github.com/abdounikarim/learning-symfony-docs/pull/4) on [abdounikarim/learning-symfony-docs](https://github.com/abdounikarim/learning-symfony-docs) (6 days ago)
+- [Simplify page nav menu: drop previous/next, fix read/unread toggle](https://github.com/abdounikarim/learning-symfony-docs/pull/3) on [abdounikarim/learning-symfony-docs](https://github.com/abdounikarim/learning-symfony-docs) (6 days ago)
+- [Add PWA support: installable manifest, offline service worker](https://github.com/abdounikarim/learning-symfony-docs/pull/2) on [abdounikarim/learning-symfony-docs](https://github.com/abdounikarim/learning-symfony-docs) (6 days ago)
+- [Show each link&#39;s target-page read/total internal-link counts](https://github.com/abdounikarim/learning-symfony-docs/pull/1) on [abdounikarim/learning-symfony-docs](https://github.com/abdounikarim/learning-symfony-docs) (6 days ago)
 
 #### 📓 Gists I wrote
 
-- [](https://gist.github.com/84e8b7722ddd879a7a6be33f8bca64da) (2 weeks ago)
-- [](https://gist.github.com/f25565cfbf91c7817d4010adc9d3dd54) (2 weeks ago)
+- [](https://gist.github.com/84e8b7722ddd879a7a6be33f8bca64da) (3 weeks ago)
+- [](https://gist.github.com/f25565cfbf91c7817d4010adc9d3dd54) (3 weeks ago)
 - [Handle your Symfony assets without WebpackEncoreBundle, ViteBundle or AssetMapper](https://gist.github.com/7c0177c7a71b1e6585183e320034e4dd) (2 years ago)
 - [Hello from Symfony](https://gist.github.com/d6b3e49ead0d8e0a4041c06fcc689307) (2 years ago)
 - [](https://gist.github.com/b237278802559acb0bcf1e2516ba718e) (5 years ago)
 
 #### ⭐ Recent Stars
 
-- [reactive-resume/reactive-resume](https://github.com/reactive-resume/reactive-resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today! (2 weeks ago)
+- [reactive-resume/reactive-resume](https://github.com/reactive-resume/reactive-resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today! (3 weeks ago)
 - [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac. Free open-source CLI, plus a native Mac app. (9 months ago)
 - [php/frankenphp](https://github.com/php/frankenphp) - 🧟 The modern PHP app server (1 year ago)
 - [abdounikarim/nahos](https://github.com/abdounikarim/nahos) -  (2 years ago)
