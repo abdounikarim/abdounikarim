@@ -37,7 +37,6 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Move note-adding into a modal, opened from a floating button](https://github.com/abdounikarim/learning-symfony-docs/pull/4) on [abdounikarim/learning-symfony-docs](https://github.com/abdounikarim/learning-symfony-docs) (1 week ago)
 
 #### 📓 Gists I wrote
 
