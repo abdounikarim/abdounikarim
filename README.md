@@ -38,9 +38,6 @@
 #### 🔨 My recent Pull Requests
 
 - [Move note-adding into a modal, opened from a floating button](https://github.com/abdounikarim/learning-symfony-docs/pull/4) on [abdounikarim/learning-symfony-docs](https://github.com/abdounikarim/learning-symfony-docs) (1 week ago)
-- [Simplify page nav menu: drop previous/next, fix read/unread toggle](https://github.com/abdounikarim/learning-symfony-docs/pull/3) on [abdounikarim/learning-symfony-docs](https://github.com/abdounikarim/learning-symfony-docs) (1 week ago)
-- [Add PWA support: installable manifest, offline service worker](https://github.com/abdounikarim/learning-symfony-docs/pull/2) on [abdounikarim/learning-symfony-docs](https://github.com/abdounikarim/learning-symfony-docs) (1 week ago)
-- [Show each link&#39;s target-page read/total internal-link counts](https://github.com/abdounikarim/learning-symfony-docs/pull/1) on [abdounikarim/learning-symfony-docs](https://github.com/abdounikarim/learning-symfony-docs) (1 week ago)
 
 #### 📓 Gists I wrote
 
