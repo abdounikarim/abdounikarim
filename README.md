@@ -8,7 +8,7 @@
 
 - [abdounikarim/learning-symfony-docs](https://github.com/abdounikarim/learning-symfony-docs) - The Symfony Documentation! (1 week ago)
 - [abdounikarim/symfony-book](https://github.com/abdounikarim/symfony-book) - Symfony Book - The fast track (2 weeks ago)
-- [abdounikarim/resume](https://github.com/abdounikarim/resume) -  (2 weeks ago)
+- [abdounikarim/resume](https://github.com/abdounikarim/resume) -  (3 weeks ago)
 - [abdounikarim/resume-content-demo](https://github.com/abdounikarim/resume-content-demo) -  (3 weeks ago)
 - [abdounikarim/22003-doctrine-numeric-value-reproducer](https://github.com/abdounikarim/22003-doctrine-numeric-value-reproducer) -  (2 months ago)
 - [ProofOfConceptFactory/poc-nestjs](https://github.com/ProofOfConceptFactory/poc-nestjs) -  (2 months ago)
@@ -40,15 +40,15 @@
 
 #### 📓 Gists I wrote
 
-- [](https://gist.github.com/84e8b7722ddd879a7a6be33f8bca64da) (3 weeks ago)
-- [](https://gist.github.com/f25565cfbf91c7817d4010adc9d3dd54) (3 weeks ago)
+- [](https://gist.github.com/84e8b7722ddd879a7a6be33f8bca64da) (4 weeks ago)
+- [](https://gist.github.com/f25565cfbf91c7817d4010adc9d3dd54) (4 weeks ago)
 - [Handle your Symfony assets without WebpackEncoreBundle, ViteBundle or AssetMapper](https://gist.github.com/7c0177c7a71b1e6585183e320034e4dd) (2 years ago)
 - [Hello from Symfony](https://gist.github.com/d6b3e49ead0d8e0a4041c06fcc689307) (2 years ago)
 - [](https://gist.github.com/b237278802559acb0bcf1e2516ba718e) (5 years ago)
 
 #### ⭐ Recent Stars
 
-- [reactive-resume/reactive-resume](https://github.com/reactive-resume/reactive-resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today! (3 weeks ago)
+- [reactive-resume/reactive-resume](https://github.com/reactive-resume/reactive-resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today! (4 weeks ago)
 - [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Keep your Mac clean, light, and running like new. Fast open-source CLI, plus a native Mac app. (9 months ago)
 - [php/frankenphp](https://github.com/php/frankenphp) - 🧟 The modern PHP app server (1 year ago)
 - [abdounikarim/nahos](https://github.com/abdounikarim/nahos) -  (2 years ago)
