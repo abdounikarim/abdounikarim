@@ -32,7 +32,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [laravel/sail](https://github.com/laravel/sail) ([v1.69.0](https://github.com/laravel/sail/releases/tag/v1.69.0), today) - Docker files for running a basic Laravel application.
+- [laravel/sail](https://github.com/laravel/sail) ([v1.69.0](https://github.com/laravel/sail/releases/tag/v1.69.0), 1 day ago) - Docker files for running a basic Laravel application.
 - [symfony/symfony](https://github.com/symfony/symfony) ([v8.1.8](https://github.com/symfony/symfony/releases/tag/v8.1.8), 2 weeks ago) - The Symfony PHP framework
 
 #### 🔨 My recent Pull Requests
@@ -40,15 +40,15 @@
 
 #### 📓 Gists I wrote
 
-- [](https://gist.github.com/84e8b7722ddd879a7a6be33f8bca64da) (4 weeks ago)
-- [](https://gist.github.com/f25565cfbf91c7817d4010adc9d3dd54) (4 weeks ago)
+- [](https://gist.github.com/84e8b7722ddd879a7a6be33f8bca64da) (1 month ago)
+- [](https://gist.github.com/f25565cfbf91c7817d4010adc9d3dd54) (1 month ago)
 - [Handle your Symfony assets without WebpackEncoreBundle, ViteBundle or AssetMapper](https://gist.github.com/7c0177c7a71b1e6585183e320034e4dd) (2 years ago)
 - [Hello from Symfony](https://gist.github.com/d6b3e49ead0d8e0a4041c06fcc689307) (2 years ago)
 - [](https://gist.github.com/b237278802559acb0bcf1e2516ba718e) (5 years ago)
 
 #### ⭐ Recent Stars
 
-- [reactive-resume/reactive-resume](https://github.com/reactive-resume/reactive-resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today! (4 weeks ago)
+- [reactive-resume/reactive-resume](https://github.com/reactive-resume/reactive-resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today! (1 month ago)
 - [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Keep your Mac clean, light, and running like new. Fast open-source CLI, plus a native Mac app. (9 months ago)
 - [php/frankenphp](https://github.com/php/frankenphp) - 🧟 The modern PHP app server (1 year ago)
 - [abdounikarim/nahos](https://github.com/abdounikarim/nahos) -  (2 years ago)
