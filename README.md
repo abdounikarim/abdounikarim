@@ -7,7 +7,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [abdounikarim/learning-symfony-docs](https://github.com/abdounikarim/learning-symfony-docs) - The Symfony Documentation! (2 weeks ago)
-- [abdounikarim/symfony-book](https://github.com/abdounikarim/symfony-book) - Symfony Book - The fast track (2 weeks ago)
+- [abdounikarim/symfony-book](https://github.com/abdounikarim/symfony-book) - Symfony Book - The fast track (3 weeks ago)
 - [abdounikarim/resume](https://github.com/abdounikarim/resume) -  (3 weeks ago)
 - [abdounikarim/resume-content-demo](https://github.com/abdounikarim/resume-content-demo) -  (3 weeks ago)
 - [abdounikarim/22003-doctrine-numeric-value-reproducer](https://github.com/abdounikarim/22003-doctrine-numeric-value-reproducer) -  (2 months ago)
@@ -32,8 +32,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v5.4.54](https://github.com/symfony/symfony/releases/tag/v5.4.54), 1 day ago) - The Symfony PHP framework
-- [laravel/sail](https://github.com/laravel/sail) ([v1.69.0](https://github.com/laravel/sail/releases/tag/v1.69.0), 3 days ago) - Docker files for running a basic Laravel application.
+- [symfony/symfony](https://github.com/symfony/symfony) ([v5.4.54](https://github.com/symfony/symfony/releases/tag/v5.4.54), 2 days ago) - The Symfony PHP framework
+- [laravel/sail](https://github.com/laravel/sail) ([v1.69.0](https://github.com/laravel/sail/releases/tag/v1.69.0), 4 days ago) - Docker files for running a basic Laravel application.
 
 #### 🔨 My recent Pull Requests
 
