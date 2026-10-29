@@ -6,7 +6,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [abdounikarim/learning-symfony-docs](https://github.com/abdounikarim/learning-symfony-docs) - The Symfony Documentation! (4 weeks ago)
+- [abdounikarim/learning-symfony-docs](https://github.com/abdounikarim/learning-symfony-docs) - The Symfony Documentation! (1 month ago)
 - [abdounikarim/symfony-book](https://github.com/abdounikarim/symfony-book) - Symfony Book - The fast track (1 month ago)
 - [abdounikarim/resume](https://github.com/abdounikarim/resume) -  (1 month ago)
 - [abdounikarim/resume-content-demo](https://github.com/abdounikarim/resume-content-demo) -  (1 month ago)
@@ -32,8 +32,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v8.1.10](https://github.com/symfony/symfony/releases/tag/v8.1.10), today) - The Symfony PHP framework
-- [laravel/sail](https://github.com/laravel/sail) ([v1.69.0](https://github.com/laravel/sail/releases/tag/v1.69.0), 2 weeks ago) - Docker files for running a basic Laravel application.
+- [symfony/symfony](https://github.com/symfony/symfony) ([v8.1.10](https://github.com/symfony/symfony/releases/tag/v8.1.10), 1 day ago) - The Symfony PHP framework
 
 #### 🔨 My recent Pull Requests
 
