@@ -6,10 +6,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [abdounikarim/os](https://github.com/abdounikarim/os) -  (today)
+- [abdounikarim/os](https://github.com/abdounikarim/os) -  (1 day ago)
 - [abdounikarim/learning-symfony-docs](https://github.com/abdounikarim/learning-symfony-docs) - The Symfony Documentation! (1 month ago)
 - [abdounikarim/symfony-book](https://github.com/abdounikarim/symfony-book) - Symfony Book - The fast track (1 month ago)
-- [abdounikarim/resume](https://github.com/abdounikarim/resume) -  (1 month ago)
+- [abdounikarim/resume](https://github.com/abdounikarim/resume) -  (2 months ago)
 - [abdounikarim/resume-content-demo](https://github.com/abdounikarim/resume-content-demo) -  (2 months ago)
 - [abdounikarim/22003-doctrine-numeric-value-reproducer](https://github.com/abdounikarim/22003-doctrine-numeric-value-reproducer) -  (3 months ago)
 - [ProofOfConceptFactory/poc-nestjs](https://github.com/ProofOfConceptFactory/poc-nestjs) -  (3 months ago)
@@ -32,7 +32,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v8.2.0-BETA2](https://github.com/symfony/symfony/releases/tag/v8.2.0-BETA2), 6 days ago) - The Symfony PHP framework
+- [symfony/symfony](https://github.com/symfony/symfony) ([v8.2.0-BETA2](https://github.com/symfony/symfony/releases/tag/v8.2.0-BETA2), 1 week ago) - The Symfony PHP framework
 
 #### 🔨 My recent Pull Requests
 
