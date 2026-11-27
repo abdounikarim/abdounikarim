@@ -32,7 +32,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v8.2.0-RC1](https://github.com/symfony/symfony/releases/tag/v8.2.0-RC1), 1 day ago) - The Symfony PHP framework
+- [symfony/symfony](https://github.com/symfony/symfony) ([v8.2.0-RC1](https://github.com/symfony/symfony/releases/tag/v8.2.0-RC1), 2 days ago) - The Symfony PHP framework
 
 #### 🔨 My recent Pull Requests
 
